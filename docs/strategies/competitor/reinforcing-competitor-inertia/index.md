@@ -1,0 +1,1 @@
+# Reinforcing competitor inertia

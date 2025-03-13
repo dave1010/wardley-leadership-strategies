@@ -1,0 +1,1 @@
+# Weak signal / horizon
