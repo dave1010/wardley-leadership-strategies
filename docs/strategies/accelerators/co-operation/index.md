@@ -6,6 +6,12 @@ It sounds straightforward, but as Wardley wryly notes, "sounds easy, actually it
 
 ## 🧠 **Explanation**
 
+### What is Co-operation
+
+### Why is Co-operation a valuable leadership strategy?
+
+### How?
+
 The origin is basic: two heads (or companies) can be better than one when tackling large challenges (market creation, standards, expensive R&D). The purpose is to achieve something you couldn't alone (or not as efficiently). Key principles: alignment of interests, clear governance, and trust. Co-operation can range from loose (co-marketing agreements, sharing research) to formal (joint venture company, standards consortium). It can **accelerate evolution** by pooling resources and knowledge -- an "accelerator" in that sense. However, culturally it requires stepping out of pure competitive mindset, which is tricky.
 
 ## 🗺️ **Real-World Examples**
@@ -30,7 +36,11 @@ Your goals and potential partners' goals fundamentally clash -- forced co-operat
 
 ## 🎯 Leadership
 
-A leader must balance control and openness. Cooperation can accelerate innovation but also risks creating dependencies or eroding unique advantages. Effective leadership in cooperation means structuring agreements that align interests while maintaining strategic flexibility.
+### Core challenge 
+
+A leader must **balance control and openness**. Cooperation can accelerate innovation but also risks creating dependencies or eroding unique advantages. Effective leadership in cooperation means structuring agreements that align interests while maintaining strategic flexibility.
+
+### Key leadership skills required
 
 fostering trust, managing alliances, setting governance rules
 
