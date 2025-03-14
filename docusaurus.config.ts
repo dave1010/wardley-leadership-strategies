@@ -67,7 +67,6 @@ const config: Config = {
           position: 'left',
           label: 'Strategies',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/dave1010/wardley-leadership-strategies',
           label: 'GitHub',
@@ -79,11 +78,11 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Strategies',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Strategies',
+              to: '/strategies',
             },
           ],
         },
@@ -107,10 +106,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/dave1010/wardley-leadership-strategies',
