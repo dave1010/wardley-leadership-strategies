@@ -32,6 +32,10 @@ TODO: draw a map? 🍋
 
 -  *Historical:* The **Sony-Ericsson** partnership (early 2000s) -- Sony had consumer electronics expertise, Ericsson had telecom infrastructure and phone tech. They co-operated to create Sony-Ericsson mobile phones, each filling gaps in the other's capabilities. This co-operation allowed them to compete in mobile phones against larger rivals (Nokia, etc.) with a combined strength neither had alone.
 
+https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh
+
+
+
 -  *Historical:* The **Bluetooth SIG (Special Interest Group)** -- an industry co-operation of many companies (Ericsson, Nokia, IBM, Intel, etc.) to develop the Bluetooth standard. Instead of fighting over wireless peripheral connectivity solutions, they co-operated to establish one standard. This expanded the market for everyone's interoperable devices and accelerated Bluetooth's evolution.
 
 -  *Hypothetical:* Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a co-operative agreement to test a combined therapy and share data. By co-operating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
