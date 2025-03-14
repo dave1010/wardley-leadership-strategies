@@ -23,7 +23,7 @@ function HomepageHeader() {
             to="/strategies">
             Explore the Strategies ♟️
           </Link>
-          &nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp; &nbsp;&nbsp;
           <Link
             className="button button--secondary button--lg"
             to="/about">

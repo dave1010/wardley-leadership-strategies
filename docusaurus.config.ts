@@ -53,7 +53,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/social-card.jpg',
+    image: 'img/social-card.png',
     navbar: {
       title: 'Wardley Leadership Strategies',
       logo: {
@@ -103,7 +103,7 @@ const config: Config = {
             },
             {
               label: 'Learn Wardley Mapping',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://learnwardleymapping.com/',
             },
             {
               label: 'Wardley Maps Book',
