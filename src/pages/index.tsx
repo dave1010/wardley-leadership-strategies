@@ -23,6 +23,12 @@ function HomepageHeader() {
             to="/strategies">
             Explore the Strategies ♟️
           </Link>
+          &nbsp;&nbsp;&nbsp;&nbsp;
+          <Link
+            className="button button--secondary button--lg"
+            to="/about">
+            About the Guide 📖
+          </Link>
         </div>
       </div>
     </header>
@@ -37,9 +43,6 @@ export default function Home(): ReactNode {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <div>
-          Wardley Mapping provides a visual way to understand business landscapes and anticipate strategic moves. With situational awareness from maps, leaders can employ various **strategic plays** (or "gameplays") suited to their context. Below, we detail 60+ known Wardley Mapping leadership strategies, grouped by theme (Offensive, Defensive, Ecosystem, etc.). Each strategy entry includes a definition, explanation, examples, guidance on usage, pitfalls, related plays, and references. The guide assumes you're familiar with Wardley Mapping concepts (e.g. value chain, evolution stages) and general business strategy.
-        </div>
         <HomepageFeatures />
       </main>
     </Layout>
