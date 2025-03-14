@@ -11,32 +11,31 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Actionable Insights, Not Just Theory',
+    Svg: require('@site/static/img/rules-icon.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Translate your Wardley Maps into concrete actions with detailed explanations and
+        real-world examples of each strategy.
+      </>),
+  },
+  {
+    title: 'Beyond the Basics: 60+ Strategies',
+    Svg: require('@site/static/img/book.svg').default,
+    description: (
+      <>
+        Explore a comprehensive library of gameplays, covering a wide range of scenarios
+        and competitive situations.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Community-Driven and Constantly Evolving',
+    Svg: require('@site/static/img/pencil-icon.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Benefit from an open resource that is continuously updated and improved
+        by a community of Wardley Mapping practitioners.
       </>
     ),
   },

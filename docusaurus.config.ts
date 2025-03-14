@@ -6,11 +6,11 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Wardley Leadership Strategies',
-  tagline: 'The Compendium of Wardley Mapping Leadership Strategies',
-  favicon: 'img/favicon.ico',
+  tagline: 'The Compendium of Wardley Mapping Leadership Gameplays and Strategies',
+  favicon: 'img/knight-cropped.jpg',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://wardley-leadership-strategies.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -53,12 +53,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/social-card.jpg',
     navbar: {
       title: 'Wardley Leadership Strategies',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Wardley Leadership Strategies',
+        src: 'img/knight-cropped.jpg',
       },
       items: [
         {
@@ -66,6 +66,10 @@ const config: Config = {
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Strategies',
+        },
+        {
+          label: 'About',
+          to: '/about',
         },
         {
           href: 'https://github.com/dave1010/wardley-leadership-strategies',
@@ -78,8 +82,12 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Strategies',
+          title: 'Wardley Leadership Strategies',
           items: [
+            {
+              label: 'About',
+              to: '/about',
+            },
             {
               label: 'Strategies',
               to: '/strategies',
@@ -87,19 +95,19 @@ const config: Config = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Wardley Mapping Resources',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Simon Wardley\'s Blog',
+              href: 'https://blog.gardeviance.org/',
             },
             {
-              label: 'Discord',
+              label: 'Learn Wardley Mapping',
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Wardley Maps Book',
+              href: 'https://medium.com/wardleymaps',
             },
           ],
         },
@@ -113,7 +121,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Dave Hulbert. CC BY-SA 4.0. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Dave Hulbert. Wardley Leadership Strategies is licenced CC BY-SA 4.0. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
