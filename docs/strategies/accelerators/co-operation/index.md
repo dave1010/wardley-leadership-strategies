@@ -1,3 +1,21 @@
+---
+title: Co-operation
+description: Working with others, even competitors, to achieve a goal.
+category: Ecosystem Strategies # Or whichever category it belongs to
+tags: [collaboration, partnerships, competition]
+ethical_alignment: Medium
+leadership_skills_needed: [Trust-Building, Negotiation, Strategic Thinking]
+related_strategies:
+  - alliances
+  - co-creation
+  - circling-and-probing
+evolution_stage: Genesis/Custom
+strategic_insight_area: Ecosystem
+when_to_use: Task is too large, risky, or slow to do alone; establishing a new standard.
+when_to_avoid: Goals fundamentally clash with partners; giving a weaker competitor undue advantage.
+core_challenge: Balancing control and openness.
+---
+
 # Co-operation
 
 **Working with others, even competitors, to achieve a goal**.
@@ -16,7 +34,7 @@ Co-operation becomes a critical strategy when facing challenges beyond a single 
 
 It creates value by:
 
-- Pooling complementary capabilities to fill gaps 
+- Pooling complementary capabilities to fill gaps
 - Distributing risk across multiple parties
 - Accelerating component evolution through shared learning
 - Creating standards that expand total market opportunity
@@ -34,7 +52,7 @@ TODO: draw a map? 🍋
 
 https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh
 
-
+![Bluetooth SIG Wardley map](bluetooth-sig-wardley-map.svg)
 
 -  *Historical:* The **Bluetooth SIG (Special Interest Group)** -- an industry co-operation of many companies (Ericsson, Nokia, IBM, Intel, etc.) to develop the Bluetooth standard. Instead of fighting over wireless peripheral connectivity solutions, they co-operated to establish one standard. This expanded the market for everyone's interoperable devices and accelerated Bluetooth's evolution.
 
@@ -54,7 +72,7 @@ Your goals and potential partners' goals fundamentally clash -- forced co-operat
 
 ## 🎯 Leadership
 
-### Core challenge 
+### Core challenge
 
 A leader must **balance control and openness**. Cooperation can accelerate innovation but also risks creating dependencies or eroding unique advantages. Effective leadership in cooperation means structuring agreements that align interests while maintaining strategic flexibility.
 
@@ -120,7 +138,7 @@ Wardley's perspective emphasizes that premature competition in emerging markets 
 
 Co-operation can:
 
-- Create common platforms that enable innovation at higher levels 
+- Create common platforms that enable innovation at higher levels
 - Establish standards that accelerate adoption and market formation
 - Allow competitors to focus on differentiation in areas that matter to users while collaborating on underlying infrastructure
 
