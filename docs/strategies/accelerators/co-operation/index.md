@@ -61,15 +61,15 @@ https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh
 
 ## 🚦 **When to Use / When to Avoid**
 
-### **Use when**
+### Use when
 
 The **task is too large, risky, or slow** to do alone, and partners have complementary strengths. Also when establishing a new standard or platform where **ecosystem is more valuable than solo control** (e.g., to beat a common enemy or to grow a pie that's currently small). Co-operation is key in early market formation (fighting too early can stall everyone).
 
-### **Avoid when**
+### Avoid when
 
 Your goals and potential partners' goals fundamentally clash -- forced co-operation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if co-operating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, co-operation might unnecessarily share the spoils.
 
-## 🎯 Leadership
+## 🎯 **Leadership**
 
 ### Core challenge
 
@@ -79,7 +79,7 @@ A leader must **balance control and openness**. Cooperation can accelerate innov
 
 fostering trust, managing alliances, setting governance rules
 
-## 📋 How to Execute
+## 📋 **How to Execute**
 
 1. Assess alignment and goals
    - alignment: Incentive structuring: Revenue-sharing models, IP-sharing agreements, performance-based milestones
@@ -91,7 +91,7 @@ fostering trust, managing alliances, setting governance rules
 
 ### Ethical considerations
 
-## 📈 Measuring Success
+## 📈 **Measuring Success**
 
 - Speed metrics: Reduction in time-to-market or development cycles compared to solo efforts
 - Cost efficiency: Reduced R&D or market-entry costs versus going alone
@@ -104,19 +104,19 @@ fostering trust, managing alliances, setting governance rules
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
-### **Alignment issues**
+### Alignment issues
 
 Co-operation can fail due to misaligned incentives (one party might freeride or diverge later). Clear agreements and exit strategies are crucial.
 
-### **Slower decisions**
+### Slower decisions
 
 Partnerships mean committees -- things can move slower than a single, decisive entity. This can hamper agility.
 
-### **Breaking trust**
+### Breaking trust
 
 If one side unilaterally exploits the partnership (e.g., learns from co-operation then goes solo), it can lead to sour relations or even legal battles.
 
-## 🧠 Strategic Insights
+## 🧠 **Strategic Insights**
 
 ### Evolution and Co-operation
 
@@ -151,7 +151,7 @@ Successful co-operation often targets specific *leverage points*:
 - Constraint removal: Where a shared bottleneck limits all players
 - Network effects: Where combined user bases create exponentially more value
 
-## ❓ Key Questions to Ask
+## ❓ **Key Questions to Ask**
 
 - Value alignment: What specific value does each party bring and extract? Are these balanced and sustainable?
 - Evolution stage: Where on the evolution curve are the components we're collaborating on? (Genesis, Custom, Product, Commodity)
@@ -167,7 +167,6 @@ Successful co-operation often targets specific *leverage points*:
 - [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with users
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
 - **Joint Ventures** - the structural embodiment of cooperation.
-
 
 ## 📚 **Further Reading & References**
 
