@@ -1,7 +1,6 @@
 ---
 title: Co-operation
 description: Working with others, even competitors, to achieve a goal.
-category: Ecosystem Strategies # Or whichever category it belongs to
 tags: [collaboration, partnerships, competition]
 ethical_alignment: Medium
 leadership_skills_needed: [Trust-Building, Negotiation, Strategic Thinking]
@@ -89,6 +88,8 @@ fostering trust, managing alliances, setting governance rules
 3. Set trust mechanisms
    - build trust early: Pilot projects, transparency mechanisms, pre-agreed dispute resolution
 4. Establish exit strategies
+
+### Ethical considerations
 
 ## 📈 Measuring Success
 
