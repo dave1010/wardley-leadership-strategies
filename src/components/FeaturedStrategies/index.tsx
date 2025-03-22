@@ -52,7 +52,7 @@ function Strategy({title, Svg, description, link}: StrategyItem) {
   return (
     <div className={clsx('col col--4')}>
       <Link to={link}>
-      <div className="card shadow--md">
+      <div className="card shadow--md margin-vert--md">
         <div className="card__header text--center">
           <Svg className={styles.featureSvg} role="img" />
         </div>
