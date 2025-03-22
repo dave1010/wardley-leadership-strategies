@@ -1,8 +1,8 @@
 # Competitor
 
-TODO: split:
+These are strategies for dealing with rivals you can't ignore or co-opt.
 
-*Plays that* ***attack markets or competitors*** *directly to gain advantage.* These often involve bold moves to unseat rivals, seize positions, or outmaneuver opponents. They include both broad market attacks and targeted competitor moves.
+The aim is to erode their advantage, waste their resources, or trap them in bad bets. If you're too small to confront directly, these indirect plays can level the field.
 
 ```mdx-code-block
 import DocCardList from '@theme/DocCardList';
