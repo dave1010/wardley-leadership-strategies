@@ -117,7 +117,7 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 -   [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - Aims to restrict new competitors, similar to restricting existing ones.
 -   [**Embrace and Extend**](/strategies/ecosystem/embrace-and-extend) - Can be used to control standards and limit competitor options.
 -   [**Talent Raid**](/strategies/competitor/talent-raid) - Limits a competitor's movement by restricting access to talent.
--   [**Limitation of Competition**](/strategies/decelerators/limitation-of-competition) - The overarching goal of restriction of movement.
+-   [**Limitation of Competition**](/strategies/defensive/limitation-of-competition) - The overarching goal of restriction of movement.
 
 ## 📚 **Further Reading & References**
 
