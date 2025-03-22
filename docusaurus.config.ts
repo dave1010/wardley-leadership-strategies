@@ -10,7 +10,7 @@ const config: Config = {
   favicon: 'img/knight-cropped.jpg',
 
   // Set the production url of your site here
-  url: 'https://wardley-leadership-strategies.vercel.app',
+  url: 'https://www.wardleyleadershipstrategies.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
