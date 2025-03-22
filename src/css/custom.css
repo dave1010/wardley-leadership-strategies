@@ -28,3 +28,44 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+body {
+  font-family: 'EB Garamond', serif;
+  background-color: #f8f8f8;  /* Off-white background */
+  color: #333333;          /* Dark Gray text */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'DM Sans', sans-serif;
+  color: #005073;          /* Dark Blue headings */
+}
+
+a {
+  color: #00796B;          /* Teal links */
+}
+
+a:hover {
+  color: #009688;        /* Brighter Teal hover */
+}
+
+/* Override Infima variables - this is the preferred way in Docusaurus */
+:root {
+  --ifm-color-primary: #00796B; /* Teal */
+  --ifm-color-primary-dark: #00695c;
+  --ifm-color-primary-darker: #00564d;
+  --ifm-color-primary-darkest: #00362e;
+  --ifm-color-primary-light: #009688; /* Brighter Teal */
+  --ifm-color-primary-lighter: #00a995;
+  --ifm-color-primary-lightest: #00c2b1;
+
+  --ifm-heading-color: #005073; /* Dark Blue for headings */
+  --ifm-text-color: #333333; /* Dark Gray for body text */
+  --ifm-background-color: #f8f8f8; /* Off-white background */
+  --ifm-link-color: #00796B;
+  --ifm-link-hover-color: #009688;
+
+  /* Example of overriding other Infima variables (if needed) */
+  /* --ifm-font-family-base: 'EB Garamond', serif; */
+  /* --ifm-font-family-heading: 'DM Sans', sans-serif; */
+}
