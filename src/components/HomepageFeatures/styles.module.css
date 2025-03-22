@@ -1,11 +1,43 @@
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
-}
-
 .featureSvg {
   height: 200px;
   width: 200px;
 }
+
+.hero {
+  border-radius: var(--ifm-card-border-radius);
+}
+
+
+.miniHero {
+  display: flex;
+  align-items: center;
+  padding: 4rem 0.5rem; /* Match vertical padding of main hero */
+  color: var(--ifm-color-emphasis-800);
+  border-radius: 8px;
+  margin: 0 0 2rem 0; /* Bottom margin consistent with vertical spacing */
+}
+
+.miniHero__title {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.miniHero__subtitle {
+  font-size: 1.25rem;
+  opacity: 0.8;
+}
+
+@media (--ifm-narrow-window) {
+  .miniHero {
+    padding: 2rem 1rem; /* Reduced padding on narrower screens */
+  }
+
+  .miniHero__title {
+    font-size: 1.75rem;
+  }
+
+  .miniHero__subtitle {
+    font-size: 1rem;
+  }
+}
+

@@ -6,51 +6,6 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
-
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
-
-
-body {
-  font-family: 'EB Garamond', serif;
-  background-color: #f8f8f8;  /* Off-white background */
-  color: #333333;          /* Dark Gray text */
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'DM Sans', sans-serif;
-  color: #005073;          /* Dark Blue headings */
-}
-
-a {
-  color: #00796B;          /* Teal links */
-}
-
-a:hover {
-  color: #009688;        /* Brighter Teal hover */
-}
-
-/* Override Infima variables - this is the preferred way in Docusaurus */
-:root {
   --ifm-color-primary: #00796B; /* Teal */
   --ifm-color-primary-dark: #00695c;
   --ifm-color-primary-darker: #00564d;
@@ -60,12 +15,43 @@ a:hover {
   --ifm-color-primary-lightest: #00c2b1;
 
   --ifm-heading-color: #005073; /* Dark Blue for headings */
-  --ifm-text-color: #333333; /* Dark Gray for body text */
-  --ifm-background-color: #f8f8f8; /* Off-white background */
-  --ifm-link-color: #00796B;
-  --ifm-link-hover-color: #009688;
+  --ifm-background-color: var(--ifm-color-emphasis-100); /* Off-white background */
+  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-link-hover-color: var(--ifm-color-primary-dark);
+  
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
-  /* Example of overriding other Infima variables (if needed) */
-  /* --ifm-font-family-base: 'EB Garamond', serif; */
-  /* --ifm-font-family-heading: 'DM Sans', sans-serif; */
+  --ifm-color-content: var(--ifm-color-emphasis-800);
+  --ifm-color-content-inverse: var(--ifm-color-emphasis-100);
+
+  --ifm-font-family-base: 'EB Garamond', serif;
+  --ifm-font-size-base: 110%;
+
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #00a995; /* Brighter Teal */
+  --ifm-color-primary-dark: #00887a;
+  --ifm-color-primary-darker: #00796b;
+  --ifm-color-primary-darkest: #00564d;
+  --ifm-color-primary-light: #00a995; /* Brighter Teal */
+  --ifm-color-primary-lighter: #00c2b1;
+  --ifm-color-primary-lightest: #00e0cd;
+
+  --ifm-heading-color: #7490b2; /* Light Blue for headings */
+
+  --ifm-link-color: var(--ifm-color-primary-lightest);
+  --ifm-link-hover-color: var(--ifm-color-primary-light);
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+h1, h2, h3, h4, h5, h6, .table-of-contents__link {
+  font-family: 'DM Sans', sans-serif;
+}
+
+html {
+  -webkit-font-smoothing: auto;
 }
