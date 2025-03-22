@@ -3,10 +3,20 @@
     align-items: center;
     padding: 2rem 0;
     width: 100%;
+    background: var(--ifm-color-emphasis-200);
   }
   
   .featureSvg {
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
   }
   
+  .features a {
+    color: var(--ifm-color-emphasis-800);
+    text-decoration: none;
+  }
+  
+  .features a:hover button {
+    color: var(--ifm-color-emphasis-100);
+    background: var(--ifm-color-primary-light);
+  }
