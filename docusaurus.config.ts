@@ -87,11 +87,19 @@ const config: Config = {
         src: 'img/knight-cropped.jpg',
       },
       items: [
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'tutorialSidebar',
+        //   position: 'left',
+        //   label: 'Strategies',
+        // },
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
           label: 'Strategies',
+          to: '/strategies',
+        },
+        {
+          label: 'Terms',
+          to: '/terms',
         },
         {
           label: 'About',
