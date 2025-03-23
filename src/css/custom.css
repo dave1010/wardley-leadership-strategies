@@ -63,10 +63,10 @@ html {
 }
 
 .navbar__search-input {
-  width: 1rem;
+  width: 1rem !important;
 }
 
 .navbar__search-input:focus {
-  width: 9rem;
+  width: 9rem !important;
 }
 
