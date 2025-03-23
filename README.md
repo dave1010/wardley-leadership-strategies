@@ -2,6 +2,17 @@
 
 The Compendium of Wardley Mapping Leadership Gameplays and Strategies.
 
+If you landed here accidentally, this is the source behind the site.
+You can view the live site at [`wardleyleadershipstrategies.com`](https://www.wardleyleadershipstrategies.com).
+
+## Contributing
+
+Contributions welcome.
+
+You can easily add and edit content from Github, without cloning the repo or running any code.
+
+Browse the Markdown files in [`./docs/strategies`](./docs/strategies) and click the edit button.
+
 ## Development
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
