@@ -55,3 +55,18 @@ h1, h2, h3, h4, h5, h6, .table-of-contents__link {
 html {
   -webkit-font-smoothing: auto;
 }
+
+/* Search */
+.algolia-autocomplete .ds-dropdown-menu .ds-suggestions {
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+.navbar__search-input {
+  width: 1rem;
+}
+
+.navbar__search-input:focus {
+  width: 9rem;
+}
+
