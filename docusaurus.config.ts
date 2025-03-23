@@ -154,6 +154,10 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+
+  plugins: [
+    require.resolve('docusaurus-lunr-search')
+  ],
 };
 
 export default config;
