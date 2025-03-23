@@ -104,6 +104,17 @@ fostering trust, managing alliances, setting governance rules
 
 Co-operation can fail due to misaligned incentives (one party might freeride or diverge later). Clear agreements and exit strategies are crucial.
 
+```mermaid
+quadrantChart
+    title Co-operation Partner Evaluation
+    x-axis Goals Misaligned --> Goals Aligned
+    y-axis Low Comlementarity --> High Complementarity
+    quadrant-3 Avoid
+    quadrant-2 High Maintenance
+    quadrant-4 Potential Win-Win
+    quadrant-1 Ideal Partner
+```
+
 ### Slower decisions
 
 Partnerships mean committees -- things can move slower than a single, decisive entity. This can hamper agility.

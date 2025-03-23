@@ -163,6 +163,14 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
 
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
+
+  
+
+
   plugins: [
     require.resolve('docusaurus-lunr-search')
   ],
