@@ -59,6 +59,36 @@ Cooperation strategies can take many forms, depending on the level of commitment
 
 Each form carries different risks and strategic benefits. Choosing the right type depends on the goal, the evolution stage of the component, and trust between parties.
 
+```mermaid
+mindmap
+  root((Cooperation))
+    Forms
+      Informal Knowledge Sharing
+      Co-marketing Partnerships
+      Shared Infrastructure
+      Co-development & R&D
+      Standards Consortia
+      Joint Ventures
+      Formal Alliances
+    Goals
+      Accelerate Evolution
+      Risk Sharing
+      Market Creation
+      Expand Ecosystem
+      Shape Standards
+    Risks
+      Misalignment
+      Trust Breakdown
+      Slower Decisions
+      Competitive Exposure
+      Governance Failure
+    Success Factors
+      Aligned Incentives
+      Trust Mechanisms
+      Clear Governance
+      Complementary Capabilities
+      Exit Strategies
+```
 
 ## 🗺️ **Real-World Examples**
 
