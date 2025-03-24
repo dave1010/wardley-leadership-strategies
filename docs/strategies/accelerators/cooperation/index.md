@@ -23,6 +23,8 @@ It sounds straightforward, but as Wardley wryly notes, "sounds easy, actually it
 
 ### What is Cooperation (or Cooperation)
 
+**Cooperation** in this context is a broad strategy involving collaboration between entities to achieve mutual goals. It encompasses a range of practices, from informal knowledge sharing to formal alliances and joint ventures. See [Alliances](/strategies/ecosystem/alliances) for a more structured, formal subset of cooperation.
+
 Cooperation in Wardley's framework refers to deliberate collaboration between entities (including competitors) to achieve mutual benefits that would be difficult or impossible to achieve independently. Unlike general collaboration, strategic cooperation in Wardley Mapping is specifically focused on accelerating component evolution or creating new market spaces through combined capabilities, shared risk, or unified standards.
 
 ### Why is Cooperation a valuable leadership strategy?
@@ -40,6 +42,23 @@ It creates value by:
 ### How?
 
 The origin is basic: two heads (or companies) can be better than one when tackling large challenges (market creation, standards, expensive R&D). The purpose is to achieve something you couldn't alone (or not as efficiently). Key principles: alignment of interests, clear governance, and trust. Cooperation can range from loose (co-marketing agreements, sharing research) to formal (joint venture company, standards consortium). It can **accelerate evolution** by pooling resources and knowledge: an "accelerator" in that sense. However, culturally it requires stepping out of pure competitive mindset, which is tricky.
+
+Cooperation can range from loose (co-marketing agreements, shared research, open source contributions) to formal (joint ventures, standards consortia, strategic alliances). It can accelerate evolution by pooling resources and knowledge. However, cooperation requires a shift from zero-sum thinking to ecosystem thinking, which can be culturally difficult.
+
+### Types of Cooperation
+
+Cooperation strategies can take many forms, depending on the level of commitment, formality and strategic alignment:
+
+- **Informal knowledge sharing** – e.g. open research, shared tooling, ecosystem meetups
+- **Co-marketing or distribution partnerships** – sharing reach or branding
+- **Shared infrastructure** – joint investments in platforms or networks (e.g. telecom towers, charging networks)
+- **Co-development or R&D partnerships** – collaborating on new products or components
+- **Standards consortia** – forming a body to define or promote an industry standard. See also [**Standards Game**](/strategies/markets/standards-game)
+- **Joint ventures** – creating a new entity to pursue a shared opportunity
+- **[Alliances](/strategies/ecosystem/alliances)** – formalised, often long-term collaboration with shared branding or governance
+
+Each form carries different risks and strategic benefits. Choosing the right type depends on the goal, the evolution stage of the component, and trust between parties.
+
 
 ## 🗺️ **Real-World Examples**
 
@@ -160,6 +179,18 @@ Successful cooperation often targets specific *leverage points*:
 - Constraint removal: Where a shared bottleneck limits all players
 - Network effects: Where combined user bases create exponentially more value
 
+### Relationship to Alliances
+
+[**Alliances**](/strategies/ecosystem/alliances) are a specific, formalised form of cooperation. Where cooperation might involve shared research or loose collaboration, an alliance typically includes:
+
+- formal agreements and governance structures
+- pooled resources or infrastructure
+- joint branding or market-facing identity
+- coordinated action toward shaping a market or standard
+
+Use alliances when the goal is ecosystem-level impact or when formality helps secure trust and alignment.
+
+
 ## ❓ **Key Questions to Ask**
 
 - Value alignment: What specific value does each party bring and extract? Are these balanced and sustainable?
@@ -173,7 +204,7 @@ Successful cooperation often targets specific *leverage points*:
 ## 🔀 **Related Strategies:**
 
 - [**Alliances**](/strategies/ecosystem/alliances) - a formalized group of cooperating entities, essentially the same domain
-- [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with users
+- [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with *users*
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
 
 ## 📚 **Further Reading & References**
