@@ -6,6 +6,8 @@ title: About
 
 This guide is a comprehensive resource for applying strategic plays (gameplays) within the framework of Wardley Mapping.  It builds upon the work of [Simon Wardley](https://www.linkedin.com/in/simonwardley/), providing practical guidance on [over 60 business and organizational leadership strategies](/strategies).
 
+Simon Wardley has listed these in his blog post [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) and there are many other sites like [Learn Wardley Mapping](https://learnwardleymapping.com/leadership/) that have lists of these strategies.
+
 ## Understanding and Applying Strategic Gameplays
 
 Wardley Mapping provides a visual method for understanding your competitive landscape and anticipating future changes.  This situational awareness, derived from your map, is the first step for effective strategic decision-making. This guide focuses on the **application** of those strategic decisions: the "gameplays" that allow you to achieve your objectives.
@@ -24,7 +26,13 @@ This guide is designed for leaders, strategists, and anyone involved in making s
 2. **Identified your Context:**  Understood your current position and the forces acting upon you.
 3. **Analyzed Evolution:**  Determined the evolutionary stage of the components in your value chain.
 
-Strategic gameplays are the **culmination** of the Wardley Mapping process. They represent the actions you take based on your map-derived insights. As described in [Learn Wardley Mapping](https://learnwardleymapping.com/), effective leadership involves:
+:::warning
+
+Strategic gameplays are the **culmination** of the Wardley Mapping process. They represent the actions you take based on your map-derived insights.
+
+:::
+
+As described in [Learn Wardley Mapping](https://learnwardleymapping.com/), effective leadership involves:
 
 > Making strategic decisions based on your **purpose** ("the game"), a description of the competitive **landscape** (the map), the external forces acting on the landscape (**climate**), and the training of your people (**doctrine**).
 
