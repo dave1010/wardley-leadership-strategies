@@ -70,3 +70,9 @@ html {
   width: 9rem !important;
 }
 
+/* Footer */
+
+.footer__copyright a {
+  color: var(--ifm-footer-color);
+  text-decoration: underline;
+}
