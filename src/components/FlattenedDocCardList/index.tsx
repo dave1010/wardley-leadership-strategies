@@ -9,6 +9,7 @@ import type {Props} from '@theme/DocCardList';
 import {PropSidebarItem, PropSidebarItemLink, PropSidebarItemCategory} from '@docusaurus/plugin-content-docs';
 import {useLocation} from '@docusaurus/router';
 import {isSamePath} from '@docusaurus/theme-common/internal';
+import StrategyDocCard from '@site/src/components/StrategyDocCard';
 
 
 import type {
@@ -16,13 +17,18 @@ import type {
     PropSidebarBreadcrumbsItem,
   } from '@docusaurus/plugin-content-docs';
 
-function flattenSidebarItems(items: PropSidebarItem[]): PropSidebarItemLink[] {
+function flattenSidebarItems(items: PropSidebarItem[], depth): PropSidebarItemLink[] {
   return items.flatMap((item) => {
-    if (item.type === 'category') {
-      return flattenSidebarItems(item.items);
+    if (item.type === 'category' && depth > 0) {
+      return flattenSidebarItems(item.items, depth - 1);
     }
     if (item.type === 'link') {
       return [item];
+    }
+
+    // if its a category but depth is 0, we pretend the category is a link
+    if (item.type === 'category') {
+      return [item as PropSidebarItemLink];
     }
     return []; // Shouldn't happen in Docusaurus sidebar, but safe default
   });
@@ -81,8 +87,9 @@ function getAllSubPagesFromDeepestCategory(): PropSidebarItemLink[] {
   
     const deepestCategory = categoryBreadcrumbs.slice(-1)[0];
     const targetItems = deepestCategory?.items ?? sidebar.items;
-  
-    const items = flattenSidebarItems(targetItems);
+    const depth = 1;
+
+    const items = flattenSidebarItems(targetItems, depth);
 
     // sort by label
     items.sort((a, b) => a.label.localeCompare(b.label));
