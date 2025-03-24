@@ -28,7 +28,7 @@
 
 -  **Competitor within:** Alliances among competitors are fragile -- if one sees a chance to strike out on their own successfully, they might. That risk is constant (e.g., alliances in mobile OS -- Nokia led Symbian Alliance then abandoned it for its own platform with Microsoft).
 
-**Related Strategies:** **Co-operation** (general concept; alliance is formal co-operation) , **Standards Game** (alliances often form to win a standards game), **Center of Gravity** (an alliance can collectively try to be a center of gravity vs a solo player).
+**Related Strategies:** **Cooperation** (general concept; alliance is formal cooperation) , **Standards Game** (alliances often form to win a standards game), **Center of Gravity** (an alliance can collectively try to be a center of gravity vs a solo player).
 
 **Further Reading & References:**
 

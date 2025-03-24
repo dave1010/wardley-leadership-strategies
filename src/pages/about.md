@@ -14,7 +14,7 @@ Wardley Mapping provides a visual method for understanding your competitive land
 
 This resource offers detailed explanations, real-world examples, and practical advice on selecting and implementing over 60 strategies, including examples such as:
 
-- **[Cooperation](/strategies/accelerators/co-operation):**  Leveraging partnerships to accelerate growth.
+- **[Cooperation](/strategies/accelerators/cooperation):**  Leveraging partnerships to accelerate growth.
 - **[Creating Constraints](/strategies/decelerators/creating-constraints):**  Using limitations to drive innovation and focus.
 - **[Experimentation](/strategies/attacking/experimentation):**  Rapidly testing new approaches to gain a competitive edge.
 

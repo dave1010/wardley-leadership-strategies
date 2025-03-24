@@ -15,14 +15,14 @@ type StrategyItem = {
 
 const StrategyList: StrategyItem[] = [
   {
-    title: 'Co-operation',
+    title: 'Cooperation',
     Svg: require('@site/static/img/cooperation.svg').default,
     description: (
       <>
         Working with others, in partnerships, joint ventures, or industry collaborations, to achieve a common goal and create mutual value.
       </>
     ),
-    link: '/strategies/accelerators/co-operation',
+    link: '/strategies/accelerators/cooperation',
   },
   {
     title: 'Exploiting Network Effects',

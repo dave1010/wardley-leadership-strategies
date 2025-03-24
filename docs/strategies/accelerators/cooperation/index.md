@@ -45,17 +45,17 @@ The origin is basic: two heads (or companies) can be better than one when tackli
 
 ### The Sony-Ericsson partnership (early 2000s)
 
-Sony had consumer electronics expertise, Ericsson had telecom infrastructure and phone tech. They co-operated to create Sony-Ericsson mobile phones, each filling gaps in the other's capabilities. This cooperation allowed them to compete in mobile phones against larger rivals (Nokia, etc.) with a combined strength neither had alone.
+Sony had consumer electronics expertise, Ericsson had telecom infrastructure and phone tech. They cooperated to create Sony-Ericsson mobile phones, each filling gaps in the other's capabilities. This cooperation allowed them to compete in mobile phones against larger rivals (Nokia, etc.) with a combined strength neither had alone.
 
 ### The Bluetooth SIG (Special Interest Group)
 
 [![Bluetooth SIG Wardley map](bluetooth-sig-wardley-map.svg)](https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh)
 
- An industry cooperation of many companies (Ericsson, Nokia, IBM, Intel, etc.) to develop the Bluetooth standard. Instead of fighting over wireless peripheral connectivity solutions, they co-operated to establish one standard. This expanded the market for everyone's interoperable devices and accelerated Bluetooth's evolution.
+ An industry cooperation of many companies (Ericsson, Nokia, IBM, Intel, etc.) to develop the Bluetooth standard. Instead of fighting over wireless peripheral connectivity solutions, they cooperated to establish one standard. This expanded the market for everyone's interoperable devices and accelerated Bluetooth's evolution.
 
 ### Hypothetical examples
 
-Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a co-operative agreement to test a combined therapy and share data. By co-operating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
+Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a cooperative agreement to test a combined therapy and share data. By cooperating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
 
 ## 🚦 **When to Use / When to Avoid**
 
@@ -65,7 +65,7 @@ The **task is too large, risky, or slow** to do alone, and partners have complem
 
 ### Avoid when
 
-Your goals and potential partners' goals fundamentally clash. Forced cooperation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if co-operating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, cooperation might unnecessarily share the spoils.
+Your goals and potential partners' goals fundamentally clash. Forced cooperation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if cooperating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, cooperation might unnecessarily share the spoils.
 
 ## 🎯 **Leadership**
 
@@ -172,7 +172,7 @@ Successful cooperation often targets specific *leverage points*:
 
 ## 🔀 **Related Strategies:**
 
-- [**Alliances**](/strategies/ecosystem/alliances) - a formalized group of co-operating entities, essentially the same domain
+- [**Alliances**](/strategies/ecosystem/alliances) - a formalized group of cooperating entities, essentially the same domain
 - [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with users
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
 

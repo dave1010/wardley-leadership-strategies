@@ -28,7 +28,12 @@
 
 -  **Competitor response:** Rivals might counter by building their own hubs or poaching from yours, especially if you concentrate people (e.g., Microsoft opened big labs in Boston and other places to access talent not wanting to move to SV, to counter the Valley's gravity).
 
-**Related Strategies:** **Talent Raid** (others might raid your hub, or you might raid to build your hub), **Alliances/Co-opting** (forming alliances can increase your gravity as more attach to you), **Sensing Engines** (a center of gravity often yields a sensing engine effect -- e.g., Google's position in AI gives it consumption data and insight, like a sensing engine ).
+**Related Strategies:**
+
+- **Talent Raid** others might raid your hub, or you might raid to build your hub
+- **Alliances/Co-opting** forming alliances can increase your gravity as more attach to you
+- **Alliances** (mutual benefit) or **Co-opting** (strategic absorption of ecosystem participants) can increase your gravity
+- **Sensing Engines** a center of gravity often yields a sensing engine effect. E.g., Google's position in AI gives it consumption data and insight, like a sensing engine .
 
 **Further Reading & References:**
 
