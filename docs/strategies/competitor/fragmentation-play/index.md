@@ -124,7 +124,7 @@ A fragmentation play is about playing divide and conquer in a market. It is most
 ## 🔀 **Related Strategies:**
 
 -   [**Alliances**](/strategies/ecosystem/alliances) - A formalized group of co-operating entities, essentially the same domain
--   [**Co-opting and Intercession**](/strategies/ecosystem/co-opting-and-intercession) - Using a third party to influence or disrupt a competitor
+-   [**Co-opting**](/strategies/ecosystem/co-opting) - Enlisting a third party into your ecosystem to draw them away from a competitor’s control or influence
 -   [**Embrace and Extend**](/strategies/ecosystem/embrace-and-extend) - A controversial strategy that can lead to fragmentation by altering standards
 -   [**Circling and Probing**](/strategies/competitor/circling-and-probing) - Testing a competitor's defenses, the opposite of working with them
 -   [**Restriction of Movement**](/strategies/competitor/restriction-of-movement) - A strategy focused on limiting a competitor's options and flexibility

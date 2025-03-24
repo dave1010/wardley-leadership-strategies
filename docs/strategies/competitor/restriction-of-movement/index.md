@@ -113,7 +113,7 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 ## 🔀 **Related Strategies:**
 
 -   [**Alliances**](/strategies/ecosystem/alliances) - Forming alliances can be a way to restrict a competitor's access to partners.
--   [**Co-opting and Intercession**](/strategies/ecosystem/co-opting-and-intercession) - Can be used to influence the ecosystem to restrict a competitor.
+-   [**Co-opting**](/strategies/ecosystem/co-opting) - Can be used to influence the ecosystem to restrict a competitor.
 -   [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - Aims to restrict new competitors, similar to restricting existing ones.
 -   [**Embrace and Extend**](/strategies/ecosystem/embrace-and-extend) - Can be used to control standards and limit competitor options.
 -   [**Talent Raid**](/strategies/competitor/talent-raid) - Limits a competitor's movement by restricting access to talent.
