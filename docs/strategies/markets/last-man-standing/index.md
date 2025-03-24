@@ -13,3 +13,7 @@ The “last man standing” strategy is about enduring that collapse. You lean h
 - Threat acquisition (Defensive): Clean up weak competitors cheaply during collapse phase.
 - Patents & IPR (Deaccelerators): Legal defence while others burn cash trying to survive.
 - Fragmentation (Competitor): As others collapse, you can split their market and absorb parts opportunistically.
+
+## Resources
+
+- [Amazon and the last man standing](https://blog.gardeviance.org/2015/08/amazon-and-last-man-standing.html) on Simon Wardley's Blog
