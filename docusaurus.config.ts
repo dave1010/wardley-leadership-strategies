@@ -126,6 +126,10 @@ const config: Config = {
               label: 'Strategies',
               to: '/strategies',
             },
+            {
+              label: 'Terms',
+              to: '/terms',
+            },
           ],
         },
         {
@@ -155,7 +159,15 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Dave Hulbert. Wardley Leadership Strategies is licenced CC BY-SA 4.0. Built with Docusaurus.`,
+      copyright: `
+        <p>
+          Wardley Leadership Strategies is Copyright © ${new Date().getFullYear()} <a href="https://dave.engineer">Dave Hulbert</a>
+          and licenced <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+          <br />
+          Wardley Mapping is provided courtesy of Simon Wardley and is also licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+          Simon Wardley is not associated with this website.
+        </p>
+        `,
     },
     prism: {
       theme: prismThemes.github,
@@ -167,9 +179,6 @@ const config: Config = {
     mermaid: true,
   },
   themes: ['@docusaurus/theme-mermaid'],
-
-  
-
 
   plugins: [
     require.resolve('docusaurus-lunr-search')
