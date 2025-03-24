@@ -4,4 +4,4 @@ Reed's Law is a principle in network theory that states that the utility of a ne
 
 ## See Also
 
-- [Metcalfe's Law](/terms/metcalfes-law))
+- [Metcalfe's Law](/terms/metcalfs-law)
