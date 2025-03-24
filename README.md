@@ -19,26 +19,26 @@ This website is built using [Docusaurus](https://docusaurus.io/), a modern stati
 
 ### Installation
 
-```
-$ yarn
+```bash
+npm install
 ```
 
 ### Local Development
 
-```
-$ yarn start
+```bash
+npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ### Build
 
-```
-$ yarn build
+```bash
+npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
 
-The `main` branch is deployed live with Vercel.
+The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minutes.
