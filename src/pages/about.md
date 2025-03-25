@@ -29,6 +29,7 @@ This guide is designed for leaders, strategists, and anyone involved in making s
 :::warning
 
 Strategic gameplays are the **culmination** of the Wardley Mapping process. They represent the actions you take based on your map-derived insights.
+As Wardly put it: [without a map you have no strategy](https://blog.gardeviance.org/2013/11/without-map-you-have-no-strategy.html).
 
 :::
 
