@@ -1,5 +1,13 @@
 # Pricing policy
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 Pricing isn’t only a finance function: it’s a strategic weapon.
 
 You can manipulate demand through price elasticity:

@@ -3,6 +3,14 @@
 
 **Patents & IPR (Intellectual Property Rights)**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** Using **patents, copyrights or other IP rights to slow competitors** by legally fencing off portions of the space . In practice, this means securing broad intellectual property and then enforcing it (or even just having it as a deterrent) so others cannot easily evolve a component further without dealing with you.
 
 **Detailed Explanation:** The origin is classic defensive strategy: protect innovations with patents. But as a Wardley mapping play, it's about going further -- obtaining IP such that you **limit competitors' ability to compete or evolve** an activity . Purpose: create an artificial barrier (a legal constraint) that buys you time or royalties. Key principles: file patents proactively (even on things you don't intend to build immediately), create a patent "thicket" around key technologies, possibly use litigation or the threat of it to discourage encroachment. Essentially, instead of (or in addition to) physical or market constraints, you wield legal monopoly rights to **freeze the evolution** in that area to your benefit.

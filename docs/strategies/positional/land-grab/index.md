@@ -1,5 +1,13 @@
 # Land Grab
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 This is a high-conviction move to claim ground early in an emerging space, before others recognise its value.
 
 As well as entering a market, you’re framing it. That might mean building infrastructure, defining the dominant interface, or owning scarce resources. Once you’re in position, anyone else entering must work around you.

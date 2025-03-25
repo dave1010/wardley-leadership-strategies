@@ -2,6 +2,13 @@
 
 **Playing Both Sides**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** **Profiting from or hedging by engaging with two opposing sides** in a market or standards war, so that whichever side wins, you benefit. It's a bit of strategic arbitrage: you position yourself to win no matter the outcome.
 
 **Detailed Explanation:** The origin could be war profiteering or companies supporting competing standards. Purpose: avoid committing to one uncertain path -- instead, ensure you have a stake in or influence over both sides. Key principle: maintain neutrality outwardly, but internally harness gains from each side's successes and failures. This might mean dual product lines (one for each standard), cross-licensing or investing in both competitors, or supply deals to all players. By playing both sides, you can even encourage the battle (as you win while they fight). It's a way to **reduce risk** and sometimes even to *prolong a profitable conflict*.

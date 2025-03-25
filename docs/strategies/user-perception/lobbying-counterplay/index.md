@@ -1,5 +1,13 @@
 # Lobbying / counterplay
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### **Lobbying / Counterplay**
 
 **Definition & Summary:** **Lobbying** refers to influencing government or regulatory bodies to obtain favorable rules, subsidies, or decisions . In Wardley Mapping context, it's a play where you shape the playing field via policy rather than direct market action. **Counterplay** is often mentioned alongside lobbying, implying actions to counter a competitor's lobbying.

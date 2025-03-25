@@ -1,5 +1,13 @@
 # Brand and marketing
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### **Brand and Marketing**
 
 **Definition & Summary:** Using **traditional marketing and brand positioning** to shape user perception . This strategy leverages advertising, branding, and messaging to create an emotional connection or image that influences customer behavior in your favor.

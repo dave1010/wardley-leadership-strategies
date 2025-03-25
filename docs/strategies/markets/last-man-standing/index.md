@@ -1,5 +1,13 @@
 # Last Man Standing
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Outlasting competitors in the final phase of commoditisation**
 
 As a market reaches the tail-end of industrialisation, prices race to the bottom. Margins vanish, and survival becomes a function of scale, efficiency, and ruthlessness. Most competitors aren’t built to endure this—they collapse quickly and often violently.

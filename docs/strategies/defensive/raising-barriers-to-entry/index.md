@@ -3,6 +3,14 @@
 Raising Barriers to Entry: Increasing Expectations within a market for a range of user needs to be met in order to prevent others entering the market.
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### Explanation
 
 Raising barriers to entry, as a defensive strategy in Wardley Mapping, involves strategically increasing the complexity and breadth of requirements that a new entrant must satisfy to successfully compete within a given market 7. This is often achieved by incumbents who leverage their established market presence and broader capabilities to continuously expand the range of user needs that are considered standard within the market. By doing so, they make it significantly more difficult and resource-intensive for new companies to enter with a limited or niche product or service offering. The fundamental aim of this strategy is to make it economically or operationally challenging for potential competitors to meet the elevated set of expectations upon their entry into the market.

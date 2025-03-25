@@ -1,5 +1,13 @@
 # Artificial competition
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### **Artificial Competition**
 
 **Definition & Summary:** Creating the **illusion of competition** by establishing or funding a secondary entity that competes with your own offerings . This play convinces customers (and regulators) that they have choice, while you ultimately control or benefit from both options.

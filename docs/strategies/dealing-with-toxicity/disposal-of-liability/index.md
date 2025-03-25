@@ -2,6 +2,14 @@
 
 **Disposal of Liability**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** **Getting rid of a toxic or obsolete component** in your value chain, despite internal resistance . This means divesting, shutting down, or otherwise removing parts of the business that have become liabilities (no longer valuable and even harmful due to inertia they create).
 
 **Detailed Explanation:** Over time, certain products or operations turn into burdens -- they consume resources, create inertia (people cling to them), and block evolution. Disposal of liability is the strategy of overcoming internal inertia to **cut loose those parts** . It could be selling off a division, discontinuing a product line, or migrating off an old platform. The purpose: free the organization to focus on future-facing elements and eliminate drag. Key principle: courage and clarity -- it often meets internal opposition ("We've always done this!"). Need to make the case that keeping it is more risky than disposing. Disposal can be outright or phased (sunsetting with support for a period).

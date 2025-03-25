@@ -1,5 +1,13 @@
 # Harvesting
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 Harvesting lets you scale innovation without bearing the cost of exploration. The trick is to expose a platform or ecosystem, encourage third-party development, and then watch which offerings gain traction. Once demand is clear, you can acquire, replicate, or integrate.
 
 This must be done delicately: if harvesting looks extractive or predatory, others will avoid your ecosystem. Done right, it creates a reinforcing loop: the more people build on your platform, the more options you get to harvest.

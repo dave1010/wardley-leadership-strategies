@@ -1,6 +1,14 @@
 # Bundling
 
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### **Bundling**
 
 **Definition & Summary:** Combining products or changes together so that a **less desirable item is packaged with a desirable one**, encouraging adoption of the whole package . In practice, bundling hides or offsets something that might face resistance by delivering it alongside something the user needs or wants.

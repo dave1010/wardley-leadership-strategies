@@ -2,6 +2,13 @@
 
 **Experimentation**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** Using **specialist groups, hackathons, skunkworks, and experiments** to drive innovation and discover new opportunities . In offensive terms, it's about fostering a culture and capability to try many things quickly, so you can find and exploit game-changing ideas faster than competitors.
 
 **Detailed Explanation:** This originates from agile and lean startup thinking -- iterate, experiment, fail fast. The strategic reason: in uncertain terrain, the side that learns faster often wins. By institutionalizing experimentation (e.g., hack days, innovation labs), you ensure a pipeline of ideas and solutions. The purpose is twofold: **exploratory (find new "wheres" to attack)** and **exploitative (rapidly prototype tactics)**. Key principle: empower a subset of the organization to break rules and try new approaches without bureaucratic hindrance . Those successes (or even failures) can then be scaled or inform strategy.

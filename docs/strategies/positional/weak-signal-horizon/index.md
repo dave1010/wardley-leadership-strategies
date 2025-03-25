@@ -1,5 +1,13 @@
 # Weak Signal (Horizon)
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 This is the art of sensing where the map is about to shift.
 
 You look for economic patterns, subtle shifts in behaviour, technological readiness, or unserved needs—then orient your strategy before the change is obvious. It’s not prediction, it’s perception.

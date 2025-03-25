@@ -2,6 +2,14 @@
 
 **Co-creation**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** **Collaborating with end users or customers in the creation process** of a product or service . This means users are not just feedback-givers, but active contributors to development, ensuring the outcome fits their needs extremely well.
 
 **Detailed Explanation:** Co-creation taps into the idea that customers (or broader community) often have valuable ideas and investment in the solution. By involving them early and deeply, you get built-in buy-in and often a better product. The purpose is to **drive evolution of an activity or practice by working with those who will use it** . It's an ecosystem play as it blurs the line between producer and consumer. Key principles: transparency, openness to external ideas, and mechanisms for collaboration (could be platforms, open innovation challenges, user design sessions). Companies doing this often create communities or advisory boards of passionate users.

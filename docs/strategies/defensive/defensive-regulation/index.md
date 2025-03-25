@@ -3,6 +3,14 @@
 Defensive Regulation: Using Government to Protect Your Market
 -------------------------------------------------------------
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### Explanation
 
 Defensive regulation, within the context of Wardley Maps, refers to the strategic use of governmental bodies and regulations to create a protective barrier around a company's market, thereby impeding the progress of competitors and securing the incumbent's position 7. This gameplay involves actively engaging with governments to shape or enforce laws and regulations in a manner that benefits the organization, often by raising the costs or complexities for rivals to operate or enter the market 10. The aim is to establish constraints that make it more challenging for competitors to gain traction, innovate, or offer comparable value, thus safeguarding the incumbent's market share and profitability 10. This strategy acknowledges that businesses function within a larger ecosystem that includes regulatory authorities, and that a proactive and strategic engagement with this ecosystem can yield significant competitive advantages 3.

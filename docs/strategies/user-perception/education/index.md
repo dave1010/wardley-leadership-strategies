@@ -1,5 +1,13 @@
 # Education
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### **Education**
 
 **Definition & Summary:** Educating the market or users to overcome their **inertia to change** by informing them of benefits or risks . In essence, it's using truthful information and training to create demand or reduce resistance for a new idea.

@@ -3,6 +3,14 @@
 Managing Inertia: Countering Resistance to Change
 -------------------------------------------------
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### Explanation
 
 Managing inertia, within the framework of Wardley Maps, involves proactively identifying and addressing the various forms of resistance to change that can exist within an organization or a market, thereby preventing these forces from hindering necessary progress or leaving the organization vulnerable to competitive threats 9. Inertia can manifest in numerous ways, stemming from a reliance on past successes, deeply entrenched established practices, the influence of political capital, significant previous investments (often referred to as sunk costs), or a general apprehension towards the uncertainty that often accompanies the unknown 8. Notably, the more successful an organization has been with its existing model, the stronger the inherent inertia to deviate from that model tends to be 7. Ultimately, a failure to effectively manage inertia can have dire consequences, potentially leading to the demise of an organization that is unable to adapt to evolving circumstances 8.

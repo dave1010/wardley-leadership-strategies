@@ -2,6 +2,14 @@
 
 **Pig in a Poke**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** **Disguising a toxic asset as a valuable opportunity and selling it off before its true nature is revealed** . In essence, you package the liability attractively (through marketing or slight modifications) and find a buyer to take it off your hands, shifting the risk to them.
 
 **Detailed Explanation:** The phrase comes from a trick: selling a bag purportedly containing a valuable pig, but actually containing a worthless cat. In business, the idea is to hype or misrepresent a declining or problematic business unit such that someone else believes they can profit from it, and they buy it. The purpose: *exit a doomed endeavor with a profit* (or minimal loss), offloading future collapse risk to the buyer . Key principles: create a narrative of future potential (hope + some urgency) around the asset. Often timing is key -- you do this *fast, before the market fully realizes the decline*. It may involve some cosmetic fixes or a period of pumping up metrics (like driving short-term revenue growth) to make the asset look healthier than it is.

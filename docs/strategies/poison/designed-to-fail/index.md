@@ -1,5 +1,13 @@
 # Designed to fail
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 You deliberately create or champion a market initiative that looks promising but is flawed by design. For example an open standard with no governance, a half-baked reference implementation, or an underfunded “community” project.
 
 The goal is to occupy the space so others don’t, then let it collapse. It’s denial through decay.
