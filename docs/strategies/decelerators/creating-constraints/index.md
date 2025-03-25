@@ -3,6 +3,14 @@
 
 **Creating Constraints**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** **Introducing a new constraint where none existed** to hamper competitors . In other words, purposefully impose a bottleneck -- often via supply chain or market conditions -- that your competitors now have to deal with, but which you prepared for.
 
 **Detailed Explanation:** Unlike exploiting an existing constraint, here you **manufacture a constraint**. The origin might be a firm cornering a market resource or influencing standards. The purpose is to limit others' freedom of action. Key principle: identify something critical to competition that is not yet scarce or controlled, and then seize control or make it scarce. This could involve signing exclusive contracts (creating an access constraint), lobbying for a new regulation (a legal constraint), or launching a product that sets an expectation/standard (a market constraint). By doing so, you shape the playing field to one with a new barrier that you have the key to.

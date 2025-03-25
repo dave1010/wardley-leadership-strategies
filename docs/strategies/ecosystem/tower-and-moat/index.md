@@ -1,6 +1,16 @@
 # Tower and moat
 
-Tower and Moat:
+Tower and Moat
+
+
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 Explanation and Definition:
 The Wardley Map strategy of tower and moat is a proactive and defensive maneuver aimed at establishing a dominant position in a future market landscape and erecting formidable barriers to prevent future competitors from creating any meaningful differentiation 29. The "tower" represents the core offering or capability that the organization seeks to dominate, often a component that is anticipated to evolve into a critical utility or commodity in the future 104. The "moat" refers to the defensive barriers built around this tower to prevent competitors from replicating the offering or creating any differentiated alternatives 104. This strategy is particularly relevant when an organization anticipates a significant shift in the evolution of a key component in its value chain and aims to capitalize on that shift by establishing an unassailable position early on 29. The goal is not just to be a first mover but to create conditions that make it exceedingly difficult for any subsequent entrants to effectively compete or offer a superior alternative. This often involves building a significant ecosystem around the core offering, leveraging network effects, and continuously commoditizing any potential avenues for differentiation that might emerge 104.
 

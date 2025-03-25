@@ -1,5 +1,13 @@
 # Creating artificial needs
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 
 ### **Creating Artificial Needs**
 

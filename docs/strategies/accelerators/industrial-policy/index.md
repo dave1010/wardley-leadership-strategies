@@ -3,6 +3,13 @@
 
 **Industrial Policy**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** Aligning with or influencing **government investment and policy in an industry** to accelerate its growth . In simpler terms, it's leveraging state support -- such as funding, infrastructure, or protection -- for strategic advantage. This can be a national-level accelerator for certain technologies or sectors.
 
 **Detailed Explanation:** The origin of this concept is government-driven strategy: countries often choose sectors to promote (e.g., space, semiconductors). For a company, the strategy is to ride that wave -- or even steer it if possible. The purpose is to gain resources or legitimacy that would be hard to muster alone. Key principles: know the political agenda and frame your goals to match it ("what's good for my company is good for the country/region"). By doing so, you might get R&D grants, favorable regulations, or large procurement contracts. This **accelerates evolution** by injecting public funding and urgency (e.g., the government might push for quick progress for national interest).

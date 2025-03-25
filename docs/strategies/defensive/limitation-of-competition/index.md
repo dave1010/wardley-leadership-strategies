@@ -2,6 +2,15 @@
 
 **Limitation of Competition**
 
+
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** **Erecting barriers (regulatory or otherwise) to prevent or limit competitors** from entering or expanding . This is a broad strategy often achieved through non-market means -- essentially, **make it hard or impossible for others to compete** with you by changing the environment.
 
 **Detailed Explanation:** This overlaps with lobbying and defensive regulation: it's the outcome of those -- your market gets rules that favor you or burden others . It can also be done through industry standards or consortia that exclude some players. The purpose is straightforward: preserve your position by structurally **locking out competition**. Key principle: use whatever influence you have (be it with governments, standard bodies, big customers, etc.) to set conditions (licensing requirements, certifications, massive upfront costs) that you can meet and new entrants cannot. It's a decelerator because it **slows down the influx of new ideas/players** in your space.

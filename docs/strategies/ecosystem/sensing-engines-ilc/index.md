@@ -3,6 +3,14 @@
 
 **Sensing Engines (ILC)**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** Implementing an **Innovate-Leverage-Commoditize (ILC) ecosystem model** to use consumption data as a sensor for future successful innovations . In practice, be the first mover to commoditize a component, let others build on it, then use data from their usage (a sensing engine) to decide what to industrialize next .
 
 **Detailed Explanation:** ILC is Simon Wardley's concept: provide a platform (industrialize a component early), attract an ecosystem who innovates on top (they build novel higher-order services -- you Leverage this ecosystem), and watch (sense) which of those innovations gain traction. Then you Commoditize that successful innovation as the next component on your platform . It's a loop. The **sensing engine** is essentially the data/insight from ecosystem usage that guides what to do next. Purpose: continuously stay ahead by letting the market tell you what the next big thing is (via real usage signals) . Key principle: open up a platform early, encourage ecosystem (so lots of experiments happen), and have mechanisms (data analytics, close observation) to identify the winners. Then act decisively to integrate or reproduce that success within your offering.

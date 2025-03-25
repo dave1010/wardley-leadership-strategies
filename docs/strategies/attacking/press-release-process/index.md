@@ -3,6 +3,13 @@
 
 **Press Release Process**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** Using Amazon's famous **"working backwards" product development method** -- writing a press release and FAQ for a proposed product at the start -- to ensure clarity of vision and market fit . While not an attack on competitors per se, it's a leadership strategy to guarantee any initiative you undertake has a clear, compelling value proposition, effectively outmaneuvering competitors who might build less focused offerings.
 
 **Detailed Explanation:** Popularized by Amazon, the Press Release (PR) FAQ process forces teams to articulate the customer benefit, problem solved, and excitement factor of a new product as if launching it to the public . The idea is to **simulate the end state (launch) at the beginning**, aligning everyone on what success looks like. Key principles: focus on customer needs, simplicity of message, and clear differentiation (if you can't write an exciting press release, maybe the idea isn't exciting). Origins: Jeff Bezos mandated this to avoid building stuff with no market narrative. For leadership, this process ensures your strategy produces initiatives that can be communicated simply and attract buzz -- meaning you're more likely to build something customers actually want (which in turn is an offensive advantage over competitors building bloated or misaligned solutions).

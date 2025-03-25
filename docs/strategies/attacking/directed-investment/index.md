@@ -3,6 +3,13 @@
 
 **Directed Investment**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** Making a **targeted, venture-capital-style investment in a future change or emerging area** to outpace rivals . Think of it as placing a strategic bet: you funnel resources (money, talent, R&D) into a specific innovation or market you've identified as crucial.
 
 **Detailed Explanation:** Instead of spreading resources thin or waiting, you *direct* a substantial investment into something you believe will be key (like AI, quantum, a new market segment). Wardley likens it to a VC approach -- high-risk, high-reward bets on the future . Purpose: **seize first mover or intellectual lead** in that change, so when it matures, you are ahead and competitors are scrambling. Origins: corporate venturing, where companies create internal funds or initiatives (like Google X, or corporate VC arms) to pursue disruptive ideas. Key principle: identify the "where" (the future shift) from mapping climate patterns, then commit significant resources early.

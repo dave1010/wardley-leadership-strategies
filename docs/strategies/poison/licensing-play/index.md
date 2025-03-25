@@ -1,5 +1,13 @@
 # Licensing play
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 Licensing can weaponise control. By offering components or IP under restrictive terms (e.g. field-of-use limitations, revocable licences, patents with traps), you can limit how others build or scale.
 
 It creates a honeypot effect, drawing in others, only to trap them later. You appear open, but retain kill switches. Done right, it deters entry without obvious aggression.

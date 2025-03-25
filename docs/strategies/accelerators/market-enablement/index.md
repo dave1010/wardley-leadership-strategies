@@ -2,6 +2,13 @@
 
 **Market Enablement**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** Actively **encouraging the growth of a competitive market** around a component or service you care about . Instead of monopolizing, you enable others (even competitors) to enter, because a bigger market ultimately benefits you in some way.
 
 **Detailed Explanation:** This strategy might seem counterintuitive -- why encourage competition? Origins: companies realized that a larger pie can yield a larger slice even if share % is smaller. Purpose: **increase overall adoption** of an activity to create network effects or drive costs down. Key principle is creating an ecosystem or environment where multiple players can thrive, often through open standards, shared platforms, or nurturing user communities. For example, releasing supporting tools, holding conferences, providing funding or data -- anything that lowers the barrier for others to participate . The enabler often has a plan to capture value downstream (e.g., selling infrastructure or being the broker in that enabled market).

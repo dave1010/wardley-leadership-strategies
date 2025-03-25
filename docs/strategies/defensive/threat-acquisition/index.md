@@ -4,6 +4,14 @@
 Threat Acquisition: Buying Potential Competitors
 ------------------------------------------------
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### Explanation
 
 Threat acquisition, within the context of Wardley Maps, is a defensive strategy that involves an organization proactively identifying and subsequently acquiring companies that pose a potential threat to its existing market share, established competitive advantages, or anticipated future prospects 6. These threats can materialize in various forms, including innovative startups with disruptive technologies, established competitors entering new and strategically important market segments, or companies developing novel business models that could undermine the incumbent's position. The primary objective of threat acquisition is to neutralize these potential challenges by bringing the threatening entity, along with its valuable assets such as technology, skilled talent, and existing market share, directly under the control of the acquiring organization 10.

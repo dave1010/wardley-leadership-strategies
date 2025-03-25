@@ -2,6 +2,14 @@
 
 **Refactoring**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** Internally **reorganizing and repurposing components of a legacy system** to salvage value or reduce toxicity . Refactoring means breaking the old asset into parts, reassigning useful parts to new roles, and eliminating the rest -- akin to code refactoring in software, but applied to business assets.
 
 **Detailed Explanation:** Rather than outright disposal or sale, refactoring keeps the asset in-house but **transforms it**. Origin is from programming (improving internal structure without changing external behavior). In business, it might mean dividing a legacy operation into components: some can merge into other departments, some tasks automated or given new purpose, and only the truly unusable parts are shed. Purpose: *reduce losses and integrate leftover value* into the organization in a leaner way . Key principles: identify components (people, tech, processes) that can be useful elsewhere. For example, maybe the product is dead but the underlying database could support another service, or the team can be moved to a different project with slight retraining. By refactoring, you gradually wind down the old structure while not wasting everything.

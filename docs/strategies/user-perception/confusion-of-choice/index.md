@@ -1,6 +1,14 @@
 # Confusion of choice
 
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### **Confusion of Choice**
 
 **Definition & Summary:** Overwhelming customers with **too many options or complex choices** so that making a rational decision becomes difficult . By introducing confusion, you nudge users to either stick with the familiar or default option (often yours) or make suboptimal choices that favor you.

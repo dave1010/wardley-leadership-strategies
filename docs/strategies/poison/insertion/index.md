@@ -1,5 +1,13 @@
 # Insertion
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 Insertion exploits trust and perception.
 
 You might embed individuals (via hiring, partnerships, or influence) who subtly shift a competitor’s direction, or you flood the narrative with hype to lure them into false investments.

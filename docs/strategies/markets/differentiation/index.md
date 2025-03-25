@@ -1,5 +1,13 @@
 # Differentiation
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 Differentiation is only valuable when it’s visible to users and rooted in their actual needs, not in what the company wishes were valuable. Too many organisations mistakenly try to differentiate in industrialised spaces, where users care only about price and reliability.
 
 True differentiation comes in less-evolved spaces, where uncertainty exists and competitors haven’t fully met the need.

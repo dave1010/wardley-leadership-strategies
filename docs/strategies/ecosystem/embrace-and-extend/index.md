@@ -1,6 +1,15 @@
 # Embrace and extend
 
-Embrace and Extend:
+Embrace and Extend
+
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 
 Explanation and Definition:
 The Wardley Map strategy of embrace and extend is a deliberate and often aggressive tactic aimed at gaining dominance over an existing technology, standard, or ecosystem 34. It typically unfolds in three phases. First, the organization will "embrace" the existing and widely adopted technology or standard, often by developing products or services that are compatible with it or even initially reliant upon it. This allows the organization to enter the market and gain a foothold by leveraging the existing user base and infrastructure. Second, the organization will "extend" the embraced technology or standard by adding its own proprietary features, functionalities, or protocols that are not part of the original specification. These extensions often provide enhanced value or address perceived shortcomings of the original technology. Finally, the organization aims to leverage its extensions to eventually supplant the original technology or standard, effectively capturing the ecosystem and potentially marginalizing competitors who adhere to the original, unextended version 102. This strategy often involves subtle but significant deviations from the original standard, creating compatibility issues for those who do not adopt the extensions, thereby incentivizing users to switch to the embracing and extending organization's offerings for full functionality and seamless integration.

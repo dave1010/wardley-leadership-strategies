@@ -2,6 +2,13 @@
 
 **Open Approaches**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** **Making something open** -- be it open source software, open standards, open data, or open APIs -- to remove barriers to adoption and **accelerate the evolution** of that component . In short, using openness as a tool to drive an activity toward commodity or utility faster.
 
 **Detailed Explanation:** By open-sourcing or freely sharing a technology/practice, you encourage many others to build on it, collaborate, and drive its improvement. The purpose is to increase its adoption and commoditize it (which can commoditize someone else's advantage, or create a stable base for you to build higher-order systems). Key principles: eliminate proprietary friction -- e.g. cost, licensing, or integration hurdles -- so more users and contributors come on board . This often leads to network effects of development (many eyes improving the product) and competition shifting to new differentiators above the open layer. Many open approach strategies originate from wanting to undercut an incumbent or set a de facto standard.

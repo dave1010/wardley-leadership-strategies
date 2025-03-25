@@ -1,5 +1,13 @@
 # Fast Follower
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 Instead of burning resources exploring, you watch the early movers, learn from their mistakes, and move in once the path is clearer.
 
 The key is timing:

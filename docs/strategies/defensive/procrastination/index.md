@@ -3,6 +3,14 @@
 Procrastination: Do nothing and allowing competition to drive a system to a more evolved form.
 ----------------------------------------------------------------------------------------------
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### Explanation
 
 Procrastination, as a deliberate strategy within the Wardley Mapping framework, involves making a conscious decision to take no immediate action on a particular component or system and instead allowing competitors to drive its evolution towards a more mature and potentially more efficient form 7. This strategy is predicated on the understanding that the natural forces of supply and demand competition within the market will eventually push a component through the stages of evolution -- from novel and uncertain to more standardized and reliable -- without the need for the organization to expend significant resources in the early, often risky, phases of development 3. Essentially, the organization adopts a wait-and-see approach, allowing its competitors to bear the initial costs and risks associated with early-stage development and then strategically adopting the more evolved solution once it has been validated and refined by the market.

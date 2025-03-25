@@ -3,6 +3,14 @@
 
 **Undermining Barriers to Entry**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 **Definition & Summary:** **Identifying a major barrier to entry in a market and reducing or removing it** to encourage more competition . This is used offensively when the barrier favors an incumbent (often a competitor), and by knocking it down, you enable more players (including yourself) to compete.
 
 **Detailed Explanation:** Barriers to entry can be high cost, proprietary technology, distribution lock-in, etc. By undermining them -- e.g., via open-sourcing tech (removing proprietary advantage), offering a low-cost alternative, or finding a workaround to regulations -- you **open the floodgates of competition**. Why do this? If you're a challenger, reducing the incumbent's moat (barrier) levels the field. Also, a company might do this to stimulate a new ecosystem (like enabling startups to join -- similar to market enablement, but specifically targeting a barrier). Key principle: target the **one thing that keeps newcomers out** and neutralize it .

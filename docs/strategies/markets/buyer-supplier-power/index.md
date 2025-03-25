@@ -1,5 +1,13 @@
 # Buyer / supplier power
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 The dynamics between buyers and suppliers shift as a market evolves. In early phases, buyers often hold power due to limited supply and undefined standards. As commoditisation kicks in, suppliers gain power through economies of scale and switching costs.
 
 You can strengthen your position by vertically integrating, building dependency (e.g. data gravity), or owning key distribution channels. The goal is always to reduce others’ options while increasing your own. For example, make yourself a chokepoint. Open ecosystems often work here as Trojan horses: they look neutral but tilt buyer/supplier power towards you.

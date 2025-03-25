@@ -2,6 +2,13 @@
 
 **Centre of Gravity**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** **Building a focal point of talent or activity that attracts the best resources** to your organization . Offensively, it means creating such a concentration of expertise (or data, or customers) that the market orbits around you, giving you a sustained competitive edge.
 
 **Detailed Explanation:** The term comes from military strategy; here it's about being the gravitational center in an industry. The purpose is to **encourage a market focus on your organization** -- e.g., make your company the place top experts want to work, or where startups want to be acquired, or the platform everyone builds on. Key principle: invest in or acquire elements that increase your pull: flagship projects, thought leadership, perhaps location (like Silicon Valley effect). When successful, a centre of gravity strategy means even competitors feed into your momentum (e.g., by copying you or joining your ecosystem). It's a long-term play; origins in idea of clustering -- like how Cambridge or Stanford attract innovators.

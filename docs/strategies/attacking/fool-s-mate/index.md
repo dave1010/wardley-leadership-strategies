@@ -2,6 +2,13 @@
 
 **Fool's Mate**
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
 **Definition & Summary:** A **fast, nearly uncounterable strategic move leveraging a constraint** to force the "industrialization" (commoditization) of a higher-order system . It's dubbed "Fool's Mate" after the quickest checkmate in chess -- it *shouldn't* work if the opponent is competent, yet often does because the opponent doesn't see it coming or can't react in time .
 
 **Detailed Explanation:** Wardley described Fool's Mate in business as using a low-level component constraint to quickly upend an entire value chain . The idea is you spot a point in the map (usually a component the competitor isn't paying much attention to) that if commoditized (made freely or widely available), it wrecks the competitor's position above. It's "fool's" mate because it exploits the opponent's **lack of situational awareness** -- they're foolish to allow it, but they do . Key principle: hit *indirectly* at a weak link to cause a cascade. It's a sudden move (fast commoditization via open source or a standards push, for example) that the competitor never believed you'd make. Since they often don't understand what protected their offering, they fail to respond correctly .

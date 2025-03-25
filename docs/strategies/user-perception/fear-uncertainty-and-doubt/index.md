@@ -1,5 +1,13 @@
 # Fear, uncertainty and doubt
 
+:::warning
+
+This is an **early draft** and isn't yet up to our standard.
+You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+
+:::
+
+
 ### **Fear, Uncertainty, and Doubt (FUD)**
 
 **Definition & Summary:** A classic tactic of **spreading fear, uncertainty, and doubt** to slow adoption of a competitor's innovation or to dissuade customers from switching . FUD leverages negative messaging -- often subtle insinuations -- to exploit customer anxieties.
