@@ -126,7 +126,7 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 
 - [Cooperation](/strategies/accelerators/cooperation)
 - [Standards Game](/strategies/markets/standards-game)
-- [Center of Gravity](/strategies/attacking/center-of-gravity)
+- [Center of Gravity](/strategies/attacking/centre-of-gravity)
 
 ## 📚 Further Reading & References
 
