@@ -76,3 +76,78 @@ html {
   color: var(--ifm-footer-color);
   text-decoration: underline;
 }
+
+/* homepage */
+.hero--primary {
+  position: relative;
+  background-image: url('/img/knight-on-map.jpg');
+  background-size: cover;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white; /* ensure text is white */
+}
+
+.hero--primary::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(255, 255, 255, 0.7);
+  z-index: 1;
+}
+
+.hero--primary .container {
+  position: relative;
+  z-index: 2; /* bring text above overlay */
+}
+
+.hero__title, .hero__subtitle {
+  color: black;
+}
+
+.hero--primary .button--primary {
+  background-color: var(--ifm-color-primary);
+  color: white;
+}
+
+.hero--primary .button--primary:hover {
+  background-color: var(--ifm-heading-color);
+  color: white;
+}
+
+.hero--primary .button--secondary {
+  border-color: black;
+  color: black;
+}
+
+
+
+
+[data-theme='dark'] .hero--primary::before {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+[data-theme='dark'] .hero__title, [data-theme='dark']  .hero__subtitle {
+  color: white;
+}
+
+[data-theme='dark'] .hero--primary .button--primary {
+  background-color: var(--ifm-color-primary-darkest);
+  color: white;
+}
+
+[data-theme='dark'] .hero--primary .button--secondary {
+  background: black;
+  border-color: white;
+  color: white;
+}
+
+[data-theme='dark'] .hero--primary .button--primary:hover {
+  background-color: var(--ifm-heading-color);
+  color: white;
+}
+
+[data-theme='dark'] .hero--primary .button--secondary:hover {
+  background-color: var(--ifm-heading-color);
+  color: white;
+}
