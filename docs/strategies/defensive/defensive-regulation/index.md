@@ -11,6 +11,26 @@ You can [contribute improvements](https://github.com/dave1010/wardley-leadership
 :::
 
 
+Goal: Lock in your position; hinder others.
+
+Strategy: Direct pressure. Use government power to preserve an incumbent advantage. Often anti-competitive.
+
+Example: Telecom companies lobbying for licensing regimes that raise the barrier to entry.
+
+Key theme: Influence via control. You protect a position, regardless of merit to users.
+
+:::note
+
+Both Lobbying and Defensive Regulation are about using government as leverage to shape market conditions.
+
+- **[Lobbying](/strategies/user-perception/lobbying-counterplay)** is outward-facing: aligning with public interest to gain legitimacy. A common counterplay is to respond to a competitor's lobbying with lobbying of your own.
+- **Defensive Regulation** is inward-facing: using policy to entrench your position and restrict competition.
+
+:::
+
+
+
+
 ### Explanation
 
 Defensive regulation, within the context of Wardley Maps, refers to the strategic use of governmental bodies and regulations to create a protective barrier around a company's market, thereby impeding the progress of competitors and securing the incumbent's position 7. This gameplay involves actively engaging with governments to shape or enforce laws and regulations in a manner that benefits the organization, often by raising the costs or complexities for rivals to operate or enter the market 10. The aim is to establish constraints that make it more challenging for competitors to gain traction, innovate, or offer comparable value, thus safeguarding the incumbent's market share and profitability 10. This strategy acknowledges that businesses function within a larger ecosystem that includes regulatory authorities, and that a proactive and strategic engagement with this ecosystem can yield significant competitive advantages 3.

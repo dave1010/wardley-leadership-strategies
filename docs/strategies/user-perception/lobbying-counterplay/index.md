@@ -1,4 +1,4 @@
-# Lobbying / counterplay
+# Lobbying
 
 :::warning
 
@@ -6,6 +6,25 @@ This is an **early draft** and isn't yet up to our standard.
 You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
 
 :::
+
+Goal: Shape government perception to match user needs.
+
+Strategy: Indirect pressure. Use users as leverage to get favourable treatment. You lobby on behalf of users, or get users to lobby for you.
+
+Example: Open-source communities lobbying for open standards. The argument is "this benefits citizens/customers, so regulate in favour of it."
+
+Key theme: Influence via legitimacy. You earn a government position by aligning with what's seen as right or popular.
+
+
+:::note
+
+Both Lobbying and Defensive Regulation are about using government as leverage to shape market conditions.
+
+- **Lobbying** is outward-facing: aligning with public interest to gain legitimacy. A common counterplay is to respond to a competitor’s lobbying with lobbying of your own.
+- **[Defensive Regulation](/strategies/defensive/defensive-regulation)** is inward-facing: using policy to entrench your position and restrict competition.
+
+:::
+
 
 
 ### **Lobbying / Counterplay**
