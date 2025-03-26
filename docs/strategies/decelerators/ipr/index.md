@@ -1,4 +1,4 @@
-# IPR
+# Patents & Intellectual Property Rights
 
 
 **Patents & IPR (Intellectual Property Rights)**

@@ -15,17 +15,11 @@ Example: Open-source communities lobbying for open standards. The argument is "t
 
 Key theme: Influence via legitimacy. You earn a government position by aligning with what's seen as right or popular.
 
-
 :::note
 
-Both Lobbying and Defensive Regulation are about using government as leverage to shape market conditions.
-
-- **Lobbying** is outward-facing: aligning with public interest to gain legitimacy. A common counterplay is to respond to a competitor’s lobbying with lobbying of your own.
-- **[Defensive Regulation](/strategies/defensive/defensive-regulation)** is inward-facing: using policy to entrench your position and restrict competition.
+**Lobbying** is the action of influencing government. It is frequently the necessary precursor to enacting [**Defensive Regulation**](/strategies/defensive/defensive-regulation). Successful lobbying can create rules that directly contribute to the broader goal of [**Limitation of Competition**](/strategies/defensive/limitation-of-competition). However, lobbying can also pursue other goals, such as subsidies, favourable contracts, seeking regulatory backing or mandes for a technical standard ([**Standards Game**](/strategies/markets/standards-game)) and isn't always defensive or aimed at limiting competition directly.
 
 :::
-
-
 
 ### **Lobbying / Counterplay**
 

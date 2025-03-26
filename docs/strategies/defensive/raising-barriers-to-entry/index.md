@@ -10,6 +10,11 @@ You can [contribute improvements](https://github.com/dave1010/wardley-leadership
 
 :::
 
+:::note
+
+**Raising Barriers to Entry** is a specific *mechanism* for achieving [**Limitation of Competition**](/strategies/defensive/limitation-of-competition). Unlike [**Defensive Regulation**](/strategies/defensive/defensive-regulation), it operates through market dynamics and setting high customer expectations, making it impractical or too costly for rivals to compete effectively. It doesn't directly rely on government intervention, although the [**Standards Game**](/strategies/markets/standards-game) (potentially via [**Lobbying**](/strategies/user-perception/lobbying-counterplay) can contribute.
+
+:::
 
 ### Explanation
 
