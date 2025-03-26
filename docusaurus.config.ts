@@ -181,7 +181,8 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
 
   plugins: [
-    require.resolve('docusaurus-lunr-search')
+    require.resolve('docusaurus-lunr-search'),
+    '@docusaurus/plugin-vercel-analytics'
   ],
 };
 
