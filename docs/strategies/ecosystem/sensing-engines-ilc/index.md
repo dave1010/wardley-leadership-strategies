@@ -15,6 +15,19 @@ You can [contribute improvements](https://github.com/dave1010/wardley-leadership
 
 **Detailed Explanation:** ILC is Simon Wardley's concept: provide a platform (industrialize a component early), attract an ecosystem who innovates on top (they build novel higher-order services -- you Leverage this ecosystem), and watch (sense) which of those innovations gain traction. Then you Commoditize that successful innovation as the next component on your platform . It's a loop. The **sensing engine** is essentially the data/insight from ecosystem usage that guides what to do next. Purpose: continuously stay ahead by letting the market tell you what the next big thing is (via real usage signals) . Key principle: open up a platform early, encourage ecosystem (so lots of experiments happen), and have mechanisms (data analytics, close observation) to identify the winners. Then act decisively to integrate or reproduce that success within your offering.
 
+```mermaid
+flowchart TD
+    Innovate["Innovate<br/>(Genesis/Custom Build)"]
+    Leverage["Leverage<br/>(Use in new contexts)"]
+    Commoditise["Commoditise<br/>(Standardise/Industrialise)"]
+
+    Innovate --> Leverage
+    Leverage --> Commoditise
+    Commoditise --> Innovate
+
+    class Innovate,Leverage,Commoditise phase
+```
+
 **Real-World Examples:**
 
 -  *Cloud Computing (AWS):* Amazon Web Services effectively did this. They commoditized compute/storage with EC2/S3, then watched what customers did. Noticing many stood up databases on EC2, AWS sensed demand and launched Amazon RDS (database as a service) -- commoditizing the DB management. They saw usage of big data tools, launched Redshift, etc. AWS's ecosystem (startups building things) provided signals for AWS's own service roadmap. This sensing kept AWS ahead of competitors by focusing on proven needs.
