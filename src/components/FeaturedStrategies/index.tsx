@@ -16,7 +16,7 @@ type StrategyItem = {
 const StrategyList: StrategyItem[] = [
   {
     title: 'Cooperation',
-    Svg: require('@site/static/img/cooperation.svg').default,
+    Svg: require('@site/static/img/rowers.jpg').default,
     description: (
       <>
         Working with others, in partnerships, joint ventures, or industry collaborations, to achieve a common goal and create mutual value.
@@ -26,7 +26,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Exploiting Network Effects',
-    Svg: require('@site/static/img/network.svg').default,
+    Svg: require('@site/static/img/network.jpg').default,
     description: (
       <>
         Leveraging tactics that increase the value of your product as more users join, creating sustainable growth.
@@ -36,7 +36,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Ambush (Tech Drops)',
-    Svg: require('@site/static/img/ambush.svg').default,
+    Svg: require('@site/static/img/parachute.jpg').default,
     description: (
       <>
         Surprising competitors by introducing significant technological changes to the market
@@ -52,20 +52,23 @@ function Strategy({title, Svg, description, link}: StrategyItem) {
   return (
     <div className={clsx('col col--4')}>
       <Link to={link}>
-      <div className="card shadow--md margin-vert--md">
-        <div className="card__header text--center">
-          <Svg className={styles.featureSvg} role="img" />
-        </div>
-        <div className="card__body">
-          <h3>{title}</h3>
-          <p>{description}</p>
-        </div>
-        <div className="card__footer">
-          <button className="button button--secondary button--block">Learn more</button>
-        </div>
+        <div className="card shadow--md margin-vert--md">
+          <div className="text--center card__image">
+            {typeof Svg === 'string' ? (
+              <img src={Svg} alt={title} className={styles.featureImage} />
+            ) : (
+              <Svg className={styles.featureSvg} role="img" />
+            )}
+          </div>
+          <div className="card__body">
+            <h3>{title}</h3>
+            <p>{description}</p>
+          </div>
+          <div className="card__footer">
+            <button className="button button--secondary button--block">Learn more</button>
+          </div>
         </div>
       </Link>
-
     </div>
   );
 }
