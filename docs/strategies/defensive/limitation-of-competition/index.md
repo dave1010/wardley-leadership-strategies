@@ -10,8 +10,17 @@ You can [contribute improvements](https://github.com/dave1010/wardley-leadership
 
 :::
 
+> *Through regulatory or other means including erecting barriers to prevent or limit competitors.*
+>
+> -- Simon Wardley
 
-**Definition & Summary:** **Erecting barriers (regulatory or otherwise) to prevent or limit competitors** from entering or expanding . This is a broad strategy often achieved through non-market means -- essentially, **make it hard or impossible for others to compete** with you by changing the environment.
+:::note
+
+**Limitation of Competition** is often the overarching *goal*. Strategies like [**Defensive Regulation**](/strategies/defensive/defensive-regulation), [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry), acquiring patents ([**IPR**](/strategies/decelerators/ipr)), engaging in [**Threat Acquisition**](/strategies/defensive/threat-acquisition), or driving adoption of a proprietary or influenced standard ([**Standards Game**](/strategies/markets/standards-game)) are specific *methods* or *tactics* employed to achieve this outcome. It represents the desired state of reduced competitive pressure.
+
+:::
+
+**Definition & Summary:** **Erecting barriers (regulatory or otherwise) to prevent or limit competitors** from entering or expanding. This is a broad strategy often achieved through non-market means -- essentially, **make it hard or impossible for others to compete** with you by changing the environment.
 
 **Detailed Explanation:** This overlaps with lobbying and defensive regulation: it's the outcome of those -- your market gets rules that favor you or burden others . It can also be done through industry standards or consortia that exclude some players. The purpose is straightforward: preserve your position by structurally **locking out competition**. Key principle: use whatever influence you have (be it with governments, standard bodies, big customers, etc.) to set conditions (licensing requirements, certifications, massive upfront costs) that you can meet and new entrants cannot. It's a decelerator because it **slows down the influx of new ideas/players** in your space.
 

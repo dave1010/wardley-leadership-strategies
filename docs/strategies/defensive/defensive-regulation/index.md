@@ -21,15 +21,9 @@ Key theme: Influence via control. You protect a position, regardless of merit to
 
 :::note
 
-Both Lobbying and Defensive Regulation are about using government as leverage to shape market conditions.
-
-- **[Lobbying](/strategies/user-perception/lobbying-counterplay)** is outward-facing: aligning with public interest to gain legitimacy. A common counterplay is to respond to a competitor's lobbying with lobbying of your own.
-- **Defensive Regulation** is inward-facing: using policy to entrench your position and restrict competition.
+**Defensive Regulation** is a specific *mechanism* for achieving [**Limitation of Competition**](/strategies/defensive/limitation-of-competition). Regulations can take many forms, including mandating specific technical standards, which is often the desired outcome of playing the [**Standards Game**](/strategies/markets/standards-game) via [**Lobbying**](/strategies/user-perception/lobbying-counterplay). It differs significantly from [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry), which manipulates market expectations and product complexity rather than legal rules.
 
 :::
-
-
-
 
 ### Explanation
 
