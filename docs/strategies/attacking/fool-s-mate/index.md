@@ -1,3 +1,7 @@
+---
+tags: [attacking, industrialization, commoditization, constraints]
+---
+
 # Fool's mate
 
 **Fool's Mate**

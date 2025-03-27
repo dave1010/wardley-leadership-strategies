@@ -1,3 +1,7 @@
+---
+tags: [accelerators, markets, adoption, competition]
+---
+
 # Market enablement
 
 **Market Enablement**

@@ -1,3 +1,7 @@
+---
+tags: [competitor, misdirection, deception, assumptions]
+---
+
 # Misdirection
 
 **Deliberately sending false or misleading signals to competitors to obscure your true intentions**.

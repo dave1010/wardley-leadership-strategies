@@ -1,3 +1,8 @@
+---
+tags: [accelerators, open, collaboration, community]
+---
+
+
 # Open approaches
 
 **Open Approaches**

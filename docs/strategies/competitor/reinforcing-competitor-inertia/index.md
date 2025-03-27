@@ -1,3 +1,7 @@
+---
+tags: [competitor, inertia, change, resistance]
+---
+
 # Reinforcing Competitor Inertia
 
 **Exploiting a competitor's reluctance or inability to change**.

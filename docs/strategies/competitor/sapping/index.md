@@ -1,3 +1,7 @@
+---
+tags: [competitor, sapping, multi-front, attrition, endurance]
+---
+
 # Sapping
 
 **Attacking a competitor on multiple fronts simultaneously to weaken their capacity to respond**.
