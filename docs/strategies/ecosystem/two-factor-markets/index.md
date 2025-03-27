@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Two factor markets
 
 Two Factor Markets

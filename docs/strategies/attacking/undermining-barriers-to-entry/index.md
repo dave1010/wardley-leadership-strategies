@@ -1,5 +1,5 @@
 ---
-tags: [attacking, barriers, inertia, competition, open source
+tags: [attacking, barriers, inertia, competition, open source]
 ---
 
 # Undermining barriers to entry

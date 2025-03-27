@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Signal distortion
 
 :::warning

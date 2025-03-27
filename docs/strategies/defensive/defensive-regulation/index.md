@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Defensive regulation
 
 Defensive Regulation: Using Government to Protect Your Market

@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Channel Conflicts
 
 Channel Conflicts & Disintermediation

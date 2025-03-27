@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Standards game
 
 **A strategy focused on making your technology, process, or specification the dominant benchmark in a market, thereby disadvantaging competitors who use alternatives.**

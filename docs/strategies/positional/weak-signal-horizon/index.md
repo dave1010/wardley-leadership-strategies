@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Weak Signal (Horizon)
 
 :::warning

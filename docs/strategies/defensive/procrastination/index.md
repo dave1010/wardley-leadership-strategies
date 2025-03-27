@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Procrastination
 
 Procrastination: Do nothing and allowing competition to drive a system to a more evolved form.

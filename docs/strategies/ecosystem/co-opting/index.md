@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Co-opting
 
 **Adopting or mimicking aspects of another group or competitor to neutralise threats, gain influence, or draw converts—without full alignment.**

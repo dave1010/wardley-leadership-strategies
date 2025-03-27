@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Fear, uncertainty and doubt
 
 :::warning

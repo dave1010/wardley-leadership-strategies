@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Confusion of choice
 
 

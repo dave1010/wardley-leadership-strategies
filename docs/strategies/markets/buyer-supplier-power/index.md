@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Buyer / supplier power
 
 :::warning

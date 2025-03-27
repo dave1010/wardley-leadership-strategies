@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Managing inertia
 
 Managing Inertia: Countering Resistance to Change

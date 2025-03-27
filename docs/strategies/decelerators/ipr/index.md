@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Patents & Intellectual Property Rights
 
 
