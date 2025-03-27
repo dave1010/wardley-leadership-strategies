@@ -1,5 +1,5 @@
 ---
-tags: [competitor, circling, probing, exploration, experimentation]
+tags: [circling-and-probing, competitor, circling, probing, exploration, experimentation, market testing, intelligence]
 ---
 
 # Circling and Probing

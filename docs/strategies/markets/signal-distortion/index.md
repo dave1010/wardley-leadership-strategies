@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [signal-distortion, markets, perception, information warfare, competitors, influence, hype]
 ---
 
 # Signal distortion

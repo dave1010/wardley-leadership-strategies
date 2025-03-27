@@ -1,5 +1,5 @@
 ---
-tags: [competitor, misdirection, deception, assumptions]
+tags: [misdirection, competitor, deception, assumptions, signals, influence, competitor intelligence]
 ---
 
 # Misdirection

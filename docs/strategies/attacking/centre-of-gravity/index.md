@@ -1,5 +1,5 @@
 ---
-tags: [attacking, talent]
+tags: [centre-of-gravity, attacking, talent, ecosystem, innovation, expertise, influence, attraction]
 ---
 
 # Centre of gravity

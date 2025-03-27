@@ -1,5 +1,5 @@
 ---
-tags: [competitor, circling, ecosystem, cornering]
+tags: [restriction-of-movement, competitor, circling, ecosystem, cornering, constraint, control, limitation]
 ---
 
 # Restriction of Movement

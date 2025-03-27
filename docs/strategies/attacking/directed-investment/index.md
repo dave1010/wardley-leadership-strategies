@@ -1,5 +1,5 @@
 ---
-tags: [attacking, investment, outpacing]
+tags: [directed-investment, attacking, investment, innovation, venture capital, strategic bets, first mover, disruption]
 ---
 
 # Directed investment

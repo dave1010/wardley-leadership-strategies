@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [co-opting, ecosystem, influence, absorption, competition, neutralization, standards, ecosystem control]
 ---
 
 # Co-opting

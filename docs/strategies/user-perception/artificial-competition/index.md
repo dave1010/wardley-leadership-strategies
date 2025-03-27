@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [artificial-competition, user-perception, illusion of choice, market control, branding, monopoly avoidance]
 ---
 
 # Artificial competition

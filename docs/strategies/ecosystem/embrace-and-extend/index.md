@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [embrace-and-extend, ecosystem, standards, competition, dominance, proprietary extensions, lock-in, microsoft]
 ---
 
 # Embrace and extend

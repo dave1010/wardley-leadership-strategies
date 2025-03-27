@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [creating-constraints, decelerators, constraint, bottleneck, supply chain, regulation, exclusivity, control]
 ---
 
 # Creating constraints

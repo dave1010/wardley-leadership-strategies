@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [fast-follower, positional, timing, execution, imitation, learning, market entry]
 ---
 
 # Fast Follower

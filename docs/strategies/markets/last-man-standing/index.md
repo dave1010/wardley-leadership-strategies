@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [last-man-standing, markets, commoditisation, attrition, scale, efficiency, price war, market consolidation]
 ---
 
 # Last Man Standing

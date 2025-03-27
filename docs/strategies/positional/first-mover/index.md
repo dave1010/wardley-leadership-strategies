@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [first-mover, positional, timing, commoditisation, advantage, ecosystem, scale]
 ---
 
 # First Mover

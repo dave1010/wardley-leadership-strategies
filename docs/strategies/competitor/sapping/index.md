@@ -1,5 +1,5 @@
 ---
-tags: [competitor, sapping, multi-front, attrition, endurance]
+tags: [sapping, competitor, multi-front, attrition, endurance, resource drain, distraction]
 ---
 
 # Sapping

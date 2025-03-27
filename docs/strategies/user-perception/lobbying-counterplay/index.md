@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [lobbying-counterplay, user-perception, lobbying, regulation, policy, influence, government relations]
 ---
 
 # Lobbying

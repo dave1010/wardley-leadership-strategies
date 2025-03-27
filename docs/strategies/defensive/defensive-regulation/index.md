@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [defensive-regulation, defensive, regulation, policy, lobbying, barriers to entry, incumbents, compliance]
 ---
 
 # Defensive regulation

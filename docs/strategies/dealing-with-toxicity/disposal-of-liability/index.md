@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [disposal-of-liability, dealing-with-toxicity, legacy, divestment, shutdown, inertia, obsolescence]
 ---
 
 # Disposal of liability

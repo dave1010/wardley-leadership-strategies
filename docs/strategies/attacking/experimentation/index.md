@@ -1,5 +1,5 @@
 ---
-tags: [attacking, experimentation, innovation, culture]
+tags: [experimentation, attacking, innovation, culture, skunkworks, hackathons, rapid iteration, learning]
 ---
 
 # Experimentation

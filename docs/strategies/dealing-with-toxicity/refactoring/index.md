@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [refactoring, dealing-with-toxicity, legacy, transformation, reuse, reorganization, internal disposal]
 ---
 
 # Refactoring

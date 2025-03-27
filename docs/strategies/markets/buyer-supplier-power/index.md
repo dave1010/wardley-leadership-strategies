@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [buyer-supplier-power, markets, power dynamics, negotiation, value chain, leverage, commoditisation]
 ---
 
 # Buyer / supplier power

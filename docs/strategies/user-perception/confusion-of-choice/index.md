@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [confusion-of-choice, user-perception, choice overload, complexity, inertia, comparison prevention]
 ---
 
 # Confusion of choice

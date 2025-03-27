@@ -1,7 +1,7 @@
 ---
 title: Cooperation
 description: Working with others, even competitors, to achieve a goal.
-tags: [accelerators, collaboration, partnerships, competition]
+tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
 ethical_alignment: Medium
 leadership_skills_needed: [Trust-Building, Negotiation, Strategic Thinking]
 related_strategies:

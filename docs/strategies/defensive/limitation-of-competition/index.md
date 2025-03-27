@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [limitation-of-competition, defensive, barriers, regulation, anti-competitive, market control, incumbents]
 ---
 
 # Limitation of Competition

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [threat-acquisition, defensive, acquisition, mtags: []a, competition, neutralization, market consolidation]
 ---
 
 # Threat acquisition

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [differentiation, markets, value proposition, uniqueness, user needs, competition, positioning]
 ---
 
 # Differentiation

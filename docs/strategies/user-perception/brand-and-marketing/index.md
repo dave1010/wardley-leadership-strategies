@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [brand-and-marketing, user-perception, branding, marketing, positioning, customer loyalty, messaging]
 ---
 
 # Brand and marketing

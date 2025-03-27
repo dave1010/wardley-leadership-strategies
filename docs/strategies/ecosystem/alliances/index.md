@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, collective action, cooperation]
 ---
 
 # Alliances
