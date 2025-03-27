@@ -1,3 +1,7 @@
+---
+tags: [attacking, markets, standards, arbitrage, uncertainty]
+---
+
 # Playing both sides
 
 **Playing Both Sides**

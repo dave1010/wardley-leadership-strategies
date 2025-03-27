@@ -1,3 +1,7 @@
+---
+tags: [attacking, marketing]
+---
+
 # Press release process
 
 

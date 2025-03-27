@@ -1,3 +1,7 @@
+---
+tags: [attacking, talent]
+---
+
 # Centre of gravity
 
 **Centre of Gravity**

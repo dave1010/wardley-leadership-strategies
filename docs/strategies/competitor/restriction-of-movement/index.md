@@ -1,3 +1,7 @@
+---
+tags: [competitor, circling, ecosystem, cornering]
+---
+
 # Restriction of Movement
 
 **Limiting a rival's ability to maneuver or adapt**.

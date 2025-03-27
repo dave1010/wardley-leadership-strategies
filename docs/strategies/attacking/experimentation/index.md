@@ -1,3 +1,7 @@
+---
+tags: [attacking, experimentation, innovation, culture]
+---
+
 # Experimentation
 
 **Experimentation**

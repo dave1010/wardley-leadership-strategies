@@ -1,3 +1,7 @@
+---
+tags: [competitor, circling, probing, exploration, experimentation]
+---
+
 # Circling and Probing
 
 **Testing the waters in a competitor’s territory through small-scale incursions.**

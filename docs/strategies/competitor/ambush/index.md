@@ -1,3 +1,7 @@
+---
+tags: [competitor, ambush, surprise, innovation, technology, tech drop]
+---
+
 # Ambush
 
 **Surprising competitors with significant and unexpected technological advances.**

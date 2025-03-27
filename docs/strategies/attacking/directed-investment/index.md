@@ -1,3 +1,7 @@
+---
+tags: [attacking, investment, outpacing]
+---
+
 # Directed investment
 
 

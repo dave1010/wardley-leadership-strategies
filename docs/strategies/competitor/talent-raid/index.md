@@ -1,3 +1,7 @@
+---
+tags: [competitor, talent, human resources, acquisition]
+---
+
 # Talent Raid
 
 **Removing or absorbing key talent from a rival organization**.

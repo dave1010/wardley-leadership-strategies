@@ -1,3 +1,7 @@
+---
+tags: [competitor, fragmentation, markets, underdog, disruption]
+---
+
 # Fragmentation Play
 
 **Splintering a rival's market to erode their stronghold**.
