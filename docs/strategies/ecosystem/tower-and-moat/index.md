@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Tower and moat
 
 Tower and Moat

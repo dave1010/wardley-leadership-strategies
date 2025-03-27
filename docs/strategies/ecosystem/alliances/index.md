@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Alliances
 
 :::note

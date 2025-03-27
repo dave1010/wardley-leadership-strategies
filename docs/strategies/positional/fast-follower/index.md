@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Fast Follower
 
 :::warning

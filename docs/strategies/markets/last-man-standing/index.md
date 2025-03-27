@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Last Man Standing
 
 :::warning

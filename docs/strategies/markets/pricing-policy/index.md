@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Pricing policy
 
 :::warning

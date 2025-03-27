@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Limitation of Competition
 
 **Limitation of Competition**

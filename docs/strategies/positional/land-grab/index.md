@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Land Grab
 
 :::warning

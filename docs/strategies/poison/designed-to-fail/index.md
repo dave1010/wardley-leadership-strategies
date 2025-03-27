@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Designed to fail
 
 :::warning

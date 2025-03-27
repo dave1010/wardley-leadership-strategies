@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Creating artificial needs
 
 :::warning

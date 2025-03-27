@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Raising barriers to entry
 
 Raising Barriers to Entry: Increasing Expectations within a market for a range of user needs to be met in order to prevent others entering the market.

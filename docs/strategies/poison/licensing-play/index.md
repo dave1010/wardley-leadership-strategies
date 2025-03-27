@@ -1,3 +1,7 @@
+---
+tags: []
+---
+
 # Licensing play
 
 :::warning
