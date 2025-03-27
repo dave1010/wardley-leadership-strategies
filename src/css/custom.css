@@ -151,3 +151,24 @@ html {
   background-color: var(--ifm-heading-color);
   color: white;
 }
+
+/* Links to strategies. this applies to all links that start with `/strategies/` */
+article a[href^='/strategies/'] {
+  font-weight: bold;
+}
+article a[href^='/strategies/']::before {
+  content: '♘';
+  font-size: 1.4em;
+  margin-right: 0.1em;
+  line-height: 0; /* ensure the large font doesnt affect the layout */
+}
+
+/**external links*/
+article a[href^='http']::after {
+  content: '↗';
+  font-size: 1.5em;
+  font-family:monospace;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 0.2em;
+}
