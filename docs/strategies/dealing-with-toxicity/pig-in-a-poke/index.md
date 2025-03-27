@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [pig-in-a-poke, dealing-with-toxicity, legacy, divestment, deception, misrepresentation, exit strategy]
 ---
 
 # Pig in a poke

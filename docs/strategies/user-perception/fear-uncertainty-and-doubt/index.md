@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [fear-uncertainty-and-doubt, user-perception, fud, competition, messaging, risk perception, slowing adoption]
 ---
 
 # Fear, uncertainty and doubt

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [bundling, user-perception, packaging, adoption, hiding disadvantage, pricing]
 ---
 
 # Bundling

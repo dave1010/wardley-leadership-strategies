@@ -1,5 +1,5 @@
 ---
-tags: [accelerators, markets, adoption, competition]
+tags: [market-enablement, accelerators, markets, adoption, competition, ecosystem, open standards]
 ---
 
 # Market enablement

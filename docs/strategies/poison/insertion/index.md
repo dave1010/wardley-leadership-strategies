@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [insertion, poison, sabotage, influence, misdirection, competitor manipulation, disruption]
 ---
 
 # Insertion

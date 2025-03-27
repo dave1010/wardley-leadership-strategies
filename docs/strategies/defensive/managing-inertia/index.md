@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [managing-inertia, defensive, inertia, change management, adaptation, organizational change, resistance]
 ---
 
 # Managing inertia

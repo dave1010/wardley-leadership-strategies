@@ -1,5 +1,5 @@
 ---
-tags: [competitor, ambush, surprise, innovation, technology, tech drop]
+tags: [ambush, competitor, surprise, innovation, technology, tech drop, disruption]
 ---
 
 # Ambush

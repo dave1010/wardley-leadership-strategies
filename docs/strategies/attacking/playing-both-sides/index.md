@@ -1,5 +1,5 @@
 ---
-tags: [attacking, markets, standards, arbitrage, uncertainty]
+tags: [playing-both-sides, attacking, markets, standards, arbitrage, uncertainty, hedging, neutrality]
 ---
 
 # Playing both sides

@@ -1,5 +1,5 @@
 ---
-tags: [competitor, fragmentation, markets, underdog, disruption]
+tags: [fragmentation-play, competitor, fragmentation, markets, underdog, disruption, divide and conquer]
 ---
 
 # Fragmentation Play

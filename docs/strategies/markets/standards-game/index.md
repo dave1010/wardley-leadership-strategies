@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [standards-game, markets, standards, dominance, competition, differentiation, switching costs, lock-in]
 ---
 
 # Standards game

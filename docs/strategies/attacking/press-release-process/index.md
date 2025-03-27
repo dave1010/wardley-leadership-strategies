@@ -1,5 +1,5 @@
 ---
-tags: [attacking, marketing]
+tags: [press-release-process, attacking, marketing, product development, working backwards, customer focus, amazon, clarity]
 ---
 
 # Press release process

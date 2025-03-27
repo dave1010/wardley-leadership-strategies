@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [harvesting, markets, ecosystem, innovation, scaling, acquisition, replication, platform strategy]
 ---
 
 # Harvesting

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [designed-to-fail, poison, sabotage, denial, misdirection, ecosystem manipulation]
 ---
 
 # Designed to fail

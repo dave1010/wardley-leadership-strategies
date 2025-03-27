@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [two-factor-markets, ecosystem, platform, marketplace, network effects, providers, consumers, data aggregation]
 ---
 
 # Two factor markets

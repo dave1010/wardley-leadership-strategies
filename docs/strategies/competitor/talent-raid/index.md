@@ -1,5 +1,5 @@
 ---
-tags: [competitor, talent, human resources, acquisition]
+tags: [talent-raid, competitor, talent, human resources, acquisition, poaching, expertise, weakening rivals]
 ---
 
 # Talent Raid

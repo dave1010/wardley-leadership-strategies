@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [ipr, decelerators, patents, intellectual property, legal barriers, slowing competition, licensing]
 ---
 
 # Patents & Intellectual Property Rights

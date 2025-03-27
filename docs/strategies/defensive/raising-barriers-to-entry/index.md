@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [raising-barriers-to-entry, defensive, barriers, competition, incumbents, market expectations, complexity]
 ---
 
 # Raising barriers to entry

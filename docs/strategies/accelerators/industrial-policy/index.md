@@ -1,5 +1,5 @@
 ---
-tags: [accelerators, policy, government]
+tags: [industrial-policy, accelerators, policy, government, subsidies, regulation, strategic sectors]
 ---
 
 # Industrial policy

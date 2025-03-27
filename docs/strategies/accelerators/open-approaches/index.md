@@ -1,5 +1,5 @@
 ---
-tags: [accelerators, open, collaboration, community]
+tags: [open-approaches, accelerators, open source, open standards, open data, collaboration, community, commoditisation]
 ---
 
 

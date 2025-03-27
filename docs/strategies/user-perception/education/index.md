@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [education, user-perception, inertia, adoption, awareness, information, training]
 ---
 
 # Education

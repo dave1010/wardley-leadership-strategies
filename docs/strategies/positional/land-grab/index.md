@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [land-grab, positional, market entry, early mover, dominance, infrastructure, ecosystem control]
 ---
 
 # Land Grab

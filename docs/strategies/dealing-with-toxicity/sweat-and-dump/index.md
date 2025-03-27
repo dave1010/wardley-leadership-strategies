@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [sweat-and-dump, dealing-with-toxicity, legacy, outsourcing, third party, exit strategy, cost reduction]
 ---
 
 # Sweat and Dump

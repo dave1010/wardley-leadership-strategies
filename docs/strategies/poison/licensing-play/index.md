@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [licensing-play, poison, licensing, control, ipr, restriction, lock-in, trap]
 ---
 
 # Licensing play

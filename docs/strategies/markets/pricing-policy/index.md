@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [pricing-policy, markets, pricing, elasticity, demand manipulation, value capture, commoditisation]
 ---
 
 # Pricing policy

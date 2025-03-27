@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [creating-artificial-needs, user-perception, demand generation, marketing, consumer behavior, influencing desires]
 ---
 
 # Creating artificial needs
