@@ -1,5 +1,5 @@
 ---
-tags: [undermining-barriers-to-entry, attacking, barriers, inertia, competition, open source, disruption, challenger]
+tags: [undermining-barriers-to-entry, attacking, barriers to entry, inertia, competition, open source, open approaches, disruption, challenger]
 ---
 
 # Undermining barriers to entry

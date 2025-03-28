@@ -1,5 +1,5 @@
 ---
-tags: [co-creation, ecosystem, collaboration, user involvement, customer feedback, open innovation, community]
+tags: [co-creation, ecosystem, collaboration, user involvement, customer feedback, innovation, community]
 ---
 
 # Co-creation

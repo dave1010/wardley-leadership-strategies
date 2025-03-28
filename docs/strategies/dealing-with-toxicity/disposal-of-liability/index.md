@@ -1,5 +1,5 @@
 ---
-tags: [disposal-of-liability, dealing-with-toxicity, legacy, divestment, shutdown, inertia, obsolescence]
+tags: [dealing-with-toxicity, legacy, divestment, shutdown, inertia, obsolescence, exit strategy]
 ---
 
 # Disposal of liability

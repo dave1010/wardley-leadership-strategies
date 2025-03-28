@@ -1,5 +1,5 @@
 ---
-tags: [sensing-engines-ilc, ecosystem, innovate leverage commoditize, ilc, platform, data, feedback loop, ecosystem monitoring]
+tags: [sensing-engines-ilc, ecosystem, innovate leverage commoditize, ilc, innovate, platform, data, feedback loop, ecosystem monitoring]
 ---
 
 # Sensing Engines (ILC)
