@@ -1,5 +1,5 @@
 ---
-tags: [fool-s-mate, attacking, industrialization, commoditization, constraints, surprise, chess analogy, disruption]
+tags: [fool-s-mate, attacking, industrialization, commoditisation, constraint, surprise, chess analogy, disruption]
 ---
 
 # Fool's mate

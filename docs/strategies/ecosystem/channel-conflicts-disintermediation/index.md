@@ -1,5 +1,5 @@
 ---
-tags: [channel-conflicts-disintermediation, ecosystem, channel conflict, disintermediation, distribution, direct to consumer, partners, leverage]
+tags: [channel-conflicts-disintermediation, ecosystem, channel conflict, disintermediation, distribution, consumers, partners, leverage]
 ---
 
 # Channel Conflicts

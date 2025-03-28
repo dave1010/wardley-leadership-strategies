@@ -1,5 +1,5 @@
 ---
-tags: [reinforcing-competitor-inertia, competitor, inertia, change, resistance, obsolescence, innovator dilemma]
+tags: [reinforcing-competitor-inertia, competitor, inertia, change, resistance, obsolescence, innovation]
 ---
 
 # Reinforcing Competitor Inertia

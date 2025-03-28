@@ -1,5 +1,5 @@
 ---
-tags: [weak-signal-horizon, positional, sensing, anticipation, foresight, market shifts, patterns]
+tags: [weak-signal-horizon, positional, sensing, anticipation, foresight, market shifts, patterns, signals]
 ---
 
 # Weak Signal (Horizon)

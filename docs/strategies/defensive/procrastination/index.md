@@ -1,5 +1,5 @@
 ---
-tags: [procrastination, defensive, waiting, fast follower, risk mitigation, cost saving, observation]
+tags: [procrastination, defensive, waiting, fast follower, risk mitigation, cost reduction, observation]
 ---
 
 # Procrastination

@@ -1,5 +1,5 @@
 ---
-tags: [tower-and-moat, ecosystem, dominance, defensibility, barriers, platform, network effects, commoditisation]
+tags: [tower-and-moat, ecosystem, dominance, defensive, barriers to entry, platform, network effects, commoditisation]
 ---
 
 # Tower and moat
