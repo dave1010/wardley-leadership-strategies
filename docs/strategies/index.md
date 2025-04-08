@@ -6,7 +6,7 @@ sidebar_position: 1
 
 :::tip
 
-Browse the stragies by category using the site menu, or use the site search.
+Browse the stragies by category using the site menu, or use the site search or browse by [tags](/tags).
 
 :::
 
