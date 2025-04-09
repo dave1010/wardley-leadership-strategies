@@ -46,6 +46,36 @@ const StrategyList: StrategyItem[] = [
     ),
     link: '/strategies/competitor/ambush',
   },
+  {
+    title: 'Refactoring',
+    Svg: require('@site/static/img/refactoring.jpg').default,
+    description: (
+      <>
+        Internally breaking apart, reorganizing and repurposing components of a legacy system to salvage value or reduce toxicity.
+      </>
+    ),
+    link: '/strategies/dealing-with-toxicity/refactoring/'
+  },
+  {
+    title: 'Artificial Competition',
+    Svg: require('@site/static/img/artificial-competition.jpg').default,
+    description: (
+      <>
+        Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.
+      </>
+    ),
+    link: '/strategies/user-perception/artificial-competition'
+  },
+  {
+    title: 'Fragmentation Play',
+    Svg: require('@site/static/img/fragmentation.jpg').default,
+    description: (
+      <>
+        Undermine a competitor by changing the market dynamics around them, fragmenting their stronghold into smaller pieces.
+      </>
+    ),
+    link: '/strategies/competitor/fragmentation-play'
+  }
 ];
 
 function Strategy({title, Svg, description, link}: StrategyItem) {
