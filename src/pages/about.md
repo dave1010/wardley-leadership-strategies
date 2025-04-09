@@ -2,7 +2,7 @@
 title: About
 ---
 
-# About Wardley Mapping Strategies
+# About Wardley Leadership Strategies
 
 This guide is a comprehensive resource for applying strategic plays (gameplays) within the framework of Wardley Mapping.  It builds upon the work of [Simon Wardley](https://www.linkedin.com/in/simonwardley/), providing practical guidance on [over 60 business and organizational leadership strategies](/strategies).
 
