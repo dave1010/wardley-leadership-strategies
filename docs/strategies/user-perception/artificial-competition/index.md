@@ -1,47 +1,147 @@
 ---
+title: Artificial Competition
+description: Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.
 tags: [artificial-competition, user-perception, illusion of choice, market control, branding, monopoly avoidance]
 ---
 
-# Artificial competition
+**Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.**
 
-:::warning
+> *"Creating two competing bodies to become the focus of competition and in effect driving oxygen out of a market."*
+>
+> - Simon Wardley
 
-This is an **early draft** and isn't yet up to our standard.
-You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+## 🤔 **Explanation**
 
-:::
+### What is Artificial Competition?
+
+Artificial competition is a strategy where an organisation creates or supports a secondary entity that appears to compete with its own offerings. The two entities—though ultimately controlled or influenced by the same leadership—are positioned as rivals. This illusion reshapes market perception, giving the appearance of healthy competition while maintaining internal control.
+
+The core aim is to dominate the competitive narrative. By filling the competitive space with a proxy, an organisation can divert attention, reduce the threat of genuine challengers and frame customer choice around controlled options.
+
+Key principles include:
+
+- **Plausible independence:** The secondary entity must appear autonomous. Brand identity, leadership, and operations should be clearly distinct, even if the ownership is not.
+- **Overlap in market focus:** Both entities should target the same user segments, making it harder for true outsiders to gain a foothold.
+- **Narrative control:** The existence of “competition” allows the parent to steer public discourse, influence regulation, and neutralise scrutiny.
 
 
-### **Artificial Competition**
+### Why use Artificial Competition?
 
-**Definition & Summary:** Creating the **illusion of competition** by establishing or funding a secondary entity that competes with your own offerings . This play convinces customers (and regulators) that they have choice, while you ultimately control or benefit from both options.
+Used effectively, artificial competition offers multiple layers of strategic benefit:
 
-**Detailed Explanation:** The idea originates from observing that customers fear vendor lock-in. To alleviate that and avoid anti-monopoly scrutiny, a company might set up a dummy competitor or a separate brand so that it appears the market isn't dominated by one player . Key purpose: **drive "oxygen" out of the market** for any *real* third competitor by focusing the fight between two entities that you influence . Essentially, you're hedging -- you win no matter which of the two competitors a customer chooses, because both are yours (or one is secretly yours). Principles include maintaining plausible independence (customers shouldn't easily realize the two are related) and targeting the same user group with both so true outsiders struggle to gain share.
+- Regulatory positioning: In sectors prone to monopoly concerns, creating the perception of competition can deflect legal and public scrutiny.
+- Market insulation: By pre-occupying the competitive space, leaders can delay or prevent disruptive new entrants.
+- Strategic hedging: Maintaining two brands with different positioning provides flexibility. One can take risks or test innovations while the other maintains stability.
+- Customer trust through illusion of choice: People are more likely to trust a marketplace with visible competition. Even when orchestrated, the perception alone can improve customer confidence and brand legitimacy.
 
-**Real-World Examples:**
+This is about **shaping the environment in which decisions are made**. Skilled leaders use this strategy to create optionality, reduce volatility, and consolidate advantage
 
--  *Historical:* The consumer electronics retailers **MediaMarkt and Saturn** in Europe are fierce retail "competitors" in the public eye, but in reality belong to the *same holding company* . This artificial competition strategy keeps customers bouncing between the two chains (thinking they have choice), effectively blocking out other entrants and keeping market share within the holding company's control.
+## 🗺️ **Real-World Examples**
 
--  *Hypothetical:* A dominant enterprise software firm fears a move to open-source alternatives. It sponsors an "independent" open-source project that competes with its own product, ensuring it addresses customer desire for open solutions. Customers see two options (one proprietary, one open) and feel competition exists, but since the firm influences the open project's direction and support contracts, it captures value either way and prevents a truly independent open-source competitor from rising.
+### MediaMarkt and Saturn
 
-**When to Use / When to Avoid:**
+The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
 
--  **Use when:** You have a large market share and customers or regulators are starting to voice concern about monopoly or lack of options. It's also used when you foresee a segment of customers preferring an alternative approach -- better you provide that alternative yourself than let a rival do it. **Use to pre-empt new entrants** by owning both sides of a competitive narrative.
+## 🚦 **When to Use / When to Avoid**
 
--  **Avoid when:** Maintaining two entities is too costly or complex (not every company can afford redundant operations). Also avoid if transparency is high in your industry -- if it's easily discovered that the two "competitors" are affiliated, trust can erode badly.
+### Use when
 
-**Common Pitfalls:**
+- You hold significant market share and face monopoly concerns.
+- You anticipate customer demand for alternative approaches.
+- You aim to pre-empt new entrants by controlling the competitive narrative.
 
--  **Exposure:** If customers or regulators discover the ruse, it can create backlash (e.g. "astroturfing" accusations).
+### Avoid when
 
--  **Inefficiency:** Running two organizations or product lines that compete can cause internal cannibalization or duplicated effort.
+- Maintaining two entities is prohibitively costly or complex.
+- Transparency in your industry makes affiliations easy to uncover, risking trust erosion.
 
--  **Neglect:** Sometimes the artificially created competitor might underperform or be treated as second-class internally, making it an ineffective competitor and *not* convincing to the market.
+## 🎯 **Leadership**
 
-**Related Strategies:** **Playing Both Sides** (a similar concept of benefiting from both ends of a competition), **Market Enablement** (in a way, you're enabling more competition -- albeit under your control), **Misdirection** (you misdirect customers about the true competitive landscape).
+### Core challenge
 
-**Further Reading & References:**
+Balancing the illusion of competition while maintaining operational efficiency and avoiding exposure.
 
--  Wardley Maps Forum -- *Gameplay: Artificial Competition* . Provides the MediaMarkt/Saturn example and discusses the purpose of giving customers an illusion of choice.
+### Key leadership skills required
 
--  Wardley, S. -- *On creating competing bodies* . Summarizes how establishing two competing entities under one umbrella can suffocate genuine outside competition.
+- Strategic foresight to manage dual entities effectively.
+- Risk management to mitigate exposure risks.
+- Communication skills to maintain plausible independence.
+
+### Ethical considerations
+
+Leaders must consider the ethical implications of misleading customers and regulators. Transparency and fairness should guide decision-making.
+
+## 📋 **How to Execute**
+
+1. Identify the market segment where artificial competition would be most effective.
+2. Establish or acquire a secondary entity with plausible independence.
+3. Develop distinct branding and messaging for both entities.
+4. Monitor and manage the performance of both entities to ensure market dominance.
+5. Regularly assess risks of exposure and adjust strategies accordingly.
+
+## 📈 **Measuring Success**
+
+- Increased market share across both entities.
+- Reduced entry of genuine competitors.
+- Positive customer perception of choice.
+- Regulatory approval or lack of scrutiny.
+- Operational efficiency in managing both entities.
+
+## ⚠️ **Common Pitfalls and Warning Signs**
+
+### Exposure
+
+If affiliations are uncovered, it can lead to accusations of "astroturfing" and loss of trust.
+
+### Inefficiency
+
+Running two entities may result in internal cannibalization or duplicated efforts.
+
+### Neglect
+
+The secondary entity may underperform, making the strategy unconvincing.
+
+## 🧠 **Strategic Insights**
+
+### Shape Perception, Not Just Structure
+
+Success hinges on how others perceive the relationship between your entities. Brand differentiation, messaging, tone, and even company culture must be designed to appear independent. Surface-level separation is not enough—perceived rivalry must feel real.
+
+### Operate with Autonomy, Not Separation
+
+The secondary entity should have real decision-making power within defined boundaries. Avoid over-engineering control mechanisms. Instead, set clear strategic guardrails and let the team run. This both reduces risk of exposure and allows genuine value creation.
+
+### Use Contrast to Create Credibility
+
+The entities should differ in pricing, customer experience, or values. When customers can clearly articulate what makes each option unique, the illusion of choice becomes more convincing. Avoid making one obviously weaker—each must have a real appeal to a segment of the market.
+
+### Drive Ecosystem Behavior
+
+A well-designed artificial competitor can steer conversations and shape adoption curves. Whether resisting standards, promoting new norms, or buying time, your proxy should play an active role in setting direction. Use it to shift narratives without exposing your core brand.
+
+### Design for a Clear Exit Path
+
+Artificial competition is rarely permanent. Know from the outset whether your endgame is acquisition, absorption, or retirement. Build systems and structures that make transitions clean and minimize fallout with customers, staff, and regulators.
+
+### Plan for Scrutiny
+
+Deniability requires preparation. Separate legal entities, distinct leadership teams, and different operational processes all help reduce risk. If the connection is ever questioned, you need more than spin—you need documentation that supports the independence narrative.
+
+### Manage the Ethical Balance
+
+There is a line between strategic positioning and market distortion. Regularly test your reasoning with trusted peers. If the strategy erodes trust or harms your ecosystem in the long run, the short-term gain may not be worth it.
+
+## ❓ **Key Questions to Ask**
+
+- **Independence:** How plausible is the independence of the secondary entity?
+- **Market impact:** Does this strategy effectively block genuine competitors?
+- **Risk management:** What measures are in place to mitigate exposure risks?
+- **Customer perception:** How do customers perceive the competition?
+
+## 🔀 **Related Strategies**
+
+- [Playing Both Sides](/strategies/attacking/playing-both-sides) - Benefiting from both ends of a competition.
+- [Market Enablement](/strategies/accelerators/market-enablement) - Enabling more competition under your control.
+- [Misdirection](/strategies/competitor/misdirection) - Misleading customers about the true competitive landscape.
+
+## 📚 **Further Reading & References**
