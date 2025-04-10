@@ -20,10 +20,8 @@ Brand and marketing involve using advertising, branding, and messaging to create
 
 From a Wardley Mapping perspective, capabilities and offerings typically evolve rightward over time, moving from Genesis through Custom-Built and Product stages towards eventual Commoditization. Strategic Brand and Marketing  can function as a powerful **counter-force** against this natural evolutionary pressure, specifically concerning user perception. While the underlying technology or service components might be maturing and standardizing (moving right), effective branding aims to anchor or even "pull" the user's perception of the offering leftward on the map. By emphasizing unique qualities, aligning with specific identities, or crafting a distinct narrative, marketing can maintain a perception of the product as differentiated, specialized (Product stage), or even uniquely tailored (Custom-Built stage) in the user's mind, thereby resisting perceptual commoditization and defending its value proposition against more generic alternatives.
 
-import Image from '@theme/IdealImage';
-
 <figure>
-    <Image img={require('./branding-map.png')} alt="Wardley Map showing the effect of branding on a component, moving it up (more visible) and left (away from commodity)" />
+    ![Wardley Map showing the effect of branding on a component, moving it up (more visible) and left (away from commodity)](branding-map.png)
     <figcaption>Branding a component makes it more visible and differentiated.</figcaption>
 </figure>
 
@@ -135,7 +133,7 @@ Effective branding requires thinking beyond immediate sales. It involves alignin
 ## 🔀 **Related Strategies**
 
 - [Education](/strategies/user-perception/education) - Informative marketing to build trust.
-- [FUD](/strategies/user-perception/fud) - Counterplay competitors might use.
+- [Fear, Uncertainty and Doubt](/strategies/user-perception/fear-uncertainty-and-doubt) - Counterplay competitors might use.
 - [Differentiation](/strategies/markets/differentiation) - Highlighting unique selling points.
 
 ## 📚 **Further Reading & References**
