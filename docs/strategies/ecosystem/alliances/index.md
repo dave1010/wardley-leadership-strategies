@@ -4,17 +4,17 @@ tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, 
 
 # Alliances
 
+## 🤔 **Explanation**
+
+### What is Alliances?
+
+Forming formal partnerships or consortia with other companies to pursue a shared objective or market. An alliance pools resources or market access to achieve something none of the members could easily do alone.
+
 :::note
 
 Alliances are a formal, structured form of [**cooperation**](/strategies/accelerators/cooperation), designed to pool resources and coordinate action for ecosystem-level impact. All alliances are cooperation, but not all cooperation is an alliance.
 
 :::
-
-## 🤔 Explanation
-
-### What is Alliances?
-
-Forming formal partnerships or consortia with other companies to pursue a shared objective or market. An alliance pools resources or market access to achieve something none of the members could easily do alone.
 
 ### Why is Alliances a valuable leadership strategy?
 
@@ -31,7 +31,7 @@ Key principles for effective alliances:
 
 Alliances are particularly effective as ecosystem plays, allowing collective action in environments of high uncertainty or where first-mover advantage matters.
 
-## 🗺️ Real-World Examples
+## 🗺️ **Real-World Examples**
 
 ### Star Alliance (airlines)
 
@@ -45,7 +45,7 @@ Qualcomm, Microsoft, LG and others formed an alliance to promote AllJoyn as an o
 
 Several mid-sized electric vehicle startups create a joint venture for charging infrastructure. This allows them to rival Tesla’s Supercharger network and accelerate EV adoption.
 
-## 🚦 When to Use / When to Avoid
+## 🚦 **When to Use / When to Avoid**
 
 ### Use when
 
@@ -62,7 +62,7 @@ Several mid-sized electric vehicle startups create a joint venture for charging 
 - alliance could slow you down unnecessarily
 - you have a dominant position and don't need others
 
-## 🎯 Leadership
+## 🎯 **Leadership**
 
 ### Core Challenge
 
@@ -76,7 +76,7 @@ Balancing coordination and speed across multiple organisations with differing go
 - trust-building
 - ecosystem thinking
 
-## 📋 How to Execute
+## 📋 **How to Execute**
 
 - clearly define scope, contributions and benefits
 - create governance structures that ensure fairness and decision-making agility
@@ -87,21 +87,21 @@ Balancing coordination and speed across multiple organisations with differing go
 - ensure transparency and avoid anti-competitive behaviour
 - avoid alliances that mask monopolistic control
 
-## 📈 Measuring Success
+## 📈 **Measuring Success**
 
 - progress toward shared goals (e.g. adoption of standard, market share gains)
 - sustainability of the alliance
 - balance of contributions and benefits across members
 - speed of collective impact versus going solo
 
-## ⚠️ Common Pitfalls and Warning Signs
+## ⚠️ **Common Pitfalls and Warning Signs**
 
 - decision gridlock due to too many players
 - unequal contributions leading to resentment
 - defection by members with changing incentives
 - loss of strategic direction if governance is weak
 
-## 🧠 Strategic Insights
+## 🧠 **Strategic Insights**
 
 - alliances are ecosystem strategies for evolution
 - powerful in the standards game where network effects matter
@@ -118,7 +118,7 @@ Alliances are a formalised, structured subset of broader cooperation. Where coop
 
 If cooperation is about joint exploration, alliances are about jointly steering an ecosystem.
 
-## ❓ Key Questions to Ask
+## ❓ **Key Questions to Ask**
 
 - Do we share a clear and durable interest with potential partners?
 - Can we agree on governance and conflict resolution?
@@ -126,13 +126,13 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 - What risks arise if the alliance breaks down?
 - How will we handle success and changing power dynamics?
 
-## 🔀 Related Strategies
+## 🔀 **Related Strategies**
 
 - [Cooperation](/strategies/accelerators/cooperation)
 - [Standards Game](/strategies/markets/standards-game)
 - [Center of Gravity](/strategies/attacking/centre-of-gravity)
 
-## 📚 Further Reading & References
+## 📚 **Further Reading & References**
 
 - Wardley, S. – *"Alliances: working with other companies to drive evolution of a specific activity/data set."*
 - Case Study: **IBM PC (1981)** – IBM, Microsoft and Intel formed a de facto alliance to create a standard PC architecture, setting the stage for an ecosystem.
