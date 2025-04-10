@@ -1,51 +1,179 @@
 ---
+title: Press Release Process
+description: Using Amazon's "working backwards" method to ensure clarity of vision and market fit.
 tags: [press-release-process, attacking, marketing, product development, working backwards, customer focus, amazon, clarity]
 ---
 
-# Press release process
+**Use Amazon’s “working backwards” method as a strategic tool to clarify user needs and accelerate industrialisation of evolved components.**
+
+## 🤔 **Explanation**
+
+### What is Press Release Process?
+
+The Press Release Process starts by writing the press release and FAQ for a proposed product before development begins. This fictional launch artefact defines the user problem, the solution, and the differentiation—anchoring the vision in customer value from day one.
+
+In Wardley terms, this means:
+
+- Anchoring your thinking at the top of the value chain (user needs).
+- Describing an outcome built on existing or well-evolved components.
+- Driving activity toward industrialisation rather than novelty.
+
+This process helps avoid building products with no market narrative and ensures initiatives have a compelling value proposition.
+
+### From Doctrine to Strategy
+
+The Press Release Process is doctrinal by default. It encourages clarity, alignment, and mapping. But it only becomes strategic when the mismatches it reveals are acted upon deliberately. A press release that depends on an immature capability surfaces a tension. Strategic leaders notice that gap then they decide how to respond. That response might involve accelerating evolution, reshaping the user need, leveraging an ecosystem, or constraining scope. It’s these decisions that are shaped by position, movement, and intent, that turn a doctrinal process into a strategic play.
+
+### Why use Press Release Process?
+
+This strategy forces strategic clarity and alignment:
+
+- Avoids tech-led meandering by fixing on a compelling user-facing outcome.
+- Reveals whether the idea leverages mature capabilities or chases ill-defined novelty.
+- Highlights value chain dependencies and makes gaps or weaknesses visible early.
+
+It’s about **identifying what’s ready to be commoditised**, and building efficiently toward that.
+
+### How to use Press Release Process?
+
+- Start with the press release: What’s the end-user outcome? Why will they care?
+- Write the FAQ: What questions will customers (and internal stakeholders) have?
+- Map the supporting value chain: Which components exist? Which are custom? Which can be bought or reused?
+- Iterate the release until it describes something both valuable and buildable using existing capabilities.
+
+Then execute against that. The press release becomes a forcing function for evolutionary acceleration, team alignment, and strategic focus.
+
+## 🗺️ **Real-World Examples**
+
+### Amazon
+
+Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
+
+### Netflix
+
+Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
+
+## 🚦 **When to Use / When to Avoid**
+
+```mermaid
+quadrantChart
+    title Strategic Fitness of Press Release
+    x-axis Market Clarity --> Confusion
+    y-axis Capability Readiness --> Capability Gap
+    quadrant-1 "Visionary But Risky"
+    quadrant-2 "Green Light"
+    quadrant-3 "Technically Ready, No Pull"
+    quadrant-4 "Abandon or Rethink"
+```
+
+### Use when
+
+- Developing new products or major features.
+- Ensuring market-driven development.
+- Aligning cross-functional teams.
+
+### Avoid when
+
+- Working on extremely secretive innovations.
+- Teams resist the cultural shift or don't take the process seriously.
+- Initiatives have no marketing angle (e.g., back-end infrastructure improvements).
+
+## 🎯 **Leadership**
+
+### Core challenge
+
+Ensuring the process is taken seriously and influences product design is critical to its success. Leaders must foster a culture where the press release process is foundational step in product development, rather than a formality. This involves actively engaging teams to iterate on the press release until it is compelling and aligns with customer needs.
+
+Leaders should ensure that the press release remains a living document, guiding decisions throughout the development lifecycle. Without this commitment, the process risks becoming a superficial exercise with little impact on the final product.
+
+### Key leadership skills required
+
+- Vision alignment.
+- Customer-centric thinking.
+- Communication and storytelling.
+
+### Ethical considerations
+
+Avoid overhyping or promising features that cannot be delivered.
+
+## 📋 **How to Execute**
+
+1. Draft a press release and FAQ for the product.
+2. Iterate on the product idea until the press release is compelling.
+3. Use the press release as a guiding document throughout development.
+4. Update the press release as the product evolves.
+
+## 📈 **Measuring Success**
+
+- Clear and compelling press releases for all initiatives.
+- Improved product-market fit.
+- Faster adoption and positive customer feedback.
+- Alignment across teams.
+- Reduced feature creep.
+
+## ⚠️ **Common Pitfalls and Warning Signs**
+
+### Faking it
+
+Writing a press release without letting it influence design yields no benefit.
+
+### Lack of follow-up
+
+Ignoring the press release after writing it wastes the effort.
+
+### Overhyping risk
+
+Overpromising in the press release can lead to a disconnect at launch.
+
+## 🧠 **Strategic Insights**
+
+### Forcing Function for Value Chain Coherence
+
+The Press Release Process acts as a forcing function to define a coherent value chain *before* resources are committed. By articulating the end-state (customer value) up front, it forces strategic decisions about *what must exist* to realise that value. This exposes key components, dependencies, and whether you're working with industrialised building blocks—or inventing where you shouldn’t be. It transforms vague intent into explicit structure.
+
+### Anchoring in the Top of the Value Chain
+
+By starting with the customer-facing press release, the process forces teams to begin at the **top of the value chain**, where visibility and value are highest. Rather than being pulled down into solution-space or premature technical discussions, it keeps strategy focused on the actual user need. This anchoring helps prevent misalignment between user goals and system capabilities: a common failure in mapping.
+
+### Exposing Gaps in Evolution
+
+Simulating a launch context early reveals mismatches between the desired experience and the maturity of the underlying components. If a proposed press release implies commodity-scale availability but the capabilities are still in custom or product stages, that’s a signal: either evolve or adapt the vision. It’s a pragmatic check against strategic overreach or wishful thinking.
+
+### Constraint as Strategy
+
+The press release constraint rather than just narrative. It narrows the field of play by discarding paths that don't serve the declared value. This reduces noise, eliminates scope creep, and accelerates convergence. In strategic terms, it forces the team to act like an industrialist, not an inventor, by identifying where reuse and scale are feasible, and where not to explore.
+
+### Narrative as Inertia Manipulation
+
+A clear, simple press release generates internal and external inertia. Internally, it aligns actors across functions by tying their efforts to a visible outcome. Externally, it sets expectations and primes the market. In mapping terms, this narrative can shape the landscape by triggering anticipatory moves from competitors or stimulating adjacent ecosystem activity. It’s low-effort inertia creation.
+
+### Competitive Tempo via Pre-commitment
+
+In fast-moving markets, delay often stems from poor alignment and rework. Pre-committing to a clear press release gives the team a stable attractor, reducing ambiguity and increasing execution speed. This supports **temporal advantage**: faster adaptation, faster evolution, faster feedback. The strategy isn’t so much about *what* you build but *how quickly* you can industrialise it.
+
+### Strategic Fitness: Testable Narratives
+
+A press release that reads as weak or incoherent is a fast signal of strategic unfitness. If you can’t make the narrative credible, it likely means the need isn’t real, the differentiation is unclear, or the supporting capabilities don’t exist. This gives you a cheap, fast, repeatable filter, before expensive commitments are made.
+
+## ❓ **Key Questions to Ask**
+
+- **Customer focus:** Does the press release clearly articulate the customer benefit?
+- **Clarity:** Is the message simple and compelling?
+- **Differentiation:** Does the product stand out from competitors?
+
+## 🔀 **Related Strategies**
+
+- [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Integrates marketing into development.
+- [Directed Investment](/strategies/attacking/directed-investment) – Helps prioritise resources toward capabilities surfaced during the press release process.
+- [Market Enablement](/strategies/accelerators/market-enablement) – Ensures downstream ecosystem or partner support for the customer-facing outcome.
+- [Co-creation](/strategies/ecosystem/co-creation) – Can be used to shape offerings with key users or partners once the press release defines the value proposition.
+- [Open Approaches](/strategies/accelerators/open-approaches) – Useful when the press release assumes availability or standardisation not yet realised.
+- [Education](/strategies/user-perception/education) – Supports narratives that require user behavioural change or awareness to realise adoption.
+- [Differentiation](/strategies/markets/differentiation) – Tightly coupled; the press release defines your positioning in a crowded space.
+- [Fast Follower](/strategies/positional/fast-follower) – The press release process can be used to quickly respond to emerging user needs with evolved capabilities.
+- [Experimentation](/strategies/attacking/experimentation) – Use press releases to simulate outcomes and test resonance before committing resources.
 
 
-**Press Release Process**
+## 📚 **Further Reading & References**
 
-:::warning
-
-This is an **early draft** and isn't yet up to our standard.
-You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
-
-:::
-
-**Definition & Summary:** Using Amazon's famous **"working backwards" product development method** -- writing a press release and FAQ for a proposed product at the start -- to ensure clarity of vision and market fit . While not an attack on competitors per se, it's a leadership strategy to guarantee any initiative you undertake has a clear, compelling value proposition, effectively outmaneuvering competitors who might build less focused offerings.
-
-**Detailed Explanation:** Popularized by Amazon, the Press Release (PR) FAQ process forces teams to articulate the customer benefit, problem solved, and excitement factor of a new product as if launching it to the public . The idea is to **simulate the end state (launch) at the beginning**, aligning everyone on what success looks like. Key principles: focus on customer needs, simplicity of message, and clear differentiation (if you can't write an exciting press release, maybe the idea isn't exciting). Origins: Jeff Bezos mandated this to avoid building stuff with no market narrative. For leadership, this process ensures your strategy produces initiatives that can be communicated simply and attract buzz -- meaning you're more likely to build something customers actually want (which in turn is an offensive advantage over competitors building bloated or misaligned solutions).
-
-**Real-World Examples:**
-
--  *Amazon:* Almost every product (Kindle, AWS service, Echo) at Amazon began with an internal press release draft. For instance, AWS Lambda's team wrote an internal PR about a service that lets developers run code without managing servers (clear value). This upfront clarity guided development. By launch, the messaging was spot-on and adoption was quick, while competitors took longer to articulate serverless computing. Amazon's use of this process has been credited with launching very customer-centric, sharply defined products -- an edge over competitors who might release confusing or half-baked services.
-
--  *Other companies adopting it:* **Netflix** has reportedly used a similar approach for feature development -- writing the blog announcement first to frame the why/how. This allowed them to beat competitors in clarity -- e.g., when introducing "Downloads for Offline Viewing," having a crisp narrative helped communicate it better than others who added similar features with less fanfare.
-
--  *Hypothetical:* A SaaS startup uses Press Release process for all major new features. By doing so, they avoid feature creep and always highlight what's newsworthy. Over time, customers notice that every update from this company seems meaningful and well thought out (versus a rival that dumps long release notes full of minor tweaks). This builds stronger brand trust and media coverage. Strategically, they've made sure internally that they don't waste resources on things that wouldn't sound good on a press release -- a filter that aligns product strategy with marketing and customer excitement.
-
-**When to Use / When to Avoid:**
-
--  **Use when:** Developing new products or major features in any context. It's a versatile strategy for ensuring **market-driven development**. Use especially if your organization has a history of internal, tech-driven projects that later struggle to explain their value. Press release process can correct that by making value prop central from the start . Also use if cross-team alignment is an issue -- the PRFAQ serves as a single-page vision everyone references.
-
--  **Avoid when:** Perhaps in extremely secretive innovations where writing a press release could leak (though internally it's still within confidentiality). There are few downsides except that it's a cultural shift -- teams might resist the unusual practice ("why are we writing fantasy press releases?"). If not taken seriously, it doesn't work (it's not just writing, it's truly conceptualizing from customer perspective). Also avoid if an initiative legitimately has no marketing angle (very back-end infrastructure improvements -- though even then, an internal press release focusing on internal user, e.g. devs, could help clarity).
-
-**Common Pitfalls:**
-
--  **Faking it:** Teams might write a glowing press release but not actually let it influence design (checking the box rather than iterating on the product idea based on it). This yields no benefit. The doc must cause reflection: "if this PR doesn't sound amazing, how do we change the product to make it amazing?"
-
--  **Lack of follow-up:** The PRFAQ should be updated as product changes or used as a spec to verify implementation meets the envisioned benefits. If it's written and then ignored, it's wasted.
-
--  **Overhyping risk:** One must also deliver what's in the press release. If you promise those features, ensure they make it, else at launch you'll have a disconnect (press release process is internal, but it should be grounded enough that you can actually achieve that story).
-
-**Related Strategies:** **Focus on User Needs** (press release process is an implementation of that doctrine -- forcing user-centric view), **Brand & Marketing** (makes marketing an integral part of dev, so product naturally fits marketing), it's not directly about competitors but ensures your output is compelling, indirectly outflanking competitors with clarity and user focus.
-
-**Further Reading & References:**
-
--  Bezos' mandate: **Amazon's Working Backwards** methodology (there are many articles, and an actual book titled "Working Backwards" by ex-Amazonians). They detail how PRFAQ shaped Kindle, AWS, etc., and why it gave Amazon an edge in product strategy .
-
--  Wardley note -- mentions "the best way... force writing of press release before project starts because no-one can write a press release for something unexplored" indicating this process prevents doing nebulous pioneering with no clear outcome.
-
--  Medium -- likely referencing an Art of Strategy piece that lists Press Release Process as a strategic tool (as we see line mentioning it with Wardley context).
+- [Working Backwards](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595) - Details Amazon's methodology.
