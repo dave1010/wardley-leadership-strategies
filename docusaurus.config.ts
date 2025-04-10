@@ -184,7 +184,6 @@ const config: Config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     '@docusaurus/plugin-vercel-analytics',
-    '@docusaurus/plugin-ideal-image',
     storeSiteDataPlugin
   ],
 };
