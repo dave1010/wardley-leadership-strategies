@@ -30,7 +30,7 @@ Strategies should aim to follow this format as closely as possible.
 
 4. `## 🤔 **Explanation**`
    - Start with a subsection `## What is <strategy name>?`, which should be a paragraph or 2 and could include a few bullet points if a list is helpful. Only link to other strategies here if it is helpful to understand where it sits, eg if it is a sub-strategy or very closely related.
-   - A few other subsections, again, only covering high level information. Eg `## Why use <strategy name>?`, `## How to use <strategy name>?`, `## Types of <strategy name>`, `## What does <strategy name> achieve?`.
+   - A few other subsections, again, only covering high level information. Eg `## Why use <strategy name>?`, `## How to use <strategy name>?`, `## Types of <strategy name>`, `## What does <strategy name> achieve?`, `## Core principles of applying <strategy name>`, `## Strategic rationale of <strategy name>`, `## How does <strategy name> affect the landscape?` (could add a Wardley Map in here). Consider value proposition, purpose, objectives, fundamentals, effectiveness, etc.
    - There can be flexibility within this section, where it makes sense for the particular strategy.
 5. `## 🗺️ **Real-World Examples**`
    - 2 to 4 different examples, with a `###` heading each. Ideally specific but general if needed.
