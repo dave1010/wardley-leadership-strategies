@@ -46,6 +46,23 @@ Amazon Web Services frequently uses ambush strategies during its annual Re:Inven
 
 ## **🚦 When to Use / When to Avoid**
 
+<Assessment>
+  <MapSignals>
+    <li>We have a capability that competitors see as low-evolution, but we've industrialized it.</li>
+    <li>Competitors are locked into predictable roadmaps or development cycles.</li>
+    <li>We can surprise a market segment showing signs of stagnation or unmet need.</li>
+    <li>We control a critical bottleneck or dependency in the value chain.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We've developed this in secret with strong information control.</li>
+    <li>Our infrastructure and teams are ready to scale on launch day.</li>
+    <li>Marketing and launch coordination are in place for a high-impact release.</li>
+    <li>We have a fallback plan if competitors react quickly or negatively.</li>
+    <li>The innovation is significant, not just incremental.</li>
+  </Readiness>
+</Assessment>
+
+
 ```mermaid
 quadrantChart
     title Ambush Strategy Fit
