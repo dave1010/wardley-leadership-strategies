@@ -65,7 +65,7 @@ const SignalList: React.FC<SignalListProps> = ({ title, description, items, onSc
   };
 
   return (
-    <div className="margin-top--md">
+    <div className="margin-top--md" id="assessment-tool">
       <h3>{title}</h3>
       <p>{description}</p>
       <ul className="padding--none">
