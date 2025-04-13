@@ -39,7 +39,7 @@ const Assessment = ({ children }) => {
             onScoreChange={setReadinessScore}
           />
 
-          <h3>Assessment</h3>
+          <h3>Assessment and Recommendation</h3>
           <Results
             mapScore={mapScore}
             readinessScore={readinessScore}
