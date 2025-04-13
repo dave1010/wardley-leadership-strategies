@@ -64,8 +64,8 @@ const Assessment = ({ children }) => {
     <div className="container margin-vert--lg">
       <div className="card shadow--md">
         <div className="card__header">
-          <h2>Strategy Self-Assessment</h2>
-          <p>Select the statements that apply to your situation. This helps assess strategic fit and readiness.</p>
+          <h2>Strategy Self-Assessment Tool</h2>
+            <p>Select the statements that apply to your situation. This helps assess strategic fit and readiness. Read more about the <a href="/about/assessment-tool">Strategy Assessment Tool</a>.</p>
         </div>
 
         <div className="card__body">
