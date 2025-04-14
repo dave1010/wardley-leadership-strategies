@@ -1,7 +1,7 @@
 import MDXComponents from '@theme-original/MDXComponents';
-import Assessment, { MapSignals, Readiness } from '@site/src/components/Assessment';
+import Assessment, { MapSignals, Readiness, AssessmentToolAdvert } from '@site/src/components/Assessment';
 
 export default {
   ...MDXComponents,
-  Assessment, MapSignals, Readiness
+  Assessment, MapSignals, Readiness, AssessmentToolAdvert
 };

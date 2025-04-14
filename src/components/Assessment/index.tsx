@@ -2,9 +2,11 @@ import React, { useState } from 'react';
 import Results from './Results';
 import SignalList from './SignalList';
 import { extractStatements } from './parseChildren';
+import AssessmentToolAdvert from './AssessmentToolAdvert';
 
 export const MapSignals = ({ children }) => <>{children}</>;
 export const Readiness = ({ children }) => <>{children}</>;
+export { AssessmentToolAdvert };
 
 const Assessment = ({ children, strategyName }) => {
   const mapSignals = extractStatements(children, MapSignals);
