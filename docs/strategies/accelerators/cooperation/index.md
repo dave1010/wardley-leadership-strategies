@@ -19,6 +19,8 @@ core_challenge: Balancing control and openness.
 
 It sounds straightforward, but as Wardley wryly notes, "sounds easy, actually it's not." This strategy is about forming partnerships, joint ventures, or industry collaborations where mutual benefit can be found.
 
+<AssessmentToolAdvert strategyName="Cooperation" />
+
 ## 🤔 **Explanation**
 
 ### What is Cooperation (or Cooperation)
@@ -90,6 +92,38 @@ mindmap
       Exit Strategies
 ```
 
+## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Cooperation">
+  <MapSignals>
+    <li>We’re addressing a component in the Genesis or Custom stage that is too large, risky, or slow to develop alone.</li>
+    <li>Our competitors or peers face similar challenges and could benefit from a shared approach.</li>
+    <li>There is an emerging opportunity that would benefit from ecosystem expansion or standardisation.</li>
+    <li>Success in this area depends on interoperability, platform effects, or shared infrastructure.</li>
+    <li>Our current value chain includes adjacent players with complementary capabilities.</li>
+    <li>Market formation is more important than short-term control or differentiation.</li>
+    <li>There is strategic ambiguity that makes solo investment unattractive but joint exploration viable.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have mechanisms to build and maintain trust with external partners (e.g., transparent reporting, aligned incentives).</li>
+    <li>We are comfortable with shared governance and joint decision-making.</li>
+    <li>We have experience with partnerships or alliances, even informal ones.</li>
+    <li>We are capable of negotiating and managing co-created intellectual property or standards.</li>
+    <li>Our culture supports ecosystem thinking rather than zero-sum competition.</li>
+    <li>We can articulate clear value to prospective partners and are willing to share gains.</li>
+    <li>We have planned for exit scenarios and can manage partner divergence without destabilising our core business.</li>
+  </Readiness>
+</Assessment>
+
+### Use when
+
+The **task is too large, risky, or slow** to do alone, and partners have complementary strengths. Also when establishing a new standard or platform where **ecosystem is more valuable than solo control** (e.g., to beat a common enemy or to grow a pie that's currently small). Cooperation is key in early market formation (fighting too early can stall everyone).
+
+### Avoid when
+
+Your goals and potential partners' goals fundamentally clash. Forced cooperation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if cooperating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, cooperation might unnecessarily share the spoils.
+
+
 ## 🗺️ **Real-World Examples**
 
 ### The Sony-Ericsson partnership (early 2000s)
@@ -105,16 +139,6 @@ Sony had consumer electronics expertise, Ericsson had telecom infrastructure and
 ### Hypothetical examples
 
 Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a cooperative agreement to test a combined therapy and share data. By cooperating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
-
-## 🚦 **When to Use / When to Avoid**
-
-### Use when
-
-The **task is too large, risky, or slow** to do alone, and partners have complementary strengths. Also when establishing a new standard or platform where **ecosystem is more valuable than solo control** (e.g., to beat a common enemy or to grow a pie that's currently small). Cooperation is key in early market formation (fighting too early can stall everyone).
-
-### Avoid when
-
-Your goals and potential partners' goals fundamentally clash. Forced cooperation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if cooperating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, cooperation might unnecessarily share the spoils.
 
 ## 🎯 **Leadership**
 
