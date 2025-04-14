@@ -3,5 +3,5 @@ import Assessment, { MapSignals, Readiness } from '@site/src/components/Assessme
 
 export default {
   ...MDXComponents,
-  Assessment, MapSignals, Readiness,
+  Assessment, MapSignals, Readiness
 };
