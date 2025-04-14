@@ -18,17 +18,23 @@ Ambush is a deliberate act of surprise. A company introduces a major innovation 
 
 Ambush allows an organization to seize initiative and shape the agenda. By making a major leap while others focus on gradual improvement, the ambusher can temporarily gain control over the pace and direction of innovation. Competitors are forced to adjust their roadmaps, messaging, or positioning in response.
 
-```mermaid
-sequenceDiagram
-    participant Ambusher
-    participant Market
-    participant Competitor
+## 🚦 **When to Use / When to Avoid**
 
-    Ambusher->>Market: Launches disruptive feature (Tech Drop)
-    Market->>Competitor: Reacts to innovation
-    Competitor->>Competitor: Scrambles to respond
-    Competitor->>Market: Releases counter-feature
-```
+<Assessment strategyName="Ambush">
+  <MapSignals>
+    <li>We have a capability that competitors see as low-evolution, but we've industrialized it.</li>
+    <li>Competitors are locked into predictable roadmaps or development cycles.</li>
+    <li>We can surprise a market segment showing signs of stagnation or unmet need.</li>
+    <li>We control a critical bottleneck or dependency in the value chain.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We've developed this in secret with strong information control.</li>
+    <li>Our infrastructure and teams are ready to scale on launch day.</li>
+    <li>Marketing and launch coordination are in place for a high-impact release.</li>
+    <li>We have a fallback plan if competitors react quickly or negatively.</li>
+    <li>The innovation is significant, not just incremental.</li>
+  </Readiness>
+</Assessment>
 
 ## **🗺️ Real-World Examples**
 
@@ -44,32 +50,6 @@ In cloud and infrastructure markets, leaders have used ambush tactics by open-so
 
 Amazon Web Services frequently uses ambush strategies during its annual Re:Invent event. Major features and entire services are announced without advance warning. These launches often force competitors to change their plans and messaging. AWS uses this rhythm to stay ahead and define industry direction.
 
-## **🚦 When to Use / When to Avoid**
-
-```mermaid
-quadrantChart
-    title Ambush Strategy Fit
-    x-axis Low Secrecy --> High Secrecy
-    y-axis Low Innovation --> High Innovation
-    quadrant-1 Ideal for Ambush
-    quadrant-2 Not surprising enough
-    quadrant-3 Weak fit
-    quadrant-4 Not impactful enough
-```
-
-### Use when
-
-- You have a truly significant innovation
-- You want to reset market expectations
-- Competitors are locked into predictable roadmaps
-- Speed and surprise give you a temporary lead
-
-### Avoid when
-
-- The innovation is only incremental
-- You cannot scale the launch effectively
-- The market is not ready for the change
-- Competitors are likely to respond immediately and effectively
 
 ## **🎯 Leadership**
 
@@ -93,6 +73,18 @@ Maintaining secrecy, making bold decisions, and preparing the organization to su
 4. **Coordinate the Reveal**: Align product, marketing, and PR for maximum impact.
 5. **Monitor the Response**: Track competitor moves and adjust as needed.
 6. **Follow Through**: Reinforce the new standard with customer success, developer engagement, or follow-on announcements.
+
+```mermaid
+sequenceDiagram
+    participant Ambusher
+    participant Market
+    participant Competitor
+
+    Ambusher->>Market: Launches disruptive feature (Tech Drop)
+    Market->>Competitor: Reacts to innovation
+    Competitor->>Competitor: Scrambles to respond
+    Competitor->>Market: Releases counter-feature
+```
 
 ## **📈 Measuring Success**
 
