@@ -18,7 +18,7 @@ This resource offers detailed explanations, real-world examples, and practical a
 - **[Creating Constraints](/strategies/decelerators/creating-constraints):**  Using limitations to drive innovation and focus.
 - **[Experimentation](/strategies/attacking/experimentation):**  Rapidly testing new approaches to gain a competitive edge.
 
-The site also includes an interactive [**Strategy Assessment Tool**](/about/assessment-tool) for some strategies, allowing you to evaluate the applicability and readiness of a specific strategy within your context.
+The site also includes an interactive [**🚦 Strategy Assessment Tool**](/about/assessment-tool) for some strategies, allowing you to evaluate the applicability and readiness of a specific strategy within your context.
 
 
 ## Who is this Guide For?

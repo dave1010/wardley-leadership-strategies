@@ -9,6 +9,8 @@ It presents a guided checklist of conditions grouped into two categories:
 - **Map Signals**: Signs within your value chain and competitive environment that suggest the strategy is a good fit.
 - **Readiness**: Capability and doctrinal readiness to act effectively, based on the foundational principles of good practice but tailored to the specific strategy.
 
+<AssessmentToolAdvert strategyName="Demo" />
+
 ## What is it for?
 
 This tool supports decision-making by making implicit assumptions explicit. Rather than offering abstract criteria, it invites quick structured reflection using signals from both the external landscape and internal maturity.
@@ -19,7 +21,7 @@ It helps with:
 - Encouraging dialogue and alignment among stakeholders
 - Supporting better judgment under uncertainty
 
-## 🛠️ How to Use It
+## How to Use It
 
 1. Review each statement under **Map Signals** and **Readiness**.
 2. Click on each item to indicate its relevance to your situation:
@@ -38,7 +40,7 @@ It’s not a substitute for deep expertise, mapping, or leadership judgment. But
 
 ## Demo
 
-<Assessment>
+<Assessment strategyName="Demo">
   <MapSignals>
     <li>Our map shows a critical components in an early stage of evolution.</li>
     <li>We control a critical bottleneck or dependency in the value chain.</li>
