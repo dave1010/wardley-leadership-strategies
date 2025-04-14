@@ -18,35 +18,9 @@ Ambush is a deliberate act of surprise. A company introduces a major innovation 
 
 Ambush allows an organization to seize initiative and shape the agenda. By making a major leap while others focus on gradual improvement, the ambusher can temporarily gain control over the pace and direction of innovation. Competitors are forced to adjust their roadmaps, messaging, or positioning in response.
 
-```mermaid
-sequenceDiagram
-    participant Ambusher
-    participant Market
-    participant Competitor
+## 🚦 **When to Use / When to Avoid**
 
-    Ambusher->>Market: Launches disruptive feature (Tech Drop)
-    Market->>Competitor: Reacts to innovation
-    Competitor->>Competitor: Scrambles to respond
-    Competitor->>Market: Releases counter-feature
-```
-
-## **🗺️ Real-World Examples**
-
-### Microsoft vs. Netscape
-
-In the 1990s browser wars, Microsoft ambushed Netscape by bundling Internet Explorer with Windows and offering it for free. This undermined Netscape’s business model and quickly eroded its market share. Microsoft’s surprise move changed the basis of competition and forced Netscape into a defensive position.
-
-### Open-Source Acceleration
-
-In cloud and infrastructure markets, leaders have used ambush tactics by open-sourcing advanced features just as competitors near parity. This resets expectations and forces rivals to restart their catch-up cycle. The surprise move shifts the narrative and redefines the baseline of what is “standard.”
-
-### AWS at Re:Invent
-
-Amazon Web Services frequently uses ambush strategies during its annual Re:Invent event. Major features and entire services are announced without advance warning. These launches often force competitors to change their plans and messaging. AWS uses this rhythm to stay ahead and define industry direction.
-
-## **🚦 When to Use / When to Avoid**
-
-<Assessment>
+<Assessment strategyName="Ambush">
   <MapSignals>
     <li>We have a capability that competitors see as low-evolution, but we've industrialized it.</li>
     <li>Competitors are locked into predictable roadmaps or development cycles.</li>
@@ -62,31 +36,20 @@ Amazon Web Services frequently uses ambush strategies during its annual Re:Inven
   </Readiness>
 </Assessment>
 
+## **🗺️ Real-World Examples**
 
-```mermaid
-quadrantChart
-    title Ambush Strategy Fit
-    x-axis Low Secrecy --> High Secrecy
-    y-axis Low Innovation --> High Innovation
-    quadrant-1 Ideal for Ambush
-    quadrant-2 Not surprising enough
-    quadrant-3 Weak fit
-    quadrant-4 Not impactful enough
-```
+### Microsoft vs. Netscape
 
-### Use when
+In the 1990s browser wars, Microsoft ambushed Netscape by bundling Internet Explorer with Windows and offering it for free. This undermined Netscape’s business model and quickly eroded its market share. Microsoft’s surprise move changed the basis of competition and forced Netscape into a defensive position.
 
-- You have a truly significant innovation
-- You want to reset market expectations
-- Competitors are locked into predictable roadmaps
-- Speed and surprise give you a temporary lead
+### Open-Source Acceleration
 
-### Avoid when
+In cloud and infrastructure markets, leaders have used ambush tactics by open-sourcing advanced features just as competitors near parity. This resets expectations and forces rivals to restart their catch-up cycle. The surprise move shifts the narrative and redefines the baseline of what is “standard.”
 
-- The innovation is only incremental
-- You cannot scale the launch effectively
-- The market is not ready for the change
-- Competitors are likely to respond immediately and effectively
+### AWS at Re:Invent
+
+Amazon Web Services frequently uses ambush strategies during its annual Re:Invent event. Major features and entire services are announced without advance warning. These launches often force competitors to change their plans and messaging. AWS uses this rhythm to stay ahead and define industry direction.
+
 
 ## **🎯 Leadership**
 
@@ -110,6 +73,18 @@ Maintaining secrecy, making bold decisions, and preparing the organization to su
 4. **Coordinate the Reveal**: Align product, marketing, and PR for maximum impact.
 5. **Monitor the Response**: Track competitor moves and adjust as needed.
 6. **Follow Through**: Reinforce the new standard with customer success, developer engagement, or follow-on announcements.
+
+```mermaid
+sequenceDiagram
+    participant Ambusher
+    participant Market
+    participant Competitor
+
+    Ambusher->>Market: Launches disruptive feature (Tech Drop)
+    Market->>Competitor: Reacts to innovation
+    Competitor->>Competitor: Scrambles to respond
+    Competitor->>Market: Releases counter-feature
+```
 
 ## **📈 Measuring Success**
 

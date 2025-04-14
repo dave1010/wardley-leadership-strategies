@@ -6,7 +6,7 @@ import { extractStatements } from './parseChildren';
 export const MapSignals = ({ children }) => <>{children}</>;
 export const Readiness = ({ children }) => <>{children}</>;
 
-const Assessment = ({ children }) => {
+const Assessment = ({ children, strategyName }) => {
   const mapSignals = extractStatements(children, MapSignals);
   const readiness = extractStatements(children, Readiness);
 
@@ -17,7 +17,7 @@ const Assessment = ({ children }) => {
     <div className="container margin-vert--lg" id="assessment-tool">
       <div className="card shadow--md">
         <div className="card__header">
-          <h2>Strategy Self-Assessment Tool</h2>
+          <h2>🚦 <strong>{strategyName} Strategy Self-Assessment Tool</strong></h2>
           <p>
             Find out the strategic fit and organisational readiness by marking each statement as Yes/Maybe/No based on your context.{' '}
             <a href="/about/assessment-tool">Strategy Assessment Guide</a>.
@@ -44,6 +44,7 @@ const Assessment = ({ children }) => {
             mapScore={mapScore}
             readinessScore={readinessScore}
           />
+
         </div>
       </div>
     </div>
