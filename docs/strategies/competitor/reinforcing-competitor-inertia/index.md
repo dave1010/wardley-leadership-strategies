@@ -26,13 +26,28 @@ This strategy is valuable because it turns a competitor's strength (past success
 
 The core idea is to introduce changes that the competitor is likely to resist. This could involve new technologies, business models, or market approaches. By consistently applying pressure and highlighting the competitor's inaction, you can reinforce their inertia and widen the gap between your organization and theirs. This strategy requires keen observation, a deep understanding of the competitor's weaknesses, and the ability to anticipate their reactions.
 
-## 🗺️ **Real-World Examples**
-
--   **Kodak and Digital Photography:** Kodak long dominated film photography and was very slow to embrace digital cameras (fearing cannibalization of its film business). Competitors like Sony and Canon exploited this inertia by aggressively advancing digital camera technology and capturing the consumer market. Kodak's leadership, wedded to film, responded by doubling down on film's profitability and only timidly engaging with digital. They effectively reinforced Kodak's inertia by continuing to innovate in digital, which made Kodak cling even more desperately to its fading film sales. Kodak's fear of change ("protect the film business at all costs") was reinforced by the market shift; it kept them stuck until it was too late. In 2012, Kodak filed for bankruptcy, having been unable to overcome its own inertia. Competitors had forced the issue by pushing the new technology that Kodak resisted.
--   **Blockbuster vs. Netflix:** Blockbuster had huge inertia with its physical video rental stores and the lucrative late-fees model. When Netflix introduced subscription DVD-by-mail (and later streaming), Blockbuster initially responded by emphasizing their stores and downplaying the mail/online trend. Netflix's move forced Blockbuster to confront a model that undercut late fees, but Blockbuster's inertia was strong; they relied on late fees which brought in $800M in revenue in 2000. Even when Blockbuster tried a no-late-fee campaign, it was half-hearted and they stuck to their retail presence. By pushing the subscription model, Netflix reinforced Blockbuster's commitment to its old revenue streams (Blockbuster executives infamously laughed off an offer to buy Netflix in 2000, not adapting in time). That inertia gave Netflix years to grow unopposed in the new model, and Blockbuster's eventual attempts to catch up were too late.
--   **Smartphone Industry Keyboard vs. Touchscreen:** Research In Motion (BlackBerry) was extremely successful with its physical-keyboard smartphones and had internal inertia believing that business customers needed physical keys. When Apple introduced the iPhone with a full touchscreen, BlackBerry initially responded by sticking to its keyboard-centric designs (even as consumers and then enterprises started shifting preferences). Apple's move to touch interfaces, and later Android following, forced BlackBerry into an inertial trap: they hesitated to make a truly competitive touchscreen device for too long, worried about alienating their existing user base and undermining their secure email niche. By the time they did (the BlackBerry Storm and others), Apple and Android had taken over. In this case, Apple didn't intend to reinforce BlackBerry's inertia per se, but Apple's strategy had that effect; it leveraged BlackBerry's inability to pivot quickly away from their legacy strength, thus sealing BlackBerry's decline.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Reinforcing Competitor Inertia">
+  <MapSignals>
+    <li>A dominant competitor is visibly tied to a legacy business model, architecture, or operational approach.</li>
+    <li>Market trends, user behaviours, or enabling technologies are clearly evolving away from that model.</li>
+    <li>The competitor’s revenue, cost structure, or brand positioning depends heavily on the status quo.</li>
+    <li>There are emerging options or platforms that challenge the dominant model but require further legitimacy or scale.</li>
+    <li>Your mapping suggests the current strategic direction of the competitor is increasingly mismatched with user needs.</li>
+    <li>The competitive environment is dynamic enough that small shifts can accumulate into structural market change.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have sufficient agility to adopt and promote the new model, while absorbing initial inefficiencies or lower margins.</li>
+    <li>We can operate in a mode of deliberate contrast—offering something genuinely different and future-facing.</li>
+    <li>We’re capable of articulating a compelling narrative that positions our approach as modern or inevitable.</li>
+    <li>We understand how to subtly provoke the competitor—e.g., through pricing, product positioning, or public framing—without triggering a meaningful pivot.</li>
+    <li>We monitor competitor behaviour closely and can detect signals of defensive entrenchment or reactive inertia.</li>
+    <li>We’re confident in our interpretation of the market shift and have contingency plans if the transition unfolds differently than expected.</li>
+    <li>We have safeguards in place to avoid internal inertia mirroring that of the competitor we seek to exploit.</li>
+  </Readiness>
+</Assessment>
+
 
 ### Use when
 
@@ -47,6 +62,12 @@ This strategy is most effective when a competitor exhibits clear resistance to c
 -   The competitor is agile and adaptable
 -   The market is stable and not undergoing significant change
 -   Your organization is also vulnerable to the same inertia
+
+## 🗺️ **Real-World Examples**
+
+-   **Kodak and Digital Photography:** Kodak long dominated film photography and was very slow to embrace digital cameras (fearing cannibalization of its film business). Competitors like Sony and Canon exploited this inertia by aggressively advancing digital camera technology and capturing the consumer market. Kodak's leadership, wedded to film, responded by doubling down on film's profitability and only timidly engaging with digital. They effectively reinforced Kodak's inertia by continuing to innovate in digital, which made Kodak cling even more desperately to its fading film sales. Kodak's fear of change ("protect the film business at all costs") was reinforced by the market shift; it kept them stuck until it was too late. In 2012, Kodak filed for bankruptcy, having been unable to overcome its own inertia. Competitors had forced the issue by pushing the new technology that Kodak resisted.
+-   **Blockbuster vs. Netflix:** Blockbuster had huge inertia with its physical video rental stores and the lucrative late-fees model. When Netflix introduced subscription DVD-by-mail (and later streaming), Blockbuster initially responded by emphasizing their stores and downplaying the mail/online trend. Netflix's move forced Blockbuster to confront a model that undercut late fees, but Blockbuster's inertia was strong; they relied on late fees which brought in $800M in revenue in 2000. Even when Blockbuster tried a no-late-fee campaign, it was half-hearted and they stuck to their retail presence. By pushing the subscription model, Netflix reinforced Blockbuster's commitment to its old revenue streams (Blockbuster executives infamously laughed off an offer to buy Netflix in 2000, not adapting in time). That inertia gave Netflix years to grow unopposed in the new model, and Blockbuster's eventual attempts to catch up were too late.
+-   **Smartphone Industry Keyboard vs. Touchscreen:** Research In Motion (BlackBerry) was extremely successful with its physical-keyboard smartphones and had internal inertia believing that business customers needed physical keys. When Apple introduced the iPhone with a full touchscreen, BlackBerry initially responded by sticking to its keyboard-centric designs (even as consumers and then enterprises started shifting preferences). Apple's move to touch interfaces, and later Android following, forced BlackBerry into an inertial trap: they hesitated to make a truly competitive touchscreen device for too long, worried about alienating their existing user base and undermining their secure email niche. By the time they did (the BlackBerry Storm and others), Apple and Android had taken over. In this case, Apple didn't intend to reinforce BlackBerry's inertia per se, but Apple's strategy had that effect; it leveraged BlackBerry's inability to pivot quickly away from their legacy strength, thus sealing BlackBerry's decline.
 
 ## 🎯   Leadership
 

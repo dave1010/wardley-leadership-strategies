@@ -29,13 +29,27 @@ This approach reduces risk by using low-cost, low-commitment experiments to gath
 
 The core idea is competitive exploration. A company tests the opponent's defenses and customer response through small experiments (pilot programs, beta products, limited releases). By observing how the market and competitors respond, the company gains insights to inform future actions. This strategy is about learning and adaptation, allowing for adjustments based on the intelligence gathered.
 
-## 🗺️ **Real-World Examples**
-
-* **Netflix’s Entry into Gaming:** Netflix began its move into the gaming market with small steps. It added mobile games for subscribers and experimented with streaming games on TVs and PCs in limited beta tests. This probed a market dominated by console and PC game providers. By assessing user interest and technological feasibility on a small scale, Netflix circled the gaming industry without a large upfront investment.
-* **Google’s Trial Products:** Google frequently launches beta products or services in areas where a competitor is strong. For example, Google+ in social networking (Facebook’s territory) and Google Wave for collaboration (rivaling emerging enterprise tools). These efforts served as exploratory probes. Google+ allowed Google to learn about social media user behavior and integrate features into other products.
-* **Amazon’s Beta Offerings:** Amazon has a history of testing new business ideas in limited regions or with trials, such as grocery delivery and fashion (e.g., Amazon Pantry, Prime Wardrobe beta). These probes gauge demand in markets dominated by others (like supermarkets or apparel retailers). Promising results lead to scaling up, while limited risk and cost are incurred if results are poor.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Circling and Probing">
+  <MapSignals>
+    <li>We see a valuable market or user segment currently served by a competitor, but with unclear user satisfaction or unmet needs.</li>
+    <li>The competitor is strong but not invulnerable—there are signs of pricing, experience, or agility constraints.</li>
+    <li>Our map shows this area as adjacent to our current value chain but not yet fully mapped or explored.</li>
+    <li>The opportunity is uncertain or unvalidated, making a full-scale commitment premature.</li>
+    <li>We anticipate market change or inflection but need more insight before committing.</li>
+    <li>We would benefit from learning how the competitor reacts to unexpected moves or new offerings.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have the ability to rapidly create small-scale offerings (e.g., MVPs, limited pilots, betas).</li>
+    <li>We are culturally comfortable with controlled experimentation and learning through doing.</li>
+    <li>We can instrument and evaluate low-commitment probes to gain actionable intelligence.</li>
+    <li>We have the discipline to avoid premature scaling or overinterpreting small signals.</li>
+    <li>Our teams understand the distinction between core execution and experimental probes.</li>
+    <li>We can adapt quickly based on new intelligence gathered through market testing.</li>
+    <li>We have clear strategic intent guiding what we want to learn or provoke from the competitor.</li>
+  </Readiness>
+</Assessment>
 
 ### Use when
 
@@ -51,6 +65,12 @@ Circling and probing is useful for:
 * There is a need for immediate, decisive action
 * The competitor is highly vulnerable and can be easily defeated
 * The risks associated with provoking a competitor outweigh the potential benefits of probing
+
+## 🗺️ **Real-World Examples**
+
+* **Netflix’s Entry into Gaming:** Netflix began its move into the gaming market with small steps. It added mobile games for subscribers and experimented with streaming games on TVs and PCs in limited beta tests. This probed a market dominated by console and PC game providers. By assessing user interest and technological feasibility on a small scale, Netflix circled the gaming industry without a large upfront investment.
+* **Google’s Trial Products:** Google frequently launches beta products or services in areas where a competitor is strong. For example, Google+ in social networking (Facebook’s territory) and Google Wave for collaboration (rivaling emerging enterprise tools). These efforts served as exploratory probes. Google+ allowed Google to learn about social media user behavior and integrate features into other products.
+* **Amazon’s Beta Offerings:** Amazon has a history of testing new business ideas in limited regions or with trials, such as grocery delivery and fashion (e.g., Amazon Pantry, Prime Wardrobe beta). These probes gauge demand in markets dominated by others (like supermarkets or apparel retailers). Promising results lead to scaling up, while limited risk and cost are incurred if results are poor.
 
 ## 🎯 **Leadership**
 

@@ -27,15 +27,27 @@ Misdirection is valuable because it allows a company to:
 
 Misdirection works by exploiting the fact that competitors monitor each other closely. By carefully controlling the signals you send (public statements, investment hints, product announcements), you can influence what your rivals *think* you are doing. This can cause them to move in ways that leave them vulnerable or give you an advantage. It requires a deep understanding of what information your competitors monitor and how they interpret it.
 
-## 🗺️ **Real-World Examples**
-
--   **Pre-Announcements and Vaporware:** Announcing a product that is not yet ready (vaporware) can deter competitors or influence customer expectations. IBM's announcement of the System/360 Model 91 after a competitor's launch caused a drop in the competitor's sales, even though IBM's product was not available for two years. Microsoft has also been accused of using early announcements to hinder competitors.
-
--   **False Investment Signals:** Companies may signal heavy investment in a technology or market that is not their true focus, hoping competitors will follow and waste resources. The misdirecting company can then focus on its real innovation while rivals chase a false lead.
-
--   **Public Statements & Strategic Messaging:** Leaders can use public statements and marketing to misdirect. For example, a CEO might downplay interest in a market to lull competitors into complacency, then later enter that market. Apple kept its iPhone plans secret, so competitors were not fully prepared for its debut. Startups might emphasize a less important feature to keep competitors from noticing their real asset.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Misdirection">
+  <MapSignals>
+    <li>Our strategy depends on timing, secrecy, or avoiding early competitive response.</li>
+    <li>We expect close monitoring by competitors—through public filings, media, patents, or announcements.</li>
+    <li>Our competitor is resource-constrained or prone to overreacting to market shifts.</li>
+    <li>The competitive landscape rewards surprise and first-mover advantage.</li>
+    <li>There is a viable narrative or decoy path we can promote without internal disruption.</li>
+    <li>We need to delay or deflect competitive attention from our true area of focus.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We understand the intelligence channels our competitors monitor and how they interpret signals.</li>
+    <li>We can coordinate internal and external messaging to maintain a consistent decoy narrative.</li>
+    <li>We have disciplined execution and security practices to prevent accidental leaks of the real strategy.</li>
+    <li>We have a clear internal understanding of the misdirection vs. real intent across relevant teams.</li>
+    <li>We are prepared to monitor and assess competitor behavior in response to our signals.</li>
+    <li>We can manage stakeholder trust and minimize fallout if the misdirection is uncovered.</li>
+    <li>We have a timeline and trigger for revealing or pivoting from the decoy to the real move.</li>
+  </Readiness>
+</Assessment>
 
 ### Use when
 
@@ -44,6 +56,14 @@ Misdirection is most useful when you have a significant move planned that could 
 ### Avoid when
 
 Misdirection should be used sparingly because overuse or discovery can damage a company's credibility. Competitors may begin to distrust all communications, which can be harmful when genuine communication is needed. Misdirection can also mislead external stakeholders like investors or customers, causing confusion or distrust.
+
+## 🗺️ **Real-World Examples**
+
+-   **Pre-Announcements and Vaporware:** Announcing a product that is not yet ready (vaporware) can deter competitors or influence customer expectations. IBM's announcement of the System/360 Model 91 after a competitor's launch caused a drop in the competitor's sales, even though IBM's product was not available for two years. Microsoft has also been accused of using early announcements to hinder competitors.
+
+-   **False Investment Signals:** Companies may signal heavy investment in a technology or market that is not their true focus, hoping competitors will follow and waste resources. The misdirecting company can then focus on its real innovation while rivals chase a false lead.
+
+-   **Public Statements & Strategic Messaging:** Leaders can use public statements and marketing to misdirect. For example, a CEO might downplay interest in a market to lull competitors into complacency, then later enter that market. Apple kept its iPhone plans secret, so competitors were not fully prepared for its debut. Startups might emphasize a less important feature to keep competitors from noticing their real asset.
 
 ## 🎯 **Leadership**
 

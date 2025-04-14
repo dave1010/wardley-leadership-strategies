@@ -24,7 +24,6 @@ Key principles include:
 - **Overlap in market focus:** Both entities should target the same user segments, making it harder for true outsiders to gain a foothold.
 - **Narrative control:** The existence of “competition” allows the parent to steer public discourse, influence regulation, and neutralise scrutiny.
 
-
 ### Why use Artificial Competition?
 
 Used effectively, artificial competition offers multiple layers of strategic benefit:
@@ -36,13 +35,28 @@ Used effectively, artificial competition offers multiple layers of strategic ben
 
 This is about **shaping the environment in which decisions are made**. Skilled leaders use this strategy to create optionality, reduce volatility, and consolidate advantage
 
-## 🗺️ **Real-World Examples**
-
-### MediaMarkt and Saturn
-
-The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Artifical Competition">
+  <MapSignals>
+    <li>We dominate a market or segment where regulatory or public scrutiny over monopoly risk is increasing.</li>
+    <li>There is a lack of credible competitors in our space, leaving us exposed or unchallenged.</li>
+    <li>Our mapping reveals untapped adjacent segments or personas we could reach via a differentiated brand.</li>
+    <li>We see value in testing alternative positioning or pricing strategies without altering the core brand.</li>
+    <li>Regulatory dynamics or public trust factors suggest visible competition would improve legitimacy.</li>
+    <li>Customer sentiment data suggests skepticism about choice or market concentration.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We can establish or acquire a secondary entity with sufficiently distinct branding and operational separation.</li>
+    <li>We have internal governance structures capable of maintaining plausible independence while aligning high-level strategy.</li>
+    <li>We are able to operate dual brands without creating internal conflict, inefficiencies, or cannibalisation.</li>
+    <li>We can manage the legal, operational, and reputational risks if the relationship is revealed.</li>
+    <li>We have clear goals for the strategy, including success criteria and an exit or integration plan.</li>
+    <li>We understand the ethical implications and have considered alternatives to artificial competition.</li>
+    <li>We have experience managing public perception, media narratives, or regulatory engagement.</li>
+  </Readiness>
+</Assessment>
+
 
 ### Use when
 
@@ -54,6 +68,13 @@ The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perce
 
 - Maintaining two entities is prohibitively costly or complex.
 - Transparency in your industry makes affiliations easy to uncover, risking trust erosion.
+
+
+## 🗺️ **Real-World Examples**
+
+### MediaMarkt and Saturn
+
+The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
 
 ## 🎯 **Leadership**
 

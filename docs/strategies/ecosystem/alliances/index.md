@@ -31,21 +31,27 @@ Key principles for effective alliances:
 
 Alliances are particularly effective as ecosystem plays, allowing collective action in environments of high uncertainty or where first-mover advantage matters.
 
-## 🗺️ **Real-World Examples**
-
-### Star Alliance (airlines)
-
-Dozens of airlines allied to extend reach through code-sharing and integrated frequent flyer benefits. This enabled a global network under a single brand, driving the evolution of air travel connectivity.
-
-### AllSeen Alliance (IoT)
-
-Qualcomm, Microsoft, LG and others formed an alliance to promote AllJoyn as an open standard for device interoperability. Similar efforts include the Zigbee Alliance.
-
-### Hypothetical EV Alliance
-
-Several mid-sized electric vehicle startups create a joint venture for charging infrastructure. This allows them to rival Tesla’s Supercharger network and accelerate EV adoption.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Alliances">
+  <MapSignals>
+    <li>The competitive environment includes dominant players or high barriers that are difficult to tackle alone.</li>
+    <li>Your mapping reveals complementary players with shared interests or aligned user needs across the value chain.</li>
+    <li>There is a need to shape emerging standards, platforms, or interoperability in a volatile or nascent market.</li>
+    <li>Value creation is distributed across multiple entities, making collective action more effective than individual moves.</li>
+    <li>Your current capabilities show clear gaps that could be filled through strategic partnerships rather than internal investment.</li>
+    <li>Regulatory, geographic, or technical diversity makes a unified approach more compelling to customers or stakeholders.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We can articulate mutual benefits and a clear value proposition to prospective alliance members.</li>
+    <li>We have the governance experience to structure and manage cross-organizational collaboration at scale.</li>
+    <li>We are prepared to share decision-making and control where necessary to achieve broader outcomes.</li>
+    <li>We have the cultural maturity and leadership bandwidth to build trust across organizational boundaries.</li>
+    <li>We maintain ecosystem awareness, understanding adjacent players’ capabilities, incentives, and historical relationships.</li>
+    <li>We are ready to compromise on speed or autonomy in exchange for market shaping or shared infrastructure benefits.</li>
+    <li>We have risk mitigation plans if the alliance dissolves or partner incentives shift over time.</li>
+  </Readiness>
+</Assessment>
 
 ### Use when
 
@@ -61,6 +67,20 @@ Several mid-sized electric vehicle startups create a joint venture for charging 
 - potential for anti-trust issues or perceptions of collusion
 - alliance could slow you down unnecessarily
 - you have a dominant position and don't need others
+
+## 🗺️ **Real-World Examples**
+
+### Star Alliance (airlines)
+
+Dozens of airlines allied to extend reach through code-sharing and integrated frequent flyer benefits. This enabled a global network under a single brand, driving the evolution of air travel connectivity.
+
+### AllSeen Alliance (IoT)
+
+Qualcomm, Microsoft, LG and others formed an alliance to promote AllJoyn as an open standard for device interoperability. Similar efforts include the Zigbee Alliance.
+
+### Hypothetical EV Alliance
+
+Several mid-sized electric vehicle startups create a joint venture for charging infrastructure. This allows them to rival Tesla’s Supercharger network and accelerate EV adoption.
 
 ## 🎯 **Leadership**
 

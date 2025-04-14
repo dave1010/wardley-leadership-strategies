@@ -22,15 +22,28 @@ Sapping works by exploiting the limitations of a competitor's resources and atte
 
 Sapping is most effective when the attacker has superior resources or agility compared to the competitor. It is often used by larger or more diversified companies against narrower ones. The goal is to create a situation where the competitor cannot cope with the volume of challenges.
 
-## 🗺️ **Real-World Examples**
-
--   **Microsoft in the 1990s (Multi-Front Attack):** Microsoft competed on many fronts in the mid-1990s, including browsers (vs. Netscape), programming platforms (Java vs. Windows APIs), personal devices (vs. Sony/Palm), and enterprise software (vs. IBM/Novell). Microsoft's resources allowed it to link its attacks, such as Windows + Office integration against Netscape and Lotus/WordPerfect. An antitrust finding noted Microsoft's campaign against "middleware threats" like Netscape and Java, which "raised its rivals' costs, and ultimately, effectively eliminated Netscape as a platform threat" while weakening Sun's Java momentum. By opening simultaneous battles (browser, middleware, applications), Microsoft sapped competitors' abilities to mount a unified response.
-
--   **Facebook vs. Emerging Social Apps:** Facebook's attack on Snapchat involved multiple fronts, including copying Stories (feature front), leveraging its global reach (geographic front), and using its ad targeting power (business front). This sapping strategy strained Snap, a smaller company, leading to impacts on Snapchat's growth and market cap. Facebook's multi-faceted approach targeted Snap from various angles.
-
--   **Amazon vs. Retail Competitors:** Amazon often uses multi-front competition. Against traditional retailers like Target and Walmart in the mid-2000s, Amazon attacked through online sales in various product categories (general merchandise front), Amazon Prime with fast shipping (logistics/membership front), undercutting prices (pricing front), expanding into digital goods (new technology front), and entering cloud computing. Retailers faced challenges needing to invest in e-commerce tech, lower prices, improve supply chains, and consider new business lines simultaneously. This sapping strategy impacted many retailers, with survivors like Walmart also becoming multifaceted.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Sapping">
+  <MapSignals>
+    <li>The competitor holds a focused position or limited scope, making them vulnerable to attacks from multiple directions.</li>
+    <li>The landscape includes multiple battlegrounds (product lines, geographies, pricing tiers, partnerships) where competitive pressure can be applied concurrently.</li>
+    <li>There is no dominant centre of gravity in the competitor's position—weaknesses are distributed across areas rather than concentrated in one.</li>
+    <li>The market is fluid enough that pressure on one front can create ripple effects across others (e.g. customer trust, talent drain, partner defection).</li>
+    <li>The competitor's past responses suggest limited coordination capacity or resource depth to handle simultaneous disruption.</li>
+    <li>Your mapping suggests strategic congestion: the competitor is over-reliant on a few defensive levers across many fronts.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have sufficient resources (capital, people, infrastructure) to sustain pressure across multiple fronts without overextending.</li>
+    <li>We maintain organisational agility and can pivot or shift intensity as outcomes unfold across different domains.</li>
+    <li>We have robust internal coordination mechanisms—cross-functional teams, shared intelligence, strategic alignment—to synchronise effort across fronts.</li>
+    <li>We have clear success criteria and escalation plans for each front to avoid resource drain on non-performing initiatives.</li>
+    <li>We can quickly learn from competitor responses and redistribute focus where it’s most effective.</li>
+    <li>We’ve prepared countermeasures in case the competitor consolidates and retaliates strongly on one or more fronts.</li>
+    <li>We have leadership bandwidth and morale resilience to guide a prolonged, multi-front engagement without strategic drift.</li>
+  </Readiness>
+</Assessment>
+
 
 ### Use When
 
@@ -39,6 +52,14 @@ Use sapping when you have superior resources or agility and can fight on many fr
 ### Avoid When
 
 Avoid sapping if you lack the resources or agility to sustain a multi-front attack. It is also risky if the competitor has the capacity to counter-attack effectively or if the costs of the strategy outweigh the potential gains.
+
+## 🗺️ **Real-World Examples**
+
+-   **Microsoft in the 1990s (Multi-Front Attack):** Microsoft competed on many fronts in the mid-1990s, including browsers (vs. Netscape), programming platforms (Java vs. Windows APIs), personal devices (vs. Sony/Palm), and enterprise software (vs. IBM/Novell). Microsoft's resources allowed it to link its attacks, such as Windows + Office integration against Netscape and Lotus/WordPerfect. An antitrust finding noted Microsoft's campaign against "middleware threats" like Netscape and Java, which "raised its rivals' costs, and ultimately, effectively eliminated Netscape as a platform threat" while weakening Sun's Java momentum. By opening simultaneous battles (browser, middleware, applications), Microsoft sapped competitors' abilities to mount a unified response.
+
+-   **Facebook vs. Emerging Social Apps:** Facebook's attack on Snapchat involved multiple fronts, including copying Stories (feature front), leveraging its global reach (geographic front), and using its ad targeting power (business front). This sapping strategy strained Snap, a smaller company, leading to impacts on Snapchat's growth and market cap. Facebook's multi-faceted approach targeted Snap from various angles.
+
+-   **Amazon vs. Retail Competitors:** Amazon often uses multi-front competition. Against traditional retailers like Target and Walmart in the mid-2000s, Amazon attacked through online sales in various product categories (general merchandise front), Amazon Prime with fast shipping (logistics/membership front), undercutting prices (pricing front), expanding into digital goods (new technology front), and entering cloud computing. Retailers faced challenges needing to invest in e-commerce tech, lower prices, improve supply chains, and consider new business lines simultaneously. This sapping strategy impacted many retailers, with survivors like Walmart also becoming multifaceted.
 
 ## 🎯 **Leadership**
 

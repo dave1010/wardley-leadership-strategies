@@ -14,6 +14,38 @@ Purpose: *reduce losses and integrate leftover value* into the organization in a
 
 Key principles: identify components (people, tech, processes) that can be useful elsewhere. For example, maybe the product is dead but the underlying database could support another service, or the team can be moved to a different project with slight retraining. By refactoring, you gradually wind down the old structure while not wasting everything.
 
+## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Refactoring">
+  <MapSignals>
+    <li>We are managing a legacy system or operation whose relevance or value is declining.</li>
+    <li>Our mapping reveals subcomponents of the legacy asset with ongoing or potential value.</li>
+    <li>The cost of full disposal is high, politically or practically, and we need a less abrupt exit.</li>
+    <li>There are internal dependencies or knowledge embedded in the system worth preserving.</li>
+    <li>We foresee a decline curve that allows time for planned transformation, rather than emergency action.</li>
+    <li>There is an opportunity to integrate salvaged components into emerging strategic initiatives.</li>
+    <li>The legacy asset is a source of internal toxicity or inertia that must be addressed methodically.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have the capacity to assess legacy components for reuse (skills, tech, data, infrastructure).</li>
+    <li>We are able to execute internal reorganizations without destabilizing other operations.</li>
+    <li>We can support dual operations temporarily (legacy and new systems in parallel).</li>
+    <li>Our culture tolerates gradual change and has experience with transformation projects.</li>
+    <li>We have mechanisms in place to retrain or redeploy people effectively and respectfully.</li>
+    <li>We can communicate clearly across teams and functions during transitions.</li>
+    <li>We have a defined timeline and governance structure to keep the refactoring on track.</li>
+  </Readiness>
+</Assessment>
+
+
+### Use when
+
+The legacy asset has **subcomponents of value** that you can clearly redeploy. Often applicable if the asset's decline is not immediate overnight -- you have time to plan and execute a thoughtful re-org. It's good if you value retaining employees or knowledge and want to redeploy them (cultural continuity) rather than sever ties completely. Refactoring is best when the legacy's end state is foreseeable and you can systematically carve it up over time.
+
+### Avoid when
+
+The toxic asset is hemorrhaging so badly that incremental changes won't stop the bleeding -- sometimes you need a quick cut (disposal) rather than gentle refactor. Also avoid if the effort to refactor is too high or distracts too much from core (sometimes dismantling internally can consume a lot of management attention -- if that's the case, might be better to do sweat & dump or pig in poke). If no part of the old is really salvageable or compatible with new directions, refactoring may just delay the inevitable.
+
 ## 🗺️ **Real-World Examples**
 
 ### Software/Tech
@@ -27,16 +59,6 @@ A car manufacturer phasing out combustion engines might refactor its production:
 ### Hypothetical
 
 A publishing company has a huge staff for print magazine layout, a diminishing need. Instead of mass layoffs, it refactors: it retrains a chunk of them in digital content layout and transfers them to the web team (useful skill reuse), it automates some layout tasks with software, and for the purely excess roles, it offers either internal transfers (some designers might move to marketing department) or packages out. The physical space freed by a smaller print team is converted into a multimedia studio for new digital content. This way, the company gradually morphs the legacy print operation into a leaner, partly repurposed unit that complements the digital side, rather than a sudden chop.
-
-## 🚦 **When to Use / When to Avoid**
-
-### Use when
-
-The legacy asset has **subcomponents of value** that you can clearly redeploy. Often applicable if the asset's decline is not immediate overnight -- you have time to plan and execute a thoughtful re-org. It's good if you value retaining employees or knowledge and want to redeploy them (cultural continuity) rather than sever ties completely. Refactoring is best when the legacy's end state is foreseeable and you can systematically carve it up over time.
-
-### Avoid when
-
-The toxic asset is hemorrhaging so badly that incremental changes won't stop the bleeding -- sometimes you need a quick cut (disposal) rather than gentle refactor. Also avoid if the effort to refactor is too high or distracts too much from core (sometimes dismantling internally can consume a lot of management attention -- if that's the case, might be better to do sweat & dump or pig in poke). If no part of the old is really salvageable or compatible with new directions, refactoring may just delay the inevitable.
 
 ## 🎯 **Leadership**
 

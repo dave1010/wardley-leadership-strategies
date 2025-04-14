@@ -26,15 +26,27 @@ The core idea is to break a competitor's market into smaller segments that can b
 -   Supporting multiple alternatives to prevent the rival from achieving scale.
 -   Exploiting a competitor's constraints or weaknesses.
 
-## 🗺️ **Real-World Examples**
-
--   **IBM and Linux vs. Microsoft**: In 2000, IBM committed \$1 billion to support the Linux operating system, a free, open-source alternative to Microsoft Windows, to fragment Microsoft's dominance in operating systems. At the time, Windows was dominant and expensive for enterprise. IBM's backing gave Linux enterprise legitimacy, leading to its widespread adoption. This carved off a significant portion of what might have been Windows-only server deployments and created a thriving ecosystem outside Microsoft's control.
-
--   **Android Open-Source Strategy**: Google's decision to make Android an open-source, freely licensed mobile OS can be seen as a fragmentation play against potential mobile monopolies. Android co-founder Rich Miner stated, "I literally helped create Android to prevent Microsoft from controlling the phone the way they did the PC -- stifling innovation." By giving Android away to device manufacturers, Google fragmented what could have been a unified market under a single player, such as Microsoft or Apple's iOS. The result was a proliferation of Android devices across many vendors. This strategy co-opted phone manufacturers to rally behind Android, fracturing the landscape into an alliance Google led.
-
--   **Pricing Wars**: A new entrant may deliberately price a product or service far below the incumbent's pricing to attract a different segment of customers, splitting the market by price-sensitive vs. premium segments. For example, when discount airlines entered markets dominated by national carriers, they fragmented the air travel market. Legacy airlines retained higher-paying business travelers, while budget-conscious travelers flocked to low-cost carriers. Similarly, freemium models in software can take market share from enterprise software incumbents.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Fragmentation Play">
+  <MapSignals>
+    <li>We are facing a dominant competitor who holds a consolidated market position or strong ecosystem control.</li>
+    <li>Our mapping reveals unmet needs or underserved customer segments within the competitor’s domain.</li>
+    <li>The incumbent’s offering is monolithic, expensive, proprietary, or rigid—leaving room for differentiated alternatives.</li>
+    <li>The market is showing signs of frustration, fatigue, or desire for more variety and decentralisation.</li>
+    <li>There are potential allies (vendors, communities, regulators) who would benefit from a more open or diverse landscape.</li>
+    <li>The competitor’s constraints (pricing, structure, pace of change) prevent them from addressing low-end or edge opportunities.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have or can develop a credible alternative offering that appeals to a specific market segment.</li>
+    <li>We can afford to undercut, subsidise, or open-source part of our offering to create market alternatives.</li>
+    <li>We understand the risks and trade-offs involved in disrupting a market rather than dominating it directly.</li>
+    <li>We are capable of building or supporting an ecosystem around the fragmenting wedge (e.g., partners, standards, community).</li>
+    <li>We have the strategic patience to allow fragmentation to unfold over time and the ability to adapt as the landscape changes.</li>
+    <li>We can manage a fragmented customer base and provide a clear path to long-term value capture.</li>
+    <li>We are prepared to handle counter-moves from the incumbent and mitigate retaliation or narrative shifts.</li>
+  </Readiness>
+</Assessment>
 
 ### Use when
 
@@ -43,6 +55,14 @@ Use a fragmentation play when you want to undermine a competitor's stronghold by
 ### Avoid when
 
 Avoid this strategy if the competitor is not dominant or if fragmenting the market would not create a more favorable environment for your organization. Also, avoid it if the competitor can easily counter your moves or if the resulting fragmented market would be detrimental to overall market growth.
+
+## 🗺️ **Real-World Examples**
+
+-   **IBM and Linux vs. Microsoft**: In 2000, IBM committed \$1 billion to support the Linux operating system, a free, open-source alternative to Microsoft Windows, to fragment Microsoft's dominance in operating systems. At the time, Windows was dominant and expensive for enterprise. IBM's backing gave Linux enterprise legitimacy, leading to its widespread adoption. This carved off a significant portion of what might have been Windows-only server deployments and created a thriving ecosystem outside Microsoft's control.
+
+-   **Android Open-Source Strategy**: Google's decision to make Android an open-source, freely licensed mobile OS can be seen as a fragmentation play against potential mobile monopolies. Android co-founder Rich Miner stated, "I literally helped create Android to prevent Microsoft from controlling the phone the way they did the PC -- stifling innovation." By giving Android away to device manufacturers, Google fragmented what could have been a unified market under a single player, such as Microsoft or Apple's iOS. The result was a proliferation of Android devices across many vendors. This strategy co-opted phone manufacturers to rally behind Android, fracturing the landscape into an alliance Google led.
+
+-   **Pricing Wars**: A new entrant may deliberately price a product or service far below the incumbent's pricing to attract a different segment of customers, splitting the market by price-sensitive vs. premium segments. For example, when discount airlines entered markets dominated by national carriers, they fragmented the air travel market. Legacy airlines retained higher-paying business travelers, while budget-conscious travelers flocked to low-cost carriers. Similarly, freemium models in software can take market share from enterprise software incumbents.
 
 ## 🎯 **Leadership**
 

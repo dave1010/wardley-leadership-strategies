@@ -6,6 +6,8 @@ tags: [brand-and-marketing, user-perception, branding, marketing, positioning, c
 
 **Using traditional marketing and brand positioning to shape user perception.**
 
+<AssessmentToolAdvert strategyName="Brand and Marketing" />
+
 ## 🤔 **Explanation**
 
 ### What is Brand and Marketing?
@@ -34,17 +36,27 @@ In markets saturated with similar offerings, a compelling brand narrative provid
 
 Effective application begins with a deep, empathetic understanding of the target customer segment – their motivations, pain points, values, and identity. This insight is the foundation for crafting authentic brand messages and narratives that genuinely resonate, creating a meaningful connection and sense of relevance. Implementation involves strategically positioning the brand within the market landscape, sometimes requiring sophisticated tactics like dual branding to effectively engage diverse niches without compromising the main brand's integrity. Consistent execution of this brand strategy across all customer touchpoints is vital for building and reinforcing the desired perception.
 
-## 🗺️ **Real-World Examples**
-
-### BlackBerry's "It's not a toy" Campaign
-
-BlackBerry positioned its phones as professional tools, implicitly labeling iPhones as frivolous. This branding aimed to keep corporate users loyal by appealing to their professional identity.
-
-### Orange's "NJU Mobile" Sub-Brand
-
-Orange launched "NJU Mobile" to target youth while maintaining its main brand's integrity. This dual branding strategy allowed it to cover all bases.
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Brand and Marketing">
+  <MapSignals>
+    <li>The market is saturated with functionally similar offerings, creating a premium on perceived differentiation.</li>
+    <li>Your mapping indicates a component or offering has moved toward commoditization, but perception lags behind its evolution.</li>
+    <li>User needs are increasingly shaped by identity, status, or emotional alignment rather than just functional performance.</li>
+    <li>The competitive environment is ripe for narrative framing. Your offering can plausibly be positioned as "the choice for people like us."</li>
+    <li>There is room to move a component up and left on the map, making it more visible and perceived as more specialised or bespoke than it actually is.</li>
+    <li>Competitors are vulnerable to perception-based repositioning (e.g., being cast as generic, outdated, risky, or misaligned with audience values).</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have a clear understanding of our target segments’ values, aspirations, and self-perceptions.</li>
+    <li>We can craft coherent, resonant narratives and consistently apply them across all touchpoints (ads, sales, support, packaging, etc).</li>
+    <li>We have marketing execution capability (brand, comms, channels) that can reinforce user perception intentionally over time.</li>
+    <li>We understand how to position against competitors indirectly: through contrast, framing, and narrative, not just claims.</li>
+    <li>We can monitor perception shifts and adapt our messaging in response to cultural or competitive changes.</li>
+    <li>We maintain alignment between brand messaging and actual product/service quality to ensure authenticity and trust.</li>
+    <li>We avoid over-reliance on marketing by balancing perception work with real improvements in product, support, or delivery.</li>
+  </Readiness>
+</Assessment>
 
 ### Use when
 
@@ -57,6 +69,16 @@ Orange launched "NJU Mobile" to target youth while maintaining its main brand's 
 - The market is highly rational and price-driven.
 - The product has quality issues that marketing cannot fix.
 - Innovation is needed more than branding.
+
+## 🗺️ **Real-World Examples**
+
+### BlackBerry's "It's not a toy" Campaign
+
+BlackBerry positioned its phones as professional tools, implicitly labeling iPhones as frivolous. This branding aimed to keep corporate users loyal by appealing to their professional identity.
+
+### Orange's "NJU Mobile" Sub-Brand
+
+Orange launched "NJU Mobile" to target youth while maintaining its main brand's integrity. This dual branding strategy allowed it to cover all bases.
 
 ## 🎯 **Leadership**
 
