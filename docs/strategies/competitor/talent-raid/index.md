@@ -27,13 +27,27 @@ Talent Raid is valuable because it directly impacts a competitor's ability to ex
 
 Talent Raid can be executed directly by hiring away a competitor's employees or indirectly through acquisitions or partnerships that bring talent in-house. It involves identifying key talent or teams within a competitor's organization, assessing their value, and then enticing them to join your organization. This often requires offering better compensation, career opportunities, or a more appealing work environment.
 
-## 🗺️ **Real-World Examples**
-
-* **Apple and Tesla:** Apple and Tesla have notoriously traded talent, each looking to bolster their teams for electric cars and related technologies. In 2015, Tesla's CEO Elon Musk quipped that Apple was the "Tesla Graveyard" -- "If you don't make it at Tesla, you go work at Apple", in response to Apple hiring many ex-Tesla engineers. By 2018, Apple had poached at least 46 employees from Tesla in a single year, including key engineers for its secretive car project. This talent raid by Apple aimed to boost its own automotive initiative while undermining Tesla's. Losing dozens of experienced staff (some of whom had deep knowledge of Tesla's battery, software, and Autopilot systems) could slow Tesla's development and force them into a continuous recruitment and training mode. Conversely, Tesla has also raided Apple for talent in areas like user interface and chip design, hiring over 150 former Apple employees at one point. These raids indicate both companies see each other's talent as prime targets in the competition for electric and autonomous vehicle leadership.
-* **Google's Acqui-hiring:** Google has a history of "acqui-hiring" -- acquiring startups primarily to get their engineers and designers. For example, Google acquired a small team working on a mobile email app (SlideMail) not just for the product, but to bring the talented developers in-house (indirectly removing talent that could have been employed by competitors). Another case: when Google bought DeepMind in 2014, it wasn't just acquiring technology, but also scooping up some of the world's leading AI researchers, thereby denying that talent to competitors like Facebook or Microsoft. This is an indirect talent raid via acquisition, which gave Google a leap in AI capability and left others to either try to poach from Google or find talent elsewhere.
-* **Finance and Big Law Talent Moves:** In sectors like investment banking or law firms, it's common for a firm to lure star performers (a rainmaking banker or a celebrated trial lawyer) from a competitor with huge compensation packages. The reasoning is the same: that individual brings over clients or deals and leaves the former employer weakened (perhaps clients follow the person, or the competitor loses a unique skill set). For instance, when a top trading team or portfolio manager exits a hedge fund to join another, it's effectively a talent raid that can shake the original firm (investors might withdraw funds in that manager's absence).
-
 ## 🚦 **When to Use / When to Avoid**
+
+<Assessment strategyName="Talent Raid">
+  <MapSignals>
+    <li>The competitor’s capabilities heavily depend on identifiable individuals or elite teams rather than scalable systems.</li>
+    <li>Your mapping reveals bottlenecks or critical initiatives within the competitor’s organisation led by high-impact talent.</li>
+    <li>The competitive landscape shows a scarcity of domain expertise, making individual contributors disproportionately valuable.</li>
+    <li>The pace of innovation is closely tied to talent mobility. I.e., knowledge transfer has immediate strategic impact.</li>
+    <li>The competitor is vulnerable to disruption via internal morale shocks, e.g., key departures trigger cascading exits or project slowdowns.</li>
+    <li>The market or technology area is in early stages of evolution, where individual expertise carries more strategic weight than process maturity.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We can identify and assess high-value individuals or teams within competitors, including their likely motivations and risk tolerance.</li>
+    <li>We offer an environment (culture, mission, comp structure) attractive to top-tier talent, especially those leaving high-pressure roles.</li>
+    <li>We have legal, HR, and onboarding capabilities to execute poaching sensitively, including managing non-competes, IP issues, and integration.</li>
+    <li>We understand the optics. Our leadership can manage internal morale and external perception when executing a visible talent raid.</li>
+    <li>We have systems in place to quickly harness and amplify the incoming talent’s strengths (e.g., clear roles, support, follow-on hires).</li>
+    <li>We avoid overdependence on raiding by maintaining strong internal talent development and succession pipelines.</li>
+    <li>We can model and monitor the downstream impact. E.g., knowledge gained, competitor project disruption, market influence of new hires.</li>
+  </Readiness>
+</Assessment>
 
 ### Use when
 
@@ -45,6 +59,12 @@ Talent Raid is most effective when key talent or teams within a competitor's org
 * The poached talent may not fit or perform well in the new environment.
 * The cost of acquiring the talent outweighs the potential benefits.
 * A blatant talent raid might sour relationships if you plan to maintain a cooperative relationship with a competitor in some areas.
+
+## 🗺️ **Real-World Examples**
+
+* **Apple and Tesla:** Apple and Tesla have notoriously traded talent, each looking to bolster their teams for electric cars and related technologies. In 2015, Tesla's CEO Elon Musk quipped that Apple was the "Tesla Graveyard" -- "If you don't make it at Tesla, you go work at Apple", in response to Apple hiring many ex-Tesla engineers. By 2018, Apple had poached at least 46 employees from Tesla in a single year, including key engineers for its secretive car project. This talent raid by Apple aimed to boost its own automotive initiative while undermining Tesla's. Losing dozens of experienced staff (some of whom had deep knowledge of Tesla's battery, software, and Autopilot systems) could slow Tesla's development and force them into a continuous recruitment and training mode. Conversely, Tesla has also raided Apple for talent in areas like user interface and chip design, hiring over 150 former Apple employees at one point. These raids indicate both companies see each other's talent as prime targets in the competition for electric and autonomous vehicle leadership.
+* **Google's Acqui-hiring:** Google has a history of "acqui-hiring" -- acquiring startups primarily to get their engineers and designers. For example, Google acquired a small team working on a mobile email app (SlideMail) not just for the product, but to bring the talented developers in-house (indirectly removing talent that could have been employed by competitors). Another case: when Google bought DeepMind in 2014, it wasn't just acquiring technology, but also scooping up some of the world's leading AI researchers, thereby denying that talent to competitors like Facebook or Microsoft. This is an indirect talent raid via acquisition, which gave Google a leap in AI capability and left others to either try to poach from Google or find talent elsewhere.
+* **Finance and Big Law Talent Moves:** In sectors like investment banking or law firms, it's common for a firm to lure star performers (a rainmaking banker or a celebrated trial lawyer) from a competitor with huge compensation packages. The reasoning is the same: that individual brings over clients or deals and leaves the former employer weakened (perhaps clients follow the person, or the competitor loses a unique skill set). For instance, when a top trading team or portfolio manager exits a hedge fund to join another, it's effectively a talent raid that can shake the original firm (investors might withdraw funds in that manager's absence).
 
 ## 🎯 **Leadership**
 

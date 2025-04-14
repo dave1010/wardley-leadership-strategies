@@ -20,6 +20,8 @@ In Wardley terms, this means:
 
 This process helps avoid building products with no market narrative and ensures initiatives have a compelling value proposition.
 
+<AssessmentToolAdvert strategyName="Press Release Process" />
+
 ### From Doctrine to Strategy
 
 The Press Release Process is doctrinal by default. It encourages clarity, alignment, and mapping. But it only becomes strategic when the mismatches it reveals are acted upon deliberately. A press release that depends on an immature capability surfaces a tension. Strategic leaders notice that gap then they decide how to respond. That response might involve accelerating evolution, reshaping the user need, leveraging an ecosystem, or constraining scope. It’s these decisions that are shaped by position, movement, and intent, that turn a doctrinal process into a strategic play.
@@ -43,28 +45,27 @@ It’s about **identifying what’s ready to be commoditised**, and building eff
 
 Then execute against that. The press release becomes a forcing function for evolutionary acceleration, team alignment, and strategic focus.
 
-## 🗺️ **Real-World Examples**
-
-### Amazon
-
-Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
-
-### Netflix
-
-Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
-
 ## 🚦 **When to Use / When to Avoid**
 
-```mermaid
-quadrantChart
-    title Strategic Fitness of Press Release
-    x-axis Market Clarity --> Confusion
-    y-axis Capability Readiness --> Capability Gap
-    quadrant-1 "Visionary But Risky"
-    quadrant-2 "Green Light"
-    quadrant-3 "Technically Ready, No Pull"
-    quadrant-4 "Abandon or Rethink"
-```
+<Assessment strategyName="Press Release Process">
+  <MapSignals>
+    <li>We're initiating development of a new product, feature, or user-facing service.</li>
+    <li>Our maps show high user visibility but unclear or underdefined value propositions.</li>
+    <li>The supporting components are largely evolved (Product/Commodity) and suitable for industrialisation.</li>
+    <li>We’ve struggled in the past with alignment, scope creep, or launching initiatives with weak customer traction.</li>
+    <li>There’s a mismatch between technical enthusiasm and market pull in our current pipeline.</li>
+    <li>We need a mechanism to surface capability gaps early and steer resource allocation accordingly.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have teams willing and able to adopt narrative-driven development practices (e.g., writing a press release first).</li>
+    <li>We are comfortable iterating product ideas at a narrative level before committing to build.</li>
+    <li>We have the strategic discipline to let user-facing narrative shape scope and priorities, not the other way around.</li>
+    <li>We can map value chains and assess component maturity to validate feasibility of the proposed press release.</li>
+    <li>We are able to integrate marketing, product, and engineering perspectives early in the development process.</li>
+    <li>We can use narrative friction (e.g., press release feels weak) as a legitimate signal to rethink or stop.</li>
+    <li>We treat the press release as a living artefact that continues to guide execution—not just a kickoff ritual.</li>
+  </Readiness>
+</Assessment>
 
 ### Use when
 
@@ -77,6 +78,27 @@ quadrantChart
 - Working on extremely secretive innovations.
 - Teams resist the cultural shift or don't take the process seriously.
 - Initiatives have no marketing angle (e.g., back-end infrastructure improvements).
+
+```mermaid
+quadrantChart
+    title Strategic Fitness of Press Release
+    x-axis Market Clarity --> Confusion
+    y-axis Capability Readiness --> Capability Gap
+    quadrant-1 "Visionary But Risky"
+    quadrant-2 "Green Light"
+    quadrant-3 "Technically Ready, No Pull"
+    quadrant-4 "Abandon or Rethink"
+```
+
+## 🗺️ **Real-World Examples**
+
+### Amazon
+
+Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
+
+### Netflix
+
+Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
 
 ## 🎯 **Leadership**
 
