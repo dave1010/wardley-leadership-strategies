@@ -4,6 +4,12 @@
 
 The *Strategy Self-Assessment* is an interactive tool designed to help leaders evaluate the applicability and execution readiness of a specific strategy within their own context.
 
+:::info
+
+The tool is specific to each strategy. To use the tool, find a strategy first and scroll down to the *Self-Assessment* section. The tool will be pre-filled with relevant statements for that strategy.
+
+:::
+
 It presents a guided checklist of conditions grouped into two categories:
 
 - **Map Signals**: Signs within your value chain and competitive environment that suggest the strategy is a good fit.

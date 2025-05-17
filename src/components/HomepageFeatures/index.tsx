@@ -2,12 +2,14 @@ import type {ReactNode} from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import BrowserFrame from '../BrowserFrame';
 
 export default function HomepageFeatures(): ReactNode {
   return (
     <section className={styles.features}>
     <div className="container">
       <div className="row">
+
         <div className={clsx('col col--8')}>
           <div className="hero shadow--md margin-vert--lg">
             <div className="container">
@@ -37,8 +39,7 @@ export default function HomepageFeatures(): ReactNode {
         </div>
 
         <div className={clsx('col col--4')}>
-
-        <div className={`${styles.miniHero} margin-vert--lg`}>
+          <div className={`${styles.miniHero} margin-vert--lg`}>
             <div className="container">
               <h2 className={styles.miniHero__title}>What is this site?</h2>
               <p className={styles.miniHero__subtitle}>
@@ -54,7 +55,29 @@ export default function HomepageFeatures(): ReactNode {
           </div>      
         </div>
 
+      </div>
 
+      <div className="margin-vert--lg">
+        <div className="card shadow--md padding--lg">
+          <div className="row">
+            <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
+              <h2 className="margin-bottom--sm">New: Strategy Assessment Tool</h2>
+              <p className="margin-bottom--sm" style={{ fontSize: '1.25rem' }}>
+                Quickly assess how ready you are to apply each strategy with the{' '}
+                <a href="/about/assessment-tool">Strategy Assessment Tool</a>.
+                Explore signals in your maps and organisation that suggest a good fit, and check your readiness to execute effectively.
+              </p>
+              <a className="button button--primary" href="/about/assessment-tool">
+                Try the Tool
+              </a>
+            </div>
+            <div className={clsx('col col--4')}>
+              <BrowserFrame>
+                <img src="/img/assessment-tool-screenshot.png" alt="Strategy assessment tool" style={{ width: '100%', borderRadius: '8px' }} />
+              </BrowserFrame>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>
