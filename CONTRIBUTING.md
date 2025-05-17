@@ -37,7 +37,7 @@ Strategies should aim to follow this format as closely as possible.
    - If there are no good examples then hypothetical examples are OK, but make it clear they're hypothetical.
    - One or 2 paragraphs max.
    - Failed examples are OK, but make it clear they're failed.
-6. `## 🚦 **When to Use / When to Avoid**`. Include `## Use when` and `## Avoid when`. Paragraph each.
+6. `## 🚦 **When to Use / When to Avoid**`. Include the Assessment Tool (see below). If more information is helpful then also include a paragraph for `## Use when` or `## Avoid when`.
 7. `## 🎯 **Leadership**`
    Think about what a leader would need to know. Start with `### Core challenge` paragraph, `### Key leadership skills required` bullet points and `### Ethical considerations` paragraph. Add other subsections as needed.
 8. `## 📋 **How to Execute**`
@@ -77,6 +77,27 @@ tags: [cooperation, accelerators, collaboration, partnerships, standards, allian
 
 - Read the file `./site-data/tags.txt` for a list of current tags.
 - Don't tag content with the strategy name, unless it is a parent or very generic strategy.
+
+### Assessment Readiness Tool
+
+Strategies _should_ have an assessment tool when appropriate. The assessment tool is a simple checklist of statements that the user can mark as true, false or uncertain. The tool is specific to each strategy. The component does not need importing into the MDX. Embed the component like this:
+
+```md
+<Assessment strategyName="Foo">
+  <MapSignals>
+    <li>Our map shows a critical components in an early stage of evolution.</li>
+    <li>We control a critical bottleneck or dependency in the value chain.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We're good at managing inertia.</li>
+    <li>We have a bias towards new.</li>
+  </Readiness>
+</Assessment>
+```
+
+The `MapSignals` list items should be things that someone could answer when looking at a map they've just made.
+`Readiness` is more about Doctrine and organisational capability, maturity and culture. Some may be specific skills.
+4-7 of each is a good number but stick to what's important: insignificant indicators will skew the results.
 
 ## Terms
 
