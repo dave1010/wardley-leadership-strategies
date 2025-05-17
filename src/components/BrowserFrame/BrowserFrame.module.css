@@ -1,0 +1,65 @@
+.browserFrame {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: var(--ifm-global-shadow-md);
+  overflow: hidden;
+  background: white;
+}
+
+.browserHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f1f3f5;
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #ddd;
+  font-size: 0.85rem;
+  font-family: sans-serif;
+}
+
+.circles {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.circle {
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 999px;
+  display: inline-block;
+}
+
+.red { background-color: #ff5f56; }
+.yellow { background-color: #ffbd2e; }
+.green { background-color: #27c93f; }
+
+.urlBar {
+  flex: 1;
+  text-align: center;
+  color: #555;
+  font-size: 0.8rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.menuIcon {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.menuIcon span {
+  width: 1rem;
+  height: 2px;
+  background-color: #888;
+  border-radius: 1px;
+}
+  
+.browserContent {
+  background: white;
+}
+
+.browserContent > img {
+  display: block;
+} 
