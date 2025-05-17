@@ -11,7 +11,7 @@
 .miniHero {
   display: flex;
   align-items: center;
-  padding: 4rem 0.5rem; /* Match vertical padding of main hero */
+  padding: 4rem 0.5rem 0rem; /* Match vertical padding of main hero */
   color: var(--ifm-color-emphasis-800);
   border-radius: 8px;
   margin: 0 0 2rem 0; /* Bottom margin consistent with vertical spacing */
@@ -41,3 +41,12 @@
   }
 }
 
+.reverseOnMobile {
+  order: 0;
+}
+
+@media screen and (min-width: 996px) {
+  .reverseOnMobile {
+    order: 2;
+  }
+}
