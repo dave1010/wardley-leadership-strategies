@@ -19,7 +19,7 @@
 Strategies should aim to follow this format as closely as possible.
 
 1. Front matter YAML
-2. 1 single senence accesible description in bold (`**`)
+2. 1 single senence accessible description in bold (`**`)
 3. Quote from Simon Wardley. Eg
 
    ```md
@@ -37,18 +37,18 @@ Strategies should aim to follow this format as closely as possible.
    - If there are no good examples then hypothetical examples are OK, but make it clear they're hypothetical.
    - One or 2 paragraphs max.
    - Failed examples are OK, but make it clear they're failed.
-6. `## 🚦 **When to Use / When to Avoid**`. Include `## Use when` and `## Avoid when`. Paragrah each.
+6. `## 🚦 **When to Use / When to Avoid**`. Include `## Use when` and `## Avoid when`. Paragraph each.
 7. `## 🎯 **Leadership**`
    Think about what a leader would need to know. Start with `### Core challenge` paragraph, `### Key leadership skills required` bullet points and `### Ethical considerations` paragraph. Add other subsections as needed.
 8. `## 📋 **How to Execute**`
-   - Either a simple ordered list or a nubered subsections.
+   - Either a simple ordered list or a numbered subsections.
 9.  `## 📈 **Measuring Success**`
    - Unordered list of 3-5 bullet points.
 10. `## ⚠️ **Common Pitfalls and Warning Signs**`
     - `###` subsection and a sentence or 2 for each one.
 11. `## 🧠 **Strategic Insights**`
     - This is where the big ideas go.
-    - Only put relevent insights here, not generic ones.
+    - Only put relevant insights here, not generic ones.
     - Consider evolution stages, counterplay, value chains, users, markets, leverage, higher order thinking, wider goals, etc.
     - Also if there's anything specific to the strategy that is not covered in the other sections.
     - `###` subsection and whatever is appropriate for each one.
@@ -80,7 +80,7 @@ tags: [cooperation, accelerators, collaboration, partnerships, standards, allian
 
 ## Terms
 
-- Terms are for words or phrases that are specific to stragegies, business, Wardley Mapping, etc.
+- Terms are for words or phrases that are specific to strategies, business, Wardley Mapping, etc.
 - We're not trying to create a dictionary of all words or phrases.
 - Don't make terms pages for strategies.
 - Terms are in `./docs/terms/<term>.md`. eg `./docs/terms/critical-mass.md`.
