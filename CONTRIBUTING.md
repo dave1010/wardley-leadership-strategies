@@ -43,22 +43,22 @@ Strategies should aim to follow this format as closely as possible.
 8. `## 📋 **How to Execute**`
    - Either a simple ordered list or a numbered subsections.
 9.  `## 📈 **Measuring Success**`
-   - Unordered list of 3-5 bullet points.
+   - Unordered list of 3-5 bullet points. Metrics provided should be specific and indicative of the strategy's impact.
 10. `## ⚠️ **Common Pitfalls and Warning Signs**`
-    - `###` subsection and a sentence or 2 for each one.
+    - `###` subsection and a sentence or 2 for each one. These should highlight realistic risks and be distinct from the "When to Avoid" criteria.
 11. `## 🧠 **Strategic Insights**`
     - This is where the big ideas go.
     - Only put relevant insights here, not generic ones.
     - Consider evolution stages, counterplay, value chains, users, markets, leverage, higher order thinking, wider goals, etc.
     - Also if there's anything specific to the strategy that is not covered in the other sections.
-    - `###` subsection and whatever is appropriate for each one.
+    - Use `###` subsections and favour paragraphs over bullets for this section.
 12. `## ❓ **Key Questions to Ask**`
-    - Unordered list of 3-6 bullet points: `**Topic:** Question?`
+    - Unordered list of 3-6 bullet points: `**Topic:** Question?`. These questions should be designed to be thought-provoking and directly assist users in applying the strategy to their specific context.
 13. `🔀 **Related Strategies**`
     - Unordered list of 3-6 bullet points with links to other strategies.
     - Eg `- [Bar](/strategies/foo/bar) - <what Bar is in the context of this strategy.> <optional extra info, like how it relates to this strategy>`
 14. `## 📚 **Further Reading & References**`
-    - Unordered list of 3-6 bullet points with links to articles, books, etc.
+    - Unordered list of 3-6 bullet points with links to articles, books, academic papers, etc.
     - Eg `- [Title](https://site) - <description of the article, book, etc.> <optional extra info, like how it relates to this strategy>`
 
 ### Front Matter
@@ -96,7 +96,10 @@ Strategies _should_ have an assessment tool when appropriate. The assessment too
 ```
 
 The `MapSignals` list items should be things that someone could answer when looking at a map they've just made.
-`Readiness` is more about Doctrine and organisational capability, maturity and culture. Some may be specific skills.
+These should not be generic.
+`Readiness` is more about Doctrine and organisational capability, maturity and culture. These should be specific skills
+or capabilities that are directly relevant to the strategy - i.e. one or more of the steps in "How to Execute" hinges on them.
+or at least generic skills that make it clear where they are applied in relation to the strategy.
 4-7 of each is a good number but stick to what's important: insignificant indicators will skew the results.
 
 ## Terms
@@ -114,7 +117,7 @@ The `MapSignals` list items should be things that someone could answer when look
 
 ## Tone, Voice and Style
 
-- A fairly even mix of paragraph and bullet points.
+- A mix of paragraphs and bullet points, tending towards paragraphs.
 - Bold and italic for emphasis is OK but don't overuse.
 
 Remember that there are 60+ strategies. Consider whether content is applicable to *all*, *many*, *few* or just *one* strategy. Most content in a stragegy should be relevant to *only* that strategy. There might be some content that is relevant to a few strategies, but it should be the exception rather than the rule. If content applies to many or all strategies, it should be in the main site content, not in a specific strategy. Also consider that strategies are related: sub strategies, counterplay, etc. If content is relevant to a sub-strategy or counterplay, it should be in the sub-strategy or counterplay, not in the main strategy (which links and provides a summary).
