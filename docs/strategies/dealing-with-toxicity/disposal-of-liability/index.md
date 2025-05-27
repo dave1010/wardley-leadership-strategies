@@ -1,51 +1,145 @@
 ---
-tags: [dealing-with-toxicity, legacy, divestment, shutdown, inertia, obsolescence, exit strategy]
+title: Disposal of Liability
+description: Eliminating toxic or obsolete components by divesting or shutting down burdensome assets.
+tags: [dealing-with-toxicity, legacy, divestment, exit-strategy, inertia, obsolescence, risk-mitigation]
 ---
 
-# Disposal of liability
+# Disposal of Liability
 
-**Disposal of Liability**
+**Eliminating toxic or obsolete components from your value chain to reduce drag and reclaim focus.**
 
-:::warning
+> *"Overcoming the internal inertia to disposal. Your own organisation is likely to fight you even when you're trying to get
+id of the toxic."*
+>
+> - Simon Wardley
 
-This is an **early draft** and isn't yet up to our standard.
-You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+## 🤔 **Explanation**
 
-:::
+### What is Disposal of Liability?
+Disposal of Liability is the strategic removal of components, such as products, services, or operations, that have become
+burdensome or harmful to an organization’s evolution. These components may be outdated, costly to maintain, or generate inertia
+that hinders growth and innovation.
 
+### Why use Disposal of Liability?
+Eliminating liabilities frees resources (financial, human, and strategic) to focus on higher-value activities. It reduces
+complexity, cuts maintenance costs, and mitigates risks associated with obsolete or non-strategic assets.
 
-**Definition & Summary:** **Getting rid of a toxic or obsolete component** in your value chain, despite internal resistance . This means divesting, shutting down, or otherwise removing parts of the business that have become liabilities (no longer valuable and even harmful due to inertia they create).
+### How to use Disposal of Liability?
+Begin by mapping your value chain to identify components that are no longer evolving or are causing drag. Evaluate their cost,
+risk, and strategic fit. Develop a disposal plan, which may include divestiture, shutdown, or sale. Secure leadership buy-in,
+communicate with stakeholders, and manage the transition carefully.
 
-**Detailed Explanation:** Over time, certain products or operations turn into burdens -- they consume resources, create inertia (people cling to them), and block evolution. Disposal of liability is the strategy of overcoming internal inertia to **cut loose those parts** . It could be selling off a division, discontinuing a product line, or migrating off an old platform. The purpose: free the organization to focus on future-facing elements and eliminate drag. Key principle: courage and clarity -- it often meets internal opposition ("We've always done this!"). Need to make the case that keeping it is more risky than disposing. Disposal can be outright or phased (sunsetting with support for a period).
+## 🗺️ **Real-World Examples**
 
-**Real-World Examples:**
+### IBM’s PC Division Sale to Lenovo (2005)
+IBM sold its commoditized PC division to Lenovo to shed a low-margin business and focus on services and software, enabling it
+to reallocate resources to higher-growth areas.
 
--  *Historical:* **IBM selling its PC division to Lenovo (2005)** -- IBM realized PCs were commoditized (low margin) and the PC business was holding it back from shifting to services and software. Internally, PCs had been a core product, but IBM disposed of this liability (sold the entire division). This allowed IBM to shed a declining business and focus on higher-value segments. Initially controversial, it proved wise as IBM flourished in services while Lenovo took on the low-margin hardware game.
+### Kodak’s Film Business (1990s)
+Kodak struggled to divest its legacy film operations in time, highlighting how delayed disposal can lead to missed
+opportunities and decline.
 
--  *Historical:* **Kodak's late 90s attempt** -- Kodak had a massive film business (becoming toxic as digital rose). They did try partial disposal by spinning off some chemicals and healthcare units, but they infamously clung too long to film. A positive example is hard because Kodak mostly failed to dispose in time -- a cautionary tale that *not* disposing a liability (film factories, etc.) contributed to bankruptcy.
+### Telecom Copper Network Decommissioning (Hypothetical)
+A telecom operator divests its legacy copper infrastructure to a specialized firm, reducing maintenance costs and allowing
+investment in broadband and wireless networks.
 
--  *Hypothetical:* A telecom company still runs a legacy copper network alongside fiber. The copper network is expensive to maintain and limits new offerings, but internal teams resist shutting it down for fear of losing traditional customers. The company decides to **dispose of this liability** by selling the copper infrastructure to a smaller firm (perhaps one that specializes in late-stage asset running) or by gradually decommissioning it region by region, pushing remaining customers to fiber or wireless. This frees the telecom from maintenance drag and allows full focus (and capital) on fiber and 5G.
+## 🚦 **When to Use / When to Avoid**
 
-**When to Use / When to Avoid:**
+<Assessment strategyName="Disposal of Liability">
+  <MapSignals>
+    <li>Our map shows key components stuck in a mature or commodity stage.</li>
+    <li>Maintaining these components ties up significant resources.</li>
+    <li>Internal teams resist moving away from established but unproductive assets.</li>
+    <li>The asset creates strategic inertia, blocking new initiatives.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have authority to make divestment decisions.</li>
+    <li>Leadership is willing to champion disposal despite pushback.</li>
+    <li>We can support stakeholders through transition (customers, employees).</li>
+    <li>We have legal and operational plans for divestment or shutdown.</li>
+  </Readiness>
+</Assessment>
 
--  **Use when:** A part of your business is clearly **past its prime and hindering transformation**. Especially if maintaining it ties up significant resources or if its presence causes strategic inertia ("we can't do X because it might upset the legacy customers/product"). Use when the opportunity cost of keeping it outweighs short-term losses from disposing. Also, if market conditions for disposal (buyers or alternate providers) are favorable -- e.g., you find someone willing to acquire the legacy unit.
+**Use when:** A part of your value chain is mature or commoditized, draining resources, and the cost of maintaining it
+utweighs the benefits, and you have leadership support for disposal.
 
--  **Avoid when:** The liability still generates cash critical to funding new growth (timing matters -- you might milk it a bit to fund the transition, but plan disposal before it turns into a loss-maker). Also avoid abrupt disposal if you have obligations (e.g., contractual support for customers -- you may need a transition plan to avoid reputation damage).
+**Avoid when:** The asset still generates critical revenue that funds your strategic initiatives, or you lack the authority or
+stakeholder alignment to execute a disposal plan.
 
-**Common Pitfalls:**
+## 🎯 **Leadership**
 
--  **Internal resistance:** Divisions or people tied to the legacy asset will fight for survival, often underestimating the harm of keeping it. This can delay action until it's too late. Overcoming this requires strong leadership backing (possibly **top-down directive** since consensus may never come).
+### Core challenge
+Navigating internal resistance and ensuring organizational alignment when proposing the removal of long-standing assets that
+employees and customers may be attached to.
 
--  **Customer blowback:** If not handled gently, loyal customers of the legacy offering may feel abandoned. It's important to provide migration paths or partner with someone to take care of them (e.g., sell to a company that will continue service).
+### Key leadership skills required
+- Decisive stakeholder management
+- Clear communication and storytelling
+- Risk assessment and mitigation
+- Change management and negotiation
 
--  **Legal/operational complexities:** Shutting down can have hidden costs (layoffs, contract terminations, environmental cleanup if physical assets). Underestimating these can make disposal messier than thought.
+### Ethical considerations
+Ensure that disposal does not abandon stakeholders, such as employees, customers, or communities. Plan for fair treatment,
+severance, or transition support.
 
-**Related Strategies:** **Sweat & Dump** (a method of disposal via third-party exploitation), **Pig in a Poke** (selling off an asset under rosy pretenses), **Refactoring** (internal disposal by repurposing parts of the legacy into new uses -- an alternative to outright disposal). All these are ways to handle toxic legacy.
+## 📋 **How to Execute**
 
-**Further Reading & References:**
+1. Map and identify liabilities in your value chain.
+2. Evaluate cost, risk, and strategic fit of each component.
+3. Develop a disposal plan (divestiture, shutdown, or sale).
+4. Secure leadership buy-in and align stakeholders.
+5. Execute the disposal steps with clear communication.
+6. Manage transition and monitor outcomes.
 
--  Wardley Maps Forum -- *"Overcoming internal inertia to disposal"* . Emphasizes that your own org will fight you even when an asset is toxic, highlighting the need for resolve in disposal.
+## 📈 **Measuring Success**
 
--  Business Cases: **GE's divestiture of GE Capital (2015)** -- once core, GE Capital became a liability (regulatory burden, volatile). GE disposed most of it to refocus on industry, which can be seen as disposal of a liability to reduce risk and complexity.
+- Reduction in maintenance and operational costs.
+- Resources reallocated to strategic initiatives.
+- Percentage of legacy components successfully removed.
+- Improvement in organizational agility and focus.
 
--  *HBR: "Pruning the Corporate Portfolio"* -- article on when and how to divest business units that no longer fit strategy (aligns with disposing of liabilities concept).
+## ⚠️ **Common Pitfalls and Warning Signs**
+
+### Underestimating hidden costs
+Disposal can incur unforeseen expenses—legal fees, severance, or environmental cleanup—that jeopardize the plan.
+
+### Insufficient stakeholder engagement
+Lack of communication or support from key groups can lead to pushback, delays, or sabotage.
+
+### Legal and contractual oversights
+Ignoring contractual obligations or regulatory requirements can result in fines or lawsuits.
+
+### Loss of critical capabilities
+Removing a component too quickly may deprive the organization of essential skills or knowledge.
+
+## 🧠 **Strategic Insights**
+
+### Evolution acceleration
+Removing outdated components accelerates organizational evolution by clearing bottlenecks.
+
+### Organizational focus
+Disposal clarifies strategy, directing attention and investment toward future-facing initiatives.
+
+### Risk concentration
+While disposal reduces systemic drag, it can concentrate risk if overused or poorly planned.
+
+## ❓ **Key Questions to Ask**
+
+- What assets are dragging our evolution?
+- Where are we investing resources to maintain obsolete components?
+- Who will be affected by disposal and how will we support them?
+- Do we have authority and resources to execute the disposal?
+- What is the timeline and criteria for success?
+
+## 🔀 **Related Strategies**
+
+- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - Outsource toxic assets to third parties when direct
+disposal isn’t feasible.
+- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - Misrepresent toxic assets as valuable to offload them.
+- [Refactoring](/strategies/dealing-with-toxicity/refactoring) - Internally transform or repurpose components as an
+alternative to disposal.
+
+## 📚 **Further Reading & References**
+
+- HBR: [“Pruning the Corporate Portfolio”](https://hbr.org/2017/12/case-study-should-a-hotel-giant-eliminate-some-brands-and-refocus) - Guidance on divestment timing and execution.
+- [General Electric rids itself of financial unit in $26.5bn deal as it hones focus](https://www.theguardian.com/business/2015/apr/10/general-electric-sell-financial-unit-26-billion-deal) - GE’s divestiture of GE Capital (2015) - Case study of reducing complexity by divesting a non-core business.
