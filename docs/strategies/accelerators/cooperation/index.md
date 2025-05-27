@@ -204,7 +204,7 @@ If one side unilaterally exploits the partnership (e.g., learns from cooperation
 
 Cooperation strategies differ dramatically based on component evolution stage:
 
-- Genesis/Custom: Cooperation focuses on risk-sharing and pooling scarce expertise
+- Genesis/Custom: Cooperation focuses on risk-sharing, pooling scarce expertise amd informal knowledge sharing
 - Product/Commodity: Cooperation typically centers on standards creation and market expansion
 
 ### Value Chain Positioning
