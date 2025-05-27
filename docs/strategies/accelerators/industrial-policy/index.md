@@ -151,7 +151,7 @@ Balancing public objectives with private strategic goals, maintaining agility wh
 
 ## 🔀 **Related Strategies**
 
-- [Lobbying](/strategies/user-perception/lobbying-counterplay)  
+- [Lobbying](/strategies/user-perception/lobbying)  
 - [Market Enablement](/strategies/accelerators/market-enablement)  
 - [Standards Game](/strategies/markets/standards-game)
 

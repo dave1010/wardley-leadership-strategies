@@ -162,7 +162,7 @@ Limiting competition can slow evolution, but may also reduce overall market dyna
 - [IPR](/strategies/decelerators/ipr) – Using patents and legal rights to block or slow rivals.
 - [Threat Acquisition](/strategies/defensive/threat-acquisition) – Buying out potential threats.
 - [Standards Game](/strategies/markets/standards-game) – Making your approach the market norm, locking out alternatives.
-- [Lobbying/Counterplay](/strategies/user-perception/lobbying-counterplay) – Influencing policy or standards as a precursor to limitation of competition.
+- [Lobbying](/strategies/user-perception/lobbying) – Influencing policy or standards as a precursor to limitation of competition.
 
 ## 📚 **Further Reading & References**
 - Case: **Taxi Medallion System vs Uber** – How city-enforced medallion limits kept competition out for decades, and how Uber circumvented it, leading to medallion value collapse.

@@ -34,7 +34,7 @@ Mechanisms:
 
 :::note
 
-The **Standards Game** is a specific strategic play often aimed at achieving [**Limitation of Competition**](/strategies/defensive/limitation-of-competition) by controlling the market's underlying benchmark. It directly contributes to [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) by establishing high switching costs and forcing compliance. Winning the Standards Game can be achieved through market actions (like open sourcing or partnerships) or by using [**Lobbying**](/strategies/user-perception/lobbying-counterplay) to get the standard enshrined in policy, effectively turning it into a form of Defensive Regulation.
+The **Standards Game** is a specific strategic play often aimed at achieving [**Limitation of Competition**](/strategies/defensive/limitation-of-competition) by controlling the market's underlying benchmark. It directly contributes to [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) by establishing high switching costs and forcing compliance. Winning the Standards Game can be achieved through market actions (like open sourcing or partnerships) or by using [**Lobbying**](/strategies/user-perception/lobbying) to get the standard enshrined in policy, effectively turning it into a form of Defensive Regulation.
 
 :::
 
