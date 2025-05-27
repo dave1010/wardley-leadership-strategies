@@ -142,7 +142,7 @@ Leverage patents for partnerships, mergers, or royalty streams, not just as defe
 
 🔀 **Related Strategies**
 
-- [Licensing Play](/strategies/poison/licensing-play) - Offensive use of IP through strategic licensing.
+- [Licensing](/strategies/poison/licensing) - Offensive use of IP through strategic licensing.
 - [Defensive Regulation](/strategies/defensive/defensive-regulation) - Using regulation to create legal constraints.
 - [Open Approaches](/strategies/accelerators/open-approaches) - Alternative strategy leveraging open standards and collaboration.
 
