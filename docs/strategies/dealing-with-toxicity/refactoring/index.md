@@ -6,6 +6,10 @@ tags: [refactoring, dealing-with-toxicity, legacy, transformation, reuse, reorga
 
 Internally **reorganizing and repurposing components of a legacy system** to salvage value or reduce toxicity. Refactoring means breaking the old asset into parts, reassigning useful parts to new roles, and eliminating the rest. Akin to code refactoring in software, but applied to business assets.
 
+:::note
+**Refactoring** isn't explicitly mentioned in Wardley's [On 61 differnt forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+:::
+
 ## 🤔 **Explanation**
 
 Rather than outright disposal or sale, refactoring keeps the asset in-house but **transforms it**. Origin is from programming (improving internal structure without changing external behavior). In business, it might mean dividing a legacy operation into components: some can merge into other departments, some tasks automated or given new purpose, and only the truly unusable parts are shed.
