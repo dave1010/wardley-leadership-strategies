@@ -140,9 +140,8 @@ Counter-strategies often involve education, promoting conscious consumerism, or 
 
 ## 🔀 **Related Strategies**
 
-- [Brand & Marketing](/strategies/user-perception/brand-marketing) - Central to creating needs via messaging.
+- [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Central to creating needs via messaging.
 - [Education](/strategies/user-perception/education) - A more genuine way to create need by informing why something is important; in artificial needs, the education might be closer to propaganda.
-- [Signal Distortion](/strategies/user-perception/signal-distortion) - Hype can distort signals about what people should care about, contributing to false needs.
 
 ## 📚 **Further Reading & References**
 

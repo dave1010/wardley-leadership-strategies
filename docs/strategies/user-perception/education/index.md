@@ -135,8 +135,8 @@ The effectiveness of education strategies often varies with market and product e
 
 ## 🔀 **Related Strategies**
 
-- [Brand & Marketing](/strategies/user-perception/brand-marketing) - Amplifies the educated message and builds trust.
-- [Fear, Uncertainty & Doubt (FUD)](/strategies/user-perception/fud) - The "dark side" alternative of influencing perception with fear.
+- [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Amplifies the educated message and builds trust.
+- [Fear, Uncertainty & Doubt (FUD)](/strategies/user-perception/fear-uncertainty-and-doubt) - The "dark side" alternative of influencing perception with fear.
 - [Open Approaches](/strategies/accelerators/open-approaches) - Sometimes educating about an open standard to drive its adoption.
 
 ## 📚 **Further Reading & References**

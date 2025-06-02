@@ -159,9 +159,8 @@ The ethical spectrum of FUD is broad, from aggressive but legitimate competition
 
 ## 🔀 **Related Strategies**
 
-- [Signal Distortion](/strategies/user-perception/signal-distortion) – Manipulating market signals is similar in spirit.
-- [Misdirection](/strategies/user-perception/misdirection) – Another deceptive tactic.
-- [Lobbying](/strategies/market/lobbying) – Using fear-based arguments in regulatory affairs is essentially FUD toward policymakers.
+- [Misdirection](/strategies/competitor/misdirection) – Another deceptive tactic.
+- [Lobbying](/strategies/user-perception/lobbying) – Using fear-based arguments in regulatory affairs is essentially FUD toward policymakers.
 
 ## 📚 **Further Reading & References**
 

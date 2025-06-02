@@ -143,11 +143,9 @@ Ethically, Confusion of Choice is a gray area. While businesses are not obligate
 
 ## 🔀 **Related Strategies**
 
-- [Bundling](/strategies/pricing/bundling) – Used with confusion: unique bundles make direct comparison hard.
-- [FUD](/strategies/market/fud) – Also prevents rational decision-making but via fear instead of complexity.
-- [Last Man Standing](/strategies/competition/last-man-standing) – Another strategy that exploits competitors' complacency; confusion exploits customers' cognitive limits.
-- [Default Trap](/strategies/user-perception/default-trap) – Relies on users sticking with the default when overwhelmed by choice.
-- [Obfuscation](/strategies/user-perception/obfuscation) – Directly related in method; confusion is a form of obfuscation.
+- [Bundling](/strategies/user-perception/bundling) – Used with confusion: unique bundles make direct comparison hard.
+- [FUD](/strategies/user-perception/fear-uncertainty-and-doubt) – Also prevents rational decision-making but via fear instead of complexity.
+- [Last Man Standing](/strategies/markets/last-man-standing) – Another strategy that exploits competitors' complacency; confusion exploits customers' cognitive limits.
 
 ## 📚 **Further Reading & References**
 
