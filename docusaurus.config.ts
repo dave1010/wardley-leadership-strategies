@@ -10,6 +10,18 @@ const config: Config = {
   tagline: 'The Compendium of Wardley Mapping Leadership Gameplays and Strategies',
   favicon: 'img/knight-cropped.jpg',
 
+  future: {
+    experimental_faster: {
+      rspackBundler: true,
+      rspackPersistentCache: true,
+      ssgWorkerThreads: true,
+    },
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+      useCssCascadeLayers: true,
+    },
+  },
+
   // Set the production url of your site here
   url: 'https://www.wardleyleadershipstrategies.com',
   // Set the /<baseUrl>/ pathname under which your site is served
