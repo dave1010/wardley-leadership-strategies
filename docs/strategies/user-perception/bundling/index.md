@@ -128,7 +128,7 @@ From a value chain perspective, bundling can represent a form of vertical integr
 ## 🔀 **Related Strategies**
 
 - [Confusion of Choice](/strategies/user-perception/confusion-of-choice) – Bundling can be combined with complex packages to make alternatives hard to compare.
-- [Raising Barriers to Entry](/strategies/defensive/barriers-to-entry) – Bundling many features raises customer expectations and can deter new entrants.
+- [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Bundling many features raises customer expectations and can deter new entrants.
 - [Land Grab](/strategies/positional/land-grab) – Bundling can quickly expand user base for a new service by piggybacking on an existing one.
 
 ## 📚 **Further Reading & References**
