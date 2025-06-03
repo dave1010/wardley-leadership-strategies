@@ -1,4 +1,6 @@
 ---
+title: Talent Raid
+description: Removing or absorbing key talent from a rival organisation.
 tags: [talent-raid, competitor, talent, human resources, acquisition, poaching, expertise, weakening rivals]
 ---
 
@@ -6,7 +8,7 @@ tags: [talent-raid, competitor, talent, human resources, acquisition, poaching, 
 
 **Removing or absorbing key talent from a rival organization**.
 
-Talent Raid is a competitive strategy focused on removing or absorbing key talent from a rival organization. The idea is that by taking away a competitor's critical human resources -- their experts, leaders, engineers, or creative minds -- you both strengthen your own company and directly weaken the competitor's ability to compete. This can be done directly (hiring away their employees) or indirectly (enticing them to join through acquisitions or partnerships). Talent is often the lifeblood of tech and creative industries; a well-timed raid can disrupt projects, slow innovation, or deprive a competitor of strategic direction. In essence, Talent Raid treats top employees as a scarce competitive asset and seeks to control that asset.
+A Talent Raid is a competitive strategy focused on removing or absorbing key talent from a rival organisation. By taking away a competitor's critical human resources — their experts, leaders, engineers or creative minds — you simultaneously strengthen your own company and weaken theirs. This can be done directly by hiring employees away or indirectly by enticing them through acquisitions or partnerships. Talent is often the lifeblood of tech and creative industries; a well‑timed raid can disrupt projects, slow innovation or deprive a competitor of strategic direction. In essence, a talent raid treats top employees as a scarce competitive asset and seeks to control that asset.
 
 ## 🤔 **Explanation**
 
@@ -16,7 +18,7 @@ Talent Raid in Wardley's framework is a competitive strategy that involves strat
 
 ### Why is Talent Raid a valuable leadership strategy?
 
-Talent Raid is valuable because it directly impacts a competitor's ability to execute its strategy. By acquiring key talent, a company can:
+A talent raid is valuable because it directly impacts a competitor's ability to execute its strategy. By acquiring key talent, a company can:
 
 * Strengthen its own capabilities by gaining valuable expertise and skills.
 * Weaken a competitor by disrupting their projects, slowing innovation, or depriving them of strategic direction.
@@ -58,7 +60,7 @@ Talent Raid is most effective when key talent or teams within a competitor's org
 * There's a risk of neglecting the development of your own talent.
 * The poached talent may not fit or perform well in the new environment.
 * The cost of acquiring the talent outweighs the potential benefits.
-* A blatant talent raid might sour relationships if you plan to maintain a cooperative relationship with a competitor in some areas.
+* A blatant raid can sour relationships when you still need to cooperate with that competitor in other areas.
 
 ## 🗺️ **Real-World Examples**
 
@@ -70,7 +72,7 @@ Talent Raid is most effective when key talent or teams within a competitor's org
 
 ### Core challenge
 
-The core challenge for leadership in a Talent Raid is to balance the need for tactical stealth with strategic human resources planning. Leaders must identify key talent, justify the costs of acquisition, and manage the integration of new talent while mitigating potential risks and ethical concerns.
+The core leadership challenge is balancing tactical stealth with strategic workforce planning. Leaders must identify key talent, justify acquisition costs, and manage integration while mitigating risks and ethical concerns.
 
 ### Key leadership skills required
 

@@ -1,4 +1,6 @@
 ---
+title: Licensing
+description: Using legal terms to restrict competitors and lock in an ecosystem.
 tags: [poison, intellectual-property, restriction, lock-in]
 ---
 
@@ -21,7 +23,6 @@ Licensing uses legal agreements like patents, copyrights, or trademarks, to cont
 **Licensing** uses legal agreements (licenses) to control how others can use, modify, or distribute your technology. The "poison" aspect refers to structuring licenses in a way that restricts competitors—such as limiting use cases, requiring fees, or imposing terms that make it hard for rivals to compete or switch away. The focus is on actively shaping the ecosystem and locking in users or partners through legal terms.
 
 This uses similar tools but is distinct from [Patents & IPR](/strategies/decelerators/ipr), which focuses on creating legal barriers that slow down competitors' innovation. Licensing is about controlling usage through agreements, while IPR is about preventing access or use altogether.
-IPR (deaccelerator):
 
 :::
 
