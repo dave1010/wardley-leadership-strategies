@@ -43,7 +43,7 @@ Organizations can engage in industrial policy by:
 1. Mapping policy priorities and timelines  
 2. Building relationships with policymakers and influencers  
 3. Framing proposals to align corporate goals with public objectives  
-4. Piloting projects or proof-of-concepts to demonstrate value  
+4. Piloting projects or proofs of concept to demonstrate value
 5. Securing grants, subsidies, or favorable contracts  
 6. Ensuring compliance and maintaining stakeholder trust  
 
