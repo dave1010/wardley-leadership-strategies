@@ -16,7 +16,7 @@ type StrategyItem = {
 const StrategyList: StrategyItem[] = [
   {
     title: 'Cooperation',
-    imageUrl: require('@site/static/img/rowers.jpg'),
+    imageUrl: require('@site/static/img/rowers.jpg').default,
     description: (
       <>
         Working with others, in partnerships, joint ventures, or industry collaborations, to achieve a common goal and create mutual value.
@@ -26,7 +26,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Exploiting Network Effects',
-    imageUrl: require('@site/static/img/network.jpg'),
+    imageUrl: require('@site/static/img/network.jpg').default,
     description: (
       <>
         Leveraging tactics that increase the value of your product as more users join, creating sustainable growth.
@@ -36,7 +36,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Ambush (Tech Drops)',
-    imageUrl: require('@site/static/img/parachute.jpg'),
+    imageUrl: require('@site/static/img/parachute.jpg').default,
     description: (
       <>
         Surprising competitors by introducing significant technological changes to the market
@@ -48,7 +48,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Refactoring',
-    imageUrl: require('@site/static/img/refactoring.jpg'),
+    imageUrl: require('@site/static/img/refactoring.jpg').default,
     description: (
       <>
         Internally breaking apart, reorganizing and repurposing components of a legacy system to salvage value or reduce toxicity.
@@ -58,7 +58,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Artificial Competition',
-    imageUrl: require('@site/static/img/artificial-competition.jpg'),
+    imageUrl: require('@site/static/img/artificial-competition.jpg').default,
     description: (
       <>
         Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.
@@ -68,7 +68,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Fragmentation Play',
-    imageUrl: require('@site/static/img/fragmentation.jpg'),
+    imageUrl: require('@site/static/img/fragmentation.jpg').default,
     description: (
       <>
         Undermine a competitor by changing the market dynamics around them, fragmenting their stronghold into smaller pieces.
