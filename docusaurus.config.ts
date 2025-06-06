@@ -111,6 +111,10 @@ const config: Config = {
           to: '/strategies',
         },
         {
+          label: 'Doctrines',
+          to: '/doctrines',
+        },
+        {
           label: 'Terms',
           to: '/terms',
         },
