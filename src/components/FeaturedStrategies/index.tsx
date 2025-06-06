@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 
 type StrategyItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  imageUrl: string; // Renamed from Svg
   description: React.ReactNode;
   link: string;
 };
@@ -16,7 +16,7 @@ type StrategyItem = {
 const StrategyList: StrategyItem[] = [
   {
     title: 'Cooperation',
-    Svg: require('@site/static/img/rowers.jpg').default,
+    imageUrl: require('@site/static/img/rowers.jpg'),
     description: (
       <>
         Working with others, in partnerships, joint ventures, or industry collaborations, to achieve a common goal and create mutual value.
@@ -26,7 +26,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Exploiting Network Effects',
-    Svg: require('@site/static/img/network.jpg').default,
+    imageUrl: require('@site/static/img/network.jpg'),
     description: (
       <>
         Leveraging tactics that increase the value of your product as more users join, creating sustainable growth.
@@ -36,7 +36,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Ambush (Tech Drops)',
-    Svg: require('@site/static/img/parachute.jpg').default,
+    imageUrl: require('@site/static/img/parachute.jpg'),
     description: (
       <>
         Surprising competitors by introducing significant technological changes to the market
@@ -48,7 +48,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Refactoring',
-    Svg: require('@site/static/img/refactoring.jpg').default,
+    imageUrl: require('@site/static/img/refactoring.jpg'),
     description: (
       <>
         Internally breaking apart, reorganizing and repurposing components of a legacy system to salvage value or reduce toxicity.
@@ -58,7 +58,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Artificial Competition',
-    Svg: require('@site/static/img/artificial-competition.jpg').default,
+    imageUrl: require('@site/static/img/artificial-competition.jpg'),
     description: (
       <>
         Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.
@@ -68,7 +68,7 @@ const StrategyList: StrategyItem[] = [
   },
   {
     title: 'Fragmentation Play',
-    Svg: require('@site/static/img/fragmentation.jpg').default,
+    imageUrl: require('@site/static/img/fragmentation.jpg'),
     description: (
       <>
         Undermine a competitor by changing the market dynamics around them, fragmenting their stronghold into smaller pieces.
@@ -78,17 +78,13 @@ const StrategyList: StrategyItem[] = [
   }
 ];
 
-function Strategy({title, Svg, description, link}: StrategyItem) {
+function Strategy({title, imageUrl, description, link}: StrategyItem) {
   return (
     <div className={clsx('col col--4')}>
       <Link to={link}>
         <div className="card shadow--md margin-vert--md">
           <div className="text--center card__image">
-            {typeof Svg === 'string' ? (
-              <img src={Svg} alt={title} className={styles.featureImage} />
-            ) : (
-              <Svg className={styles.featureSvg} role="img" />
-            )}
+            <img src={imageUrl} alt={title} className={styles.featureImage} />
           </div>
           <div className="card__body">
             <h3>{title}</h3>
