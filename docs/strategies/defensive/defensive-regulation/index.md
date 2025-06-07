@@ -115,3 +115,9 @@ For a deeper understanding of defensive regulation within the context of Wardley
 - [Defense Community Partnerships - NARUC](https://www.naruc.org/core-sectors/critical-infrastructure-and-cybersecurity/defense-community-partnerships/)
 - [Defending Your Brand: How Smart Companies use Defensive Strategy to Deal with Competitive Attacks - Amazon.com](https://www.amazon.com/Defending-Your-Brand-Companies-Competitive/dp/1137278757)
 - [Regulatory Strategy – Everything You Need to Know - Isolocity](https://isolocity.com/regulatory-strategy-everything-you-need-to-know/)
+## 🔀 **Related Strategies**
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
+- [Standards Game](/strategies/markets/standards-game)
+- [Lobbying](/strategies/user-perception/lobbying)
+- [raising-barriers-to-entry](/strategies/defensive/raising-barriers-to-entry)
+
