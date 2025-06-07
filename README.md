@@ -42,3 +42,13 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minutes.
+
+### Running Tests
+
+This project uses [Jest](https://jestjs.io/) with React Testing Library. After installing dependencies you can run all tests with:
+
+```bash
+npm test
+```
+
+The Jest configuration lives in `package.json` and uses a JSDOM environment. The project currently depends on the `30.0.0-beta.3` release of Jest. No additional setup is required.
