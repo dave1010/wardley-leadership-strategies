@@ -163,7 +163,7 @@ Experiments often reveal new dependencies or bottlenecks early, letting you shap
 
 - [Directed Investment](/strategies/attacking/directed-investment) – Big bets once experimentation reveals potential.
 - [Centre of Gravity](/strategies/attacking/centre-of-gravity) – Successful labs can become magnets for talent.
-- [Co-creation](/strategies/accelerators/co-creation) – Working with users during experiments deepens insight.
+- [Co-creation](/strategies/ecosystem/co-creation) – Working with users during experiments deepens insight.
 - [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) – Experiments often start by probing weak signals.
 
 ## 📚 **Further Reading & References**
