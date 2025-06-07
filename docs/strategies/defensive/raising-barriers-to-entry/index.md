@@ -95,3 +95,10 @@ For a comprehensive understanding of raising barriers to entry, the foundational
 - [Read the Book | Wardley Maps](https://www.wardleymaps.com/read)
 - [Wardley Mapping Mondays — Operations Doctrine | Cory Foy](https://blog.coryfoy.com/2020/03/wardley-mapping-mondays-operations-doctrine)
 - [Strategic Thinking with Wardley Maps | Mark Craddock](https://medium.com/ai-created-strategy-reports/strategic-thinking-with-wardley-maps-a-visual-guide-to-business-evolution-and-market-dynamics-for-186d46ae5422)
+
+## 🔀 **Related Strategies**
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
+- [Standards Game](/strategies/markets/standards-game)
+- [defensive-regulation](/strategies/defensive/defensive-regulation)
+- [Lobbying](/strategies/user-perception/lobbying)
+

@@ -261,6 +261,7 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 - [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with *users*
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
 
+- [Standards Game](/strategies/markets/standards-game)
 ## 📚 **Further Reading & References**
 
 - [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) on Simon Wardley's Blog. *"Cooperation: Working with others... not easy."* . Underscores that while straightforward in concept, the execution of cooperation is challenging.
