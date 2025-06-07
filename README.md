@@ -42,3 +42,25 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minutes.
+
+## Running Tests
+
+This project uses [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for unit and component testing.
+
+Test files are located alongside the components they test (e.g., `src/components/MyComponent/MyComponent.test.tsx`).
+
+To run the tests:
+
+```bash
+npm test
+```
+
+Or, to run tests in watch mode:
+
+```bash
+npm run test:watch
+```
+
+You can also use `yarn test` or `yarn test:watch` if you prefer Yarn.
+
+**Note:** CSS module imports are mocked during testing, so tests do not rely on actual styles.
