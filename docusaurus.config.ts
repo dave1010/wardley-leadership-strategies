@@ -115,6 +115,10 @@ const config: Config = {
           to: '/doctrines',
         },
         {
+          label: 'Climatic Patterns',
+          to: '/climatic-patterns',
+        },
+        {
           label: 'Terms',
           to: '/terms',
         },
