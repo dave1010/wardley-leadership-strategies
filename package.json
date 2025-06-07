@@ -16,10 +16,10 @@
   },
   "dependencies": {
     "@docusaurus/core": "~3.8.0",
+    "@docusaurus/faster": "~3.8.0",
     "@docusaurus/plugin-vercel-analytics": "~3.8.0",
     "@docusaurus/preset-classic": "~3.8.0",
     "@docusaurus/theme-mermaid": "~3.8.0",
-    "@docusaurus/faster": "~3.8.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
@@ -29,9 +29,19 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.27.4",
+    "@babel/preset-env": "^7.27.2",
+    "@babel/preset-react": "^7.27.1",
+    "@babel/preset-typescript": "^7.27.1",
     "@docusaurus/module-type-aliases": "~3.8.0",
     "@docusaurus/tsconfig": "~3.8.0",
     "@docusaurus/types": "~3.8.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@testing-library/user-event": "^14.6.1",
+    "babel-jest": "^30.0.0-beta.3",
+    "identity-obj-proxy": "^3.0.0",
+    "jest-environment-jsdom": "^30.0.0-beta.3",
     "typescript": "~5.6.2"
   },
   "browserslist": {
@@ -48,5 +58,17 @@
   },
   "engines": {
     "node": ">=18.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.(js|jsx|ts|tsx)$": "babel-jest"
+    },
+    "moduleNameMapper": {
+      "\\.(css|less|scss|sass)$": "identity-obj-proxy"
+    },
+    "testEnvironment": "jsdom",
+    "setupFilesAfterEnv": [
+      "<rootDir>/jest.setup.js"
+    ]
   }
 }

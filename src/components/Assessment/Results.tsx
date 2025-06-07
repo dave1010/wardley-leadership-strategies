@@ -5,10 +5,11 @@ interface ResultsProps {
   readinessScore: number; // Ability to execute
 }
 
-const getLevelFromScore = (score: number): 'Strong' | 'Weak' =>
+// Export for testing - This is the one to keep
+export const getLevelFromScore = (score: number): 'Strong' | 'Weak' =>
   score >= 66 ? 'Strong' : 'Weak';
 
-const summaryText = (mapLevel: string, readinessLevel: string): string => {
+export const summaryText = (mapLevel: string, readinessLevel: string): string => {
   if (mapLevel === 'Strong' && readinessLevel === 'Strong') {
     return 'Proceed with confidence. The strategy aligns well with your context and you\'re well-prepared to execute.';
   } else if (mapLevel === 'Strong') {
@@ -20,7 +21,8 @@ const summaryText = (mapLevel: string, readinessLevel: string): string => {
   }
 };
 
-const positionScore = (raw: number): number => {
+// Export for testing
+export const positionScore = (raw: number): number => {
   const clamped = Math.max(0, Math.min(100, raw));
   const shifted = Math.max(0, clamped - 33);
   return Math.min(100, (shifted / 67) * 100);
@@ -38,7 +40,7 @@ const Results: React.FC<ResultsProps> = ({ mapScore, readinessScore }) => {
         Strategic Fit: <strong>{mapLevel}</strong>.
         Ability to Execute: <strong>{readinessLevel}</strong>.
       </p>
-      <p className='theme-admonition theme-admonition-info alert alert--info'>
+      <p className='theme-admonition theme-admonition-info alert alert--info' data-testid="results-summary-alert">
         <strong>RECOMMENDATION</strong><br />
         {summaryText(mapLevel, readinessLevel)}
       </p>
@@ -49,7 +51,7 @@ const Results: React.FC<ResultsProps> = ({ mapScore, readinessScore }) => {
         <rect x="0" y="50" width="50" height="50" fill="none" stroke="var(--ifm-color-emphasis-300)" strokeWidth="0.5" />
         <rect x="50" y="50" width="50" height="50" fill="none" stroke="var(--ifm-color-emphasis-300)" strokeWidth="0.5" />
 
-        <circle cx={x} cy={y} r="2.5" fill="var(--ifm-color-primary)" />
+        <circle cx={x} cy={y} r="2.5" fill="var(--ifm-color-primary)" data-testid="results-svg-plot-dot" />
 
         {/* Axis Labels */}
         <text x="0" y="108" fontSize="6" textAnchor="start" fill="var(--ifm-color-content)">Low</text>
