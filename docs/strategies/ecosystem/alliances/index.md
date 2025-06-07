@@ -1,12 +1,16 @@
 ---
+title: Alliances
+description: Formal partnerships or consortia formed to pursue shared goals.
 tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, collective action, cooperation]
 ---
+
+**Forming formal partnerships to pursue common objectives.**
 
 # Alliances
 
 ## 🤔 **Explanation**
 
-### What is Alliances?
+### What are Alliances?
 
 Forming formal partnerships or consortia with other companies to pursue a shared objective or market. An alliance pools resources or market access to achieve something none of the members could easily do alone.
 
@@ -18,7 +22,7 @@ Alliances are a formal, structured form of [**cooperation**](/strategies/acceler
 
 ### Why is Alliances a valuable leadership strategy?
 
-Alliances allow organisations to drive the evolution of an activity or dataset collectively. By combining forces, companies can set standards, enter new markets or challenge dominant players. Each member may sacrifice some control but gains speed or scale. Alliances often involve neutrality, with members operating under a joint entity or brand, acknowledging that no single company is sufficient for success.
+Alliances allow organisations to collectively drive the evolution of an activity or data set. By combining forces, companies can set standards, enter new markets, or challenge dominant players. Each member may sacrifice some control but gains speed or scale. Alliances often operate under a joint entity or brand, acknowledging that no single company is sufficient for success.
 
 ### How?
 
