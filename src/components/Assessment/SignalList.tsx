@@ -11,7 +11,11 @@ interface SignalListProps {
   onScoreChange: (score: number) => void;
 }
 
-const calcScore = (values: TrafficLight[]): number => {
+// Modified calcScore
+export const calcScore = (values: TrafficLight[]): number => {
+  if (values.length === 0) {
+    return 0;
+  }
   const score = values.reduce((acc, val) => {
     if (val === 'green') return acc + 100;
     if (val === 'amber') return acc + 50;
@@ -19,6 +23,9 @@ const calcScore = (values: TrafficLight[]): number => {
   }, 0);
   return Math.round(score / values.length);
 };
+
+// Export calcScore and TrafficLight
+export { TrafficLight }; // calcScore is already exported above
 
 const nextState = (state: TrafficLight): TrafficLight =>
   state === 'amber' ? 'green' : state === 'green' ? 'red' : 'amber';
@@ -29,11 +36,7 @@ const stateTranslate = {
   green: '3.3rem'
 };
 
-const stateColor = {
-  red: 'var(--ifm-color-danger-lightest)',
-  amber: 'var(--ifm-color-warning-lightest)',
-  green: 'var(--ifm-color-success-lightest)'
-};
+// Removed stateColor constant
 
 const SignalList: React.FC<SignalListProps> = ({ title, description, items, onScoreChange }) => {
   const [selected, setSelected] = useState<TrafficLight[]>(Array(items.length).fill('amber'));
