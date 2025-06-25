@@ -9,7 +9,7 @@ const OtherComponent = ({ children }) => React.createElement('div', null, childr
 
 describe('extractStatements', () => {
   // Test 1: Basic Extraction
-  it.skip('should extract string children of TargetTypeComponent instances', () => { // SKIPPED
+  it('should extract string children of TargetTypeComponent instances', () => {
     const children = React.createElement(React.Fragment, null,
       React.createElement(TargetTypeComponent, null,
         React.createElement(WrapperComponent, null, "Statement 1")
@@ -91,7 +91,7 @@ describe('extractStatements', () => {
 
 
   // Test 5: Mixed Child Types
-  it.skip('should extract statements correctly from mixed children types', () => { // SKIPPED
+  it('should extract statements correctly from mixed children types', () => {
     const children = React.createElement(React.Fragment, null,
       React.createElement(OtherComponent, null, "Some other content"),
       React.createElement(TargetTypeComponent, null,
@@ -114,7 +114,7 @@ describe('extractStatements', () => {
     expect(extractStatements(children, TargetTypeComponent)).toEqual([]);
   });
 
-  it.skip('should handle multiple TargetType components with varied internal structures', () => { // SKIPPED
+  it('should handle multiple TargetType components with varied internal structures', () => {
     const children = React.createElement(React.Fragment, null,
       React.createElement(TargetTypeComponent, null,
         React.createElement(WrapperComponent, null, "First")
