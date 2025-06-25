@@ -144,6 +144,11 @@ Pricing is the primary mechanism for capturing value. However, a pricing policy 
 *   **[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)**: Pricing is a key lever in the power dynamics between buyers and suppliers.
 *   **[Last Man Standing](/strategies/markets/last-man-standing)**: A strategy that often involves aggressive pricing to outlast competitors in a declining market.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Efficiency does not mean a reduced spend](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) – influence: lower prices can drive up overall consumption.
+- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: pricing tactics shift as markets move between peace, war and wonder phases.
+
 ## 📚 **Further Reading & References**
 
 *   **[Confessions of the Pricing Man](https://www.goodreads.com/book/show/25999222-confessions-of-the-pricing-man)** by Hermann Simon. A deep dive into the art and science of pricing.

@@ -144,6 +144,11 @@ Maintain agility by planning divestment or spin-off strategies for positions tha
 - [Fast Follower](/strategies/positional/fast-follower) – to enter after pioneers have cleared the path.
 - [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) – to detect where to grab land early.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – trigger: faster-moving landscapes reward early positioning.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: securing key ground attracts future investment.
+
 ## 📚 **Further Reading & References**
 
 - Gawer, A. – [*Platforms, Markets and Innovation*](https://www.amazon.co.uk/Platforms-Markets-Innovation-Annabelle-Gawer/dp/1848447892) – analysis of platform leadership and standards.

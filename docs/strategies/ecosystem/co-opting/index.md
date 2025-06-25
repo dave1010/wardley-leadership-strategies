@@ -131,6 +131,11 @@ This strategy is often used to neutralize a competitor's main weapon. By removin
 *   **[Fast Follower](/strategies/positional/fast-follower)**: A company that has a deliberate strategy of being a fast follower will be skilled at co-opting.
 *   **[Harvesting](/strategies/markets/harvesting)**: Similar in that it involves adopting an idea from the outside, but harvesting is typically aimed at the innovations of partners within your own ecosystem, whereas co-opting is aimed at external competitors.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: a rival's successful move often prompts co-opting as a counter.
+- [Creative destruction](/climatic-patterns/creative-destruction) – influence: co-opting can accelerate the replacement of old approaches with new ones.
+
 ## 📚 **Further Reading & References**
 
 *   **[How Instagram's new Stories feature is a Snapchat clone](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone)** by Casey Newton, The Verge. A contemporary analysis of the most famous modern example of co-opting.

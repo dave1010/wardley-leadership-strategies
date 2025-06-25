@@ -138,6 +138,11 @@ Defensive Regulation is a strategy that is primarily available to large, powerfu
 *   **[Limitation of Competition](/strategies/defensive/limitation-of-competition)**: This is often the goal of defensive regulation.
 *   **[Standards Game](/strategies/markets/standards-game)**: This strategy can be used to get your proprietary standard enshrined in law, creating a powerful and legally-enforced moat.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: regulation is often introduced when challengers threaten the status quo.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: incumbents rely on regulation when existing models make them resistant to change.
+
 ## 📚 **Further Reading & References**
 
 *   **[The Business of America is Lobbying](https://hbr.org/2012/12/the-business-of-america-is-lobbying)** by Lee Drutman, Harvard Business Review. An overview of the role of lobbying in the American economy.

@@ -154,6 +154,11 @@ Directed investment can shift the centre of gravity in a value chain, attracting
 - [Center of Gravity](/strategies/attacking/centre-of-gravity) – Sometimes the goal of directed investment is to create a new hub of talent or activity.
 - [Experimentation](/strategies/attacking/experimentation) – Experimentation can precede or complement directed investment by surfacing opportunities.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: big bets seek uncertain but high-reward opportunities.
+- [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: anticipating a rapid shift can justify a focused investment.
+
 ## 📚 **Further Reading & References**
 
 - [The Innovator's Dilemma (Christensen)](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) – Explores why established organisations struggle with disruptive innovation and the need for separate, focused investments.

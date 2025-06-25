@@ -144,6 +144,11 @@ Heavy upfront investment requires clear signals and strong governance to avoid w
 - [Land Grab](/strategies/positional/land-grab) – to secure critical infrastructure or resources early.
 - [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) – to detect opportunities before committing as a First Mover.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Everything evolves](/climatic-patterns/everything-evolves) – trigger: industrialising a component early can accelerate its evolution.
+- [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – influence: being first positions you to ride sudden market shifts.
+
 ## 📚 **Further Reading & References**
 
 - Gawer, A. – [*Platforms, Markets and Innovation*](https://www.amazon.co.uk/Platforms-Markets-Innovation-Annabelle-Gawer/dp/1848447892) – analysis of platform leadership and standards.

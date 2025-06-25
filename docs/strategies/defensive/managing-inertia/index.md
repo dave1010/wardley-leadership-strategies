@@ -136,6 +136,11 @@ To overcome inertia, you often need to change the organizational structure to al
 *   **[Reinforcing Competitor Inertia](/strategies/competitor/reinforcing-competitor-inertia)**: The flip side of managing your own inertia is exploiting your competitor's. By understanding their sources of inertia, you can make moves that they will be slow to respond to.
 *   **[Change Management](https://en.wikipedia.org/wiki/Change_management)**: This is the broad discipline that provides the tools and frameworks for managing inertia.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: recognizing how previous wins create resistance to change.
+- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: unresolved inertia can lead to failure.
+
 ## 📚 **Further Reading & References**
 
 *   **[Leading Change](https://www.goodreads.com/book/show/10548.Leading_Change)** by John P. Kotter. The classic, foundational text on managing organizational change.

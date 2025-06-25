@@ -147,6 +147,11 @@ In a two-sided market, your product is not just a piece of software; it is the e
 *   **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: A successful two-sided market can create a very powerful moat.
 *   **[Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)**: Creating a two-sided market often involves disintermediating existing channels.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – influence: once both sides engage, adoption can accelerate rapidly.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: thriving platforms attract investment from participants and partners.
+
 ## 📚 **Further Reading & References**
 
 *   **[Platform Revolution](https://www.goodreads.com/book/show/26899832-platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. The definitive guide to platform business models.

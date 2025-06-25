@@ -159,6 +159,11 @@ For example, if your competitor is slower-moving or dependent on licensing, open
 - [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) – The inverse: a competitor may embrace your open tech, then extend it with proprietary features.
 - [Market Enablement](/strategies/accelerators/market-enablement) – Creating conditions for a market to grow, often by reducing friction.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: industrialisation of a component often leads to opening it up.
+- [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) – influence: stable open building blocks allow rapid recombination.
+
 ## 📚 **Further Reading & References**
 
 - [Linux Foundation case studies](https://www.linuxfoundation.org/resources/case-studies/) – e.g., IBM’s $1B investment in Linux, showing how open source can accelerate technology for strategic benefit.

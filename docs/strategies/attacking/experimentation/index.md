@@ -166,6 +166,11 @@ Experiments often reveal new dependencies or bottlenecks early, letting you shap
 - [Co-creation](/strategies/ecosystem/co-creation) – Working with users during experiments deepens insight.
 - [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) – Experiments often start by probing weak signals.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [You cannot measure evolution over time or adoption](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty) – influence: uncertainty makes experimentation essential.
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: small tests help you react quickly to rival moves.
+
 ## 📚 **Further Reading & References**
 
 - Simon Wardley – *"Use of specialists groups, hackdays and other mechanisms of experimentation."*
