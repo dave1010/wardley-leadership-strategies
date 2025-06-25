@@ -146,10 +146,27 @@ Ensure employees understand the difference between core business efforts and pro
 
 Avoid getting stuck in analysis; the goal is to use insights to decide where to invest.
 
-### Relevant Links
+## 🧠 **Strategic Insights**
 
-* [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
-* [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)
+### Reducing Uncertainty
+
+Circling and probing reduces uncertainty before making major commitments. It helps avoid costly missteps by revealing market attractiveness and competitor strengths.
+
+### Psychological Impact
+
+Small probes can unsettle competitors, causing them to overreact or spread their focus.
+
+### Complementary Strategies
+
+Probing can be combined with other strategies, such as misdirection or a follow-up Ambush, to increase effectiveness.
+
+### Organizational Alignment
+
+Ensure employees understand the difference between core business efforts and probes to avoid neglect.
+
+### Action Orientation
+
+Avoid getting stuck in analysis; the goal is to use insights to decide where to invest.
 
 ## 🔀 **Related Strategies:**
 
@@ -160,5 +177,7 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 
 ## 📚 **Further Reading & References**
 
-* "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.
-* "The Art of War" by Sun Tzu - For insights into strategic thinking and maneuvering in competitive situations.
+* [*Competitive Strategy: Techniques for Analyzing Industries and Competitors* by Michael Porter](https://www.hbs.edu/faculty/Pages/item.aspx?num=119) - For foundational concepts on competitive analysis and strategy.
+* [*The Art of War* by Sun Tzu](https://www.gutenberg.org/ebooks/132) - For insights into strategic thinking and maneuvering in competitive situations.
+* [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
+* [IBM to Spend Another $1 Billion on Linux | ZDNet](https://www.zdnet.com/article/ibm-to-spend-another-1-billion-on-linux/)

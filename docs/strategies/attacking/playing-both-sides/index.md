@@ -139,5 +139,5 @@ At its core, this is a hedging strategy. It's an admission that you cannot predi
 
 ## 📚 **Further Reading & References**
 
-- **"The Art of War" by Sun Tzu:** While not a business book, it offers timeless insights into strategy and the benefits of understanding the competitive landscape from multiple perspectives.
-- **"Thinking in Bets" by Annie Duke:** This book provides a framework for making decisions under uncertainty, which is the core challenge of the Playing Both Sides strategy.
+- [*The Art of War* by Sun Tzu](https://www.gutenberg.org/ebooks/132) - While not a business book, it offers timeless insights into strategy and the benefits of understanding the competitive landscape from multiple perspectives.
+- [*Thinking in Bets* by Annie Duke](https://www.penguinrandomhouse.com/books/552586/thinking-in-bets-by-annie-duke/) - This book provides a framework for making decisions under uncertainty, which is the core challenge of the Playing Both Sides strategy.

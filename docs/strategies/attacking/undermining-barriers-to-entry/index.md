@@ -135,5 +135,5 @@ Open-sourcing a key technology is one of the most powerful ways to undermine a b
 
 ## 📚 **Further Reading & References**
 
-*   **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides the theoretical framework for understanding how disruptive challengers can attack and defeat established incumbents.
-*   **[Judo Strategy](https://www.goodreads.com/book/show/236922.Judo_Strategy)** by David B. Yoffie and Mary Kwak. A book focused on how smaller players can use an incumbent's weight and strength against them.
+- [*The Innovator's Dilemma* by Clayton M. Christensen](https://www.hbs.edu/faculty/Pages/item.aspx?num=46) - Provides the theoretical framework for understanding how disruptive challengers can attack and defeat established incumbents.
+- [*Judo Strategy: Turning Your Competitors' Strength to Your Advantage* by David B. Yoffie and Mary Kwak](https://hbsp.harvard.edu/product/1324-HBK-ENG) - A book focused on how smaller players can use an incumbent's weight and strength against them.

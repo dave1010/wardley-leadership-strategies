@@ -262,7 +262,8 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
 
 - [Standards Game](/strategies/markets/standards-game)
+
 ## 📚 **Further Reading & References**
 
-- [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) on Simon Wardley's Blog. *"Cooperation: Working with others... not easy."* . Underscores that while straightforward in concept, the execution of cooperation is challenging.
--  HBR Article [*"Simple Rules for Making Alliances Work"*](https://hbr.org/2007/11/simple-rules-for-making-alliances-work) - details best practices and pitfalls in strategic cooperations (e.g., the necessity of aligned incentives and trust-building measures).
+- HBR Article [*"Simple Rules for Making Alliances Work"*](https://hbr.org/2007/11/simple-rules-for-making-alliances-work) - details best practices and pitfalls in strategic cooperations (e.g., the necessity of aligned incentives and trust-building measures).
+- [*The Art of Alliance: A Practical Guide to Transforming Your Organization and Your Career*](https://www.amazon.com/Art-Alliance-Practical-Transforming-Organization/dp/159184657X) by Amy Gallo - A book offering practical advice on navigating and maximizing the value of business alliances.

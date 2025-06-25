@@ -155,5 +155,5 @@ A fragmentation play is about playing divide and conquer in a market. It is most
 
 ## 📚 **Further Reading & References**
 
--   Wardley Mapping Reference - *"Fragmentation Play"* . Underscores the goal of breaking apart a competitor's stronghold.
--   Clayton Christensen - *The Innovator's Dilemma* - Provides extensive case studies of how disruptive innovation (a form of fragmentation) undermines established market leaders.
+-   [Wardley Mapping - Fragmentation Play](https://learnwardleymapping.com/category/competitor/fragmentation-play/) - A description of the Fragmentation Play strategy in Wardley Mapping.
+-   [*The Innovator's Dilemma* by Clayton M. Christensen](https://www.hbs.edu/faculty/Pages/item.aspx?num=46) - Provides extensive case studies of how disruptive innovation (a form of fragmentation) undermines established market leaders.
