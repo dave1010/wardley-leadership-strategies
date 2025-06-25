@@ -57,7 +57,11 @@ Strategies should aim to follow this format as closely as possible.
 13. `🔀 **Related Strategies**`
     - Unordered list of 3-6 bullet points with links to other strategies.
     - Eg `- [Bar](/strategies/foo/bar) - <what Bar is in the context of this strategy.> <optional extra info, like how it relates to this strategy>`
-14. `## 📚 **Further Reading & References**`
+14. `⛅ **Relevant Climatic Patterns**`
+    - Unordered list of 2-5 bullet points with links to climatic patterns.
+    - Each bullet should use `rel:` to describe how the pattern connects to the strategy (`trigger`, `influence`, etc.).
+    - Eg `- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: industrialisation opens the door for alliances.`
+15. `## 📚 **Further Reading & References**`
     - Unordered list of 3-6 bullet points with links to articles, books, academic papers, etc.
     - Eg `- [Title](https://site) - <description of the article, book, etc.> <optional extra info, like how it relates to this strategy>`
 

@@ -147,6 +147,11 @@ This kind of cultural or visionary gravity is harder to replicate or fight. It�
 - [Co-opting](/strategies/ecosystem/co-opting) – Absorbing or neutralising ecosystem participants can reinforce or undermine a center of gravity.
 - [Open Approaches](/strategies/accelerators/open-approaches) – Open platforms and standards can help build gravitational pull.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: investment tends to cluster around emerging hubs.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: mature infrastructure can shift where gravitational pull forms.
+
 ## 📚 **Further Reading & References**
 
 - [Clusters and the New Economics of Competition (Michael Porter, HBR)](https://hbr.org/1998/11/clusters-and-the-new-economics-of-competition) – The foundational theory of economic clusters and competitive advantage.
