@@ -1,52 +1,139 @@
 ---
-tags: [undermining-barriers-to-entry, attacking, barriers to entry, inertia, competition, open source, open approaches, disruption, challenger]
+title: Undermining Barriers to Entry
+description: An offensive strategy focused on identifying and dismantling a key barrier that protects an incumbent, thereby opening the market to new competition.
+tags: [attacking, barriers-to-entry, inertia, competition, open-source, open-approaches, disruption, challenger]
 ---
 
-# Undermining barriers to entry
+# Undermining Barriers to Entry
 
+**An offensive strategy focused on identifying and dismantling a key barrier that protects an incumbent, thereby opening the market to new competition.**
 
-**Undermining Barriers to Entry**
+> *"Identifying a barrier to entry into a market and reducing it to encourage competition."*
+>
+> - Simon Wardley
 
-:::warning
+## 🤔 **Explanation**
 
-This is an **early draft** and isn't yet up to our standard.
-You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
+### What is Undermining Barriers to Entry?
 
-:::
+This is an attacking strategy where a company, typically a challenger, identifies a critical barrier to entry that protects an incumbent and then actively works to dismantle it. Barriers can take many forms, such as high costs, proprietary technology, complex regulations, or exclusive distribution channels. By undermining the barrier—for example, by open-sourcing a key technology or creating a low-cost alternative—the attacker opens the floodgates to new competition, leveling the playing field and eroding the incumbent's advantage.
 
+### Why use this strategy?
 
-**Definition & Summary:** **Identifying a major barrier to entry in a market and reducing or removing it** to encourage more competition . This is used offensively when the barrier favors an incumbent (often a competitor), and by knocking it down, you enable more players (including yourself) to compete.
+This is a classic disruptive move. The key benefits are:
 
-**Detailed Explanation:** Barriers to entry can be high cost, proprietary technology, distribution lock-in, etc. By undermining them -- e.g., via open-sourcing tech (removing proprietary advantage), offering a low-cost alternative, or finding a workaround to regulations -- you **open the floodgates of competition**. Why do this? If you're a challenger, reducing the incumbent's moat (barrier) levels the field. Also, a company might do this to stimulate a new ecosystem (like enabling startups to join -- similar to market enablement, but specifically targeting a barrier). Key principle: target the **one thing that keeps newcomers out** and neutralize it .
+*   **Neutralizing an Incumbent's Advantage:** It directly attacks the source of an incumbent's power.
+*   **Leveling the Playing Field:** It allows a challenger to compete on more favorable terms.
+*   **Stimulating an Ecosystem:** By lowering a barrier, you can enable a whole new ecosystem of smaller players to emerge, creating a more dynamic and competitive market.
+*   **Changing the Basis of Competition:** It can shift the focus of competition away from the incumbent's strength (e.g., a proprietary technology) to an area where the attacker is stronger (e.g., service, user experience, or business model).
 
-**Real-World Examples:**
+## 🗺️ **Real-World Examples**
 
--  *Historical:* **Netflix and content delivery** -- early on, streaming video required huge bandwidth and server infrastructure (a barrier to entry for others). Netflix undermined that barrier by pioneering efficient content delivery networks and embracing cloud (AWS). By solving the streaming delivery problem (even open sourcing some tools), they lowered that technical barrier. This inadvertently enabled more streaming entrants later (since cloud/CDNs became accessible to all), but Netflix bet on being far ahead in other areas. They knew the real fight would be content, not distribution tech, so they commoditized distribution as a barrier.
+### Google's Android vs. Apple's iOS
 
--  *Tech:* **Mozilla and Internet Explorer** -- In late 90s, web browsers had an entry barrier of needing a robust rendering engine to display pages (Netscape and IE had them). The Mozilla project open-sourced Netscape's engine (Gecko), effectively undermining that technical barrier. As a result, multiple browsers (Firefox, later Chrome using WebKit which was another open engine) could enter using these open engines. It destroyed IE's advantage of a proprietary engine because now anyone could base a product on Gecko/WebKit.
+In the early days of the smartphone market, building a competitive mobile operating system was a massive barrier to entry. Apple's iOS was a proprietary, closed system that gave them a huge advantage. Google undermined this barrier by developing Android and open-sourcing it. This allowed dozens of other hardware manufacturers (like Samsung, LG, and HTC) to enter the smartphone market without having to build their own OS from scratch. This move dramatically increased competition and turned the smartphone market into a two-horse race.
 
--  *Hypothetical:* A fintech startup finds that a barrier to entering banking is compliance/legal know-how. It builds an AI-driven compliance platform and **open sources** a basic version or lobbies for simpler compliance frameworks for fintechs. By doing so, it undermines the regulatory barrier that big banks hide behind. This allows more fintechs (including itself) to launch products without massive legal teams, thereby eroding the banks' protected position.
+### Mozilla Firefox vs. Microsoft Internet Explorer
 
-**When to Use / When to Avoid:**
+During the first "browser war," Microsoft's Internet Explorer had a dominant market share, and its proprietary rendering engine was a significant barrier to entry for new browsers. The Mozilla project undermined this barrier by creating Gecko, a powerful, open-source rendering engine. This allowed them to launch Firefox, a competitive browser, and also enabled other developers to build their own browsers on top of the Gecko engine, breaking Microsoft's stranglehold on the market.
 
--  **Use when:** You're a **challenger** or new entrant facing a tough barrier that's protecting incumbents. If you have a means to break that barrier (technologically, legally, via partnership), doing so opens the market and erodes incumbents' advantage. It's also strategically used by a big player in one domain to attack another domain's leader -- e.g., Google open-sourced Android to undermine Apple's closed ecosystem barrier. Use if you can survive the more competitive market you create -- often you plan to win on some other factor once the old barrier is gone (like service or scale).
+### Robinhood and Commission-Free Trading
 
--  **Avoid when:** If the barrier currently protects *you*. Obviously an incumbent wouldn't use this on themselves (unless they foresee the barrier falling anyway and want to control how it falls). Also avoid if removing the barrier doesn't directly help you compete (you might free the market and not capture any of it -- essentially doing others a favor). Ensure that by lowering it, you have a strategy to capture share (e.g., first mover advantage in the new open field).
+For decades, the high commissions charged by brokerage firms were a significant barrier to entry for small, retail investors. Robinhood undermined this barrier by offering commission-free trading. This move opened up the stock market to a whole new generation of investors and forced the entire brokerage industry to eliminate their own commission fees, fundamentally changing the competitive landscape.
 
-**Common Pitfalls:**
+## 🚦 **When to Use / When to Avoid**
 
--  **Cannibalization without capture:** You lower a barrier, lots of competition floods in, and you're just one among many. If you didn't have another edge, you may not come out on top, effectively hurting an incumbent but not necessarily benefiting yourself enough.
+<Assessment strategyName="Undermining Barriers to Entry">
+  <MapSignals>
+    <li>Your map shows an incumbent protected by a single, clear barrier to entry (e.g., a proprietary component, high cost of entry).</li>
+    <li>This barrier is a source of frustration for customers or other players in the ecosystem.</li>
+    <li>You have a technology or business model that can significantly reduce or eliminate this barrier.</li>
+    <li>The market is stagnant, with little innovation due to the incumbent's protected position.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We are a challenger, not the incumbent who benefits from the barrier.</li>
+    <li>We have a clear strategy for how we will compete and win in the more competitive market we are about to create.</li>
+    <li>We have the resources and the risk appetite to take on a powerful incumbent directly.</li>
+    <li>Our brand is associated with disruption, openness, or being on the side of the customer.</li>
+  </Readiness>
+</Assessment>
 
--  **Timing misfire:** If you try to break a barrier too early, customers might not be ready or the substitute might not fully replace the old method (like open tech not mature yet). Could lead to wasted effort or partial success that incumbents then counter.
+### Use when:
 
--  **Unintended consequences:** More competition may drive down prices/profits industry-wide. You need to be prepared to thrive in a more commoditized environment (maybe with cost leadership or new revenue models).
+*   You are a challenger trying to break into a market dominated by a powerful incumbent.
+*   You have a way to turn an incumbent's strength into a weakness (e.g., by open-sourcing their proprietary technology).
+*   You are prepared to compete in the more dynamic, competitive market that you will create.
 
-**Related Strategies:** **Open Approaches** (classic way to undermine proprietary barriers by making tech open), **Market Enablement** (similar concept of encouraging competition, though undermining barriers is a more aggressive subset), **Fool's Mate** (if a barrier is a constraint protecting an opponent, breaking it is akin to a quick mate).
+### Avoid when:
 
-**Further Reading & References:**
+*   You are the incumbent who benefits from the barrier.
+*   You do not have a clear plan to capitalize on the new, more open market. You might simply be creating opportunities for other competitors.
+*   The barrier is protected by strong patents or other legal means that you cannot overcome.
 
--  Wardley, S. -- *"Identifying a barrier to entry and reducing it to encourage competition."* . Suggests this as a standard attacking move to open up a market.
+## 🎯 **Leadership**
 
--  Case: **Android vs iPhone** -- numerous analyses on how Android's openness forced Apple to adjust and how it undermined the barrier of needing a proprietary mobile OS to compete in smartphones.
+### Core challenge
 
--  Business Strategy: *"Judo strategy"* (book by Yoffie) -- one concept is using an opponent's strengths against them. Undermining barriers to entry is like using the incumbent's reliance on a barrier (strength) to topple them by removing that crutch.
+The core leadership challenge is to have the courage to make a bold, disruptive move that will likely provoke a strong reaction from the incumbent. It requires a willingness to challenge the established order and to embrace a more open, competitive environment. Leaders must also have a clear vision for how their own company will thrive in the new world they are creating.
+
+### Key leadership skills required
+
+*   **Disruptive Thinking:** The ability to see how an incumbent's strength can be turned into a weakness.
+*   **Boldness and Risk-Taking:** The courage to take on a powerful, entrenched competitor.
+*   **Ecosystem Thinking:** The capacity to see how lowering a barrier will benefit a whole ecosystem of players, not just your own company.
+
+### Ethical considerations
+
+This strategy is generally seen as pro-competitive and beneficial for consumers, as it leads to more choice and lower prices. However, it can be destructive to the incumbent's business and the jobs of its employees. Leaders should be mindful of the broader impact of their actions and be prepared for the creative destruction that this strategy unleashes.
+
+## 📋 **How to Execute**
+
+1.  **Identify the Key Barrier:** Analyze the market and identify the single most important barrier that is protecting the incumbent.
+2.  **Develop Your Weapon:** Create the tool or technology that will undermine the barrier. This could be an open-source project, a low-cost alternative, or a new business model.
+3.  **Launch the Attack:** Release your solution to the market and actively promote it as a way to circumvent the old barrier.
+4.  **Foster the New Ecosystem:** Encourage other companies and users to adopt your solution and participate in the new, more open market.
+5.  **Compete on New Terms:** Once the barrier is down, be prepared to compete on a new basis, such as user experience, service, or brand.
+
+## 📈 **Measuring Success**
+
+*   **Barrier Reduction:** Has the cost or difficulty of entering the market been significantly reduced?
+*   **New Entrants:** Are new competitors entering the market as a result of your actions?
+*   **Incumbent's Reaction:** Is the incumbent being forced to change its business model or lower its prices?
+*   **Your Market Share:** Are you successfully capturing a share of the newly opened market?
+
+## ⚠️ **Common Pitfalls and Warning Signs**
+
+### Creating Competition for Yourself
+You might successfully undermine the barrier, only to find that you are out-competed by other new entrants who also benefit from your move.
+
+### Incumbent Response
+A powerful incumbent will not stand by idly. They may respond by lowering their own prices, improving their product, or using their market power to crush you.
+
+### Incomplete Destruction
+If you only partially undermine the barrier, the incumbent may be able to adapt and maintain their dominant position.
+
+## 🧠 **Strategic Insights**
+
+### Asymmetric Warfare
+This is a form of asymmetric warfare. A smaller, more agile challenger can use this strategy to attack a much larger incumbent at their weakest point.
+
+### The Power of Open
+Open-sourcing a key technology is one of the most powerful ways to undermine a barrier that is based on a proprietary system. It enlists a whole community of developers in your cause.
+
+## ❓ **Key Questions to Ask**
+
+*   **The Keystone:** What is the single barrier that, if removed, would cause the incumbent's entire position to crumble?
+*   **Our Weapon:** What unique capability do we have that can dismantle this barrier?
+*   **The Day After:** What will the market look like after the barrier is gone, and how do we win in that new world?
+*   **The Incumbent's Response:** What is the most likely way the incumbent will retaliate, and how will we counter it?
+
+## 🔀 **Related Strategies**
+
+*   **[Open Approaches](/strategies/accelerators/open-approaches)**: This is the most common tactic used to undermine a barrier based on proprietary technology.
+*   **[Market Enablement](/strategies/accelerators/market-enablement)**: By undermining a barrier, you are often enabling a new market to emerge.
+*   **[Fool's Mate](/strategies/attacking/fool-s-mate)**: Undermining a critical barrier can be a key move in executing a Fool's Mate, leading to a rapid collapse of the incumbent's position.
+
+## 📚 **Further Reading & References**
+
+*   **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides the theoretical framework for understanding how disruptive challengers can attack and defeat established incumbents.
+*   **[Judo Strategy](https://www.goodreads.com/book/show/236922.Judo_Strategy)** by David B. Yoffie and Mary Kwak. A book focused on how smaller players can use an incumbent's weight and strength against them.

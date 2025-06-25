@@ -1,50 +1,143 @@
 ---
-tags: [playing-both-sides, attacking, markets, standards, arbitrage, uncertainty, hedging, neutrality]
+title: Playing Both Sides
+description: Profiting from or hedging by engaging with two opposing sides in a market or standards war, so that whichever side wins, you benefit.
+tags: [attacking, markets, standards, arbitrage, uncertainty, hedging, neutrality]
 ---
 
-# Playing both sides
+# Playing Both Sides
 
-**Playing Both Sides**
+**Profiting from or hedging by engaging with two opposing sides in a market or standards war, so that whichever side wins, you benefit.**
 
-:::warning
 
-This is an **early draft** and isn't yet up to our standard.
-You can [contribute improvements](https://github.com/dave1010/wardley-leadership-strategies).
 
-:::
+## 🤔 **Explanation**
 
-**Definition & Summary:** **Profiting from or hedging by engaging with two opposing sides** in a market or standards war, so that whichever side wins, you benefit. It's a bit of strategic arbitrage: you position yourself to win no matter the outcome.
+### What is Playing Both Sides?
 
-**Detailed Explanation:** The origin could be war profiteering or companies supporting competing standards. Purpose: avoid committing to one uncertain path -- instead, ensure you have a stake in or influence over both sides. Key principle: maintain neutrality outwardly, but internally harness gains from each side's successes and failures. This might mean dual product lines (one for each standard), cross-licensing or investing in both competitors, or supply deals to all players. By playing both sides, you can even encourage the battle (as you win while they fight). It's a way to **reduce risk** and sometimes even to *prolong a profitable conflict*.
+Playing Both Sides is a strategic approach where an organisation avoids committing to a single, uncertain path in a market defined by competing standards or platforms. Instead, it engages with both (or multiple) sides simultaneously. This ensures that no matter which side emerges as the victor, the organisation is positioned to benefit.
 
-**Real-World Examples:**
+It's a form of strategic arbitrage, allowing a company to maintain neutrality while harnessing gains from the successes and failures of others. This can manifest as dual product lines (e.g., supporting competing standards), cross-licensing agreements, or investments in competing entities. The core of the strategy is to position yourself as a neutral supplier or enabler to the entire ecosystem in conflict.
 
--  *Standards War:* **DVD vs. HD-DVD vs. Blu-ray (mid-2000s)** -- Some tech companies hedged by supporting both HD-DVD and Blu-ray to ensure they'd have a foot in whichever became dominant (e.g., Samsung produced players for both at one point). More starkly, Warner Bros. initially released movies on both formats (playing both sides) before Blu-ray's victory. By doing so, they profited from both user bases.
+### Why use Playing Both Sides?
 
--  *Components Supplier:* **ARM Holdings** provides chip designs used by many competing chipmakers (Apple, Samsung, Qualcomm all license ARM). In effect, ARM plays both sides in smartphone chips -- whether Apple's Bionic chip or Android phones' Snapdragon chips succeed, ARM gets royalties . It doesn't matter to ARM which brand wins; they benefit from all.
+The primary motivation for this strategy is risk mitigation. When the future of a market is uncertain, picking a single standard or technology is a high-stakes gamble. By supporting multiple options, a company can reduce its exposure to the failure of any one of them.
 
--  *Hypothetical:* A big corporation invests in two startup rivals tackling the same emerging market (maybe via its venture arm). It might even discreetly foster competition between them (to spur faster innovation). Whichever startup eventually leads, the corporation wins as an investor. If one starts to fail, they can shift more support to the other -- a hedge strategy. They may also ensure they have partnerships or supply deals with both, so whoever gets market share uses the corporation's services.
+Furthermore, this strategy can be used to prolong a profitable conflict. As long as the "war" between standards continues, the organisation can continue to profit from supplying all sides. This turns market uncertainty from a threat into an opportunity.
 
-**When to Use / When to Avoid:**
+## 🗺️ **Real-World Examples**
 
--  **Use when:** **Outcomes are highly uncertain** or the market is split. If two (or more) major possibilities exist (tech standards, competing ecosystems), and backing only one is a gamble, playing both can secure your position. It's also used by strong intermediaries (suppliers, platforms) who can serve all players -- use if being neutral retains you more business. It's beneficial if the cost of supporting both sides is low relative to the cost of picking wrong.
+### DVD vs. HD-DVD vs. Blu-ray
 
--  **Avoid when:** Maintaining presence on both is too costly or dilutes your brand. Also, if one side demands exclusivity (you might be forced to choose anyway). Avoid if discovered duplicity would anger stakeholders on each side -- e.g., if both sides expect loyalty, you could end up distrusted by both. It can be hard to manage conflicting partnerships; if you can't keep strict separation, it might backfire.
+In the mid-2000s, the home video market was embroiled in a standards war between HD-DVD and Blu-ray. Some companies, like Samsung, produced players for both formats, ensuring they had a presence in the market regardless of the winner. Warner Bros. initially released movies on both formats, profiting from both user bases before Blu-ray's eventual victory.
 
-**Common Pitfalls:**
+### ARM Holdings
 
--  **Trust issues:** Each side may be wary you're involved with the other. You risk not getting full information or commitment from either because they know you're also helping their rival.
+ARM Holdings designs the architecture for microprocessors used in the majority of smartphones. Companies like Apple, Samsung, and Qualcomm all license ARM's designs for their competing chips. In this way, ARM "plays both sides" of the smartphone chip war. It doesn't matter whether an iPhone or an Android device is sold; ARM receives royalties, benefiting from the entire market's growth.
 
--  **Double resource requirement:** Supporting two standards or two product lines means extra R&D, manufacturing complexity, or marketing messaging complexity ("Wait, you have a product for Blu-ray and HD-DVD, are they both good?"). This can strain resources.
+### Corporate Venture Capital
 
--  **Missed singular focus:** By hedging, you might not invest as deeply in the winning approach as a competitor who went all-in, possibly leaving you behind in excellence on the winner once it's decided.
+A large corporation might invest in two or more startups competing in the same emerging market. By doing so, it hedges its bets on which will become the market leader. The corporation can even foster competition between them to accelerate innovation. Whichever startup succeeds, the corporation wins as an investor.
 
-**Related Strategies:** **Artificial Competition** (in that playing both sides could involve you creating two competing fronts yourself), **Ambush** (not directly, but playing both sides could allow an ambush since you're inside both camps). **Trading** or arbitrage concepts: it's like hedging strategy in finance.
+## 🚦 **When to Use / When to Avoid**
 
-**Further Reading & References:**
+<Assessment strategyName="Playing Both Sides">
+  <MapSignals>
+    <li>The market is split between two or more competing standards or platforms.</li>
+    <li>The outcome of the competition is highly uncertain.</li>
+    <li>We can act as a neutral intermediary or supplier to all sides.</li>
+    <li>The cost of supporting multiple sides is lower than the potential cost of choosing the wrong one.</li>
+  </MapSignals>
+  <Readiness>
+    <li>We have the resources to support multiple product lines or initiatives.</li>
+    <li>Our brand can withstand the ambiguity of not picking a side.</li>
+    <li>We have strong capabilities in managing complex partnerships.</li>
+    <li>Our stakeholders are comfortable with a strategy of neutrality.</li>
+  </Readiness>
+</Assessment>
 
--  Medium excerpt reference -- suggests "playing both sides" notion (though that context might be war/politics analogy, it aligns with benefiting from conflict) -- e.g., benefiting from conflict like arms dealers or supply chain dominants.
+### Use when
 
--  Historical biz: **IBM in the 1980s** sometimes is said to have "played both sides" in PC vs mainframe by having stakes in both markets -- though they eventually lost PC side.
+The market is in a state of flux with high uncertainty. This strategy is particularly effective for intermediaries, suppliers, or platform owners who can serve all competitors without conflict.
 
--  It's not often explicit in literature as a formal strategy (because it can seem disloyal or cynical), but examples are plenty (companies supporting competing standards until one emerges -- e.g., many firms supported both Android and Windows Phone initially; also content providers releasing on competing streaming platforms to not miss audiences on either).
+### Avoid when
+
+The cost of supporting multiple sides is prohibitive, or when key players demand exclusivity. If the strategy is perceived as disloyal, it can damage relationships with all parties and harm your brand's reputation.
+
+## 🎯 **Leadership**
+
+### Core challenge
+
+The central challenge is maintaining a delicate balance. Leaders must navigate the complexities of supporting competing interests without being seen as opportunistic or untrustworthy. This requires careful management of relationships and a clear internal strategy to avoid diluting focus and resources.
+
+### Key leadership skills required
+
+- **Diplomacy and Negotiation:** Managing relationships with competing partners.
+- **Strategic Foresight:** Understanding the long-term implications of market shifts.
+- **Resource Allocation:** Effectively distributing resources between competing initiatives.
+- **Risk Management:** Balancing the risks and rewards of a neutral stance.
+
+### Ethical considerations
+
+This strategy can be viewed as cynical or manipulative, as it may involve profiting from conflict. Leaders must consider the potential for reputational damage and the ethical implications of prolonging market uncertainty for their own gain. Transparency and a clear articulation of the strategy's rationale are crucial.
+
+## 📋 **How to Execute**
+
+1.  **Identify the Conflict:** Recognise a market situation with two or more competing sides where the outcome is uncertain.
+2.  **Assess the Costs and Benefits:** Evaluate the financial and reputational costs of supporting each side versus the potential gains.
+3.  **Establish Neutrality:** Position your organisation as a neutral party that can work with all players.
+4.  **Develop Dual Offerings:** Create products, services, or partnerships that cater to each side of the conflict.
+5.  **Manage Relationships:** Carefully manage relationships with all parties to maintain trust and avoid accusations of favoritism.
+6.  **Monitor the Market:** Continuously monitor the market to anticipate the likely winner and be prepared to shift resources accordingly.
+
+## 📈 **Measuring Success**
+
+- **Revenue from all sides:** Tracking revenue streams from each of the competing parties.
+- **Market share of supported platforms:** Measuring the collective market share of the platforms you support.
+- **Reduced investment risk:** Assessing the financial impact of having hedged your bets.
+- **Brand perception:** Monitoring how your brand is perceived by stakeholders in the context of your neutrality.
+
+## ⚠️ **Common Pitfalls and Warning Signs**
+
+### Trust Erosion
+
+Both sides may become wary of your involvement with their rival, leading to a lack of trust and limited information sharing.
+
+### Resource Drain
+
+Supporting multiple standards or product lines can strain R&D, manufacturing, and marketing resources.
+
+### Lack of Focus
+
+By hedging your bets, you may not invest deeply enough in the winning approach to become a leader in that specific area.
+
+## 🧠 **Strategic Insights**
+
+### The Power of the Intermediary
+
+This strategy highlights the power of being an intermediary in a value chain. By providing essential components or services to all players, you can extract value from the entire ecosystem, regardless of which end-consumer brand wins. This is a classic positional play, moving from being a player *in* the game to being the one who owns the "board".
+
+### Prolonging the War for Profit
+
+In some cases, it may be in your interest to prolong the conflict between competing sides. As long as the "war" continues, you can continue to profit from both. This is a high-risk approach that can backfire if your actions are discovered, but it can be highly profitable. The goal shifts from winning the war to ensuring the war continues.
+
+### Hedging Against Uncertainty
+
+At its core, this is a hedging strategy. It's an admission that you cannot predict the future. Instead of making a single, high-risk bet, you are spreading your risk across the most likely outcomes. This is a defensive posture that can ensure survival in a turbulent market.
+
+## ❓ **Key Questions to Ask**
+
+- **Market Uncertainty:** How uncertain is the outcome of the current market conflict?
+- **Cost of Participation:** What are the costs and risks associated with supporting each side?
+- **Reputational Risk:** How will our brand be perceived if we engage with competing players?
+- **Long-term Viability:** Is this a sustainable long-term strategy, or a short-term hedge?
+
+## 🔀 **Related Strategies**
+
+- **[Cooperation](/strategies/accelerators/cooperation)**: This strategy often involves cooperating with multiple, competing players.
+- **[Standards Game](/strategies/markets/standards-game)**: Playing both sides is a specific move within a larger standards game.
+- **[Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: This strategy can be a component of ILC, where you leverage your position as a neutral supplier to sense where the market is heading.
+
+## 📚 **Further Reading & References**
+
+- **"The Art of War" by Sun Tzu:** While not a business book, it offers timeless insights into strategy and the benefits of understanding the competitive landscape from multiple perspectives.
+- **"Thinking in Bets" by Annie Duke:** This book provides a framework for making decisions under uncertainty, which is the core challenge of the Playing Both Sides strategy.

@@ -143,7 +143,7 @@ Effective sensing requires an organisational culture that values and acts on ear
 - [Land Grab](/strategies/positional/land-grab) – using signals to guide where to stake claims.
 - [First Mover](/strategies/positional/first-mover) – to act on signals by industrialising early.
 - [Fast Follower](/strategies/positional/fast-follower) – to time entry based on pioneer signals.
-- [Sensing Engines](/strategies/ecosystem/sensing-engines-ilc) – building infrastructure for systematic data collection.
+- [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) – building infrastructure for systematic data collection.
 
 ## 📚 **Further Reading & References**
 
