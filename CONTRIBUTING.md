@@ -127,3 +127,7 @@ Remember that there are 60+ strategies. Consider whether content is applicable t
 - Markdown lists start with `- `.
 - 1 empty line before and after a list, heading, or blockquote.
 - H2s (`##`) have **bold text** and an emoji. Other headings don't.
+
+## Maintenance Scripts
+
+The utilities in `./scripts` help keep related links in sync when you edit many strategy files or reorganise content. See [scripts/README.md](./scripts/README.md) for a workflow that checks for missing and reciprocal links before adding them automatically.
