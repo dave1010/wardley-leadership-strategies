@@ -1,11 +1,12 @@
 ---
-title: "No one size fits all"
+title: "[Components] No one size fits all"
 ---
 
-# No one size fits all
+# [Components] No one size fits all
 
 A system is built from components that sit at different stages of evolution. Experimental parts require freedom to change, while industrialised parts demand stability and efficiency. Because of this mix, a single management or delivery method cannot suit every component.
 
+This is true in software development as much as in purchasing.
 Approaches need to vary:
 
 - **Exploratory work** benefits from lightweight, flexible techniques such as Agile.
