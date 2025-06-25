@@ -140,6 +140,11 @@ This strategy is a powerful example of Joseph Schumpeter's concept of "creative 
 *   **[Sweat and Dump](/strategies/dealing-with-toxicity/sweat-and-dump)**: You might use this to offload non-essential assets before embarking on a war of attrition.
 *   **[Exploiting Constraint](/strategies/decelerators/exploiting-constraint)**: If competitors are constrained (e.g., by supply chain issues), you can accelerate their demise.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: attrition strategies often surface during war phases when the market contracts.
+- [Efficiency does not mean a reduced spend](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) – influence: scale efficiencies let you outlast rivals even as total spending rises.
+
 ## 📚 **Further Reading & References**
 
 *   **[Amazon and the last man standing](https://blog.gardeviance.org/2015/08/amazon-and-last-man-standing.html)** by Simon Wardley. A foundational post on this strategy.

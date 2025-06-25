@@ -137,6 +137,11 @@ A Tower and Moat strategy is the ultimate positional play. It's not about having
 *   **[Embrace and Extend](/strategies/ecosystem/embrace-and-extend)**: A related strategy, but typically focused on co-opting an existing standard rather than building a new Tower.
 *   **[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)**: The Moat is a powerful set of barriers to entry.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: rapid transitions create opportunities to build the tower.
+- [Higher order systems create new sources of value](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – influence: the tower aims to capture emerging value built on mature utilities.
+
 ## 📚 **Further Reading & References**
 
 *   **[Bits or pieces?: Tower and Moat](https://blog.gardeviance.org/2014/07/tower-and-moat.html)** by Simon Wardley. The original blog post outlining the strategy.

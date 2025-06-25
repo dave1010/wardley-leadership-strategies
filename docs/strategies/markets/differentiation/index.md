@@ -142,6 +142,11 @@ Differentiation is useless if customers don't know about it or don't understand 
 *   **[Co-creation](/strategies/ecosystem/co-creation)**: Working directly with users is a great way to uncover meaningful opportunities for differentiation.
 *   **[Creating Artificial Needs](/strategies/user-perception/creating-artificial-needs)**: A risky and ethically questionable strategy that attempts to create differentiation through marketing rather than genuine user needs.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [The less evolved something is then the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – trigger: differentiation flourishes when components are immature.
+- [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – influence: pick markets evolving at a pace you can exploit.
+
 ## 📚 **Further Reading & References**
 
 *   **[Blue Ocean Strategy](https://www.goodreads.com/book/show/4892.Blue_Ocean_Strategy)** by W. Chan Kim and Renée Mauborgne. A classic book on creating uncontested market space.

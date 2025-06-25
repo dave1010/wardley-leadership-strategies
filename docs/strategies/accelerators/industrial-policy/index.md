@@ -155,6 +155,11 @@ Balancing public objectives with private strategic goals, maintaining agility wh
 - [Market Enablement](/strategies/accelerators/market-enablement)  
 - [Standards Game](/strategies/markets/standards-game)
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: government investment channels funds toward targeted sectors.
+- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: policy support often intensifies during war or wonder phases.
+
 ## 📚 **Further Reading**
 
 - Wardley, S. – *On Industrial Policy and Strategic Climatic Patterns*.  

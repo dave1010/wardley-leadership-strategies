@@ -151,6 +151,11 @@ Superior processes, cost structures, and delivery models can overcome first-move
 - [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) – to detect and act on market shifts.
 - [Experimentation](/strategies/attacking/experimentation) – to test new ideas on a small scale before wider deployment.
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: wait until the market shows a clear acceleration before following.
+- [No choice on evolution](/climatic-patterns/no-choice-on-evolution) – influence: once standards emerge, following quickly becomes mandatory.
+
 ## 📚 **Further Reading & References**
 
 - [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - Simon Wardley
