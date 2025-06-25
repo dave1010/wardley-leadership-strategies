@@ -156,8 +156,8 @@ Directed investment can shift the centre of gravity in a value chain, attracting
 
 ## 📚 **Further Reading & References**
 
-- [The Innovator's Dilemma (Christensen)](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) – Explores why established organisations struggle with disruptive innovation and the need for separate, focused investments.
-- [Corporate Venturing: Managing the Innovation Family](https://www.strategy-business.com/article/03408) – On structuring and managing internal ventures.
-- [How Google Became an AI Company](https://www.technologyreview.com/2023/01/11/1066796/google-ai-history/) – Case study of Google's directed investment in AI.
-- [Bell Labs: Life in the Crown Jewel](https://spectrum.ieee.org/bell-labs-history) – The story of AT&T's legendary R&D investment.
-- [Wardley Mapping: Climatic Patterns](https://learnwardleymapping.com/climatic-patterns.html) – On using mapping to identify inevitabilities and inform investment decisions.
+- [*The Innovator's Dilemma* by Clayton M. Christensen](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) – Explores why established organisations struggle with disruptive innovation and the need for separate, focused investments.
+- [Corporate Venturing: A practical guide](https://www.strategy-business.com/article/11040) – On structuring and managing internal ventures.
+- [How Google’s AI research division is reimagining the future of the company](https://www.blog.google/technology/ai/google-ai-research-division-reimagining-future/) – Case study of Google's directed investment in AI.
+- [The Story of Bell Labs](https://www.britannica.com/topic/Bell-Laboratories) – The story of AT&T's legendary R&D investment.
+- [Climatic Patterns](https://learnwardleymapping.com/climatic-patterns/) – On using mapping to identify inevitabilities and inform investment decisions.

@@ -150,5 +150,5 @@ This kind of cultural or visionary gravity is harder to replicate or fight. It�
 ## 📚 **Further Reading & References**
 
 - [Clusters and the New Economics of Competition (Michael Porter, HBR)](https://hbr.org/1998/11/clusters-and-the-new-economics-of-competition) – The foundational theory of economic clusters and competitive advantage.
-- [The Power of Pull (John Hagel et al.)](https://www.amazon.co.uk/Power-Pull-John-Hagel/dp/0465019358) – Explores how pull strategies shape talent and innovation ecosystems.
+- [*The Power of Pull: How Small Moves, Smartly Made, Can Set Big Things in Motion*](https://www.strategy-business.com/article/10205) by John Hagel et al. – Explores how pull strategies shape talent and innovation ecosystems.
 - [Critical Mass](/terms/critical-mass) – The tipping point at which a center of gravity becomes self-sustaining.

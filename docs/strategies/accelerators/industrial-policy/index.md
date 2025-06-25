@@ -155,8 +155,9 @@ Balancing public objectives with private strategic goals, maintaining agility wh
 - [Market Enablement](/strategies/accelerators/market-enablement)  
 - [Standards Game](/strategies/markets/standards-game)
 
-## 📚 **Further Reading**
+## 📚 **Further Reading & References**
 
-- Wardley, S. – *On Industrial Policy and Strategic Climatic Patterns*.  
-- Case Study: *The Rise of Airbus* – European government consortiums and subsidies.  
-- InfoQ Interview: *Wardley on Industrial Policy in China’s Tech Landscape*.  
+- [What is Industrial Policy?](https://www.piie.com/microsites/what-is-industrial-policy-and-why-is-it-so-controversial) - A primer on the topic from the Peterson Institute for International Economics.
+- [The Return of Industrial Policy](https://www.foreignaffairs.com/articles/united-states/2022-05-24/return-industrial-policy) - An article from Foreign Affairs on the resurgence of industrial policy.
+- [The Airbus-Boeing Dispute: A Case Study in International Trade and Subsidies](https://www.investopedia.com/articles/investing/102215/boeing-vs-airbus-how-subsidies-affect-trade.asp) - An Investopedia article that provides an overview of the trade dispute and the role of government subsidies.
+- [Clash of the Titans – Will China Dethrone Silicon Valley?](https://leadingedgeforum.com/research/clash-of-the-titans-will-china-dethrone-silicon-valley/) - A report by Simon Wardley that touches on China's industrial strategy.  
