@@ -1,11 +1,12 @@
 ---
-title: "Characteristics change"
+title: "[Components] Characteristics change"
 ---
 
-# Characteristics change
+# [Components] Characteristics change
 
 As an activity evolves, its traits shift dramatically. In the early stages it is uncertain, rare, and poorly understood. Over time it becomes commonplace, predictable, and focused on efficiency.
 
+(Salaman & Storey described how these traits morph over time.)
 Common transitions include:
 
 - **From exploration to standardisation** – novel ideas turn into everyday products and eventually into utilities.
