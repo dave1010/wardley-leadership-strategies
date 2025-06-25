@@ -156,6 +156,11 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 - [Standards Game](/strategies/markets/standards-game)
 - [Center of Gravity](/strategies/attacking/centre-of-gravity)
 
+## ⛅ **Relevant Climatic Patterns**
+
+- [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – trigger: intense competition often pushes companies to form alliances.
+- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: alliances can guide how related capabilities evolve together.
+
 ## 📚 **Further Reading & References**
 
 - Wardley, S. – *"Alliances: working with other companies to drive evolution of a specific activity/data set."*
