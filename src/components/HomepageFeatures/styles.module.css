@@ -27,6 +27,12 @@
   opacity: 0.8;
 }
 
+.categoryLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
 @media (--ifm-narrow-window) {
   .miniHero {
     padding: 2rem 1rem; /* Reduced padding on narrower screens */
