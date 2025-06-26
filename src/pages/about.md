@@ -20,6 +20,8 @@ This resource offers detailed explanations, real-world examples, and practical a
 
 The site also includes an interactive [**🚦 Strategy Assessment Tool**](/about/assessment-tool) for some strategies, allowing you to evaluate the applicability and readiness of a specific strategy within your context.
 
+Over time it has expanded with dedicated sections on [Climatic Patterns](/climatic-patterns) and [Doctrine](/doctrines). These provide additional context for why a strategy works, but the primary emphasis remains on the gameplays themselves.
+
 
 ## Who is this Guide For?
 
@@ -40,7 +42,7 @@ As described in [Learn Wardley Mapping](https://learnwardleymapping.com/), effec
 
 > Making strategic decisions based on your **purpose** ("the game"), a description of the competitive **landscape** (the map), the external forces acting on the landscape (**climate**), and the training of your people (**doctrine**).
 
-This guide helps you translate the insights gained from mapping, climate analysis, and doctrine into concrete, actionable strategies.
+This guide helps you translate the insights gained from mapping, [climatic patterns](/climatic-patterns) analysis, and [doctrine](/doctrines) into concrete, actionable strategies.
 
 ## Contribution and Licensing
 
