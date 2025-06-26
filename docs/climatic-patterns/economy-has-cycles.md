@@ -1,8 +1,9 @@
 ---
-title: "[Prediction] Economy has cycles"
+title: "Economy has cycles"
+tags: [prediction]
 ---
 
-# [Prediction] Economy has cycles
+# Economy has cycles
 
 Markets move through phases of peace, war and wonder. Each stage calls for different tactics and levels of investment.
 

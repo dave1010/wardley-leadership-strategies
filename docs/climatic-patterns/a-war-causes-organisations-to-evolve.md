@@ -1,8 +1,9 @@
 ---
-title: "[Prediction] A 'war' causes organisations to evolve"
+title: "A 'war' causes organisations to evolve"
+tags: [prediction]
 ---
 
-# [Prediction] A 'war' causes organisations to evolve
+# A 'war' causes organisations to evolve
 
 The point of industrialisation often feels like a battle for survival. Competitive pressure forces organisations to adapt rapidly or be left behind.
 

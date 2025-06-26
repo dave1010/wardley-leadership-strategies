@@ -1,8 +1,9 @@
 ---
-title: "[Speed] Efficiency enables innovation"
+title: "Efficiency enables innovation"
+tags: [speed]
 ---
 
-# [Speed] Efficiency enables innovation
+# Efficiency enables innovation
 
 When an activity becomes standardised and efficient, it forms a dependable building block. These commodity components allow new, more complex systems to be assembled quickly and at lower cost. Improvements within the component are largely hidden behind its interface, but the ripple effects are felt in the speed and variety of what can be built on top.
 

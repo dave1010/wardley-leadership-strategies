@@ -1,8 +1,9 @@
 ---
-title: "[Prediction] You cannot measure evolution over time or adoption"
+title: "You cannot measure evolution over time or adoption"
+tags: [prediction]
 ---
 
-# [Prediction] You cannot measure evolution over time or adoption
+# You cannot measure evolution over time or adoption
 
 Exact timings are impossible to plot. Instead of chasing precision, accept uncertainty and watch for signals that a shift is under way.
 

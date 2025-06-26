@@ -1,8 +1,9 @@
 ---
-title: "[Financial] Higher order systems create new sources of value"
+title: "Higher order systems create new sources of value"
+tags: [financial]
 ---
 
-# [Financial] Higher order systems create new sources of value
+# Higher order systems create new sources of value
 
 Industrialised components do more than cut costs — they provide the foundation for entirely new products and markets. As once novel capabilities become utilities, they are combined in fresh ways to generate economic value. Electricity enabled radio, telephony and computing; cloud infrastructure enables countless digital services.
 
