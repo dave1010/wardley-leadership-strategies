@@ -148,8 +148,20 @@ const config: Config = {
               to: '/strategies',
             },
             {
+              label: 'Doctrines',
+              to: '/doctrines',
+            },
+            {
+              label: 'Climatic Patterns',
+              to: '/climatic-patterns',
+            },
+            {
               label: 'Terms',
               to: '/terms',
+            },
+            {
+              label: 'Tags',
+              to: '/tags',
             },
           ],
         },
