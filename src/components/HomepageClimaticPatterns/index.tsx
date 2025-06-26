@@ -6,8 +6,8 @@ import styles from '../HomepageFeatures/styles.module.css';
 export default function HomepageClimaticPatterns(): ReactNode {
   return (
     <section className={styles.features}>
-      <div className={clsx(styles.miniHero, 'margin-vert--lg')}>
-        <div className="container">
+      <div className="container">
+        <div className={clsx(styles.miniHero, 'margin-vert--lg')}>
           <h2 className={styles.miniHero__title}>
             <Link to="/climatic-patterns">Climatic Patterns</Link>
           </h2>
