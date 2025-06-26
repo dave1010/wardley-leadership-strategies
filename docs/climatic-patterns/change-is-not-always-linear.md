@@ -1,8 +1,9 @@
 ---
-title: "[Speed] Change is not always linear"
+title: "Change is not always linear"
+tags: [speed]
 ---
 
-# [Speed] Change is not always linear
+# Change is not always linear
 
 Some shifts happen in leaps or even exponential bursts. Expect periods of rapid transformation rather than a steady, predictable pace.
 

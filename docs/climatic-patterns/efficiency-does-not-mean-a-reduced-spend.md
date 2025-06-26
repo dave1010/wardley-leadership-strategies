@@ -1,8 +1,9 @@
 ---
-title: "[Financial] Efficiency does not mean a reduced spend"
+title: "Efficiency does not mean a reduced spend"
+tags: [financial]
 ---
 
-# [Financial] Efficiency does not mean a reduced spend
+# Efficiency does not mean a reduced spend
 
 Making something more efficient can actually lead to greater overall consumption. This is known as Jevons' Paradox and means savings may be temporary as demand rises.
 

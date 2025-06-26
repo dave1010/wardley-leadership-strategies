@@ -1,8 +1,9 @@
 ---
-title: "[Components] Characteristics change"
+title: "Characteristics change"
+tags: [components]
 ---
 
-# [Components] Characteristics change
+# Characteristics change
 
 As an activity evolves, its traits shift dramatically. In the early stages it is uncertain, rare, and poorly understood. Over time it becomes commonplace, predictable, and focused on efficiency.
 

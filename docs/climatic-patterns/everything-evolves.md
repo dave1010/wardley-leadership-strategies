@@ -1,8 +1,9 @@
 ---
-title: "[Components] Everything evolves"
+title: "Everything evolves"
+tags: [components]
 ---
 
-# [Components] Everything evolves
+# Everything evolves
 
 All parts of a value chain move from novel beginnings toward well defined commodities. Competition and user demand push activities, practices, and even mental models from experimentation to standardisation. Early on you might custom build an entire stack yourself, but over time those same capabilities become utilities that you simply plug into.
 Supply and demand competition drives this progression.
