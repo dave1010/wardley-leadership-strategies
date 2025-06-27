@@ -12,5 +12,6 @@ The more successful the previous approach was, the stronger this inertia becomes
 
 ## 🔀 Related Strategies
 
-- [Managing Inertia](/strategies/defensive/managing-inertia) – trigger: recognising when past wins create resistance to necessary change.
 - [Defensive Regulation](/strategies/defensive/defensive-regulation) – influence: incumbents often rely on regulation when past success makes them reluctant to adapt.
+- [Fool's Mate](/strategies/attacking/fool-s-mate) – influence: this strategy exploits poor awareness and inertia to cause rapid, destructive shifts.
+- [Managing Inertia](/strategies/defensive/managing-inertia) – trigger: recognising when past wins create resistance to necessary change.

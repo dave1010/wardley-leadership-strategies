@@ -137,6 +137,13 @@ At its core, this is a hedging strategy. It's an admission that you cannot predi
 - **[Standards Game](/strategies/markets/standards-game)**: Playing both sides is a specific move within a larger standards game.
 - **[Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: This strategy can be a component of ILC, where you leverage your position as a neutral supplier to sense where the market is heading.
 
+## ⛅ Relevant Climatic Patterns
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: this strategy is employed when future market direction is uncertain.
+- [You cannot measure evolution over time or adoption](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty) – trigger: playing both sides is a way to embrace uncertainty when clear winners or evolutionary paths are not yet defined.
+- [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – influence: this strategy is often used during a competitive 'war' (e.g., standards wars), profiting from the conflict itself.
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – influence: the strategy relies on and profits from the ongoing actions and counter-actions of competitors.
+- [Economy has cycles](/climatic-patterns/economy-has-cycles) – influence: the 'war' phase of economic cycles often presents opportunities for this strategy.
+
 ## 📚 **Further Reading & References**
 
 - **"The Art of War" by Sun Tzu:** While not a business book, it offers timeless insights into strategy and the benefits of understanding the competitive landscape from multiple perspectives.

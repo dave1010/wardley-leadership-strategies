@@ -215,6 +215,13 @@ The degree of "openness" (e.g., open standards, open source, open data) is a cri
 - [Cooperation](/strategies/accelerators/cooperation) - Working with other players, even competitors, is fundamental to many market enablement initiatives.
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - An enabled market can lead to network effects that further accelerate adoption and growth.
 
+## ⛅ Relevant Climatic Patterns
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: market enablement often makes components more efficient, fostering innovation.
+- [Higher order systems create new sources of value](/climatic-patterns/higher-order-systems-create-new-sources-of-value) – influence: enabled markets for components allow new higher-order systems to be built.
+- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: enabling a market fosters co-evolution of related technologies and practices.
+- [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination) – influence: market enablement can create stable components, boosting agility.
+- [Everything evolves](/climatic-patterns/everything-evolves) – trigger: market enablement is a strategy to accelerate the natural evolution of components.
+
 ## 📚 **Further Reading & References**
 
 - *"The Innovator's Dilemma"* by Clayton M. Christensen - While not directly about market enablement, this book provides deep insights into how markets evolve and how incumbents can be disrupted, which is relevant context for why and how one might enable new markets.
