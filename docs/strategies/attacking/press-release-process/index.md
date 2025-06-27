@@ -195,6 +195,12 @@ A press release that reads as weak or incoherent is a fast signal of strategic u
 - [Fast Follower](/strategies/positional/fast-follower) – The press release process can be used to quickly respond to emerging user needs with evolved capabilities.
 - [Experimentation](/strategies/attacking/experimentation) – Use press releases to simulate outcomes and test resonance before committing resources.
 
+## ⛅ Relevant Climatic Patterns
+- [Characteristics change](/climatic-patterns/characteristics-change) – influence: the process helps determine if a product relies on evolved components ready for industrialization or newer, less certain ones.
+- [Everything evolves](/climatic-patterns/everything-evolves) – influence: this process is a method to guide the evolution of a product by ensuring it meets clear user needs.
+- [Higher order systems create new sources of value](/climatic-patterns/higher-order-systems-create-new-sources-of-value) – influence: aims to define valuable higher-order systems by focusing on customer-facing outcomes.
+- [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – influence: a clear, user-focused press release can differentiate from competitors who lack such clarity.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: the process encourages leveraging efficient, existing components to build new, valuable offerings.
 
 ## 📚 **Further Reading & References**
 

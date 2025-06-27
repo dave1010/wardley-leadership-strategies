@@ -9,3 +9,6 @@ All parts of a value chain move from novel beginnings toward well defined commod
 Supply and demand competition drives this progression.
 
 This evolution means every component has a history and a future. Knowing that change is inevitable helps leaders anticipate when once "special" capabilities will become routine services and when new components may be about to appear.
+
+## 🔀 Related Strategies
+- [Market Enablement](/strategies/accelerators/market-enablement) – influence: this strategy actively accelerates component evolution and fosters ecosystem innovation.
