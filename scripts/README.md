@@ -7,10 +7,11 @@ Run them from the repository root so relative paths resolve correctly.
 ## Workflow
 
 1. `check_related_links.py` – ensure every internal link appears in the page's **Related Strategies** section.
-2. `check_reciprocal_links.py` – verify that each relation is referenced from both pages.
-3. `add_related_links.py` – automatically insert any missing links.
-4. `check_unexplained_relations.py` – list related links that lack explanatory text.
-5. Manually update the markdown files to add explanations for the items flagged in step&nbsp;4.
+2. `check_reciprocal_links.py` – verify that each relation is referenced from both pages (Strategy to Strategy).
+3. `check_climatic_pattern_links.py` – check for missing "Relevant Climatic Patterns" sections in Strategies and verify reciprocal links between Strategies and Climatic Patterns.
+4. `add_related_links.py` – automatically insert any missing links (Strategy to Strategy).
+5. `check_unexplained_relations.py` – list related links that lack explanatory text.
+6. Manually update the markdown files to add explanations for the items flagged in step&nbsp;5.
 
 ## `check_related_links.py`
 Checks that every internal link to another strategy is also present in the page's **Related Strategies** section.
@@ -28,6 +29,24 @@ The script emits a CSV of problematic `source,target` pairs and prints the numbe
 python3 scripts/check_reciprocal_links.py > reciprocal_issues.csv
 ```
 
+## `check_climatic_pattern_links.py`
+Checks for consistency in links between Strategy documents and Climatic Pattern documents.
+
+This script performs two main checks:
+1.  Identifies Strategy documents (`docs/strategies/**/index.md`) that are missing the "## ⛅ **Relevant Climatic Patterns**" section.
+2.  Reports asymmetric links between Strategies and Climatic Patterns. An asymmetric link occurs if:
+    *   A Strategy links to a Climatic Pattern under its "Relevant Climatic Patterns" section, but the Climatic Pattern does not link back to that Strategy in its "## 🔀 **Related Strategies**" section.
+    *   A Climatic Pattern links to a Strategy under its "Related Strategies" section, but the Strategy does not link back to that Climatic Pattern in its "Relevant Climatic Patterns" section.
+
+The script prints a list of strategies missing the required section directly to the console, with a summary count to stderr.
+Asymmetric links are output in CSV format to stdout, with columns: `Source Document,Target Document,Issue Type`. A summary count of asymmetric links is printed to stderr.
+
+**Usage:**
+```bash
+python3 scripts/check_climatic_pattern_links.py > climatic_pattern_link_issues.csv
+```
+This will save the asymmetric links to `climatic_pattern_link_issues.csv`. Strategies missing sections will be printed to the console.
+
 ## `add_related_links.py`
 Automatically inserts missing links into the **Related Strategies** sections based on links found elsewhere in the document.
 It updates the markdown files in place and prints a CSV of added `source,target` pairs along with a count on stderr.
@@ -35,6 +54,7 @@ It updates the markdown files in place and prints a CSV of added `source,target`
 ```bash
 python3 scripts/add_related_links.py > added.csv
 ```
+**Note:** This script modifies the markdown files. Review changes with `git diff` before committing.
 
 ## `check_unexplained_relations.py`
 Looks at the **Related Strategies** sections and flags bullet points that have no explanatory text after the link.
