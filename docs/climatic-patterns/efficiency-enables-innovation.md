@@ -11,4 +11,5 @@ From electricity grids to cloud computing, each wave of industrialisation has sp
 
 ## 🔀 Related Strategies
 
+- [Market Enablement](/strategies/accelerators/market-enablement) – influence: this strategy actively accelerates component evolution and fosters ecosystem innovation.
 - [Open Approaches](/strategies/accelerators/open-approaches) – trigger: once a component becomes efficient, opening it up can drive further innovation.

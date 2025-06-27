@@ -9,6 +9,7 @@ Reliable building blocks let you mix and match them quickly. With the basics sta
 
 ## 🔀 Related Strategies
 
-- [Open Approaches](/strategies/accelerators/open-approaches) – influence: stable open components enable rapid recombination.
 - [Cooperation](/strategies/accelerators/cooperation) – trigger: once foundations stabilise, collaboration becomes easier.
+- [Market Enablement](/strategies/accelerators/market-enablement) – influence: this strategy actively accelerates component evolution and fosters ecosystem innovation.
+- [Open Approaches](/strategies/accelerators/open-approaches) – influence: stable open components enable rapid recombination.
 

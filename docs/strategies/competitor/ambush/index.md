@@ -136,6 +136,15 @@ The effectiveness of ambush depends on asymmetric information. Maintaining surpr
 - [**Misdirection**](/strategies/competitor/misdirection): Distract competitors from the real move.
 - [**Undermining Barriers to Entry**](/strategies/attacking/undermining-barriers-to-entry): Ambush can help eliminate barriers by shifting standards or creating new expectations.
 
+## ⛅ Relevant Climatic Patterns
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – influence: an ambush is a competitor action designed to dramatically alter the competitive landscape.
+- [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – influence: ambushes create sudden, non-linear shifts, catching unprepared competitors off guard.
+- [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – trigger: the success of an ambush often depends on competitors not anticipating such a disruptive move.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: ambushes can be highly effective against incumbents slowed by inertia, preventing them from reacting quickly.
+- [Shifts from product to utility tend to demonstrate a punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – influence: an ambush can be the punctuating event that accelerates a component's shift towards utility.
+- [Creative Destruction](/climatic-patterns/creative-destruction) – influence: a successful ambush can render existing products or approaches obsolete.
+- [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption) – influence: an ambush is often an unanticipated form of disruption.
+
 ## **📚 Further Reading & References**
 
 - [Clayton Christensen on disruptive innovation](https://www.christenseninstitute.org/theory/disruptive-innovation/)
