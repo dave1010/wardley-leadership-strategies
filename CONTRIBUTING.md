@@ -46,12 +46,7 @@ Strategies should aim to follow this format as closely as possible.
    - Unordered list of 3-5 bullet points. Metrics provided should be specific and indicative of the strategy's impact.
 10. `## ⚠️ **Common Pitfalls and Warning Signs**`
     - `###` subsection and a sentence or 2 for each one. These should highlight realistic risks and be distinct from the "When to Avoid" criteria.
-11. `## 🧠 **Strategic Insights**`
-    - This is where the big ideas go.
-    - Only put relevant insights here, not generic ones.
-    - Consider evolution stages, counterplay, value chains, users, markets, leverage, higher order thinking, wider goals, etc.
-    - Also if there's anything specific to the strategy that is not covered in the other sections.
-    - Use `###` subsections and favour paragraphs over bullets for this section.
+11. `## 🧠 **Strategic Insights**` – see the [Strategic Insights](#strategic-insights) section for guidance.
 12. `## ❓ **Key Questions to Ask**`
     - Unordered list of 3-6 bullet points: `**Topic:** Question?`. These questions should be designed to be thought-provoking and directly assist users in applying the strategy to their specific context.
 13. `🔀 **Related Strategies**`
@@ -106,6 +101,16 @@ or capabilities that are directly relevant to the strategy - i.e. one or more of
 or at least generic skills that make it clear where they are applied in relation to the strategy.
 4-7 of each is a good number but stick to what's important: insignificant indicators will skew the results.
 
+### Strategic Insights
+
+The `## 🧠 **Strategic Insights**` section of a strategy is where the big ideas live. It's critical that these are well thought out, expert insights that are related to the specific strategy. Not just a vague idea or summary. These should add significant depth to the page. They can even expand the strategy beyond its confines a bit, whether that's more practical business thoughts, mental models, philosophy (don't get carried away!), left field techniques or practices, etc. See [notes/authoritative-content-writing.md](./notes/authoritative-content-writing.md) for additional guidance on writing with authority.
+
+- Only put relevant insights here, not generic ones.
+- Consider evolution stages, counterplay, value chains, users, markets, leverage, higher order thinking, wider goals, etc.
+- Also if there's anything specific to the strategy that is not covered in the other sections.
+- Use `###` subsections and favour paragraphs over bullets for this section.
+- Each insight can be multiple paragraphs if it needs to dive deep or cover broad ideas.
+
 ## Terms
 
 - Terms are for words or phrases that are specific to strategies, business, Wardley Mapping, etc.
@@ -123,6 +128,7 @@ or at least generic skills that make it clear where they are applied in relation
 
 - A mix of paragraphs and bullet points, tending towards paragraphs.
 - Bold and italic for emphasis is OK but don't overuse.
+- See [notes/authoritative-content-writing.md](./notes/authoritative-content-writing.md) for advice on writing with authority.
 
 Remember that there are 60+ strategies. Consider whether content is applicable to *all*, *many*, *few* or just *one* strategy. Most content in a stragegy should be relevant to *only* that strategy. There might be some content that is relevant to a few strategies, but it should be the exception rather than the rule. If content applies to many or all strategies, it should be in the main site content, not in a specific strategy. Also consider that strategies are related: sub strategies, counterplay, etc. If content is relevant to a sub-strategy or counterplay, it should be in the sub-strategy or counterplay, not in the main strategy (which links and provides a summary).
 
