@@ -10,4 +10,5 @@ Joseph Schumpeter noted that new innovations often sweep away the old. Businesse
 ## 🔀 Related Strategies
 
 - [Co-opting](/strategies/ecosystem/co-opting) – influence: copying a rival's feature can speed the demise of older approaches.
+- [Fool's Mate](/strategies/attacking/fool-s-mate) – influence: this strategy exploits poor awareness and inertia to cause rapid, destructive shifts.
 
