@@ -148,4 +148,3 @@ While operational burdens and capex are offloaded, significant reputational risk
 ## 📚 **Further Reading & References**
 
 - Case Study: [Nortel](https://en.wikipedia.org/wiki/Timeline_of_Nortel) Support Spin-offs – Real-world legacy IT sweat & dump scenario.
-- Article: [The Hidden Costs of Legacy Systems](https://www.example.com/hidden-costs-legacy) - (Illustrative link, replace with actual relevant article if known) Discusses the capex drain that Sweat & Dump aims to offload.
