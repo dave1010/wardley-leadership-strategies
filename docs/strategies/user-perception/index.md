@@ -1,5 +1,6 @@
 ---
 description: Influencing how users and markets perceive value, choice, and change.
+authors: [dave-hulbert]
 ---
 
 # User Perception Strategies

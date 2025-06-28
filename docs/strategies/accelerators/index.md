@@ -1,5 +1,6 @@
 ---
 description: Accelerate evolution and market development
+authors: [dave-hulbert]
 ---
 
 # Accelerators

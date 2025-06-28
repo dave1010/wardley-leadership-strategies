@@ -1,3 +1,7 @@
+---
+authors: [dave-hulbert]
+---
+
 # Climatic Patterns
 
 Climatic patterns are broad forces that shape markets over time. They tend to play out regardless of any single organisation's actions.

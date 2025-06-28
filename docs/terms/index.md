@@ -1,3 +1,7 @@
+---
+authors: [dave-hulbert]
+---
+
 # Terms
 
 Glossary of terms.

@@ -1,5 +1,6 @@
 ---
 description: Strategically slow down market evolution to protect revenue, buy time, or control competitive dynamics.
+authors: [dave-hulbert]
 ---
 
 # Decelerators

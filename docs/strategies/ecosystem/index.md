@@ -1,3 +1,7 @@
+---
+authors: [dave-hulbert]
+---
+
 # Ecosystem
 
 Ecosystem strategies in Wardley Mapping revolve around leveraging the capabilities, resources, and motivations of external entities to achieve your strategic objectives. Instead of solely relying on internal development or direct control, these plays focus on building, shaping, or participating in networks of organizations, users, or components. The core idea is to create a situation where the collective efforts of the ecosystem amplify your own, driving evolution, innovation, or market control in ways that would be difficult or impossible to achieve alone.
