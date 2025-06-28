@@ -1,6 +1,7 @@
 ---
 title: Competitor
 description: Engaging rivals to erode their advantages, waste resources, or neutralize threats.
+authors: [dave-hulbert]
 ---
 
 # Competitor

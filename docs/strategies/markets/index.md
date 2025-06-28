@@ -1,5 +1,6 @@
 ---
 description: Master market dynamics with strategies that shape competition, define value, and drive evolution, from emerging landscapes to mature battlegrounds.
+authors: [dave-hulbert]
 ---
 
 # Markets

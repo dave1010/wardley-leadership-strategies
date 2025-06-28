@@ -1,5 +1,6 @@
 ---
 description: Protect your existing market position, assets, and advantages against competitive threats and disruptive changes.
+authors: [dave-hulbert]
 ---
 
 # Defensive

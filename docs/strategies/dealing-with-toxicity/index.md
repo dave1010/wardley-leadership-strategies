@@ -1,3 +1,7 @@
+---
+authors: [dave-hulbert]
+---
+
 # Dealing with Toxicity (Legacy)
 
 As components evolve, parts of your value chain inevitably become liabilities. "Toxicity" in this context refers less to immediate malfunction or financial worthlessness, and more to the **accumulated burden of technical and organizational inertia**. All technology and systems, over time, tend towards toxicity due to the compounding effects of entropy, continuous evolution in the wider landscape, and internal resistance to change. This inertia makes them expensive to change, anchors them in obsolete practices, and often leads to them being politically defended. The problem is structural, impacting agility and future innovation.

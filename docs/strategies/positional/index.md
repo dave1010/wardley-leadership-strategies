@@ -1,3 +1,7 @@
+---
+authors: [dave-hulbert]
+---
+
 # Positional
 
 Positional strategies in Wardley Mapping are about proactively placing yourself or your organization in an advantageous position within the evolving landscape *before* the market broadly recognizes its significance. These plays are not reactive adjustments to current conditions but are anticipatory moves based on keen situational awareness, pattern sensing, understanding of evolutionary flow, and a commitment to act on foresight.

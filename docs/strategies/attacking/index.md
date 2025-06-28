@@ -1,5 +1,6 @@
 ---
 description: Forcing change, breaking inertia, and reshaping the competitive landscape.
+authors: [dave-hulbert]
 ---
 
 # Attacking Strategies

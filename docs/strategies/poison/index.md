@@ -1,3 +1,7 @@
+---
+authors: [dave-hulbert]
+---
+
 # Poison
 
 The Poison play is about strategic sabotage. If you can’t or don’t want to dominate a future space, you can still deny it to others.
