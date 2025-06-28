@@ -141,13 +141,33 @@ Balancing public objectives with private strategic goals, maintaining agility wh
 - Cost-of-capital reduction  
 - Successful audits and stakeholder satisfaction
 
-## ⚠️ **Common Pitfalls**
+## ⚠️ **Common Pitfalls and Warning Signs**
 
 - Overdependence on a single policy program or government sponsor.  
 - Neglecting market viability in favor of subsidy-driven activities.  
 - Bureaucratic delays undermining agility.  
 - Public backlash over perceived unfair advantages.  
 - Policy reversals exposing strategic gaps.
+
+## 🧠 **Strategic Insights**
+
+### Aligning with National Champions vs. Fostering Ecosystems
+Industrial policy can take the form of backing national champions (betting on a few large players) or fostering a broader ecosystem of innovation. Leadership must understand the nuances of the specific policy they are engaging with. Aligning with a "national champion" approach might offer significant scale but also carries risks if that champion falters. Ecosystem approaches might offer more resilience but require navigating a more complex set of relationships.
+
+### The Double-Edged Sword of Subsidies
+While subsidies can accelerate development and market entry, they can also distort market signals and create dependencies. Strategic leaders must use subsidies to achieve specific milestones and build underlying capabilities, rather than becoming reliant on them for ongoing operations. The goal should be to use policy support to reach a point of self-sustaining competitiveness.
+
+### Navigating Policy Cycles and Political Risk
+Industrial policies are subject to political winds and can change with new administrations or shifting national priorities. Companies leveraging industrial policy must build in resilience to these shifts, perhaps by diversifying their reliance across different programs or geographies, or by ensuring their core value proposition remains strong even without specific policy support.
+
+## ❓ **Key Questions to Ask**
+
+- **Alignment:** How does this specific industrial policy align with our long-term strategic goals, beyond the immediate financial incentives?
+- **Capabilities:** Do we have the internal capabilities (e.g., for grant application, compliance, lobbying) to effectively engage with this policy?
+- **Risk Mitigation:** What are the primary risks associated with this policy (e.g., political change, dependency, reputational risk), and how can we mitigate them?
+- **Exit Strategy:** What is our strategy for thriving if this policy support is reduced or removed?
+- **Ecosystem Impact:** How does our participation in this policy affect the broader ecosystem, and are there opportunities for collaboration?
+- **Ethical Considerations:** Are there any ethical concerns or potential negative externalities associated with this policy or our involvement in it?
 
 ## 🔀 **Related Strategies**
 
