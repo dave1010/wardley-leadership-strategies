@@ -145,5 +145,5 @@ Defensive Regulation is a strategy that is primarily available to large, powerfu
 
 ## 📚 **Further Reading & References**
 
-*   **[The Business of America is Lobbying](https://hbr.org/2012/12/the-business-of-america-is-lobbying)** by Lee Drutman, Harvard Business Review. An overview of the role of lobbying in the American economy.
+*   **[The Business of America is Lobbying](https://books.google.co.uk/books/about/The_Business_of_America_is_Lobbying.html?id=f8qqBgAAQBAJ&redir_esc=y)** by Lee Drutman, Oxford University Press, 2015. An overview of the role of lobbying in the American economy.
 *   **[Rent-Seeking](https://www.investopedia.com/terms/r/rentseeking.asp)**, Investopedia. A good definition of the economic concept that underpins this strategy.
