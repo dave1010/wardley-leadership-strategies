@@ -11,7 +11,8 @@ Run them from the repository root so relative paths resolve correctly.
 3. `check_climatic_pattern_links.py` – check for missing "Relevant Climatic Patterns" sections in Strategies and verify reciprocal links between Strategies and Climatic Patterns.
 4. `add_related_links.py` – automatically insert any missing links (Strategy to Strategy).
 5. `check_unexplained_relations.py` – list related links that lack explanatory text.
-6. Manually update the markdown files to add explanations for the items flagged in step&nbsp;5.
+6. `check_strategy_headings.py` – check each strategy markdown file for required headings.
+7. Manually update the markdown files to add explanations for the items flagged in step&nbsp;5 and add any missing headings identified in step&nbsp;6.
 
 ## `check_related_links.py`
 Checks that every internal link to another strategy is also present in the page's **Related Strategies** section.
@@ -65,3 +66,13 @@ python3 scripts/check_unexplained_relations.py > unexplained.csv
 ```
 
 **Note:** This script modifies the markdown files. Review changes with `git diff` before committing.
+
+## `check_strategy_headings.py`
+Checks that every strategy markdown file (`docs/strategies/**/index.md`) contains all the required headings as specified in `CONTRIBUTING.md`.
+The script prints a list of missing headings for each file and exits with a status code of 1 if any issues are found. If all files are compliant, it exits with 0.
+
+**Usage:**
+```bash
+python3 scripts/check_strategy_headings.py
+```
+This will print the report to the console.

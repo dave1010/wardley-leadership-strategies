@@ -59,6 +59,22 @@ def extract_links_from_file(filepath: str, content_prefix: str) -> Set[str]:
         pass
     return links
 
+def extract_headings_from_file(filepath: str) -> List[str]:
+    """
+    Extracts all markdown headings (lines starting with #) from a file.
+    """
+    headings: List[str] = []
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            for line in f:
+                stripped_line = line.strip()
+                if stripped_line.startswith('#'):
+                    headings.append(stripped_line)
+    except FileNotFoundError:
+        # Depending on desired behavior, could log this or raise
+        pass
+    return headings
+
 def extract_links_from_section(filepath: str, section_heading_pattern: str, content_prefix: str) -> Set[str]:
     """
     Extracts and normalizes markdown links from a specific section of a file.
