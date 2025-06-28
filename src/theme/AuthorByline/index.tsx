@@ -35,7 +35,7 @@ const AuthorByline: React.FC<AuthorBylineProps> = ({ authorIds }) => {
 
   return (
     <div className={styles.authorBylineContainer}>
-      <h4>Authors</h4>
+      <h4>{authorDetails.length === 1 ? 'Author' : 'Authors'}</h4>
       {authorDetails.map(author => (
         <div key={author.id} className={styles.authorItem}>
           {author.image_url && (
