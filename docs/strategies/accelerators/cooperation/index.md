@@ -260,8 +260,7 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 - [**Alliances**](/strategies/ecosystem/alliances) - a formalized group of cooperating entities, essentially the same domain
 - [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with *users*
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
-
-- [Standards Game](/strategies/markets/standards-game)
+- [Standards Game](/strategies/markets/standards-game) - cooperation often aims to establish common standards and reduce friction.
 
 ## ⛅ **Relevant Climatic Patterns**
 

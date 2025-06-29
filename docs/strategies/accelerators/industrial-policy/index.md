@@ -171,9 +171,9 @@ Industrial policies are subject to political winds and can change with new admin
 
 ## 🔀 **Related Strategies**
 
-- [Lobbying](/strategies/user-perception/lobbying)  
-- [Market Enablement](/strategies/accelerators/market-enablement)  
-- [Standards Game](/strategies/markets/standards-game)
+- [Lobbying](/strategies/user-perception/lobbying) - influencing policy is a core tactic within industrial policy.  
+- [Market Enablement](/strategies/accelerators/market-enablement) - government backing can create or expand markets.  
+- [Standards Game](/strategies/markets/standards-game) - industrial policy often promotes standards to secure advantage.
 
 ## ⛅ **Relevant Climatic Patterns**
 
