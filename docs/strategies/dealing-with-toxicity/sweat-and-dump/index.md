@@ -149,7 +149,7 @@ While operational burdens and capex are offloaded, significant reputational risk
 
 - Case Study: [Nortel](https://en.wikipedia.org/wiki/Timeline_of_Nortel) Support Spin-offs – Real-world legacy IT sweat & dump scenario.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems become candidates for Sweat & Dump as they reach the end of their lifecycle.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: Declining characteristics of an asset make it suitable for outsourcing to a specialist.

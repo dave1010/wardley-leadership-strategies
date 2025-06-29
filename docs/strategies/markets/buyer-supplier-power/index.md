@@ -149,7 +149,7 @@ Every value chain is also a power chain. Understanding this allows you to see th
 *   **[Competitive Strategy](https://www.goodreads.com/book/show/236901.Competitive_Strategy)** by Michael E. Porter. The classic text that introduced the "Five Forces" framework, which is central to understanding buyer-supplier power.
 *   **[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.goodreads.com/book/show/17660462-the-everything-store)** by Brad Stone. Provides many examples of how Amazon has masterfully managed buyer-supplier power.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The balance of power between buyers and suppliers shifts as markets and components evolve.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: As components commoditize, power often shifts from suppliers to buyers, or to those who control the new standard.

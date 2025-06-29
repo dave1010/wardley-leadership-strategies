@@ -177,7 +177,7 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 - Cialdini, R. — [*Influence: The Psychology of Persuasion*](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X) — foundational concepts of behavioral influence.
 - Mitnick, K. — [*The Art of Deception*](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X) — case studies on social engineering and covert operations.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The methods of insertion and the vulnerabilities of competitors evolve over time.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Insertion aims to directly influence and manipulate competitors' actions.

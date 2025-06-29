@@ -144,7 +144,7 @@ alternative to disposal.
 - HBR: [“Pruning the Corporate Portfolio”](https://hbr.org/2017/12/case-study-should-a-hotel-giant-eliminate-some-brands-and-refocus) - Guidance on divestment timing and execution.
 - [General Electric rids itself of financial unit in $26.5bn deal as it hones focus](https://www.theguardian.com/business/2015/apr/10/general-electric-sell-financial-unit-26-billion-deal) - GE’s divestiture of GE Capital (2015) - Case study of reducing complexity by divesting a non-core business.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: What was once an asset can become a liability as the market and technology landscape changes.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: The characteristics of a component or business unit can shift, making it toxic to the parent company.

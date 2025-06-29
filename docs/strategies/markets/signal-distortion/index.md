@@ -148,7 +148,7 @@ Signal Distortion is a powerful reminder that in many markets, the perception of
 *   **[Trust Me, I'm Lying: Confessions of a Media Manipulator](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)** by Ryan Holiday. A stark look at how media can be manipulated.
 *   **[The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War)** by Sun Tzu. The ancient text is full of wisdom on deception and misdirection.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: This strategy exploits the poor situational awareness of competitors by feeding them misleading signals.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – rel: Hype cycles and economic bubbles can be amplified or created through signal distortion.

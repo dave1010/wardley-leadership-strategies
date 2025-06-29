@@ -156,7 +156,7 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - [GSM Association](https://www.gsma.com/) – Case study of regulators and industry collaborating on a global mobile standard.
 - [RFC 2026 – The Internet Standards Process](https://www.rfc-editor.org/rfc/rfc2026) – Insight into how open standards bodies govern technical specifications.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Standards emerge as components evolve towards commodity; playing the standards game is a way to influence this evolution.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Standards often arise to improve efficiency and interoperability, which then enables higher-order innovation.
