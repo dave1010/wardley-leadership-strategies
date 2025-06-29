@@ -128,7 +128,7 @@ Reinforcing someone else's inertia often requires that the new paradigm you push
 -   [**Managing Inertia**](/strategies/defensive/managing-inertia): Focuses on how to manage inertia within your own organization, the opposite of this strategy.
 -   [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry): Can be used in conjunction with reinforcing inertia to further solidify your position by making it harder for competitors to adapt.
 -   [**Exploiting Constraint**](/strategies/decelerators/exploiting-constraint): Similar to reinforcing inertia, this strategy exploits limitations, but it focuses on external constraints rather than a competitor's internal resistance.
--   [**Ambush**](/strategies/competitor/ambush): Can be used to capitalize on a competitor's inertia by launching a sudden, unexpected attack when they are least prepared.
+-   [**Tech Drops**](/strategies/competitor/tech-drops): Can be used to capitalize on a competitor's inertia by launching a sudden, unexpected attack when they are least prepared.
 
 ## 📚   Further Reading & References
 

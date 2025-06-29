@@ -133,7 +133,7 @@ Sapping should lead to the competitor's collapse in one area or their retreat fr
 
 ## 🔀 Related Strategies
 
--   [**Ambush**](/strategies/competitor/ambush): Sapping can involve elements of ambush by launching surprise attacks on multiple fronts.
+-   [**Tech Drops**](/strategies/competitor/tech-drops): Sapping can involve elements of Tech Drops by launching surprise attacks on multiple fronts.
 -   [**Restriction of Movement**](/strategies/competitor/restriction-of-movement): Sapping can be used to restrict a competitor's movement and limit their ability to respond to attacks.
 -   [**Circling and Probing**](/strategies/competitor/circling-and-probing): Circling and probing can be used to identify weaknesses in a competitor before launching a sapping attack.
 
