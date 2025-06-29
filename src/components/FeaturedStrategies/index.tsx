@@ -35,7 +35,7 @@ const StrategyList: StrategyItem[] = [
     link: '/strategies/accelerators/exploiting-network-effects',
   },
   {
-    title: 'Ambush (Tech Drops)',
+    title: 'Tech Drops',
     imageUrl: require('@site/static/img/parachute.jpg').default,
     description: (
       <>
@@ -44,7 +44,7 @@ const StrategyList: StrategyItem[] = [
 
       </>
     ),
-    link: '/strategies/competitor/ambush',
+    link: '/strategies/competitor/tech-drops',
   },
   {
     title: 'Refactoring',

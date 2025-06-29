@@ -140,7 +140,7 @@ Small probes can unsettle competitors, causing them to overreact or spread their
 
 ### Complementary Strategies
 
-Probing can be combined with other strategies, such as misdirection or a follow-up Ambush, to increase effectiveness.
+Probing can be combined with other strategies, such as misdirection or a follow-up Tech Drop, to increase effectiveness.
 
 ### Organizational Alignment
 
@@ -158,7 +158,7 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 ## 🔀 **Related Strategies:**
 
 * [**Misdirection**](/strategies/competitor/misdirection) - Using tactics to mislead a competitor about your intentions.
-* [**Ambush**](/strategies/competitor/ambush) - Launching a sudden, unexpected attack on a competitor.
+* [**Tech Drops**](/strategies/competitor/tech-drops) - Launching a sudden, unexpected attack on a competitor.
 * [**Experimentation**](/strategies/attacking/experimentation) - Testing new approaches to find effective strategies.
 * [**Alliances**](/strategies/ecosystem/alliances) - Forming partnerships, the opposite of testing a competitor.
 

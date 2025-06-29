@@ -41,7 +41,7 @@ While a strong focus on customer value and internal excellence is paramount, a s
 
 Here are several approaches for engaging with competitors, each with a distinct focus:
 
-*   **[Ambush](/strategies/competitor/ambush)**: Exploiting a competitor's marketing efforts or public presence to gain visibility and market share, often by associating your brand with an event or message they initiated.
+*   **[Tech Drops](/strategies/competitor/tech-drops)**: Exploiting a competitor's marketing efforts or public presence to gain visibility and market share, often by associating your brand with an event or message they initiated.
 *   **[Circling and Probing](/strategies/competitor/circling-and-probing)**: Systematically testing a competitor's defenses, responses, and capabilities across different areas to identify weaknesses and unexploited opportunities.
 *   **[Fragmentation Play](/strategies/competitor/fragmentation-play)**: Breaking up a larger, dominant competitor or market by targeting niche segments, supporting competing standards, or fostering a diverse ecosystem that collectively chips away at their position.
 *   **[Misdirection](/strategies/competitor/misdirection)**: Leading a competitor to believe you are pursuing one course of action while you are actually implementing another, causing them to misallocate resources or focus.
