@@ -201,6 +201,9 @@ A press release that reads as weak or incoherent is a fast signal of strategic u
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: describing the end state clarifies uncertain outcomes.
+- [Everything evolves](/climatic-patterns/everything-evolves) – influence: the press release helps teams anticipate how the product will mature.
+
 ## 📚 **Further Reading & References**
 
 - [Working Backwards](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595) - Details Amazon's methodology.

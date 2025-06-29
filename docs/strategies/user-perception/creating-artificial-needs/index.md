@@ -145,6 +145,9 @@ Counter-strategies often involve education, promoting conscious consumerism, or 
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: manufactured demand bets on speculative future gains.
+- [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – influence: artificial needs exploit gaps in market understanding.
+
 ## 📚 **Further Reading & References**
 
 - [HowStuffWorks – "How Advertising Invented the Diamond Engagement Ring"](https://money.howstuffworks.com/african-diamond-trade.htm) – Explores the De Beers case, showing how marketing created a long-lasting social norm (a need where none existed before).

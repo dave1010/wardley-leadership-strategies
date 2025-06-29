@@ -152,6 +152,9 @@ Anticipate potential defenses and have responses ready to uphold your newly crea
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Characteristics change](/climatic-patterns/characteristics-change) – trigger: imposing constraints alters how components evolve.
+- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: self-imposed limits may hinder adaptation.
+
 ## 📚 **Further Reading & References**
 
 - [Exclusive Dealing](https://en.wikipedia.org/wiki/Exclusive_dealing) - Overview of how exclusive contracts can shape market access.

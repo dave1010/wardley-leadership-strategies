@@ -148,6 +148,9 @@ While threat acquisitions can be expensive, the cost of inaction can be even hig
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Everything evolves](/climatic-patterns/everything-evolves) – trigger: acquisitions help an organisation adapt as markets shift.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: buying threats offsets complacency in the core business.
+
 ## 📚 **Further Reading & References**
 
 *   [Wardley Maps](https://medium.com/wardleymaps) by Simon Wardley.

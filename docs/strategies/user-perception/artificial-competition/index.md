@@ -167,4 +167,7 @@ There is a line between strategic positioning and market distortion. Regularly t
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption) – trigger: fabricated rivalry can set off unexpected market shifts.
+- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: staged contests steer user expectations and related products.
+
 ## 📚 **Further Reading & References**

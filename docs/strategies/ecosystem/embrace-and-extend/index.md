@@ -143,6 +143,9 @@ A strong, vibrant open-source community around a standard is one of the best def
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: extending a standard can undermine incumbent approaches.
+- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: ecosystem partners adapt as you change the core.
+
 ## 📚 **Further Reading & References**
 
 *   **[The Halloween Documents](https://en.wikipedia.org/wiki/Halloween_documents)**: A series of confidential Microsoft memos that were leaked in the late 1990s, which provide a detailed, internal view of this strategy.

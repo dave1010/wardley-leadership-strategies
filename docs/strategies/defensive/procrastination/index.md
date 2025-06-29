@@ -141,6 +141,9 @@ In a world obsessed with speed and being first, deliberate patience can be a pow
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: overconfidence delays necessary change.
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: hesitating can forfeit uncertain but valuable opportunities.
+
 ## 📚 **Further Reading & References**
 
 *   **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides a deep understanding of why incumbent companies often procrastinate on disruptive innovations.

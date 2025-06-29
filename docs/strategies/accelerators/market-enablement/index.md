@@ -217,6 +217,9 @@ The degree of "openness" (e.g., open standards, open source, open data) is a cri
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – trigger: enabling a market lets new value chains emerge.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: standardised components lower barriers for participants.
+
 ## 📚 **Further Reading & References**
 
 - *"The Innovator's Dilemma"* by Clayton M. Christensen - While not directly about market enablement, this book provides deep insights into how markets evolve and how incumbents can be disrupted, which is relevant context for why and how one might enable new markets.

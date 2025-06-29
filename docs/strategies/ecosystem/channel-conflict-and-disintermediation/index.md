@@ -143,6 +143,9 @@ Channel conflict is not just about cutting costs; it's about forcing change. It 
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Shifts from product to utility tend to demonstrate a punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: direct channels emerge as industries commoditise.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: investment follows successful disintermediation efforts.
+
 ## 📚 **Further Reading & References**
 
 *   **[The Direct-to-Consumer Playbook](https://books.google.co.uk/books/about/The_Direct_to_Consumer_Playbook.html?id=THibzgEACAAJ&redir_esc=y)** by Mike Stevens. A guide to building a DTC business.

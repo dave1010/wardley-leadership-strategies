@@ -166,6 +166,9 @@ Limiting competition can slow evolution, but may also reduce overall market dyna
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: shifts in market conditions can erode imposed limits.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: overprotected incumbents become vulnerable to change.
+
 ## 📚 **Further Reading & References**
 - Case: **Taxi Medallion System vs Uber** – How city-enforced medallion limits kept competition out for decades, and how Uber circumvented it, leading to medallion value collapse.
 - Business History: *Airline Regulation (1930s–70s)* – U.S. Civil Aeronautics Board tightly controlled routes and fares (incumbents secure, no new airlines). Post-deregulation, competition soared (some incumbents struggled). Illustrates the long-term effects and eventual breakdown of limitation of competition.

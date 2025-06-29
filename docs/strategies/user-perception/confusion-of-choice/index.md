@@ -149,6 +149,9 @@ Ethically, Confusion of Choice is a gray area. While businesses are not obligate
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: overwhelming options obscure long-term benefits.
+- [Characteristics change](/climatic-patterns/characteristics-change) – trigger: products evolve, making older choices hard to compare.
+
 ## 📚 **Further Reading & References**
 
 - [The Paradox of Choice by Barry Schwartz](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) – Explains the psychology behind why too much choice can hinder decision-making.
