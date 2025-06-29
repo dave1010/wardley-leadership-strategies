@@ -155,6 +155,15 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 * [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
 * [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)
 
+## ❓ **Key Questions to Ask**
+
+- **Market Understanding:** What specific hypothesis about the competitor's market or offering are we testing with this probe?
+- **Resource Allocation:** What is the minimal investment required for this probe to yield meaningful data, and how does this align with our overall experimental budget?
+- **Competitor Response:** What is the range of potential competitor reactions, and how prepared are we to adapt our strategy based on these responses?
+- **Learning Objectives:** What are the key learning objectives for this probe, and how will we measure success in achieving them?
+- **Risk Assessment:** What are the potential downsides of this probe, including reputational risk or unwanted competitive attention, and how can we mitigate them?
+- **Strategic Alignment:** How will the insights from this probe inform our broader strategic decisions, regardless of the outcome?
+
 ## 🔀 **Related Strategies:**
 
 * [**Misdirection**](/strategies/competitor/misdirection) - Using tactics to mislead a competitor about your intentions.
