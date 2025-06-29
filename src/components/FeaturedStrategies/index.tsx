@@ -67,14 +67,14 @@ const StrategyList: StrategyItem[] = [
     link: '/strategies/user-perception/artificial-competition'
   },
   {
-    title: 'Fragmentation Play',
+    title: 'Fragmentation',
     imageUrl: require('@site/static/img/fragmentation.jpg').default,
     description: (
       <>
         Undermine a competitor by changing the market dynamics around them, fragmenting their stronghold into smaller pieces.
       </>
     ),
-    link: '/strategies/competitor/fragmentation-play'
+    link: '/strategies/competitor/fragmentation'
   }
 ];
 

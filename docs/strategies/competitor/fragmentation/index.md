@@ -2,7 +2,7 @@
 tags: [competitor, fragmentation, markets, underdog, disruption, divide and conquer]
 ---
 
-# Fragmentation Play
+# Fragmentation
 
 **Splintering a rival's market to erode their stronghold**.
 
@@ -10,11 +10,11 @@ It involves exploiting weaknesses to break the competitor's market into smaller 
 
 ## 🤔 **Explanation**
 
-### What is a Fragmentation Play
+### What is Fragmentation
 
-A Fragmentation Play is a competitive strategy focused on breaking apart a competitor's market dominance. It involves leveraging pricing differences, constraints, or co-opting strategies to undermine a competitor by changing the market dynamics around them. Rather than directly confronting a competitor in their core market, this strategy aims to erode their stronghold by introducing alternatives or supporting multiple options to prevent them from achieving scale.
+Fragmentation is a competitive strategy focused on breaking apart a competitor's market dominance. It involves leveraging pricing differences, constraints, or co-opting strategies to undermine a competitor by changing the market dynamics around them. Rather than directly confronting a competitor in their core market, this strategy aims to erode their stronghold by introducing alternatives or supporting multiple options to prevent them from achieving scale.
 
-### Why is a Fragmentation Play a valuable leadership strategy?
+### Why is Fragmentation a valuable leadership strategy?
 
 This strategy aims to fragment the competitor's customer base or ecosystem, making it difficult for them to maintain a unified advantage. It turns a competitor's strength, such as a large market share or integrated platform, into a vulnerability.
 
@@ -28,7 +28,7 @@ The core idea is to break a competitor's market into smaller segments that can b
 
 ## 🚦 **When to Use / When to Avoid**
 
-<Assessment strategyName="Fragmentation Play">
+<Assessment strategyName="Fragmentation">
   <MapSignals>
     <li>We are facing a dominant competitor who holds a consolidated market position or strong ecosystem control.</li>
     <li>Our mapping reveals unmet needs or underserved customer segments within the competitor’s domain.</li>
@@ -157,5 +157,5 @@ A fragmentation play is about playing divide and conquer in a market. It is most
 
 ## 📚 **Further Reading & References**
 
--   Wardley Mapping Reference - *"Fragmentation Play"* . Underscores the goal of breaking apart a competitor's stronghold.
+-   Wardley Mapping Reference - *"Fragmentation"* . Underscores the goal of breaking apart a competitor's stronghold.
 -   Clayton Christensen - *The Innovator's Dilemma* - Provides extensive case studies of how disruptive innovation (a form of fragmentation) undermines established market leaders.

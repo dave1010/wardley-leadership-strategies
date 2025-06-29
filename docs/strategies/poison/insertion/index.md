@@ -154,7 +154,7 @@ While difficult, competitors can mitigate hidden influences by fostering open fo
 
 ### Synergies with Other Disruptive Tactics
 
-Insertion is rarely a standalone play. Its effectiveness is often amplified when combined with other strategies like [Misdirection](/strategies/competitor/misdirection) (to create noise and divert attention from the actual insertion point), [Fragmentation Play](/strategies/competitor/fragmentation-play) (to create internal divisions that an inserted agent can exploit), or even [Designed to Fail](/strategies/poison/designed-to-fail) (where an inserted narrative convinces a competitor to adopt a flawed initiative).
+Insertion is rarely a standalone play. Its effectiveness is often amplified when combined with other strategies like [Misdirection](/strategies/competitor/misdirection) (to create noise and divert attention from the actual insertion point), [Fragmentation](/strategies/competitor/fragmentation) (to create internal divisions that an inserted agent can exploit), or even [Designed to Fail](/strategies/poison/designed-to-fail) (where an inserted narrative convinces a competitor to adopt a flawed initiative).
 
 ## ❓ **Key Questions to Ask**
 
@@ -168,7 +168,7 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 
 - [Misdirection](/strategies/competitor/misdirection) — redirecting attention through narrative.
 - [Talent Raid](/strategies/competitor/talent-raid) — the inverse: pulling people away.
-- [Fragmentation Play](/strategies/competitor/fragmentation-play) — sowing division for confusion.
+- [Fragmentation](/strategies/competitor/fragmentation) — sowing division for confusion.
 - [Press Release Process](/strategies/attacking/press-release-process) — public signals to manipulate perception.
 - [Designed to Fail](/strategies/poison/designed-to-fail) — pre-seeding flawed initiatives.
 
