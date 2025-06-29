@@ -152,9 +152,9 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 
 ## 🔀 **Related Strategies**
 
-- [Cooperation](/strategies/accelerators/cooperation)
-- [Standards Game](/strategies/markets/standards-game)
-- [Center of Gravity](/strategies/attacking/centre-of-gravity)
+- [Cooperation](/strategies/accelerators/cooperation) - alliances are a structured form of cooperation for shared goals.
+- [Standards Game](/strategies/markets/standards-game) - alliances often form to promote or defend a shared standard.
+- [Center of Gravity](/strategies/attacking/centre-of-gravity) - alliances can shift the industry's center of gravity against a rival.
 
 ## ⛅ **Relevant Climatic Patterns**
 
