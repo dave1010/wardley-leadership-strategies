@@ -143,6 +143,8 @@ Counter-strategies often involve education, promoting conscious consumerism, or 
 - [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Central to creating needs via messaging.
 - [Education](/strategies/user-perception/education) - A more genuine way to create need by informing why something is important; in artificial needs, the education might be closer to propaganda.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 - [HowStuffWorks – "How Advertising Invented the Diamond Engagement Ring"](https://money.howstuffworks.com/african-diamond-trade.htm) – Explores the De Beers case, showing how marketing created a long-lasting social norm (a need where none existed before).

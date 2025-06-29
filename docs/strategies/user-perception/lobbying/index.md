@@ -154,12 +154,14 @@ Aligning with user or public interest narratives increases the chance of success
 - **Counterplay:** What are competitors lobbying for, and how can we respond?
 - **Resilience:** How will we adapt if the regulatory environment shifts?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 - [Defensive Regulation](/strategies/defensive/defensive-regulation) – Using government or policy to create legal barriers.
 - [Limitation of Competition](/strategies/defensive/limitation-of-competition) – The overarching goal of many lobbying efforts.
 - [Standards Game](/strategies/markets/standards-game) – Institutionalising a technical approach via policy or regulation.
 - [Industrial Policy](/strategies/accelerators/industrial-policy) – Aligning with government investment or strategic priorities.
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Shaping market/customer expectations, sometimes via lobbying.
+
+## ⛅ **Relevant Climatic Patterns**
 
 ## 📚 **Further Reading & References**
 

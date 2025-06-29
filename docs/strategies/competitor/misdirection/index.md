@@ -141,12 +141,14 @@ Misdirection can lead to competitor inertia. If a company consistently signals t
 -   How will we know if the misdirection is working?
 -   How and when will we reveal our true strategy?
 
-## 🔀 **Related Strategies:**
+## 🔀 **Related Strategies**
 
 -   [**Reinforcing Competitor Inertia**](/strategies/competitor/reinforcing-competitor-inertia): Misdirection can be used to reinforce competitor inertia by making them underestimate your true strategy
 -   [**Tech Drops**](/strategies/competitor/tech-drops): Misdirection can set up a Tech Drop by concealing your true intentions until the last moment.
 -   [**Signal Distortion**](/strategies/markets/signal-distortion): Misdirection deliberately distorts market signals to mislead competitors.
 -   [**Fear, Uncertainty, and Doubt**](/strategies/user-perception/fear-uncertainty-and-doubt): Misdirection can create fear, uncertainty, and doubt in the minds of competitors.
+
+## ⛅ **Relevant Climatic Patterns**
 
 ## 📚 **Further Reading & References**
 

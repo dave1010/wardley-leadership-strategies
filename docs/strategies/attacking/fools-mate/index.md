@@ -248,6 +248,8 @@ While the strategy involves attacking an opponent's constraint (by commoditizing
 - [Signal Distortion](/strategies/markets/signal-distortion) - While execution relies on surprise, the *threat* or capability of such a move, if perceived, could be a powerful, distorting signal.
 - [Centre of Gravity](/strategies/attacking/centre-of-gravity) - A Fool's Mate often targets a component that, while perhaps not obvious, acts as a centre of gravity for the opponent's business model, leading to systemic failure if attacked.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 - [Fool's mate in Business](https://blog.gardeviance.org/2014/11/fools-mate-in-business.html) - A blog post by Simon Wardley that discusses the concept of Fool's Mate in a business context, providing insights into how it can be applied strategically.

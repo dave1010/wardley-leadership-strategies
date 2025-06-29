@@ -135,7 +135,7 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 -   How will we measure the success of this strategy?
 -   How can we adapt this strategy as the market evolves?
 
-## 🔀 **Related Strategies:**
+## 🔀 **Related Strategies**
 
 -   [**Alliances**](/strategies/ecosystem/alliances) - Forming alliances can be a way to restrict a competitor's access to partners.
 -   [**Co-opting**](/strategies/ecosystem/co-opting) - Can be used to influence the ecosystem to restrict a competitor.
@@ -143,6 +143,8 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 -   [**Embrace and Extend**](/strategies/ecosystem/embrace-and-extend) - Can be used to control standards and limit competitor options.
 -   [**Talent Raid**](/strategies/competitor/talent-raid) - Limits a competitor's movement by restricting access to talent.
 -   [**Limitation of Competition**](/strategies/defensive/limitation-of-competition) - The overarching goal of restriction of movement.
+
+## ⛅ **Relevant Climatic Patterns**
 
 ## 📚 **Further Reading & References**
 

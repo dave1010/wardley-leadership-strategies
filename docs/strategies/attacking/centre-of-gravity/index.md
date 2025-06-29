@@ -157,7 +157,7 @@ This kind of cultural or visionary gravity is harder to replicate or fight. It�
 - **Competition:** How are rivals responding to our position? Are new hubs emerging?
 - **Diversity:** Are we fostering a diverse and innovative environment, or becoming insular?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 
 - [Talent Raid](/strategies/competitor/talent-raid) – Raiding or defending against raids is a key dynamic for maintaining or disrupting a center of gravity.
 - [Alliances](/strategies/ecosystem/alliances) – Forming alliances can increase your gravity as more attach to you; alliances can also counterbalance a dominant hub.

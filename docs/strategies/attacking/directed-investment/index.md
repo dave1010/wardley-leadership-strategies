@@ -157,7 +157,7 @@ Directed investment can shift the centre of gravity in a value chain, attracting
 - **Exit:** What is our plan if the bet does not pay off?
 - **Counterplay:** How might competitors respond?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 
 - [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) – Sensing and interpreting early signals often triggers directed investment.
 - [First Mover](/strategies/positional/first-mover) – Directed investment is a key way to achieve first-mover advantage.

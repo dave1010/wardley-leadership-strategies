@@ -255,7 +255,7 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 - Market impact: Will this cooperation accelerate or inhibit market formation?
 - Exit scenarios: Under what conditions should we
 
-## 🔀 **Related Strategies:**
+## 🔀 **Related Strategies**
 
 - [**Alliances**](/strategies/ecosystem/alliances) - a formalized group of cooperating entities, essentially the same domain
 - [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with *users*

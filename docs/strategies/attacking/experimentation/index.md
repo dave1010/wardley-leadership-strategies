@@ -159,7 +159,7 @@ Experiments often reveal new dependencies or bottlenecks early, letting you shap
 - **Capacity:** Do we have time and budget for experimentation?
 - **Ethics:** Could any experiment harm users or reputation?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 
 - [Directed Investment](/strategies/attacking/directed-investment) – Big bets once experimentation reveals potential.
 - [Centre of Gravity](/strategies/attacking/centre-of-gravity) – Successful labs can become magnets for talent.

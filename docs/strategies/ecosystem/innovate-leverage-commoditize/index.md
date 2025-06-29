@@ -155,6 +155,8 @@ This strategy is based on the insight that today's innovations are tomorrow's co
 *   **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: ILC is the engine that builds a powerful Tower and Moat. The Tower is the platform, and the Moat is built by continuously commoditizing complements.
 *   **[Fast Follower](/strategies/positional/fast-follower)**: The commoditization step is a form of fast-following the innovations of your own ecosystem.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 *   **[Wardley Maps (the book)](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)** by Simon Wardley. The foundational text for understanding the ILC cycle.

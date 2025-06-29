@@ -166,13 +166,15 @@ It's essential to consider the potential optics and impact on relationships with
 * How might our competitors respond, and how will we mitigate those risks?
 * What is our plan for developing and retaining our existing talent?
 
-## 🔀 **Related Strategies:**
+## 🔀 **Related Strategies**
 
 * [**Restriction of Movement**](/strategies/competitor/restriction-of-movement) - Aims to prevent talent from leaving or joining competitors, the opposite of Talent Raid.
 * [**Tech Drops**](/strategies/competitor/tech-drops) - Can be used in conjunction with a Talent Raid to exploit a competitor's weakened position after the raid.
 * [**Threat Acquisition**](/strategies/defensive/threat-acquisition) - Acquiring a company to eliminate a potential competitor can also bring in valuable talent.
 * [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - A successful Talent Raid can raise barriers to entry for competitors by depriving them of critical talent.
 * [**Market Enablement**](/strategies/accelerators/market-enablement) - If the talent raid brings in individuals with strong market connections or expertise, it can enable market growth.
+
+## ⛅ **Relevant Climatic Patterns**
 
 ## 📚 **Further Reading & References**
 

@@ -215,6 +215,8 @@ The degree of "openness" (e.g., open standards, open source, open data) is a cri
 - [Cooperation](/strategies/accelerators/cooperation) - Working with other players, even competitors, is fundamental to many market enablement initiatives.
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - An enabled market can lead to network effects that further accelerate adoption and growth.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 - *"The Innovator's Dilemma"* by Clayton M. Christensen - While not directly about market enablement, this book provides deep insights into how markets evolve and how incumbents can be disrupted, which is relevant context for why and how one might enable new markets.

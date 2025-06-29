@@ -165,4 +165,6 @@ There is a line between strategic positioning and market distortion. Regularly t
 - [Market Enablement](/strategies/accelerators/market-enablement) - Enabling more competition under your control.
 - [Misdirection](/strategies/competitor/misdirection) - Misleading customers about the true competitive landscape.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
