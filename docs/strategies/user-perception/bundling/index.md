@@ -133,6 +133,9 @@ From a value chain perspective, bundling can represent a form of vertical integr
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: combining commoditised components creates new offers.
+- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: bundled products change how users adopt related services.
+
 ## 📚 **Further Reading & References**
 
 - [U.S. v. Microsoft (1998) – DOJ Antitrust Case Documents](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact) – Describes how bundling Internet Explorer with Windows gave Microsoft a strategic edge and the legal ramifications.

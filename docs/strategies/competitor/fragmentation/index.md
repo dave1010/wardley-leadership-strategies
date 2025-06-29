@@ -155,6 +155,9 @@ A fragmentation play is about playing divide and conquer in a market. It is most
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: breaking a monolith clears the way for new entrants.
+- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: smaller pieces evolve faster once separated.
+
 ## 📚 **Further Reading & References**
 
 -   Wardley Mapping Reference - *"Fragmentation"* . Underscores the goal of breaking apart a competitor's stronghold.

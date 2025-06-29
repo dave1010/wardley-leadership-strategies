@@ -146,6 +146,9 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: blocking options keeps rivals tied to outdated approaches.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: constrained players may drive investment elsewhere.
+
 ## 📚 **Further Reading & References**
 
 -   *United States v. Microsoft Corp.* - Microsoft's bundling of Internet Explorer with Windows limited Netscape's access to the market.

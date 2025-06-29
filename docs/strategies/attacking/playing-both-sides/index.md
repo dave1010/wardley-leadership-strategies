@@ -156,6 +156,9 @@ At its core, this is a hedging strategy. It's an admission that you cannot predi
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: shifting alliances alter how battles unfold.
+- [A war causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – influence: playing multiple sides accelerates adaptation.
+
 ## 📚 **Further Reading & References**
 
 - **"The Art of War" by Sun Tzu:** While not a business book, it offers timeless insights into strategy and the benefits of understanding the competitive landscape from multiple perspectives.

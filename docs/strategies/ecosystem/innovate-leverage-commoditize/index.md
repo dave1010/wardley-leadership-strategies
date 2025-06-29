@@ -157,6 +157,9 @@ This strategy is based on the insight that today's innovations are tomorrow's co
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – trigger: nurturing an ecosystem accelerates mutual improvement.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – influence: commoditisation frees resources for the next wave of ideas.
+
 ## 📚 **Further Reading & References**
 
 *   **[Wardley Maps (the book)](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)** by Simon Wardley. The foundational text for understanding the ILC cycle.

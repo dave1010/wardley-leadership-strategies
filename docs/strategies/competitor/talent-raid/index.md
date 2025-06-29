@@ -176,6 +176,9 @@ It's essential to consider the potential optics and impact on relationships with
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: securing key talent helps navigate uncertain markets.
+- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: poaching exposes a rival's slow response to change.
+
 ## 📚 **Further Reading & References**
 
   * [Tesla Employees Are Getting Poached by Apple, Which Elon Musk Called a 'Tesla Graveyard' - Business Insider](https://www.google.com/search?q=https://www.businessinsider.com/apple-poaching-tesla-employees-elon-musk-tesla-graveyard-2021-12)

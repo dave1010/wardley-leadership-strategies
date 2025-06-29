@@ -134,6 +134,9 @@ Raising the barriers to entry shifts the basis of competition. It's no longer ab
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: barriers entrench incumbents and slow adaptation.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: high barriers redirect investment to emerging spaces.
+
 ## 📚 **Further Reading & References**
 
 *   **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Discusses how incumbents can be disrupted by new entrants with simpler, more focused products, which is the threat that this strategy is designed to counter.

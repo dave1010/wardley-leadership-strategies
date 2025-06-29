@@ -164,6 +164,9 @@ The ethical spectrum of FUD is broad, from aggressive but legitimate competition
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [The less evolved something is then the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – trigger: sowing doubt exploits the unknowns around emerging tech.
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – influence: FUD attempts to freeze the market while rivals manoeuvre.
+
 ## 📚 **Further Reading & References**
 
 - [Wired (1999) – "FUD, Counter-FUD"](https://www.wired.com/1999/04/fud-counter-fud/) – Explains FUD's origins with IBM/Microsoft and how insinuating rival tech is "untrustworthy" became a go-to strategy.

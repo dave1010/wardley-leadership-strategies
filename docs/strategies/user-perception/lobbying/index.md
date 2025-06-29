@@ -163,6 +163,9 @@ Aligning with user or public interest narratives increases the chance of success
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: lobbying efforts intensify when markets contract.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: policy wins redirect investment toward preferred players.
+
 ## 📚 **Further Reading & References**
 
 - [Uber Versus Taxis](https://www.researchgate.net/publication/351691030_Uber_Versus_Taxis) - Santos, G. (2021), ‘Uber and taxis’, International Encyclopaedia of Transportation, Elsevier. DOI: 10.1016/B978-0-08-102671-7.10602-5.

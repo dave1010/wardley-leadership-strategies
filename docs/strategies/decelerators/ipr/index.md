@@ -160,6 +160,9 @@ Intellectual Property Rights are increasingly becoming a significant element in 
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: aggressive IP use can entrench slow-moving leaders.
+- [No choice on evolution](/climatic-patterns/no-choice-on-evolution) – trigger: market forces eventually push technologies toward commoditisation despite protections.
+
 ## 📚 **Further Reading & References**
 
 - [World Intellectual Property Organization (WIPO)](https://www.wipo.int/patents/en/) - Resources on international patent systems.

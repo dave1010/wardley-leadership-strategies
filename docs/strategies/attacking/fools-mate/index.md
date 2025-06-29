@@ -250,6 +250,9 @@ While the strategy involves attacking an opponent's constraint (by commoditizing
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: incumbents dismiss the threat until the attack unfolds.
+- [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption) – influence: a rapid commoditisation shift creates unexpected upheaval.
+
 ## 📚 **Further Reading & References**
 
 - [Fool's mate in Business](https://blog.gardeviance.org/2014/11/fools-mate-in-business.html) - A blog post by Simon Wardley that discusses the concept of Fool's Mate in a business context, providing insights into how it can be applied strategically.

@@ -150,6 +150,9 @@ Misdirection can lead to competitor inertia. If a company consistently signals t
 
 ## ⛅ **Relevant Climatic Patterns**
 
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – influence: decoys buy time while rivals adjust.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – trigger: confidence in the status quo makes targets overlook the ruse.
+
 ## 📚 **Further Reading & References**
 
 -   *Vaporware - Wikipedia*: Provides information on vaporware, a common form of misdirection.
