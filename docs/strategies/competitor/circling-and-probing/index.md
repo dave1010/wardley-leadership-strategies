@@ -4,6 +4,10 @@ tags: [circling-and-probing, competitor, circling, probing, exploration, experim
 
 # Circling and Probing
 
+:::note
+**Circling and Probing** isn't explicitly mentioned in Wardley's [On 61 differnt forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+:::
+
 **Testing the waters in a competitor’s territory through small-scale incursions.**
 
 This strategy involves making small, tentative moves into a competitor's space to test their reactions and identify opportunities.
