@@ -131,7 +131,7 @@ Open-sourcing a key technology is one of the most powerful ways to undermine a b
 
 *   **[Open Approaches](/strategies/accelerators/open-approaches)**: This is the most common tactic used to undermine a barrier based on proprietary technology.
 *   **[Market Enablement](/strategies/accelerators/market-enablement)**: By undermining a barrier, you are often enabling a new market to emerge.
-*   **[Fool's Mate](/strategies/attacking/fool-s-mate)**: Undermining a critical barrier can be a key move in executing a Fool's Mate, leading to a rapid collapse of the incumbent's position.
+*   **[Fool's Mate](/strategies/attacking/fools-mate)**: Undermining a critical barrier can be a key move in executing a Fool's Mate, leading to a rapid collapse of the incumbent's position.
 
 ## ⛅ **Relevant Climatic Patterns**
 
