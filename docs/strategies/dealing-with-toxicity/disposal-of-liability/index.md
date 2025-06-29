@@ -143,3 +143,11 @@ alternative to disposal.
 
 - HBR: [“Pruning the Corporate Portfolio”](https://hbr.org/2017/12/case-study-should-a-hotel-giant-eliminate-some-brands-and-refocus) - Guidance on divestment timing and execution.
 - [General Electric rids itself of financial unit in $26.5bn deal as it hones focus](https://www.theguardian.com/business/2015/apr/10/general-electric-sell-financial-unit-26-billion-deal) - GE’s divestiture of GE Capital (2015) - Case study of reducing complexity by divesting a non-core business.
+
+⛅ **Relevant Climatic Patterns**
+
+- [Everything evolves](/climatic-patterns/everything-evolves) – rel: What was once an asset can become a liability as the market and technology landscape changes.
+- [Characteristics change](/climatic-patterns/characteristics-change) – rel: The characteristics of a component or business unit can shift, making it toxic to the parent company.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Holding onto a liability due to past success can be detrimental; disposal is necessary.
+- [Creative Destruction](/climatic-patterns/creative-destruction) – rel: Disposing of a liability can be a form of creative destruction, allowing resources to be reallocated to more promising areas.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Freeing up capital by disposing of liabilities allows investment in new value-creating opportunities.

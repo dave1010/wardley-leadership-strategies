@@ -149,3 +149,11 @@ At its best, harvesting is a symbiotic relationship. The ecosystem provides inno
 
 *   **[Platform Revolution](https://www.goodreads.com/book/show/26899832-platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.
 *   **[The Business of Platforms](https://www.goodreads.com/book/show/43688225-the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie. Explores the strategies of platform companies.
+
+⛅ **Relevant Climatic Patterns**
+
+- [Everything evolves](/climatic-patterns/everything-evolves) – rel: The ecosystem around a platform evolves, creating new opportunities for harvesting.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Third-party innovations on a platform often seek to improve efficiency or offer new capabilities, which can then be harvested.
+- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Successful harvested features often become part of a higher-order system (the platform), increasing its overall value.
+- [No choice on evolution](/climatic-patterns/no-choice-on-evolution) – rel: Platforms must evolve by incorporating successful ecosystem innovations (harvesting) to stay relevant.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Harvesting directs the platform owner's capital (build or buy) towards validated areas of value.
