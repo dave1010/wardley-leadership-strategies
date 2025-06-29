@@ -148,3 +148,11 @@ While operational burdens and capex are offloaded, significant reputational risk
 ## 📚 **Further Reading & References**
 
 - Case Study: [Nortel](https://en.wikipedia.org/wiki/Timeline_of_Nortel) Support Spin-offs – Real-world legacy IT sweat & dump scenario.
+
+⛅ **Relevant Climatic Patterns**
+
+- [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems become candidates for Sweat & Dump as they reach the end of their lifecycle.
+- [Characteristics change](/climatic-patterns/characteristics-change) – rel: Declining characteristics of an asset make it suitable for outsourcing to a specialist.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Inertia can prevent organizations from divesting toxic assets, making Sweat & Dump a necessary strategy.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Offloading a legacy system allows the organization to focus resources on innovation.
+- [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Sweat & Dump frees up capital from legacy systems to be invested in new, higher-value areas.

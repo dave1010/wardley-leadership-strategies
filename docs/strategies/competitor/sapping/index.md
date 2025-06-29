@@ -140,3 +140,11 @@ Sapping should lead to the competitor's collapse in one area or their retreat fr
 ## 📚 **Further Reading & References**
 
 -   Clayton Christensen - "The Innovator's Dilemma" (for examples of multi-front competition and disruption).
+
+⛅ **Relevant Climatic Patterns**
+
+- [Everything evolves](/climatic-patterns/everything-evolves) – rel: The competitor's strengths and weaknesses will change over time, creating new sapping opportunities.
+- [Characteristics change](/climatic-patterns/characteristics-change) – rel: As components of a competitor's offering evolve, their dependencies might become vulnerabilities.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A competitor's past success can make them slow to react to sapping efforts.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Identifying and exploiting a competitor's inefficiencies is a key aspect of sapping.
+- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Sapping is a direct action to change the game by weakening a competitor.

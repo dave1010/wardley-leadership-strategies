@@ -135,3 +135,11 @@ Executing a "Pig in a Poke" directly can inflict significant, long-lasting reput
 
 - [Pump and Dump](https://en.wikipedia.org/wiki/Pump_and_dump) – Overview of the practice in financial markets.
 - Case Study: Cuban’s [Broadcast.com Sale](https://en.wikipedia.org/wiki/Broadcast.com) – Timing an exit at peak hype for maximum gain.
+
+⛅ **Relevant Climatic Patterns**
+
+- [Everything evolves](/climatic-patterns/everything-evolves) – rel: A component that was once valuable can become less so, tempting a seller to offload it deceptively.
+- [Characteristics change](/climatic-patterns/characteristics-change) – rel: The declining characteristics of an asset might motivate its misrepresentation.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Buyers might be blinded by the past reputation of an asset, failing to see its current toxicity.
+- [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: The seller exploits the buyer's lack of awareness or due diligence.
+- [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – rel: The seller creates a false sense of certainty about future value.

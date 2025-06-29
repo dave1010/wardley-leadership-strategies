@@ -137,3 +137,11 @@ The primary leadership challenge is **managing the transition sensitively and de
 
 - Agile/DevOps analogies - Many tech companies apply refactoring to processes: e.g., breaking a legacy business process into agile teams. Business literature on **business process re-engineering** touches similar ideas (though BPR often aimed at improvement, here aim is also removal).
 - *"Dual Transformation" (Anthony, Johnson)* - a strategy book that talks about running a legacy business (Transformation B) while building new (Transformation A), and how to transfer capabilities from B to A. It's essentially how to refactor an organization during disruption, moving old capabilities to new growth, similar to refactoring concept described here.
+
+⛅ **Relevant Climatic Patterns**
+
+- [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems inevitably reach a point where they need refactoring or disposal due to evolution.
+- [Characteristics change](/climatic-patterns/characteristics-change) – rel: Components of a system change, making some parts obsolete (toxic) while others remain valuable and can be refactored.
+- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Inertia towards successful legacy systems can delay necessary refactoring.
+- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Refactoring can improve efficiency by removing outdated components, freeing resources for innovation.
+- [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Refactoring can involve integrating salvaged components into new, higher-order systems.
