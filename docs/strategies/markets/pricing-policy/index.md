@@ -139,7 +139,7 @@ Pricing is the primary mechanism for capturing value. However, a pricing policy 
 
 ## 🔀 **Related Strategies**
 
-*   **[Fragmentation Play](/strategies/competitor/fragmentation-play)**: Pricing can be used to deliberately break a market into smaller, more manageable segments.
+*   **[Fragmentation](/strategies/competitor/fragmentation)**: Pricing can be used to deliberately break a market into smaller, more manageable segments.
 *   **[Jevons Paradox](/terms/jevons-paradox)**: Understanding that lowering the price of a resource can sometimes lead to a massive increase in its consumption.
 *   **[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)**: Pricing is a key lever in the power dynamics between buyers and suppliers.
 *   **[Last Man Standing](/strategies/markets/last-man-standing)**: A strategy that often involves aggressive pricing to outlast competitors in a declining market.
