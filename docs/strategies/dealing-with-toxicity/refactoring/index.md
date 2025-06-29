@@ -127,7 +127,7 @@ The primary leadership challenge is **managing the transition sensitively and de
 - What are the technical and operational risks during the transition?
 - How long will the refactoring process take, and what are the key milestones?
 
-## 🔀 **Related Strategies:**
+## 🔀 **Related Strategies**
 
 
 - [**Disposal of Liability**](/strategies/dealing-with-toxicity/disposal-of-liability) refactoring is an approach to disposal by reuse

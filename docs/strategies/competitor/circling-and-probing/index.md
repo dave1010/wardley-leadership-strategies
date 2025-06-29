@@ -164,7 +164,7 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 - **Risk Assessment:** What are the potential downsides of this probe, including reputational risk or unwanted competitive attention, and how can we mitigate them?
 - **Strategic Alignment:** How will the insights from this probe inform our broader strategic decisions, regardless of the outcome?
 
-## 🔀 **Related Strategies:**
+## 🔀 **Related Strategies**
 
 * [**Misdirection**](/strategies/competitor/misdirection) - Using tactics to mislead a competitor about your intentions.
 * [**Tech Drops**](/strategies/competitor/tech-drops) - Launching a sudden, unexpected attack on a competitor.
