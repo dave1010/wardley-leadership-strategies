@@ -146,6 +146,8 @@ While threat acquisitions can be expensive, the cost of inaction can be even hig
 *   **[Restriction of Movement](/strategies/competitor/restriction-of-movement)**: Hindering a competitor's ability to operate without acquiring them.
 *   **[Talent Raid](/strategies/competitor/talent-raid)**: Acquiring key talent from a competitor to weaken their capabilities.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 *   [Wardley Maps](https://medium.com/wardleymaps) by Simon Wardley.

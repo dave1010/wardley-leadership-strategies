@@ -152,7 +152,7 @@ For example, if your competitor is slower-moving or dependent on licensing, open
 - **Community:** How will we attract and sustain contributors?
 - **Risk:** Are we prepared for competitors to benefit from our openness?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 
 - [Co-creation](/strategies/ecosystem/co-creation) – Inviting others to build on your open platform and drive innovation.
 - [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry) – Making a technology free removes a barrier and enables new entrants.

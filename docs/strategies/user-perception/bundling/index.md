@@ -131,6 +131,8 @@ From a value chain perspective, bundling can represent a form of vertical integr
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Bundling many features raises customer expectations and can deter new entrants.
 - [Land Grab](/strategies/positional/land-grab) – Bundling can quickly expand user base for a new service by piggybacking on an existing one.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 - [U.S. v. Microsoft (1998) – DOJ Antitrust Case Documents](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact) – Describes how bundling Internet Explorer with Windows gave Microsoft a strategic edge and the legal ramifications.

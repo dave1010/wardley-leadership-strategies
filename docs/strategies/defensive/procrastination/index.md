@@ -139,6 +139,8 @@ In a world obsessed with speed and being first, deliberate patience can be a pow
 *   **[Fast Follower](/strategies/positional/fast-follower)**: Strategic procrastination is the prerequisite for being a successful fast follower.
 *   **[Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon)**: While procrastinating, you must be actively scanning for weak signals that indicate the market is ready for your entry.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 *   **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides a deep understanding of why incumbent companies often procrastinate on disruptive innovations.

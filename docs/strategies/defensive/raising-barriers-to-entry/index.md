@@ -132,6 +132,8 @@ Raising the barriers to entry shifts the basis of competition. It's no longer ab
 *   **[Limitation of Competition](/strategies/defensive/limitation-of-competition)**: This is the ultimate goal of raising the barriers to entry.
 *   **[Standards Game](/strategies/markets/standards-game)**: By creating a tightly integrated suite, you can attempt to make your proprietary integration points the de facto standard for the market.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 *   **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Discusses how incumbents can be disrupted by new entrants with simpler, more focused products, which is the threat that this strategy is designed to counter.

@@ -152,11 +152,13 @@ Intellectual Property Rights are increasingly becoming a significant element in 
 - **Reputation:** Could aggressive IP strategies harm brand or partnerships?
 - **Alternatives:** Are there open or collaborative approaches that align better with our goals?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 
 - [Licensing](/strategies/poison/licensing) - Offensive use of IP through strategic licensing.
 - [Defensive Regulation](/strategies/defensive/defensive-regulation) - Using regulation to create legal constraints.
 - [Open Approaches](/strategies/accelerators/open-approaches) - Alternative strategy leveraging open standards and collaboration.
+
+## ⛅ **Relevant Climatic Patterns**
 
 ## 📚 **Further Reading & References**
 

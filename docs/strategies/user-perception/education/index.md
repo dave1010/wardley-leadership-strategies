@@ -139,5 +139,7 @@ The effectiveness of education strategies often varies with market and product e
 - [Fear, Uncertainty & Doubt (FUD)](/strategies/user-perception/fear-uncertainty-and-doubt) - The "dark side" alternative of influencing perception with fear.
 - [Open Approaches](/strategies/accelerators/open-approaches) - Sometimes educating about an open standard to drive its adoption.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 

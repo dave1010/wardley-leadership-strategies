@@ -150,6 +150,8 @@ Anticipate potential defenses and have responses ready to uphold your newly crea
 - [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - Leverage legal rights to block competitors from evolving key technologies.
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) - Broader tactics to limit competitor market entry.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 - [Exclusive Dealing](https://en.wikipedia.org/wiki/Exclusive_dealing) - Overview of how exclusive contracts can shape market access.

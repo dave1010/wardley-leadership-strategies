@@ -147,6 +147,8 @@ Ethically, Confusion of Choice is a gray area. While businesses are not obligate
 - [FUD](/strategies/user-perception/fear-uncertainty-and-doubt) – Also prevents rational decision-making but via fear instead of complexity.
 - [Last Man Standing](/strategies/markets/last-man-standing) – Another strategy that exploits competitors' complacency; confusion exploits customers' cognitive limits.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 - [The Paradox of Choice by Barry Schwartz](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) – Explains the psychology behind why too much choice can hinder decision-making.

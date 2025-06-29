@@ -164,6 +164,8 @@ Limiting competition can slow evolution, but may also reduce overall market dyna
 - [Standards Game](/strategies/markets/standards-game) – Making your approach the market norm, locking out alternatives.
 - [Lobbying](/strategies/user-perception/lobbying) – Influencing policy or standards as a precursor to limitation of competition.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 - Case: **Taxi Medallion System vs Uber** – How city-enforced medallion limits kept competition out for decades, and how Uber circumvented it, leading to medallion value collapse.
 - Business History: *Airline Regulation (1930s–70s)* – U.S. Civil Aeronautics Board tightly controlled routes and fares (incumbents secure, no new airlines). Post-deregulation, competition soared (some incumbents struggled). Illustrates the long-term effects and eventual breakdown of limitation of competition.

@@ -162,6 +162,8 @@ The ethical spectrum of FUD is broad, from aggressive but legitimate competition
 - [Misdirection](/strategies/competitor/misdirection) – Another deceptive tactic.
 - [Lobbying](/strategies/user-perception/lobbying) – Using fear-based arguments in regulatory affairs is essentially FUD toward policymakers.
 
+## ⛅ **Relevant Climatic Patterns**
+
 ## 📚 **Further Reading & References**
 
 - [Wired (1999) – "FUD, Counter-FUD"](https://www.wired.com/1999/04/fud-counter-fud/) – Explains FUD's origins with IBM/Microsoft and how insinuating rival tech is "untrustworthy" became a go-to strategy.
