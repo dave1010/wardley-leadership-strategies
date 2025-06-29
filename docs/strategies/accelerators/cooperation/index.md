@@ -23,7 +23,7 @@ It sounds straightforward, but as Wardley wryly notes, "sounds easy, actually it
 
 ## 🤔 **Explanation**
 
-### What is Cooperation (or Cooperation)
+### What is Cooperation
 
 **Cooperation** in this context is a broad strategy involving collaboration between entities to achieve mutual goals. It encompasses a range of practices, from informal knowledge sharing to formal alliances and joint ventures. See [Alliances](/strategies/ecosystem/alliances) for a more structured, formal subset of cooperation.
 
