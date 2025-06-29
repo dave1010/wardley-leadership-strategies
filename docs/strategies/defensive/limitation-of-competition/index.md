@@ -156,7 +156,7 @@ Limiting competition can slow evolution, but may also reduce overall market dyna
 - **Balance:** Are we investing enough in innovation, or relying too much on defensive plays?
 - **Signals:** What early warning signs suggest our barriers are eroding?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 - [Defensive Regulation](/strategies/defensive/defensive-regulation) – Using government or policy to create legal barriers.
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Shaping market/customer expectations to make entry costly.
 - [IPR](/strategies/decelerators/ipr) – Using patents and legal rights to block or slow rivals.

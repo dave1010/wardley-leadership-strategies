@@ -142,7 +142,7 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - **Long-term commitment:** Are we ready to maintain governance and backward compatibility for years?
 - **Counterplay:** How might competitors respond, and do we have a plan for their alternative standards?
 
-🔀 **Related Strategies**
+## 🔀 **Related Strategies**
 
 - [Open Approaches](/strategies/accelerators/open-approaches) – Opening code or processes can accelerate adoption and make your approach the default.
 - [Defensive Regulation](/strategies/defensive/defensive-regulation) – Embedding a standard in law cements your advantage.

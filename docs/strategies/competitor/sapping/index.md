@@ -131,7 +131,7 @@ Sapping should lead to the competitor's collapse in one area or their retreat fr
 -   What is our plan for exploiting any wins?
 -   How will we measure the success of our sapping strategy?
 
-## 🔀 Related Strategies
+## 🔀 **Related Strategies**
 
 -   [**Tech Drops**](/strategies/competitor/tech-drops): Sapping can involve elements of Tech Drops by launching surprise attacks on multiple fronts.
 -   [**Restriction of Movement**](/strategies/competitor/restriction-of-movement): Sapping can be used to restrict a competitor's movement and limit their ability to respond to attacks.
