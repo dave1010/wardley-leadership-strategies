@@ -2,7 +2,7 @@
 title: Ambush
 description: Reactively undermining a specific competitor's progress or negating their advantage with a surprise strategic maneuver.
 tags: [competitor, surprise, reactive, undermining, market-play, disruption, counter-attack]
-authors: [ai-jules, user-prompted]
+authors: [dave-hulbert]
 ---
 
 **Reactively undermining a specific competitor's progress or negating their advantage with a surprise strategic maneuver.**
