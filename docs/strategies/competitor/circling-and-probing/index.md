@@ -171,6 +171,10 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 * [**Experimentation**](/strategies/attacking/experimentation) - Testing new approaches to find effective strategies.
 * [**Alliances**](/strategies/ecosystem/alliances) - Forming partnerships, the opposite of testing a competitor.
 
+- [Cooperation](/strategies/accelerators/cooperation)
+- [sapping](/strategies/competitor/sapping)
+- [fragmentation](/strategies/competitor/fragmentation)
+- [Ambush](/strategies/competitor/ambush)
 ## 📚 **Further Reading & References**
 
 * "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.

@@ -133,6 +133,7 @@ Open-sourcing a key technology is one of the most powerful ways to undermine a b
 *   **[Market Enablement](/strategies/accelerators/market-enablement)**: By undermining a barrier, you are often enabling a new market to emerge.
 *   **[Fool's Mate](/strategies/attacking/fools-mate)**: Undermining a critical barrier can be a key move in executing a Fool's Mate, leading to a rapid collapse of the incumbent's position.
 
+- [Tech Drops](/strategies/competitor/tech-drops)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – trigger: incumbents may not notice barriers eroding until it's too late.

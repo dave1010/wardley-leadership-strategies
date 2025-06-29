@@ -133,6 +133,7 @@ The primary leadership challenge is **managing the transition sensitively and de
 - [**Disposal of Liability**](/strategies/dealing-with-toxicity/disposal-of-liability) refactoring is an approach to disposal by reuse
 - [**Sweat & Dump**](/strategies/dealing-with-toxicity/sweat-and-dump) as an alternative - instead of third-party, you internally transform
 
+- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke)
 ## 📚 **Further Reading & References**
 
 - Agile/DevOps analogies - Many tech companies apply refactoring to processes: e.g., breaking a legacy business process into agile teams. Business literature on **business process re-engineering** touches similar ideas (though BPR often aimed at improvement, here aim is also removal).

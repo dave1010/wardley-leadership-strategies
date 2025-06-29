@@ -137,6 +137,7 @@ Sapping should lead to the competitor's collapse in one area or their retreat fr
 -   [**Restriction of Movement**](/strategies/competitor/restriction-of-movement): Sapping can be used to restrict a competitor's movement and limit their ability to respond to attacks.
 -   [**Circling and Probing**](/strategies/competitor/circling-and-probing): Circling and probing can be used to identify weaknesses in a competitor before launching a sapping attack.
 
+- [Ambush](/strategies/competitor/ambush)
 ## 📚 **Further Reading & References**
 
 -   Clayton Christensen - "The Innovator's Dilemma" (for examples of multi-front competition and disruption).

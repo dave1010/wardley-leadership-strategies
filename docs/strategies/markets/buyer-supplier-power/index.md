@@ -144,6 +144,8 @@ Every value chain is also a power chain. Understanding this allows you to see th
 *   **[Standards Game](/strategies/markets/standards-game)**: A way to shift power dynamics by making your technology the industry standard.
 *   **[Vertical Integration](/terms/value-chain)**: A common tactic for directly controlling more of the value chain and altering power dynamics.
 
+- [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)
+- [Pricing Policy](/strategies/markets/pricing-policy)
 ## 📚 **Further Reading & References**
 
 *   **[Competitive Strategy](https://www.goodreads.com/book/show/236901.Competitive_Strategy)** by Michael E. Porter. The classic text that introduced the "Five Forces" framework, which is central to understanding buyer-supplier power.

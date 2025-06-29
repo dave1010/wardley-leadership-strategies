@@ -164,6 +164,9 @@ This kind of cultural or visionary gravity is harder to replicate or fight. It�
 - [Co-opting](/strategies/ecosystem/co-opting) – Absorbing or neutralising ecosystem participants can reinforce or undermine a center of gravity.
 - [Open Approaches](/strategies/accelerators/open-approaches) – Open platforms and standards can help build gravitational pull.
 
+- [Experimentation](/strategies/attacking/experimentation)
+- [Fool's Mate](/strategies/attacking/fools-mate)
+- [Directed Investment](/strategies/attacking/directed-investment)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: investment tends to cluster around emerging hubs.

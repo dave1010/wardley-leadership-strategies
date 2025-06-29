@@ -156,6 +156,10 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 - [Standards Game](/strategies/markets/standards-game) - alliances often form to promote or defend a shared standard.
 - [Center of Gravity](/strategies/attacking/centre-of-gravity) - alliances can shift the industry's center of gravity against a rival.
 
+- [Market Enablement](/strategies/accelerators/market-enablement)
+- [restriction-of-movement](/strategies/competitor/restriction-of-movement)
+- [circling-and-probing](/strategies/competitor/circling-and-probing)
+- [fragmentation](/strategies/competitor/fragmentation)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – trigger: intense competition often pushes companies to form alliances.

@@ -140,6 +140,8 @@ This strategy is a powerful example of Joseph Schumpeter's concept of "creative 
 *   **[Sweat and Dump](/strategies/dealing-with-toxicity/sweat-and-dump)**: You might use this to offload non-essential assets before embarking on a war of attrition.
 *   **[Exploiting Constraint](/strategies/decelerators/exploiting-constraint)**: If competitors are constrained (e.g., by supply chain issues), you can accelerate their demise.
 
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)
+- [Confusion of Choice](/strategies/user-perception/confusion-of-choice)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: attrition strategies often surface during war phases when the market contracts.

@@ -130,6 +130,7 @@ Reinforcing someone else's inertia often requires that the new paradigm you push
 -   [**Exploiting Constraint**](/strategies/decelerators/exploiting-constraint): Similar to reinforcing inertia, this strategy exploits limitations, but it focuses on external constraints rather than a competitor's internal resistance.
 -   [**Tech Drops**](/strategies/competitor/tech-drops): Can be used to capitalize on a competitor's inertia by launching a sudden, unexpected attack when they are least prepared.
 
+- [misdirection](/strategies/competitor/misdirection)
 ## 📚 **Further Reading & References**
 
 -   Clayton Christensen, *The Innovator's Dilemma*
