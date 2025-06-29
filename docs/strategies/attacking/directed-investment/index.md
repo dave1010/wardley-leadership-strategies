@@ -33,6 +33,16 @@ Directed Investment is the deliberate allocation of significant resources—capi
 - Structure investments to allow for autonomy, learning, and rapid iteration.
 - Balance integration: too much separation risks isolation, too little risks stifling innovation.
 
+```mermaid
+flowchart TD
+    A[Identify Opportunity] --> B{High-Stakes Bet};
+    B --> C[Allocate Resources];
+    C --> D[Execute & Iterate];
+    D --> E{Market Leader?};
+    E -- Yes --> F[Shape Market];
+    E -- No --> G[Pivot or Exit];
+```
+
 ## 🗺️ **Real-World Examples**
 
 ### Google's Acquisition of DeepMind (2014)

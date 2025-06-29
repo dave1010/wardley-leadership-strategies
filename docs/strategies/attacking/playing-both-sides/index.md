@@ -24,6 +24,19 @@ The primary motivation for this strategy is risk mitigation. When the future of 
 
 Furthermore, this strategy can be used to prolong a profitable conflict. As long as the "war" between standards continues, the organisation can continue to profit from supplying all sides. This turns market uncertainty from a threat into an opportunity.
 
+```mermaid
+graph TD
+    subgraph Your Company
+        A(Your Product)
+    end
+    subgraph Competing Standards
+        B(Standard A)
+        C(Standard B)
+    end
+    A --> B
+    A --> C
+```
+
 ## 🗺️ **Real-World Examples**
 
 ### DVD vs. HD-DVD vs. Blu-ray
