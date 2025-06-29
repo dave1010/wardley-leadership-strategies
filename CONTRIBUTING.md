@@ -20,13 +20,16 @@ Strategies should aim to follow this format as closely as possible.
 
 1. Front matter YAML
 2. 1 single senence accessible description in bold (`**`)
-3. Quote from Simon Wardley. Eg
+3. Quote from Simon Wardley if he directly references the strategy. Eg
 
    ```md
    > *"Driving a market to a standard to create a cost of transition for others or remove the ability of others to differentiate."*
    >
    > - Simon Wardley
    ```
+
+   If Wardley hasn't mentioned the strategy, add a note after the description saying it
+   "isn't explicitly mentioned" in his [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html). Refactoring is an example of this approach.
 
 4. `## 🤔 **Explanation**`
    - Start with a subsection `## What is <strategy name>?`, which should be a paragraph or 2 and could include a few bullet points if a list is helpful. Only link to other strategies here if it is helpful to understand where it sits, eg if it is a sub-strategy or very closely related.
