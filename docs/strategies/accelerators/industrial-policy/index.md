@@ -180,7 +180,7 @@ Industrial policies are subject to political winds and can change with new admin
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: government investment channels funds toward targeted sectors.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: policy support often intensifies during war or wonder phases.
 
-## 📚 **Further Reading**
+## 📚 **Further Reading & References**
 
 - Wardley, S. – *On Industrial Policy and Strategic Climatic Patterns*.  
 - Case Study: *The Rise of Airbus* – European government consortiums and subsidies.  
