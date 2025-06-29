@@ -45,17 +45,25 @@ The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minu
 
 ## Running Tests
 
-This project uses [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for unit and component testing.
+### Python
 
-Test files are located alongside the components they test (e.g., `src/components/MyComponent/MyComponent.test.tsx`).
+These tests check the content of the site rather than the code. They verify things like reciprocal strategy links and required headings in markdown files.
 
-To run the tests:
+```bash
+pytest
+```
+
+### Node
+
+We use [Jest](https://jestjs.io/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) for unit and component testing. Test files are located alongside the components they cover (e.g., `src/components/MyComponent/MyComponent.test.tsx`).
+
+Run the Node tests with:
 
 ```bash
 npm test
 ```
 
-Or, to run tests in watch mode:
+Or run them in watch mode:
 
 ```bash
 npm run test:watch
