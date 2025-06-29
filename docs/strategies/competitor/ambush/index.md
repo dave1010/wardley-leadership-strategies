@@ -7,10 +7,6 @@ authors: [ai-jules, user-prompted]
 
 **Reactively undermining a specific competitor's progress or negating their advantage with a surprise strategic maneuver.**
 
-> *"Waiting for the opportune moment to spring a trap that negates a competitor's specific advantage."*
->
-> - Adapted from user prompt
-
 ## 🤔 **Explanation**
 
 ### What is Ambush?
