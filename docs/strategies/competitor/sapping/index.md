@@ -141,7 +141,7 @@ Sapping should lead to the competitor's collapse in one area or their retreat fr
 
 -   Clayton Christensen - "The Innovator's Dilemma" (for examples of multi-front competition and disruption).
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The competitor's strengths and weaknesses will change over time, creating new sapping opportunities.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: As components of a competitor's offering evolve, their dependencies might become vulnerabilities.

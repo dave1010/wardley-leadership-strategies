@@ -151,7 +151,7 @@ Effective sensing requires an organisational culture that values and acts on ear
 - Kahneman, D. – [*Thinking, Fast and Slow*](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576#:~:text=Book%20details&text=Nobel%20Prize%20winner%20Daniel%20Kahneman,%2C%20and%20slow%2C%20rational%20thinking.) – for insights on bias and signal interpretation.
 - [*Horizon Scanning*](https://en.wikipedia.org/wiki/Horizon_scanning), Wikipedia - methodologies in foresight practice.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Weak signals often indicate the early stages of a component's evolution or a shift in its trajectory.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: Subtle changes in component characteristics can be weak signals of broader market shifts.

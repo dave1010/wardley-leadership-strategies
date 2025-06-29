@@ -167,7 +167,7 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 - [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — example of proprietary format wars.
 - *Blue Ocean Strategy* (W. Chan Kim & Renée Mauborgne) — insights into creating and defending market spaces.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: This strategy aims to disrupt the natural evolution of a nascent market.
 - [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: The uncertainty of early markets makes them vulnerable to "designed to fail" initiatives.

@@ -176,7 +176,7 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 * "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.
 * "The Art of War" by Sun Tzu - For insights into strategic thinking and maneuvering in competitive situations.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The landscape is constantly changing, requiring ongoing circling and probing.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: Competitor capabilities and market dynamics shift, necessitating adaptation.

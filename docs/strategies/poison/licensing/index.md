@@ -174,7 +174,7 @@ In complex ecosystems where multiple patented technologies are required to creat
 - [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html) — example of strong copyleft.
 - [Multi-licensing](https://en.wikipedia.org/wiki/Multi-licensing) — overview of dual and multi-licensing strategies.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Licensing terms must adapt as technologies evolve and commoditize.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Restrictive licensing can stifle innovation by preventing efficient use or combination of technologies.

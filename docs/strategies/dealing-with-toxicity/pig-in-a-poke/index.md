@@ -136,7 +136,7 @@ Executing a "Pig in a Poke" directly can inflict significant, long-lasting reput
 - [Pump and Dump](https://en.wikipedia.org/wiki/Pump_and_dump) – Overview of the practice in financial markets.
 - Case Study: Cuban’s [Broadcast.com Sale](https://en.wikipedia.org/wiki/Broadcast.com) – Timing an exit at peak hype for maximum gain.
 
-⛅ **Relevant Climatic Patterns**
+## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: A component that was once valuable can become less so, tempting a seller to offload it deceptively.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: The declining characteristics of an asset might motivate its misrepresentation.
