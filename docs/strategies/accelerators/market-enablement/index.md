@@ -215,6 +215,11 @@ The degree of "openness" (e.g., open standards, open source, open data) is a cri
 - [Cooperation](/strategies/accelerators/cooperation) - Working with other players, even competitors, is fundamental to many market enablement initiatives.
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - An enabled market can lead to network effects that further accelerate adoption and growth.
 
+- [Industrial Policy](/strategies/accelerators/industrial-policy)
+- [Press Release Process](/strategies/attacking/press-release-process)
+- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry)
+- [Talent Raid](/strategies/competitor/talent-raid)
+- [Artificial Competition](/strategies/user-perception/artificial-competition)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – trigger: enabling a market lets new value chains emerge.

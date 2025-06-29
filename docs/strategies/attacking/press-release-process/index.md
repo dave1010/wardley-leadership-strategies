@@ -199,6 +199,7 @@ A press release that reads as weak or incoherent is a fast signal of strategic u
 - [Fast Follower](/strategies/positional/fast-follower) – The press release process can be used to quickly respond to emerging user needs with evolved capabilities.
 - [Experimentation](/strategies/attacking/experimentation) – Use press releases to simulate outcomes and test resonance before committing resources.
 
+- [insertion](/strategies/poison/insertion)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: describing the end state clarifies uncertain outcomes.

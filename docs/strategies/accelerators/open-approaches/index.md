@@ -159,6 +159,15 @@ For example, if your competitor is slower-moving or dependent on licensing, open
 - [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) – The inverse: a competitor may embrace your open tech, then extend it with proprietary features.
 - [Market Enablement](/strategies/accelerators/market-enablement) – Creating conditions for a market to grow, often by reducing friction.
 
+- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr)
+- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)
+- [Press Release Process](/strategies/attacking/press-release-process)
+- [Fool's Mate](/strategies/attacking/fools-mate)
+- [Center of Gravity](/strategies/attacking/centre-of-gravity)
+- [Education](/strategies/user-perception/education)
+- [Licensing](/strategies/poison/licensing)
+- [Harvesting](/strategies/markets/harvesting)
+- [Standards Game](/strategies/markets/standards-game)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: industrialisation of a component often leads to opening it up.

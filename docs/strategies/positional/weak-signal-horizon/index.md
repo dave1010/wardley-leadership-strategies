@@ -145,6 +145,9 @@ Effective sensing requires an organisational culture that values and acts on ear
 - [Fast Follower](/strategies/positional/fast-follower) – to time entry based on pioneer signals.
 - [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) – building infrastructure for systematic data collection.
 
+- [Procrastination](/strategies/defensive/procrastination)
+- [Experimentation](/strategies/attacking/experimentation)
+- [Directed Investment](/strategies/attacking/directed-investment)
 ## 📚 **Further Reading & References**
 
 - Wardley, S. – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) – foundational concepts on sensing and foresight.

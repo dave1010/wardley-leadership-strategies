@@ -158,6 +158,9 @@ It's important to distinguish Tech Drops from [Ambush](/strategies/competitor/am
 - [**Undermining Barriers to Entry**](/strategies/attacking/undermining-barriers-to-entry): A successful Tech Drop often inherently undermines existing barriers by creating a new playing field or rendering old advantages irrelevant.
 - [**Ambush**](/strategies/competitor/ambush): Contrasts with Tech Drops in its reactive nature. Understanding Ambush helps clarify the proactive, market-creating intent of Tech Drops.
 
+- [sapping](/strategies/competitor/sapping)
+- [reinforcing-competitor-inertia](/strategies/competitor/reinforcing-competitor-inertia)
+- [Talent Raid](/strategies/competitor/talent-raid)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – influence: a Tech Drop creates a punctuated equilibrium, a sudden leap in evolution.

@@ -143,6 +143,7 @@ Signal Distortion is a powerful reminder that in many markets, the perception of
 *   **[First Mover](/strategies/positional/first-mover)**: The *perception* of being a first mover can be a powerful signal, even if it's not entirely true.
 *   **[Fear, Uncertainty, and Doubt (FUD)](/terms/fear-uncertainty-and-doubt)**: A specific tactic of signal distortion focused on creating negative perceptions about a competitor.
 
+- [Fool's Mate](/strategies/attacking/fools-mate)
 ## 📚 **Further Reading & References**
 
 *   **[Trust Me, I'm Lying: Confessions of a Media Manipulator](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)** by Ryan Holiday. A stark look at how media can be manipulated.

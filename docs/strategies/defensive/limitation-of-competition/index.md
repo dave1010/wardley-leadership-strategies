@@ -164,6 +164,8 @@ Limiting competition can slow evolution, but may also reduce overall market dyna
 - [Standards Game](/strategies/markets/standards-game) – Making your approach the market norm, locking out alternatives.
 - [Lobbying](/strategies/user-perception/lobbying) – Influencing policy or standards as a precursor to limitation of competition.
 
+- [restriction-of-movement](/strategies/competitor/restriction-of-movement)
+- [Licensing](/strategies/poison/licensing)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: shifts in market conditions can erode imposed limits.

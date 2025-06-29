@@ -153,6 +153,8 @@ A fragmentation play is about playing divide and conquer in a market. It is most
 -   [**Circling and Probing**](/strategies/competitor/circling-and-probing) - Testing a competitor's defenses, the opposite of working with them
 -   [**Restriction of Movement**](/strategies/competitor/restriction-of-movement) - A strategy focused on limiting a competitor's options and flexibility
 
+- [insertion](/strategies/poison/insertion)
+- [Pricing Policy](/strategies/markets/pricing-policy)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: breaking a monolith clears the way for new entrants.

@@ -151,6 +151,10 @@ Superior processes, cost structures, and delivery models can overcome first-move
 - [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) – to detect and act on market shifts.
 - [Experimentation](/strategies/attacking/experimentation) – to test new ideas on a small scale before wider deployment.
 
+- [Procrastination](/strategies/defensive/procrastination)
+- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)
+- [Co-opting](/strategies/ecosystem/co-opting)
+- [Press Release Process](/strategies/attacking/press-release-process)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: wait until the market shows a clear acceleration before following.

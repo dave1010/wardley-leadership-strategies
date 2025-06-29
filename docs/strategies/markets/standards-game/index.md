@@ -150,6 +150,15 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Standards can raise compliance costs for newcomers.
 - [Designed to Fail](/strategies/poison/designed-to-fail) – Poisoning rival standards can clear the field for your own.
 
+- [Cooperation](/strategies/accelerators/cooperation)
+- [Industrial Policy](/strategies/accelerators/industrial-policy)
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)
+- [Market Enablement](/strategies/accelerators/market-enablement)
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
+- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend)
+- [Alliances](/strategies/ecosystem/alliances)
+- [Playing Both Sides](/strategies/attacking/playing-both-sides)
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
 ## 📚 **Further Reading & References**
 
 - [USB Implementers Forum](https://www.usb.org/) – Example of industry coordination driving a ubiquitous standard.

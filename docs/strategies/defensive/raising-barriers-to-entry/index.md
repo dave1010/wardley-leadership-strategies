@@ -132,6 +132,15 @@ Raising the barriers to entry shifts the basis of competition. It's no longer ab
 *   **[Limitation of Competition](/strategies/defensive/limitation-of-competition)**: This is the ultimate goal of raising the barriers to entry.
 *   **[Standards Game](/strategies/markets/standards-game)**: By creating a tightly integrated suite, you can attempt to make your proprietary integration points the de facto standard for the market.
 
+- [Creating Constraints](/strategies/decelerators/creating-constraints)
+- [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint)
+- [Defensive Regulation](/strategies/defensive/defensive-regulation)
+- [reinforcing-competitor-inertia](/strategies/competitor/reinforcing-competitor-inertia)
+- [Talent Raid](/strategies/competitor/talent-raid)
+- [restriction-of-movement](/strategies/competitor/restriction-of-movement)
+- [Lobbying](/strategies/user-perception/lobbying)
+- [Bundling](/strategies/user-perception/bundling)
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: barriers entrench incumbents and slow adaptation.
