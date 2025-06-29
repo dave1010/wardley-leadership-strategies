@@ -11,7 +11,6 @@ tags: [artificial-competition, user-perception, illusion of choice, market contr
 > - Simon Wardley
 
 ## 🤔 **Explanation**
-
 ### What is Artificial Competition?
 
 Artificial competition is a strategy where an organisation creates or supports a secondary entity that appears to compete with its own offerings. The two entities—though ultimately controlled or influenced by the same leadership—are positioned as rivals. This illusion reshapes market perception, giving the appearance of healthy competition while maintaining internal control.
@@ -35,8 +34,12 @@ Used effectively, artificial competition offers multiple layers of strategic ben
 
 This is about **shaping the environment in which decisions are made**. Skilled leaders use this strategy to create optionality, reduce volatility, and consolidate advantage
 
-## 🚦 **When to Use / When to Avoid**
+## 🗺️ **Real-World Examples**
+### MediaMarkt and Saturn
 
+The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
+
+## 🚦 **When to Use / When to Avoid**
 <Assessment strategyName="Artifical Competition">
   <MapSignals>
     <li>We dominate a market or segment where regulatory or public scrutiny over monopoly risk is increasing.</li>
@@ -69,15 +72,7 @@ This is about **shaping the environment in which decisions are made**. Skilled l
 - Maintaining two entities is prohibitively costly or complex.
 - Transparency in your industry makes affiliations easy to uncover, risking trust erosion.
 
-
-## 🗺️ **Real-World Examples**
-
-### MediaMarkt and Saturn
-
-The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
-
 ## 🎯 **Leadership**
-
 ### Core challenge
 
 Balancing the illusion of competition while maintaining operational efficiency and avoiding exposure.
@@ -93,7 +88,6 @@ Balancing the illusion of competition while maintaining operational efficiency a
 Leaders must consider the ethical implications of misleading customers and regulators. Transparency and fairness should guide decision-making.
 
 ## 📋 **How to Execute**
-
 1. Identify the market segment where artificial competition would be most effective.
 2. Establish or acquire a secondary entity with plausible independence.
 3. Develop distinct branding and messaging for both entities.
@@ -101,7 +95,6 @@ Leaders must consider the ethical implications of misleading customers and regul
 5. Regularly assess risks of exposure and adjust strategies accordingly.
 
 ## 📈 **Measuring Success**
-
 - Increased market share across both entities.
 - Reduced entry of genuine competitors.
 - Positive customer perception of choice.
@@ -109,7 +102,6 @@ Leaders must consider the ethical implications of misleading customers and regul
 - Operational efficiency in managing both entities.
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
-
 ### Exposure
 
 If affiliations are uncovered, it can lead to accusations of "astroturfing" and loss of trust.
@@ -123,7 +115,6 @@ Running two entities may result in internal cannibalization or duplicated effort
 The secondary entity may underperform, making the strategy unconvincing.
 
 ## 🧠 **Strategic Insights**
-
 ### Shape Perception, Not Just Structure
 
 Success hinges on how others perceive the relationship between your entities. Brand differentiation, messaging, tone, and even company culture must be designed to appear independent. Surface-level separation is not enough—perceived rivalry must feel real.
@@ -153,20 +144,17 @@ Deniability requires preparation. Separate legal entities, distinct leadership t
 There is a line between strategic positioning and market distortion. Regularly test your reasoning with trusted peers. If the strategy erodes trust or harms your ecosystem in the long run, the short-term gain may not be worth it.
 
 ## ❓ **Key Questions to Ask**
-
 - **Independence:** How plausible is the independence of the secondary entity?
 - **Market impact:** Does this strategy effectively block genuine competitors?
 - **Risk management:** What measures are in place to mitigate exposure risks?
 - **Customer perception:** How do customers perceive the competition?
 
 ## 🔀 **Related Strategies**
-
 - [Playing Both Sides](/strategies/attacking/playing-both-sides) - Benefiting from both ends of a competition.
 - [Market Enablement](/strategies/accelerators/market-enablement) - Enabling more competition under your control.
 - [Misdirection](/strategies/competitor/misdirection) - Misleading customers about the true competitive landscape.
 
 ## ⛅ **Relevant Climatic Patterns**
-
 - [Two different forms of disruption](/climatic-patterns/two-different-forms-of-disruption) – trigger: fabricated rivalry can set off unexpected market shifts.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: staged contests steer user expectations and related products.
 

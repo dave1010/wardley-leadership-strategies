@@ -11,7 +11,6 @@ tags: [poison, denial, sabotage, ecosystem-manipulation]
 > - Simon Wardley
 
 ## 🤔 **Explanation**
-
 ### What is Designed to Fail?
 
 This is a strategy of tactical sabotage: deliberately introducing a doomed initiative into an emerging space to distort perception, drain competitor resources, and reduce the likelihood of serious market formation.
@@ -36,7 +35,6 @@ Deploy this strategy when an adjacent or emerging market may threaten your core 
 - Shape market perceptions to your advantage.
 
 ## 🗺️ **Real-World Examples**
-
 ### HD DVD Format
 
 Toshiba's HD DVD was launched alongside Blu-ray, fragmenting the high-definition disc market. Although technically competent, lack of studio support and deliberate confusion led to its swift decline, deterring new entrants.
@@ -46,7 +44,6 @@ Toshiba's HD DVD was launched alongside Blu-ray, fragmenting the high-definition
 A vendor-funded IoT API with inadequate security standards is released. Early adopters face breaches, tarnishing the space and discouraging competitors from similar efforts.
 
 ## 🚦 **When to Use / When to Avoid**
-
 <Assessment strategyName="Designed to Fail">
   <MapSignals>
     <li>An adjacent market is forming, but lacks standards or strong leaders.</li>
@@ -73,7 +70,6 @@ A vendor-funded IoT API with inadequate security standards is released. Early ad
 - Stakeholders demand transparency that undermines the tactic.
 
 ## 🎯 **Leadership**
-
 ### Core challenge
 
 Leadership tension: Playing dirty without eroding trust or morale. This tactic rewards dispassionate analysis and ruthless prioritisation. Leaders who hesitate to pull the trigger, or can’t contain the fallout, should avoid it.
@@ -89,9 +85,7 @@ Leadership tension: Playing dirty without eroding trust or morale. This tactic r
 
 This strategy walks a line between cunning and deception. Overuse breeds cynicism inside and outside your oranisation. If discovered, you risk brand damage and trust collapse.
 
-
 ## 📋 **How to Execute**
-
 1. Identify a vulnerable or emerging market segment.
 2. Design an initiative with surface credibility but hidden flaws.
 3. Launch with marketing or partnerships to appear legitimate.
@@ -100,14 +94,12 @@ This strategy walks a line between cunning and deception. Overuse breeds cynicis
 6. Allow the initiative to collapse once competitors are deterred.
 
 ## 📈 **Measuring Success**
-
 - Competitors refrain from entering the target space.
 - Initiative adoption appears sufficient to signal occupancy.
 - Resource expenditure stays within planned bounds.
 - Competitors divert resources from strategic projects.
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
-
 ### Unintended Adoption
 
 Competitors or communities may fix flaws, turning the initiative into a viable offering.
@@ -125,7 +117,6 @@ Exposure of the tactic can erode trust with customers and partners.
 Maintaining a deceptive initiative may consume more resources than planned.
 
 ## 🧠 **Strategic Insights**
-
 ### Governance Vacuum is Key
 This strategy thrives where no one yet has control. A lack of established standards, dominant players, or clear leadership in an emerging market allows a "Designed to Fail" initiative to more easily shape perceptions and create confusion. The ambiguity of a nascent space is the fertile ground for such a ploy.
 
@@ -148,29 +139,25 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 "Designed to Fail" should generally be a tactical, peripheral move rather than core to a company's primary strategy. Its utility lies in specific, often defensive, contexts. Over-reliance on such "poisoning" tactics can distract from genuine value creation, damage reputation if discovered, and foster a cynical internal culture.
 
 ## ❓ **Key Questions to Ask**
-
 - **Threat Identification:** Which adjacent emerging markets pose strategic risks?
 - **Sustainability:** Can we maintain a credible surface while embedding flaws?
 - **Exit Strategy:** How will we decommission the initiative without collateral damage?
 - **Risk-Reward Balance:** Do potential benefits justify reputational and legal risks?
 
 ## 🔀 **Related Strategies**
-
 - [Misdirection](/strategies/competitor/misdirection) — using narrative to divert attention.
 - [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) — handing off toxic projects.
 - [Insertion](/strategies/poison/insertion) — embedding flawed influence via people.
 - [Licensing](/strategies/poison/licensing) — controlling ecosystems through legal terms.
 
-## 📚 **Further Reading & References**
-
-- [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — a case of market fragmentation leading to failure.
-- [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — example of proprietary format wars.
-- *Blue Ocean Strategy* (W. Chan Kim & Renée Mauborgne) — insights into creating and defending market spaces.
-
 ## ⛅ **Relevant Climatic Patterns**
-
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: This strategy aims to disrupt the natural evolution of a nascent market.
 - [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: The uncertainty of early markets makes them vulnerable to "designed to fail" initiatives.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: This is a direct attempt to influence and derail competitors' actions.
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: Exploits competitors' inability to discern a deliberately flawed initiative from a genuine one.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A company might use this to protect a successful but aging core business from a disruptive new market.
+
+## 📚 **Further Reading & References**
+- [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — a case of market fragmentation leading to failure.
+- [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — example of proprietary format wars.
+- *Blue Ocean Strategy* (W. Chan Kim & Renée Mauborgne) — insights into creating and defending market spaces.

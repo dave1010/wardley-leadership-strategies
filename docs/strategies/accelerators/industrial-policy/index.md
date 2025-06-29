@@ -23,29 +23,28 @@ core_challenge: Balancing public objectives with private strategic goals.
 <AssessmentToolAdvert strategyName="Industrial Policy" />
 
 ## 🤔 **Explanation**
-
 ### What is Industrial Policy?
 
 **Industrial Policy** refers to deliberate actions by governments to support strategic industries through instruments such as subsidies, tax incentives, public procurement, regulation, or infrastructure investment. For organizations, it involves aligning with or influencing these policies to de-risk investments, secure funding, and shape market conditions in their favor.
 
 ### Why use Industrial Policy?
 
-- De-risks high-capital projects with public funding or guarantees  
-- Accelerates R&D and innovation through targeted grants or contracts  
-- Creates market demand via government procurement or mandated standards  
-- Shapes regulatory environments to lower barriers or secure competitive advantages  
+- De-risks high-capital projects with public funding or guarantees
+- Accelerates R&D and innovation through targeted grants or contracts
+- Creates market demand via government procurement or mandated standards
+- Shapes regulatory environments to lower barriers or secure competitive advantages
 - Builds strategic autonomy in critical sectors (e.g., semiconductors, green energy)
 
 ### How it works
 
 Organizations can engage in industrial policy by:
 
-1. Mapping policy priorities and timelines  
-2. Building relationships with policymakers and influencers  
-3. Framing proposals to align corporate goals with public objectives  
+1. Mapping policy priorities and timelines
+2. Building relationships with policymakers and influencers
+3. Framing proposals to align corporate goals with public objectives
 4. Piloting projects or proofs of concept to demonstrate value
-5. Securing grants, subsidies, or favorable contracts  
-6. Ensuring compliance and maintaining stakeholder trust  
+5. Securing grants, subsidies, or favorable contracts
+6. Ensuring compliance and maintaining stakeholder trust
 
 ### Forms of Industrial Policy
 
@@ -75,8 +74,14 @@ Organizations can engage in industrial policy by:
 >       Compliance
 > ```
 
-## 🚦 **When to Use / When to Avoid**
+## 🗺️ **Real-World Examples**
+**Historical:** Aerospace industry funding – Boeing and Airbus grew rapidly on the back of government defense contracts, direct subsidies, and co-ownership arrangements, accelerating innovation and scale beyond pure private investment.
 
+**Contemporary:** China’s EV sector – extensive subsidies, infrastructure development, and manufacturing incentives propelled companies like BYD and NIO to global competitiveness years ahead of market-driven timelines.
+
+**Hypothetical:** A renewable energy startup partners with a national green infrastructure program, securing R&D grants and guaranteed off-take contracts for pilot wave energy projects, dramatically reducing risk and time-to-market.
+
+## 🚦 **When to Use / When to Avoid**
 <Assessment strategyName="Industrial Policy">
   <MapSignals>
     <li>Government announces initiatives or budgets for your sector (e.g., green technology, defense, semiconductors).</li>
@@ -100,57 +105,44 @@ The long-term benefits of public funding, market guarantees, or regulatory suppo
 
 Policy cycles are highly uncertain or slow, funding strings create strategic constraints, or overreliance on state support risks future agility.
 
-## 🗺️ **Real-World Examples**
-
-**Historical:** Aerospace industry funding – Boeing and Airbus grew rapidly on the back of government defense contracts, direct subsidies, and co-ownership arrangements, accelerating innovation and scale beyond pure private investment.
-
-**Contemporary:** China’s EV sector – extensive subsidies, infrastructure development, and manufacturing incentives propelled companies like BYD and NIO to global competitiveness years ahead of market-driven timelines.
-
-**Hypothetical:** A renewable energy startup partners with a national green infrastructure program, securing R&D grants and guaranteed off-take contracts for pilot wave energy projects, dramatically reducing risk and time-to-market.
-
 ## 🎯 **Leadership**
-
 ### Core challenge
 
 Balancing public objectives with private strategic goals, maintaining agility while managing government oversight and stakeholder expectations.
 
 ### Key leadership skills
 
-- Political acumen and stakeholder management  
-- Strategic framing and narrative building  
-- Compliance oversight and governance  
+- Political acumen and stakeholder management
+- Strategic framing and narrative building
+- Compliance oversight and governance
 - Coalition building across public and private sectors
 
 ## 📋 **How to Execute**
-
-1. Scan and map relevant policy landscapes and funding programs.  
-2. Form cross-functional teams (policy, legal, technical, finance) for engagement.  
-3. Develop aligned proposals highlighting mutual benefits.  
-4. Engage in pilot or demonstrator projects with clear success metrics.  
-5. Negotiate terms for subsidies, tax breaks, or public procurement.  
-6. Implement governance structures for compliance and reporting.  
-7. Monitor policy changes and adapt strategy accordingly.  
+1. Scan and map relevant policy landscapes and funding programs.
+2. Form cross-functional teams (policy, legal, technical, finance) for engagement.
+3. Develop aligned proposals highlighting mutual benefits.
+4. Engage in pilot or demonstrator projects with clear success metrics.
+5. Negotiate terms for subsidies, tax breaks, or public procurement.
+6. Implement governance structures for compliance and reporting.
+7. Monitor policy changes and adapt strategy accordingly.
 8. Plan exit or diversification to avoid overdependence.
 
 ## 📈 **Measuring Success**
-
-- Public funding secured (amount and terms)  
-- Accelerated project timelines versus baseline  
-- Regulatory approvals or standards adoption  
-- Market share or volume growth enabled by policy support  
-- Cost-of-capital reduction  
+- Public funding secured (amount and terms)
+- Accelerated project timelines versus baseline
+- Regulatory approvals or standards adoption
+- Market share or volume growth enabled by policy support
+- Cost-of-capital reduction
 - Successful audits and stakeholder satisfaction
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
-
-- Overdependence on a single policy program or government sponsor.  
-- Neglecting market viability in favor of subsidy-driven activities.  
-- Bureaucratic delays undermining agility.  
-- Public backlash over perceived unfair advantages.  
+- Overdependence on a single policy program or government sponsor.
+- Neglecting market viability in favor of subsidy-driven activities.
+- Bureaucratic delays undermining agility.
+- Public backlash over perceived unfair advantages.
 - Policy reversals exposing strategic gaps.
 
 ## 🧠 **Strategic Insights**
-
 ### Aligning with National Champions vs. Fostering Ecosystems
 Industrial policy can take the form of backing national champions (betting on a few large players) or fostering a broader ecosystem of innovation. Leadership must understand the nuances of the specific policy they are engaging with. Aligning with a "national champion" approach might offer significant scale but also carries risks if that champion falters. Ecosystem approaches might offer more resilience but require navigating a more complex set of relationships.
 
@@ -161,7 +153,6 @@ While subsidies can accelerate development and market entry, they can also disto
 Industrial policies are subject to political winds and can change with new administrations or shifting national priorities. Companies leveraging industrial policy must build in resilience to these shifts, perhaps by diversifying their reliance across different programs or geographies, or by ensuring their core value proposition remains strong even without specific policy support.
 
 ## ❓ **Key Questions to Ask**
-
 - **Alignment:** How does this specific industrial policy align with our long-term strategic goals, beyond the immediate financial incentives?
 - **Capabilities:** Do we have the internal capabilities (e.g., for grant application, compliance, lobbying) to effectively engage with this policy?
 - **Risk Mitigation:** What are the primary risks associated with this policy (e.g., political change, dependency, reputational risk), and how can we mitigate them?
@@ -170,18 +161,15 @@ Industrial policies are subject to political winds and can change with new admin
 - **Ethical Considerations:** Are there any ethical concerns or potential negative externalities associated with this policy or our involvement in it?
 
 ## 🔀 **Related Strategies**
-
-- [Lobbying](/strategies/user-perception/lobbying) - influencing policy is a core tactic within industrial policy.  
-- [Market Enablement](/strategies/accelerators/market-enablement) - government backing can create or expand markets.  
+- [Lobbying](/strategies/user-perception/lobbying) - influencing policy is a core tactic within industrial policy.
+- [Market Enablement](/strategies/accelerators/market-enablement) - government backing can create or expand markets.
 - [Standards Game](/strategies/markets/standards-game) - industrial policy often promotes standards to secure advantage.
 
 ## ⛅ **Relevant Climatic Patterns**
-
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – influence: government investment channels funds toward targeted sectors.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: policy support often intensifies during war or wonder phases.
 
 ## 📚 **Further Reading & References**
-
-- Wardley, S. – *On Industrial Policy and Strategic Climatic Patterns*.  
-- Case Study: *The Rise of Airbus* – European government consortiums and subsidies.  
-- InfoQ Interview: *Wardley on Industrial Policy in China’s Tech Landscape*.  
+- Wardley, S. – *On Industrial Policy and Strategic Climatic Patterns*.
+- Case Study: *The Rise of Airbus* – European government consortiums and subsidies.
+- InfoQ Interview: *Wardley on Industrial Policy in China’s Tech Landscape*.

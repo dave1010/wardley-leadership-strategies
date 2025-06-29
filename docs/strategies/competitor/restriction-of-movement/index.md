@@ -9,7 +9,6 @@ tags: [restriction-of-movement, competitor, circling, ecosystem, cornering, cons
 This strategy, sometimes called "Circling," aims to constrain a competitor by blocking their options to evolve or react effectively.
 
 ## 🤔 **Explanation**
-
 ### What is Restriction of Movement?
 
 Restriction of Movement, or Circling, involves strategically limiting a competitor's ability to adapt or maneuver. It's about cornering them within the market or ecosystem, constraining their choices. If they try to innovate, you've boxed them in with patents or standards. If they try to expand, you're already there. If they seek partnerships, you've secured exclusivity. The competitor faces obstacles at every turn, confined to a limited space.
@@ -22,8 +21,14 @@ This strategy doesn't necessarily eliminate a competitor but restricts their gro
 
 By strategically controlling key aspects of the market, a business can limit a competitor's ability to grow or adapt. This can involve securing exclusive deals, establishing dominant standards, or creating patent thickets. The effect is to limit the competitor's options, forcing them into a constrained position.
 
-## 🚦 **When to Use / When to Avoid**
+## 🗺️ **Real-World Examples**
+-   **Facebook "Circling" Snapchat:** Facebook copied Snapchat's core features across its apps after failing to acquire Snapchat. Instagram Stories, WhatsApp Status, and Facebook Stories effectively encircled Snapchat's niche. This limited Snapchat's growth by restricting its room to maneuver.
 
+-   **Exclusive Deals and Ecosystem Control:** Apple's App Store policies restrict competitors on its platform by prohibiting alternative app stores and certain third-party functionalities. Microsoft's exclusive licensing deals with PC manufacturers in the 1990s limited rival operating systems' distribution.
+
+-   **Patent Fencing:** Companies create "patent thickets" by patenting a broad array of technologies, not just core inventions. This restricts competitors' innovation paths, as seen in the smartphone patent wars.
+
+## 🚦 **When to Use / When to Avoid**
 <Assessment strategyName="Restriction of Movement">
   <MapSignals>
     <li>The competitor depends heavily on a limited set of suppliers, channels, technologies, or partnerships to compete.</li>
@@ -53,16 +58,7 @@ Leadership should use this strategy when they want to holistically control the c
 
 Leaders should be cautious of harming industry relationships or attracting regulatory scrutiny.
 
-## 🗺️ **Real-World Examples**
-
--   **Facebook "Circling" Snapchat:** Facebook copied Snapchat's core features across its apps after failing to acquire Snapchat. Instagram Stories, WhatsApp Status, and Facebook Stories effectively encircled Snapchat's niche. This limited Snapchat's growth by restricting its room to maneuver.
-
--   **Exclusive Deals and Ecosystem Control:** Apple's App Store policies restrict competitors on its platform by prohibiting alternative app stores and certain third-party functionalities. Microsoft's exclusive licensing deals with PC manufacturers in the 1990s limited rival operating systems' distribution.
-
--   **Patent Fencing:** Companies create "patent thickets" by patenting a broad array of technologies, not just core inventions. This restricts competitors' innovation paths, as seen in the smartphone patent wars.
-
 ## 🎯 **Leadership**
-
 ### Core challenge
 
 To pursue this strategy, leadership must think holistically and "surround" the competitive landscape. Leaders identify and control the competitor's critical enablers of flexibility, such as access to suppliers, distribution channels, talent, and technology. This often involves preemptive strikes, like securing exclusive partnerships.
@@ -72,7 +68,6 @@ To pursue this strategy, leadership must think holistically and "surround" the c
 proactive, preemptive, highly strategic
 
 ## 📋 **How to Execute**
-
 1.  **Map avenues of competitor growth**: Identify new markets, target customers, and potential innovations.
 2.  **Devise actions to block or limit each avenue**: This could involve securing distribution rights, introducing competing products, or locking in key partners.
 3.  **Product/Market Front**: Ensure offerings in adjacent spaces to prevent competitor diversification. Maintain multiple brands to cover market segments and eliminate pricing gaps for competitors.
@@ -89,7 +84,6 @@ proactive, preemptive, highly strategic
 Leaders should balance aggression with fair play within legal bounds.
 
 ## 📈 **Measuring Success**
-
 Success is often seen in what doesn't happen, such as a competitor's failure to gain market share or launch new products. Proxy metrics include:
 
 -   Share of key partnerships secured
@@ -97,14 +91,12 @@ Success is often seen in what doesn't happen, such as a competitor's failure to 
 -   Customer churn to competitors
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
-
 -   **Competitor escape attempts**: Leaders must continually monitor competitors and respond quickly to plug any gaps in containment.
 -   **Overkill**: Completely encircling a non-threatening competitor can waste resources.
 -   **Dynamic markets**: Focus on a current competitor might blind you to new entrants or shifts.
 -   **Competitor changing the game**: Competitors might bypass your restrictions by introducing different business models.
 
 ## 🧠 **Strategic Insights**
-
 Restriction of movement is fundamentally about **controlling the competitive landscape** to neutralize competitors.
 
 ###   Competitor Behavior
@@ -128,7 +120,6 @@ Completely encircling a non-threatening competitor can waste resources. The stra
 Ultimately, restriction of movement can create a **stalemate favoring the stronger party**. The competitor remains, but their threat is limited. The company wins by controlling the status quo. It's a strategy of control and denial, limiting competitor options to erode their strength.
 
 ## ❓ **Key Questions to Ask**
-
 -   What are the competitor's potential avenues for growth or adaptation?
 -   How can we effectively block or limit each of these avenues?
 -   What are the potential unintended consequences of this strategy?
@@ -136,7 +127,6 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 -   How can we adapt this strategy as the market evolves?
 
 ## 🔀 **Related Strategies**
-
 -   [**Alliances**](/strategies/ecosystem/alliances) - Forming alliances can be a way to restrict a competitor's access to partners.
 -   [**Co-opting**](/strategies/ecosystem/co-opting) - Can be used to influence the ecosystem to restrict a competitor.
 -   [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - Aims to restrict new competitors, similar to restricting existing ones.
@@ -145,11 +135,9 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 -   [**Limitation of Competition**](/strategies/defensive/limitation-of-competition) - The overarching goal of restriction of movement.
 
 ## ⛅ **Relevant Climatic Patterns**
-
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: blocking options keeps rivals tied to outdated approaches.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: constrained players may drive investment elsewhere.
 
 ## 📚 **Further Reading & References**
-
 -   *United States v. Microsoft Corp.* - Microsoft's bundling of Internet Explorer with Windows limited Netscape's access to the market.
 -   *Antitrust Division | U.S. V. Microsoft: Proposed Findings Of Fact* - Detailed evidence of how Microsoft restricted competitor movement.
