@@ -32,6 +32,23 @@ In military strategy, a “centre of gravity” is the source of an opponent’s
 - Encourage network effects—make it valuable for others to join or align with you.
 - Maintain and evolve your position; gravity fades if neglected.
 
+```mermaid
+mindmap
+  root((Center of Gravity))
+    (Your Organisation)
+      ::icon(fa fa-building)
+      (Talent)
+        ::icon(fa fa-users)
+      (Resources)
+        ::icon(fa fa-cogs)
+      (Innovation)
+        ::icon(fa fa-lightbulb)
+    (Attracts)
+      (Partners)
+      (Customers)
+      (Competitors orbit)
+```
+
 ## 🗺️ **Real-World Examples**
 
 ### Silicon Valley as a Tech Hub

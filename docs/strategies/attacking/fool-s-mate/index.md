@@ -34,6 +34,17 @@ The typical execution of a Fool's Mate involves these key elements:
 4.  **Cascading Disruption:** The newly commoditized component destabilizes the opponent's business model. Their unique value proposition, often built upon the previous state of that component, is eroded. Other competitors may also leverage the newly available component, further intensifying pressure.
 5.  **Inability to Respond:** The opponent is caught off-guard and struggles to react effectively due to speed, sunk costs, internal resistance to change, or a fundamental misunderstanding of the attack vector.
 
+```mermaid
+sequenceDiagram
+    participant Attacker
+    participant Opponent
+    Attacker->>Opponent: Identify poorly defended component
+    Note right of Opponent: Opponent is unaware of vulnerability
+    Attacker->>Attacker: Rapidly commoditize component
+    Attacker-->>Opponent: Disrupts Opponent's value chain
+    Note right of Opponent: Cascading failure
+```
+
 ### The Chess Analogy
 
 The name "Fool's Mate" comes from the quickest possible checkmate in chess, achievable in just two moves if White plays very poorly. In chess, it occurs when a player leaves their king fatally exposed by making naive opening moves. Similarly, in business, a Fool's Mate happens when a company leaves a critical component of its strategy vulnerable due to poor situational awareness or complacency, allowing an attacker to achieve a surprisingly swift and decisive victory by exploiting that specific weakness. The opponent is "fooled" into a losing position by underestimating the threat or the significance of the targeted component.
