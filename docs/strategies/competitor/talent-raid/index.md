@@ -4,9 +4,11 @@ description: Removing or absorbing key talent from a rival organisation.
 tags: [talent-raid, competitor, talent, human resources, acquisition, poaching, expertise, weakening rivals]
 ---
 
-# Talent Raid
-
 **Removing or absorbing key talent from a rival organization**.
+
+> *"Removing core talent from a competitor either directly or indirectly."*
+>
+> - Simon Wardley
 
 A Talent Raid is a competitive strategy focused on removing or absorbing key talent from a rival organisation. By taking away a competitor's critical human resources — their experts, leaders, engineers or creative minds — you simultaneously strengthen your own company and weaken theirs. This can be done directly by hiring employees away or indirectly by enticing them through acquisitions or partnerships. Talent is often the lifeblood of tech and creative industries; a well‑timed raid can disrupt projects, slow innovation or deprive a competitor of strategic direction. In essence, a talent raid treats top employees as a scarce competitive asset and seeks to control that asset.
 

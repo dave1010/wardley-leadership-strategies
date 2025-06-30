@@ -2,9 +2,11 @@
 tags: [restriction-of-movement, competitor, circling, ecosystem, cornering, constraint, control, limitation]
 ---
 
-# Restriction of Movement
-
 **Limiting a rival's ability to maneuver or adapt**.
+
+> *"Limiting a competitors ability to adapt."*
+>
+> - Simon Wardley
 
 This strategy, sometimes called "Circling," aims to constrain a competitor by blocking their options to evolve or react effectively.
 

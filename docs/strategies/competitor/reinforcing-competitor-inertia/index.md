@@ -2,9 +2,11 @@
 tags: [reinforcing-competitor-inertia, competitor, inertia, change, resistance, obsolescence, innovation]
 ---
 
-# Reinforcing Competitor Inertia
-
 **Exploiting a competitor's reluctance or inability to change**.
+
+> *"Identifying inertia within a competitor and forcing market changes that reinforce this."*
+>
+> - Simon Wardley
 
 This strategy focuses on leveraging a competitor's resistance to change to gain a strategic advantage. It involves identifying areas where a competitor is "stuck" and then driving market changes that reinforce their commitment to an outdated approach.
 

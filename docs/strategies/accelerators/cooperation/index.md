@@ -17,7 +17,11 @@ core_challenge: Balancing control and openness.
 
 **Working with others, even competitors, to achieve a goal**.
 
-It sounds straightforward, but as Wardley wryly notes, "sounds easy, actually it's not." This strategy is about forming partnerships, joint ventures, or industry collaborations where mutual benefit can be found.
+> *"Working with others. Sounds easy, actually it's not."*
+>
+> - Simon Wardley
+
+This strategy is about forming partnerships, joint ventures, or industry collaborations where mutual benefit can be found.
 
 <AssessmentToolAdvert strategyName="Cooperation" />
 

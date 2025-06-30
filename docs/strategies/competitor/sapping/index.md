@@ -2,9 +2,11 @@
 tags: [sapping, competitor, multi-front, attrition, endurance, resource drain, distraction]
 ---
 
-# Sapping
-
 **Attacking a competitor on multiple fronts simultaneously to weaken their capacity to respond**.
+
+> *"Opening up multiple fronts on a competitor to weaken their ability to react."*
+>
+> - Simon Wardley
 
 Sapping, inspired by military tactics, involves launching simultaneous attacks across various fronts (product, price, marketing, geography) to stretch a competitor's resources and attention. The core idea is that a competitor capable of defending against a single attack will struggle against a barrage of concurrent challenges. By forcing a rival to divide their focus and resources, their overall effectiveness is degraded. Sapping is a strategy of attrition and distraction, aiming to drain the competitor's energy and induce mistakes or neglect.
 

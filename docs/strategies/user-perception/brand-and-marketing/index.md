@@ -6,6 +6,10 @@ tags: [brand-and-marketing, user-perception, branding, marketing, positioning, c
 
 **Using traditional marketing and brand positioning to shape user perception.**
 
+> *"Creating and elevating an artificial need through marketing and behavioural influence. Take a rock and make it a pet etc."*
+>
+> - Simon Wardley
+
 <AssessmentToolAdvert strategyName="Brand and Marketing" />
 
 ## 🤔 **Explanation**
