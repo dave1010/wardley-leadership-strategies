@@ -1,4 +1,5 @@
 ---
+title: Restriction of Movement
 tags: [restriction-of-movement, competitor, circling, ecosystem, cornering, constraint, control, limitation]
 ---
 

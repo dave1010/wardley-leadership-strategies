@@ -1,4 +1,5 @@
 ---
+title: Fragmentation
 tags: [competitor, fragmentation, markets, underdog, disruption, divide and conquer]
 ---
 
