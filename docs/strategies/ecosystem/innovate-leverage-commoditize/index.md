@@ -155,10 +155,10 @@ This strategy is based on the insight that today's innovations are tomorrow's co
 *   **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: ILC is the engine that builds a powerful Tower and Moat. The Tower is the platform, and the Moat is built by continuously commoditizing complements.
 *   **[Fast Follower](/strategies/positional/fast-follower)**: The commoditization step is a form of fast-following the innovations of your own ecosystem.
 
-- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon)
-- [Co-creation](/strategies/ecosystem/co-creation)
-- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump)
-- [Playing Both Sides](/strategies/attacking/playing-both-sides)
+- [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) - sensing emerging patterns and insights that feed into the innovation phase of the ILC cycle.
+- [Co-creation](/strategies/ecosystem/co-creation) - partnering with users and ecosystem members to generate prototypes and validate innovations for leveraging.
+- [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - offloading non-core assets to specialists, freeing resources for focused innovation and leverage.
+- [Playing Both Sides](/strategies/attacking/playing-both-sides) - leveraging relationships on multiple market fronts to gather insights and maximise strategic leverage.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – trigger: nurturing an ecosystem accelerates mutual improvement.

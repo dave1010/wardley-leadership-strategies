@@ -138,8 +138,8 @@ Defensive Regulation is a strategy that is primarily available to large, powerfu
 *   **[Limitation of Competition](/strategies/defensive/limitation-of-competition)**: This is often the goal of defensive regulation.
 *   **[Standards Game](/strategies/markets/standards-game)**: This strategy can be used to get your proprietary standard enshrined in law, creating a powerful and legally-enforced moat.
 
-- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr)
-- [Lobbying](/strategies/user-perception/lobbying)
+- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - leveraging IP frameworks to support regulatory measures and enforce legal constraints on competitors.
+- [Lobbying](/strategies/user-perception/lobbying) - influencing policymakers and public opinion to enact regulations that entrench your position and disadvantage rivals.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: regulation is often introduced when challengers threaten the status quo.

@@ -159,15 +159,15 @@ For example, if your competitor is slower-moving or dependent on licensing, open
 - [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) – The inverse: a competitor may embrace your open tech, then extend it with proprietary features.
 - [Market Enablement](/strategies/accelerators/market-enablement) – Creating conditions for a market to grow, often by reducing friction.
 
-- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr)
-- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)
-- [Press Release Process](/strategies/attacking/press-release-process)
-- [Fool's Mate](/strategies/attacking/fools-mate)
-- [Center of Gravity](/strategies/attacking/centre-of-gravity)
-- [Education](/strategies/user-perception/education)
-- [Licensing](/strategies/poison/licensing)
-- [Harvesting](/strategies/markets/harvesting)
-- [Standards Game](/strategies/markets/standards-game)
+- [Patents & Intellectual Property Rights](/strategies/decelerators/ipr) - navigating IP frameworks to balance openness with necessary protections and clarify what can be shared.
+- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - fostering community-driven innovation on an open foundation, then commoditizing and leveraging successful contributions at scale.
+- [Press Release Process](/strategies/attacking/press-release-process) - leveraging strategic communications to announce open milestones, rally contributors, and build momentum around the platform.
+- [Fool's Mate](/strategies/attacking/fools-mate) - baiting competitors into underestimating the strategic value of openness before executing differentiated or closed plays.
+- [Center of Gravity](/strategies/attacking/centre-of-gravity) - focusing on key open components or community hubs whose control can shift platform influence or disrupt the ecosystem.
+- [Education](/strategies/user-perception/education) - shaping perceptions by teaching stakeholders the principles and benefits of open collaboration and governance.
+- [Licensing](/strategies/poison/licensing) - choosing license terms to encourage adoption and contributions while maintaining control over derivative uses.
+- [Harvesting](/strategies/markets/harvesting) - extracting strategic value or revenue after an open ecosystem has matured and scaled.
+- [Standards Game](/strategies/markets/standards-game) - using openness to seed protocols or formats that become de facto standards, locking in an ecosystem.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: industrialisation of a component often leads to opening it up.

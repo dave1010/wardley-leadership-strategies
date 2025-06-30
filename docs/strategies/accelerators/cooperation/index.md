@@ -266,8 +266,8 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
 - [Standards Game](/strategies/markets/standards-game) - cooperation often aims to establish common standards and reduce friction.
 
-- [Market Enablement](/strategies/accelerators/market-enablement)
-- [Playing Both Sides](/strategies/attacking/playing-both-sides)
+- [Market Enablement](/strategies/accelerators/market-enablement) - cooperation can help build and scale ecosystems by aligning stakeholders to enable and grow the market.
+- [Playing Both Sides](/strategies/attacking/playing-both-sides) - leverages relationships with multiple parties to create competitive tension and strategic advantage through collaborative positioning.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: collaboration shapes how capabilities mature together.

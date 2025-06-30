@@ -139,8 +139,8 @@ The effectiveness of education strategies often varies with market and product e
 - [Fear, Uncertainty & Doubt (FUD)](/strategies/user-perception/fear-uncertainty-and-doubt) - The "dark side" alternative of influencing perception with fear.
 - [Open Approaches](/strategies/accelerators/open-approaches) - Sometimes educating about an open standard to drive its adoption.
 
-- [Press Release Process](/strategies/attacking/press-release-process)
-- [Creating Artificial Needs](/strategies/user-perception/creating-artificial-needs)
+- [Press Release Process](/strategies/attacking/press-release-process) - using strategic communications to publish educational content and drive stakeholder awareness.
+- [Creating Artificial Needs](/strategies/user-perception/creating-artificial-needs) - blending informative content with persuasive messaging to manufacture perceived necessities.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: learning prepares for uncertain opportunities.

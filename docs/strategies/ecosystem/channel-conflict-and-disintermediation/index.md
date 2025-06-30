@@ -141,7 +141,7 @@ Channel conflict is not just about cutting costs; it's about forcing change. It 
 *   **[Vertical Integration](/terms/value-chain)**: Disintermediation is a form of vertical integration, as you are taking on a part of the value chain that was previously outsourced.
 *   **[Direct-to-Consumer (DTC)](https://en.wikipedia.org/wiki/Direct-to-consumer)**: This is the most common manifestation of a disintermediation strategy.
 
-- [Two-Sided Markets](/strategies/ecosystem/two-factor-markets)
+- [Two-Sided Markets](/strategies/ecosystem/two-factor-markets) - creating platforms that directly connect supply and demand sides, bypassing traditional channel partners.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Shifts from product to utility tend to demonstrate a punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: direct channels emerge as industries commoditise.

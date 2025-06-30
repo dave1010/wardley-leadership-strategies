@@ -144,8 +144,8 @@ Maintain agility by planning divestment or spin-off strategies for positions tha
 - [Fast Follower](/strategies/positional/fast-follower) – to enter after pioneers have cleared the path.
 - [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) – to detect where to grab land early.
 
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)
-- [Bundling](/strategies/user-perception/bundling)
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - securing early user or node share to leverage network effects and reinforce territorial advantage.
+- [Bundling](/strategies/user-perception/bundling) - packaging complementary offerings to lock in customers and deter competitors across the captured segments.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem) – trigger: faster-moving landscapes reward early positioning.

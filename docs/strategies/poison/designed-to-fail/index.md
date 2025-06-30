@@ -161,7 +161,7 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 - [Insertion](/strategies/poison/insertion) — embedding flawed influence via people.
 - [Licensing](/strategies/poison/licensing) — controlling ecosystems through legal terms.
 
-- [Standards Game](/strategies/markets/standards-game)
+- [Standards Game](/strategies/markets/standards-game) - introducing deliberately flawed specifications to fragment competitor ecosystems and clear the path for your own standard.
 ## 📚 **Further Reading & References**
 
 - [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — a case of market fragmentation leading to failure.

@@ -171,10 +171,10 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 * [**Experimentation**](/strategies/attacking/experimentation) - Testing new approaches to find effective strategies.
 * [**Alliances**](/strategies/ecosystem/alliances) - Forming partnerships, the opposite of testing a competitor.
 
-- [Cooperation](/strategies/accelerators/cooperation)
-- [sapping](/strategies/competitor/sapping)
-- [fragmentation](/strategies/competitor/fragmentation)
-- [Ambush](/strategies/competitor/ambush)
+- [Cooperation](/strategies/accelerators/cooperation) - collaborating superficially to gather insights and test competitor responses under the guise of partnership.
+- [sapping](/strategies/competitor/sapping) - gradually undermining a competitor’s resources or alliances to soften defences before probing actions.
+- [fragmentation](/strategies/competitor/fragmentation) - dividing competitor networks or markets to weaken collective resistance and isolate targets for probing.
+- [Ambush](/strategies/competitor/ambush) - striking swiftly once probing reveals vulnerabilities to maximise surprise and impact.
 ## 📚 **Further Reading & References**
 
 * "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.

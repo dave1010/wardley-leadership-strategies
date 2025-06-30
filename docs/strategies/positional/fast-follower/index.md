@@ -151,10 +151,10 @@ Superior processes, cost structures, and delivery models can overcome first-move
 - [Weak Signal Horizon](/strategies/positional/weak-signal-horizon) – to detect and act on market shifts.
 - [Experimentation](/strategies/attacking/experimentation) – to test new ideas on a small scale before wider deployment.
 
-- [Procrastination](/strategies/defensive/procrastination)
-- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)
-- [Co-opting](/strategies/ecosystem/co-opting)
-- [Press Release Process](/strategies/attacking/press-release-process)
+- [Procrastination](/strategies/defensive/procrastination) - delaying broad adoption until market signals confirm a winning approach, reducing execution risk.
+- [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - applying the ILC cycle to systematically catch up with and commoditize pioneering innovations.
+- [Co-opting](/strategies/ecosystem/co-opting) - integrating successful external innovations into your offerings to accelerate product refinement.
+- [Press Release Process](/strategies/attacking/press-release-process) - using strategic announcements to highlight enhanced iterations and build on first mover momentum.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: wait until the market shows a clear acceleration before following.

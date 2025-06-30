@@ -145,9 +145,9 @@ Effective sensing requires an organisational culture that values and acts on ear
 - [Fast Follower](/strategies/positional/fast-follower) – to time entry based on pioneer signals.
 - [Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) – building infrastructure for systematic data collection.
 
-- [Procrastination](/strategies/defensive/procrastination)
-- [Experimentation](/strategies/attacking/experimentation)
-- [Directed Investment](/strategies/attacking/directed-investment)
+- [Procrastination](/strategies/defensive/procrastination) - holding action until weak signals coalesce, reducing the risk of premature commitments to false positives.
+- [Experimentation](/strategies/attacking/experimentation) - conducting targeted probes to validate weak signals and refine strategic direction.
+- [Directed Investment](/strategies/attacking/directed-investment) - allocating resources to areas highlighted by validated signals to establish a competitive edge.
 ## 📚 **Further Reading & References**
 
 - Wardley, S. – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) – foundational concepts on sensing and foresight.

@@ -161,7 +161,7 @@ Aligning with user or public interest narratives increases the chance of success
 - [Industrial Policy](/strategies/accelerators/industrial-policy) – Aligning with government investment or strategic priorities.
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Shaping market/customer expectations, sometimes via lobbying.
 
-- [Fear, Uncertainty and Doubt](/strategies/user-perception/fear-uncertainty-and-doubt)
+- [Fear, Uncertainty and Doubt](/strategies/user-perception/fear-uncertainty-and-doubt) - deploying fear-based arguments in policy debates to influence regulators and shape favourable legislation.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: lobbying efforts intensify when markets contract.

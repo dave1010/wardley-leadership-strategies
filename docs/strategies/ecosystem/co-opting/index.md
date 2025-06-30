@@ -131,10 +131,10 @@ This strategy is often used to neutralize a competitor's main weapon. By removin
 *   **[Fast Follower](/strategies/positional/fast-follower)**: A company that has a deliberate strategy of being a fast follower will be skilled at co-opting.
 *   **[Harvesting](/strategies/markets/harvesting)**: Similar in that it involves adopting an idea from the outside, but harvesting is typically aimed at the innovations of partners within your own ecosystem, whereas co-opting is aimed at external competitors.
 
-- [Threat Acquisition](/strategies/defensive/threat-acquisition)
-- [Center of Gravity](/strategies/attacking/centre-of-gravity)
-- [restriction-of-movement](/strategies/competitor/restriction-of-movement)
-- [fragmentation](/strategies/competitor/fragmentation)
+- [Threat Acquisition](/strategies/defensive/threat-acquisition) - acquiring or partnering with rivals to absorb their capabilities and neutralise external threats.
+- [Center of Gravity](/strategies/attacking/centre-of-gravity) - targeting key nodes or influencers in competitor ecosystems to realign the industry’s power centre.
+- [restriction-of-movement](/strategies/competitor/restriction-of-movement) - drawing critical partners into your ecosystem to constrain competitors’ strategic mobility.
+- [fragmentation](/strategies/competitor/fragmentation) - fracturing competitor networks by pulling participants into competing coalitions.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: a rival's successful move often prompts co-opting as a counter.

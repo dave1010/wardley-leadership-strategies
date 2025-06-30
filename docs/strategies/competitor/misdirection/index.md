@@ -150,10 +150,10 @@ Misdirection can lead to competitor inertia. If a company consistently signals t
 -   [**Signal Distortion**](/strategies/markets/signal-distortion): Misdirection deliberately distorts market signals to mislead competitors.
 -   [**Fear, Uncertainty, and Doubt**](/strategies/user-perception/fear-uncertainty-and-doubt): Misdirection can create fear, uncertainty, and doubt in the minds of competitors.
 
-- [circling-and-probing](/strategies/competitor/circling-and-probing)
-- [Artificial Competition](/strategies/user-perception/artificial-competition)
-- [insertion](/strategies/poison/insertion)
-- [designed-to-fail](/strategies/poison/designed-to-fail)
+- [circling-and-probing](/strategies/competitor/circling-and-probing) - feeding false probes to elicit and misdirect competitor responses about your real intentions.
+- [Artificial Competition](/strategies/user-perception/artificial-competition) - simulating phantom threats or offerings to reinforce the deception and confuse rivals.
+- [insertion](/strategies/poison/insertion) - slipping deceptive payloads or narratives into competitor channels to deepen confusion and misdirect analysis.
+- [designed-to-fail](/strategies/poison/designed-to-fail) - planting controlled failures to mislead competitors about your capabilities and shift focus away from core initiatives.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – influence: decoys buy time while rivals adjust.

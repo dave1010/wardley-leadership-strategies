@@ -145,7 +145,7 @@ At its best, harvesting is a symbiotic relationship. The ecosystem provides inno
 *   **[Co-opting](/strategies/ecosystem/co-opting)**: A related strategy where you might absorb a competitor's differentiation into your platform.
 *   **[Threat Acquisition](/strategies/defensive/threat-acquisition)**: Harvesting can sometimes be a defensive move to acquire a company that is becoming a threat.
 
-- [Market Enablement](/strategies/accelerators/market-enablement)
+- [Market Enablement](/strategies/accelerators/market-enablement) - preparing and priming the ecosystem so that harvested services and innovations are rapidly adopted and scaled.
 ## 📚 **Further Reading & References**
 
 *   **[Platform Revolution](https://www.goodreads.com/book/show/26899832-platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.

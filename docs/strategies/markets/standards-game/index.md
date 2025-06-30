@@ -150,15 +150,15 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - [Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry) – Standards can raise compliance costs for newcomers.
 - [Designed to Fail](/strategies/poison/designed-to-fail) – Poisoning rival standards can clear the field for your own.
 
-- [Cooperation](/strategies/accelerators/cooperation)
-- [Industrial Policy](/strategies/accelerators/industrial-policy)
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)
-- [Market Enablement](/strategies/accelerators/market-enablement)
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
-- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend)
-- [Alliances](/strategies/ecosystem/alliances)
-- [Playing Both Sides](/strategies/attacking/playing-both-sides)
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
+- [Cooperation](/strategies/accelerators/cooperation) - working with stakeholders to build consensus and reduce friction in standard adoption.
+- [Industrial Policy](/strategies/accelerators/industrial-policy) - leveraging government actions and incentives to mandate or encourage standard adoption.
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - harnessing network effects to accelerate adoption and entrench the standard.
+- [Market Enablement](/strategies/accelerators/market-enablement) - preparing ecosystems and pilot programmes to drive early uptake and validate the standard.
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition) - using compliance requirements to restrict alternative solutions and raise entry barriers.
+- [Embrace and Extend](/strategies/ecosystem/embrace-and-extend) - adopting standard specifications before layering proprietary extensions to steer its evolution.
+- [Alliances](/strategies/ecosystem/alliances) - forming coalitions of organisations to coordinate and promote standardisation efforts.
+- [Playing Both Sides](/strategies/attacking/playing-both-sides) - engaging multiple standard bodies or camps in parallel to influence outcomes and retain flexibility.
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control of standard implementation to influence supplier terms and buyer commitments.
 ## 📚 **Further Reading & References**
 
 - [USB Implementers Forum](https://www.usb.org/) – Example of industry coordination driving a ubiquitous standard.

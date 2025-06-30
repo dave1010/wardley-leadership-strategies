@@ -145,8 +145,8 @@ While operational burdens and capex are offloaded, significant reputational risk
 - [Refactoring](/strategies/dealing-with-toxicity/refactoring) – Internally transform or repurpose assets, retaining control and capex.
 - [Innovate-Leverage-Commoditize](/strategies/ecosystem/innovate-leverage-commoditize) - Could be the end-goal that Sweat & Dump enables resources for.
 
-- [designed-to-fail](/strategies/poison/designed-to-fail)
-- [Last Man Standing](/strategies/markets/last-man-standing)
+- [designed-to-fail](/strategies/poison/designed-to-fail) - intentionally structuring spin-offs or transformations to fail, enabling clean separation and transfer of liabilities.
+- [Last Man Standing](/strategies/markets/last-man-standing) - offloading assets to specialist providers in a competitive market, letting survivors absorb residual risks and costs.
 ## 📚 **Further Reading & References**
 
 - Case Study: [Nortel](https://en.wikipedia.org/wiki/Timeline_of_Nortel) Support Spin-offs – Real-world legacy IT sweat & dump scenario.

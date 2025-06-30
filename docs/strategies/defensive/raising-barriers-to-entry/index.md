@@ -132,15 +132,15 @@ Raising the barriers to entry shifts the basis of competition. It's no longer ab
 *   **[Limitation of Competition](/strategies/defensive/limitation-of-competition)**: This is the ultimate goal of raising the barriers to entry.
 *   **[Standards Game](/strategies/markets/standards-game)**: By creating a tightly integrated suite, you can attempt to make your proprietary integration points the de facto standard for the market.
 
-- [Creating Constraints](/strategies/decelerators/creating-constraints)
-- [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint)
-- [Defensive Regulation](/strategies/defensive/defensive-regulation)
-- [reinforcing-competitor-inertia](/strategies/competitor/reinforcing-competitor-inertia)
-- [Talent Raid](/strategies/competitor/talent-raid)
-- [restriction-of-movement](/strategies/competitor/restriction-of-movement)
-- [Lobbying](/strategies/user-perception/lobbying)
-- [Bundling](/strategies/user-perception/bundling)
-- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)
+- [Creating Constraints](/strategies/decelerators/creating-constraints) - embedding extra complexity or contractual requirements to raise development and integration costs for new entrants.
+- [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint) - amplifying current dependencies or requirements to heighten costs and deter newcomers.
+- [Defensive Regulation](/strategies/defensive/defensive-regulation) - enacting or maintaining regulations that lock in incumbent advantages and prevent new competitors.
+- [reinforcing-competitor-inertia](/strategies/competitor/reinforcing-competitor-inertia) - deepening competitors’ reluctance or inability to adapt, making barriers more effective.
+- [Talent Raid](/strategies/competitor/talent-raid) - draining potential rivals of critical expertise to widen capability gaps and fortify entry hurdles.
+- [restriction-of-movement](/strategies/competitor/restriction-of-movement) - constraining competitors’ strategic options to sustain high entry costs.
+- [Lobbying](/strategies/user-perception/lobbying) - advocating for policy changes that institutionalise barriers and discourage new entrants.
+- [Bundling](/strategies/user-perception/bundling) - packaging offerings together to force entrants to match comprehensive solutions, raising thresholds for entry.
+- [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control over supply chains or customer relationships to impose onerous terms on newcomers.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: barriers entrench incumbents and slow adaptation.

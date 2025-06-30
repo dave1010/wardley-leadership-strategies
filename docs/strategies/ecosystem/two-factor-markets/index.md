@@ -147,7 +147,7 @@ In a two-sided market, your product is not just a piece of software; it is the e
 *   **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: A successful two-sided market can create a very powerful moat.
 *   **[Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)**: Creating a two-sided market often involves disintermediating existing channels.
 
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects)
+- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - deliberately harnessing and reinforcing cross-side and same-side effects to accelerate platform growth and engagement.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – influence: once both sides engage, adoption can accelerate rapidly.

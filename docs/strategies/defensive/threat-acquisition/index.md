@@ -146,9 +146,9 @@ While threat acquisitions can be expensive, the cost of inaction can be even hig
 *   **[Restriction of Movement](/strategies/competitor/restriction-of-movement)**: Hindering a competitor's ability to operate without acquiring them.
 *   **[Talent Raid](/strategies/competitor/talent-raid)**: Acquiring key talent from a competitor to weaken their capabilities.
 
-- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
-- [Harvesting](/strategies/markets/harvesting)
-- [Last Man Standing](/strategies/markets/last-man-standing)
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition) - acquiring rivals to remove threats and legally limit future competitive challenges.
+- [Harvesting](/strategies/markets/harvesting) - extracting and monetising acquired capabilities or market segments post-acquisition.
+- [Last Man Standing](/strategies/markets/last-man-standing) - consolidating competitors through acquisitions to emerge as the sole dominant operator.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – trigger: acquisitions help an organisation adapt as markets shift.

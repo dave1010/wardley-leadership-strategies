@@ -176,8 +176,8 @@ It's essential to consider the potential optics and impact on relationships with
 * [**Raising Barriers to Entry**](/strategies/defensive/raising-barriers-to-entry) - A successful Talent Raid can raise barriers to entry for competitors by depriving them of critical talent.
 * [**Market Enablement**](/strategies/accelerators/market-enablement) - If the talent raid brings in individuals with strong market connections or expertise, it can enable market growth.
 
-- [Center of Gravity](/strategies/attacking/centre-of-gravity)
-- [insertion](/strategies/poison/insertion)
+- [Center of Gravity](/strategies/attacking/centre-of-gravity) - shifting critical expertise and influence by drawing key individuals to your side to establish a new talent hub.
+- [insertion](/strategies/poison/insertion) - embedding targeted messaging or incentives to destabilize competitor morale and encourage talent defections.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: securing key talent helps navigate uncertain markets.

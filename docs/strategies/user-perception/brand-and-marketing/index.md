@@ -162,8 +162,8 @@ Effective branding requires thinking beyond immediate sales. It involves alignin
 - [Fear, Uncertainty and Doubt](/strategies/user-perception/fear-uncertainty-and-doubt) - Counterplay competitors might use.
 - [Differentiation](/strategies/markets/differentiation) - Highlighting unique selling points.
 
-- [Press Release Process](/strategies/attacking/press-release-process)
-- [Creating Artificial Needs](/strategies/user-perception/creating-artificial-needs)
+- [Press Release Process](/strategies/attacking/press-release-process) - orchestrating announcements and media engagement to amplify brand messages and steer narratives.
+- [Creating Artificial Needs](/strategies/user-perception/creating-artificial-needs) - crafting perceived customer desires through marketing to position solutions as indispensable.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – influence: brand messages must adapt as products mature.

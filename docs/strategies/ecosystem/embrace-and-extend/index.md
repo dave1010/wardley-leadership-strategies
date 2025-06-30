@@ -141,10 +141,10 @@ A strong, vibrant open-source community around a standard is one of the best def
 *   **[Lock-In](/terms/lock-in)**: The ultimate goal of this strategy is to create customer lock-in.
 *   **[Fear, Uncertainty, and Doubt (FUD)](/terms/fear-uncertainty-and-doubt)**: FUD is often used as a tactic to support an Embrace and Extend strategy by creating anxiety about the future of the open standard.
 
-- [Open Approaches](/strategies/accelerators/open-approaches)
-- [Co-opting](/strategies/ecosystem/co-opting)
-- [restriction-of-movement](/strategies/competitor/restriction-of-movement)
-- [fragmentation](/strategies/competitor/fragmentation)
+- [Open Approaches](/strategies/accelerators/open-approaches) - championing open standards and collaboration, in opposition to proprietary extensions that undermine compatibility.
+- [Co-opting](/strategies/ecosystem/co-opting) - absorbing compatible implementations into your ecosystem before introducing proprietary extensions.
+- [restriction-of-movement](/strategies/competitor/restriction-of-movement) - enforcing extensions to constrain competitors’ ability to adopt or move between standards.
+- [fragmentation](/strategies/competitor/fragmentation) - splintering the ecosystem by introducing incompatible variants that divide community implementations.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: extending a standard can undermine incumbent approaches.

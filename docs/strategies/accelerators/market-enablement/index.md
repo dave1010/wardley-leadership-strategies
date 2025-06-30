@@ -215,11 +215,11 @@ The degree of "openness" (e.g., open standards, open source, open data) is a cri
 - [Cooperation](/strategies/accelerators/cooperation) - Working with other players, even competitors, is fundamental to many market enablement initiatives.
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - An enabled market can lead to network effects that further accelerate adoption and growth.
 
-- [Industrial Policy](/strategies/accelerators/industrial-policy)
-- [Press Release Process](/strategies/attacking/press-release-process)
-- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry)
-- [Talent Raid](/strategies/competitor/talent-raid)
-- [Artificial Competition](/strategies/user-perception/artificial-competition)
+- [Industrial Policy](/strategies/accelerators/industrial-policy) - leveraging government support and regulatory measures to stimulate market formation and accelerate adoption.
+- [Press Release Process](/strategies/attacking/press-release-process) - using strategic announcements and PR campaigns to build awareness, align stakeholders, and signal market direction.
+- [Undermining Barriers to Entry](/strategies/attacking/undermining-barriers-to-entry) - lowering or removing obstacles for new participants to broaden the ecosystem and drive early market activity.
+- [Talent Raid](/strategies/competitor/talent-raid) - attracting critical expertise to build capabilities and seed the ecosystem with skills essential for market growth.
+- [Artificial Competition](/strategies/user-perception/artificial-competition) - creating perceived alternatives to spur adoption, validate demand, and encourage investment in a nascent market.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – trigger: enabling a market lets new value chains emerge.

@@ -146,10 +146,10 @@ Ultimately, restriction of movement can create a **stalemate favoring the strong
 -   [**Talent Raid**](/strategies/competitor/talent-raid) - Limits a competitor's movement by restricting access to talent.
 -   [**Limitation of Competition**](/strategies/defensive/limitation-of-competition) - The overarching goal of restriction of movement.
 
-- [Threat Acquisition](/strategies/defensive/threat-acquisition)
-- [sapping](/strategies/competitor/sapping)
-- [fragmentation](/strategies/competitor/fragmentation)
-- [Ambush](/strategies/competitor/ambush)
+- [Threat Acquisition](/strategies/defensive/threat-acquisition) - absorbing potential competitors or disruptive technologies to remove threats and limit their strategic options.
+- [sapping](/strategies/competitor/sapping) - gradually eroding a competitor’s resources and alliances to reduce their operational flexibility.
+- [fragmentation](/strategies/competitor/fragmentation) - breaking a competitor’s cohesive structure into isolated segments, constraining their ability to respond.
+- [Ambush](/strategies/competitor/ambush) - launching sudden strikes when competitors are restricted and unable to manoeuvre effectively.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – influence: blocking options keeps rivals tied to outdated approaches.

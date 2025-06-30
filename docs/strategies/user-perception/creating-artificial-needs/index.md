@@ -143,8 +143,8 @@ Counter-strategies often involve education, promoting conscious consumerism, or 
 - [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Central to creating needs via messaging.
 - [Education](/strategies/user-perception/education) - A more genuine way to create need by informing why something is important; in artificial needs, the education might be closer to propaganda.
 
-- [Differentiation](/strategies/markets/differentiation)
-- [Signal Distortion](/strategies/markets/signal-distortion)
+- [Differentiation](/strategies/markets/differentiation) - framing products as uniquely essential to reinforce the artificially generated need.
+- [Signal Distortion](/strategies/markets/signal-distortion) - manipulating narratives and signals to amplify the perceived importance of a manufactured need.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: manufactured demand bets on speculative future gains.
