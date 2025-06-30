@@ -1,4 +1,5 @@
 ---
+title: Circling and Probing
 tags: [circling-and-probing, competitor, circling, probing, exploration, experimentation, market testing, intelligence]
 ---
 

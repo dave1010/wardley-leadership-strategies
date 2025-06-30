@@ -1,4 +1,5 @@
 ---
+title: Reinforcing Competitor Inertia
 tags: [reinforcing-competitor-inertia, competitor, inertia, change, resistance, obsolescence, innovation]
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Misdirection
 tags: [misdirection, competitor, deception, assumptions, signals, influence, competitor intelligence]
 ---
 
