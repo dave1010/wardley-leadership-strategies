@@ -22,6 +22,7 @@ Key sub-strategies within the Ecosystem category include:
 *   **[Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: A powerful cycle involving developing novel components (Innovate), using them to build and dominate higher-order systems (Leverage), and then encouraging the commoditization of those components to undermine competitors or enable new innovations (Commoditize).
 *   **[Tower and Moat](/strategies/ecosystem/tower-and-moat)**: Building a strong, defensible core business (the Tower) and then creating a surrounding ecosystem of complementary products, services, or partners (the Moat) that protect and enhance the core.
 *   **[Two-Factor Markets](/strategies/ecosystem/two-factor-markets)**: Creating value by connecting two distinct groups of users or customers who depend on each other, often subsidizing one side to attract the other (e.g., app stores connecting developers and users).
+*   **[Platform Envelopment](/strategies/ecosystem/platform-envelopment)**: Expanding a platform's influence by integrating or bundling functionalities from other platforms or by directly competing with its own users, leveraging an existing user base to grow the ecosystem.
 
 ## 🚀 **Why Use Ecosystem Strategies?**
 
