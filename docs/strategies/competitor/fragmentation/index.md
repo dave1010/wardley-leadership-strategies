@@ -2,9 +2,11 @@
 tags: [competitor, fragmentation, markets, underdog, disruption, divide and conquer]
 ---
 
-# Fragmentation
-
 **Splintering a rival's market to erode their stronghold**.
+
+> *"Exploiting pricing effects, constraints and co-opting to fragment a competitor's market."*
+>
+> - Simon Wardley
 
 It involves exploiting weaknesses to break the competitor's market into smaller pieces.
 

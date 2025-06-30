@@ -4,11 +4,11 @@ description: A defensive strategy focused on proactively identifying and overcom
 tags: [defensive, inertia, change-management, adaptation, organizational-change, resistance, culture]
 ---
 
-# Managing Inertia
-
 **A defensive strategy focused on proactively identifying and overcoming an organization's internal resistance to change to enable adaptation and agility.**
 
-
+> *"Implementation of cell based & PST structures along with multiple cultures to deal with aptitude and attitude. Both autonomy and mastery can be enabled by these forms of structure and they avoid the silos and inertia created by traditional structures."*
+>
+> - Simon Wardley
 
 ## 🤔 **Explanation**
 

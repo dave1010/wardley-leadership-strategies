@@ -4,11 +4,9 @@ description: A strategy of outlasting competitors in a commoditizing market to c
 tags: [markets, commoditisation, attrition, scale, efficiency, price-war, market-consolidation]
 ---
 
-# Last Man Standing
-
 **A strategy of outlasting competitors in a commoditizing market to capture remaining market share.**
 
-
+This strategy isn't explicitly mentioned by Simon Wardley in his [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
 
 ## 🤔 **Explanation**
 

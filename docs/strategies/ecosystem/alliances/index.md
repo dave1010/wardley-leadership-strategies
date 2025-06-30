@@ -6,7 +6,9 @@ tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, 
 
 **Forming formal partnerships to pursue common objectives.**
 
-# Alliances
+> *"Working with other companies to drive evolution of a specific activity, practice or data set."*
+>
+> - Simon Wardley
 
 ## 🤔 **Explanation**
 

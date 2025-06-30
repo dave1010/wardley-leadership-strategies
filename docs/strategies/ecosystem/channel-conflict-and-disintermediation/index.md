@@ -4,11 +4,11 @@ description: A strategy of deliberately creating tension between distribution ch
 tags: [ecosystem, channel-conflict, disintermediation, distribution, direct-to-consumer, partners, leverage]
 ---
 
-# Channel Conflict and Disintermediation
-
 **A strategy of deliberately creating tension between distribution channels to gain control, reshape value flows, and own the customer relationship.**
 
-
+> *"Exploiting new channels and conflict within existing channels to create favourable terms."*
+>
+> - Simon Wardley
 
 ## 🤔 **Explanation**
 

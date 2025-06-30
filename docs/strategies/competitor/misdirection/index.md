@@ -2,9 +2,11 @@
 tags: [misdirection, competitor, deception, assumptions, signals, influence, competitor intelligence]
 ---
 
-# Misdirection
-
 **Deliberately sending false or misleading signals to competitors to obscure your true intentions**.
+
+> *"Sending false signals to competitors or future competitors including investment focused on the wrong direction."*
+>
+> - Simon Wardley
 
 It's about appearing to go one way while secretly moving another.
 
