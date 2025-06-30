@@ -24,6 +24,16 @@ Tech Drops allows an organization to proactively define the future trajectory of
 
 The strategy hinges on visionary innovation, rigorous development in secrecy, and flawless execution. A novel technological concept is typically incubated away from public view (e.g., in a dedicated R&D lab or "skunkworks" project) to ensure the element of surprise. Simultaneously, the organization prepares for mass adoption by ensuring scalability of infrastructure, marketing, and support services. The launch is a high-impact, coordinated event designed to maximize market awareness and demonstrate the clear superiority or novelty of the innovation. The goal is to make the new technology appear as a sudden breakthrough, fundamentally changing what customers expect from products or services in that category.
 
+## 🗺️ **Real-World Examples**
+
+### Apple's iPhone Launch (2007)
+
+The introduction of the iPhone is a masterclass in the Tech Drops strategy. While competitors like Nokia, BlackBerry, and Microsoft were focused on incremental improvements to physical keyboards and enterprise features, Apple secretly developed a device that combined a multi-touch screen, a full-featured web browser, and an iPod into a single product. The launch caught the entire industry by surprise, instantly making existing "smartphones" feel obsolete and forcing every competitor to abandon their roadmaps and start over.
+
+### AWS Lambda Launch (2014)
+
+At its re:Invent conference, AWS frequently uses Tech Drops tactics. The launch of AWS Lambda in 2014 is a prime example. While the industry was focused on virtual machines and containers, AWS introduced "serverless" computing, a completely new paradigm for building applications. This move created a new market category out of thin air, established AWS as the leader, and forced competitors like Google and Microsoft to spend years developing their own competing offerings (Google Cloud Functions and Azure Functions).
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Tech Drops">
@@ -41,16 +51,6 @@ The strategy hinges on visionary innovation, rigorous development in secrecy, an
     <li>The innovation is significant and defensible, not just an incremental feature.</li>
   </Readiness>
 </Assessment>
-
-## 🗺️ **Real-World Examples**
-
-### Apple's iPhone Launch (2007)
-
-The introduction of the iPhone is a masterclass in the Tech Drops strategy. While competitors like Nokia, BlackBerry, and Microsoft were focused on incremental improvements to physical keyboards and enterprise features, Apple secretly developed a device that combined a multi-touch screen, a full-featured web browser, and an iPod into a single product. The launch caught the entire industry by surprise, instantly making existing "smartphones" feel obsolete and forcing every competitor to abandon their roadmaps and start over.
-
-### AWS Lambda Launch (2014)
-
-At its re:Invent conference, AWS frequently uses Tech Drops tactics. The launch of AWS Lambda in 2014 is a prime example. While the industry was focused on virtual machines and containers, AWS introduced "serverless" computing, a completely new paradigm for building applications. This move created a new market category out of thin air, established AWS as the leader, and forced competitors like Google and Microsoft to spend years developing their own competing offerings (Google Cloud Functions and Azure Functions).
 
 ## 🎯 **Leadership**
 
