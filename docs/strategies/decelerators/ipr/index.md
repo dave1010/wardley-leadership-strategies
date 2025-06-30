@@ -158,6 +158,9 @@ Intellectual Property Rights are increasingly becoming a significant element in 
 - [Defensive Regulation](/strategies/defensive/defensive-regulation) - Using regulation to create legal constraints.
 - [Open Approaches](/strategies/accelerators/open-approaches) - Alternative strategy leveraging open standards and collaboration.
 
+- [Creating Constraints](/strategies/decelerators/creating-constraints)
+- [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint)
+- [Limitation of Competition](/strategies/defensive/limitation-of-competition)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: aggressive IP use can entrench slow-moving leaders.

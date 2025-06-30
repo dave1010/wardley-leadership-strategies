@@ -9,6 +9,7 @@ tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, 
 # Alliances
 
 ## 🤔 **Explanation**
+
 ### What are Alliances?
 
 Forming formal partnerships or consortia with other companies to pursue a shared objective or market. An alliance pools resources or market access to achieve something none of the members could easily do alone.
@@ -35,6 +36,7 @@ Key principles for effective alliances:
 Alliances are particularly effective as ecosystem plays, allowing collective action in environments of high uncertainty or where first-mover advantage matters.
 
 ## 🗺️ **Real-World Examples**
+
 ### Star Alliance (airlines)
 
 Dozens of airlines allied to extend reach through code-sharing and integrated frequent flyer benefits. This enabled a global network under a single brand, driving the evolution of air travel connectivity.
@@ -48,6 +50,7 @@ Qualcomm, Microsoft, LG and others formed an alliance to promote AllJoyn as an o
 Several mid-sized electric vehicle startups create a joint venture for charging infrastructure. This allows them to rival Tesla’s Supercharger network and accelerate EV adoption.
 
 ## 🚦 **When to Use / When to Avoid**
+
 <Assessment strategyName="Alliances">
   <MapSignals>
     <li>The competitive environment includes dominant players or high barriers that are difficult to tackle alone.</li>
@@ -82,8 +85,8 @@ Several mid-sized electric vehicle startups create a joint venture for charging 
 - potential for anti-trust issues or perceptions of collusion
 - alliance could slow you down unnecessarily
 - you have a dominant position and don't need others
-
 ## 🎯 **Leadership**
+
 ### Core Challenge
 
 Balancing coordination and speed across multiple organisations with differing goals and cultures.
@@ -97,6 +100,7 @@ Balancing coordination and speed across multiple organisations with differing go
 - ecosystem thinking
 
 ## 📋 **How to Execute**
+
 - clearly define scope, contributions and benefits
 - create governance structures that ensure fairness and decision-making agility
 - manage relationships actively and continually evaluate alignment
@@ -107,18 +111,21 @@ Balancing coordination and speed across multiple organisations with differing go
 - avoid alliances that mask monopolistic control
 
 ## 📈 **Measuring Success**
+
 - progress toward shared goals (e.g. adoption of standard, market share gains)
 - sustainability of the alliance
 - balance of contributions and benefits across members
 - speed of collective impact versus going solo
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
+
 - decision gridlock due to too many players
 - unequal contributions leading to resentment
 - defection by members with changing incentives
 - loss of strategic direction if governance is weak
 
 ## 🧠 **Strategic Insights**
+
 - alliances are ecosystem strategies for evolution
 - powerful in the standards game where network effects matter
 - can shift the center of gravity in an industry
@@ -135,6 +142,7 @@ Alliances are a formalised, structured subset of broader cooperation. Where coop
 If cooperation is about joint exploration, alliances are about jointly steering an ecosystem.
 
 ## ❓ **Key Questions to Ask**
+
 - Do we share a clear and durable interest with potential partners?
 - Can we agree on governance and conflict resolution?
 - Are we better off together than alone?
@@ -142,15 +150,22 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 - How will we handle success and changing power dynamics?
 
 ## 🔀 **Related Strategies**
+
 - [Cooperation](/strategies/accelerators/cooperation) - alliances are a structured form of cooperation for shared goals.
 - [Standards Game](/strategies/markets/standards-game) - alliances often form to promote or defend a shared standard.
 - [Center of Gravity](/strategies/attacking/centre-of-gravity) - alliances can shift the industry's center of gravity against a rival.
 
+- [Market Enablement](/strategies/accelerators/market-enablement)
+- [restriction-of-movement](/strategies/competitor/restriction-of-movement)
+- [circling-and-probing](/strategies/competitor/circling-and-probing)
+- [fragmentation](/strategies/competitor/fragmentation)
 ## ⛅ **Relevant Climatic Patterns**
+
 - [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – trigger: intense competition often pushes companies to form alliances.
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: alliances can guide how related capabilities evolve together.
 
 ## 📚 **Further Reading & References**
+
 - Wardley, S. – *"Alliances: working with other companies to drive evolution of a specific activity/data set."*
 - Case Study: **IBM PC (1981)** – IBM, Microsoft and Intel formed a de facto alliance to create a standard PC architecture, setting the stage for an ecosystem.
 - *"Alliances & Joint Ventures"* (Harvard Business Review) – discusses reasons alliances fail, such as cultural mismatches and lack of leadership.

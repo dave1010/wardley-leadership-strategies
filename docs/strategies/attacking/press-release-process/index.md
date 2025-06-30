@@ -11,6 +11,7 @@ tags: [press-release-process, attacking, marketing, product development, working
 :::
 
 ## 🤔 **Explanation**
+
 ### What is Press Release Process?
 
 The Press Release Process starts by writing the press release and FAQ for a proposed product before development begins. This fictional launch artefact defines the user problem, the solution, and the differentiation—anchoring the vision in customer value from day one.
@@ -48,16 +49,8 @@ It’s about **identifying what’s ready to be commoditised**, and building eff
 
 Then execute against that. The press release becomes a forcing function for evolutionary acceleration, team alignment, and strategic focus.
 
-## 🗺️ **Real-World Examples**
-### Amazon
-
-Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
-
-### Netflix
-
-Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
-
 ## 🚦 **When to Use / When to Avoid**
+
 <Assessment strategyName="Press Release Process">
   <MapSignals>
     <li>We're initiating development of a new product, feature, or user-facing service.</li>
@@ -101,7 +94,18 @@ quadrantChart
     quadrant-4 "Abandon or Rethink"
 ```
 
+## 🗺️ **Real-World Examples**
+
+### Amazon
+
+Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
+
+### Netflix
+
+Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
+
 ## 🎯 **Leadership**
+
 ### Core challenge
 
 Ensuring the process is taken seriously and influences product design is critical to its success. Leaders must foster a culture where the press release process is foundational step in product development, rather than a formality. This involves actively engaging teams to iterate on the press release until it is compelling and aligns with customer needs.
@@ -119,12 +123,14 @@ Leaders should ensure that the press release remains a living document, guiding 
 Avoid overhyping or promising features that cannot be delivered.
 
 ## 📋 **How to Execute**
+
 1. Draft a press release and FAQ for the product.
 2. Iterate on the product idea until the press release is compelling.
 3. Use the press release as a guiding document throughout development.
 4. Update the press release as the product evolves.
 
 ## 📈 **Measuring Success**
+
 - Clear and compelling press releases for all initiatives.
 - Improved product-market fit.
 - Faster adoption and positive customer feedback.
@@ -132,6 +138,7 @@ Avoid overhyping or promising features that cannot be delivered.
 - Reduced feature creep.
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
+
 ### Faking it
 
 Writing a press release without letting it influence design yields no benefit.
@@ -145,6 +152,7 @@ Ignoring the press release after writing it wastes the effort.
 Overpromising in the press release can lead to a disconnect at launch.
 
 ## 🧠 **Strategic Insights**
+
 ### Forcing Function for Value Chain Coherence
 
 The Press Release Process acts as a forcing function to define a coherent value chain *before* resources are committed. By articulating the end-state (customer value) up front, it forces strategic decisions about *what must exist* to realise that value. This exposes key components, dependencies, and whether you're working with industrialised building blocks—or inventing where you shouldn’t be. It transforms vague intent into explicit structure.
@@ -174,11 +182,13 @@ In fast-moving markets, delay often stems from poor alignment and rework. Pre-co
 A press release that reads as weak or incoherent is a fast signal of strategic unfitness. If you can’t make the narrative credible, it likely means the need isn’t real, the differentiation is unclear, or the supporting capabilities don’t exist. This gives you a cheap, fast, repeatable filter, before expensive commitments are made.
 
 ## ❓ **Key Questions to Ask**
+
 - **Customer focus:** Does the press release clearly articulate the customer benefit?
 - **Clarity:** Is the message simple and compelling?
 - **Differentiation:** Does the product stand out from competitors?
 
 ## 🔀 **Related Strategies**
+
 - [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Integrates marketing into development.
 - [Directed Investment](/strategies/attacking/directed-investment) – Helps prioritise resources toward capabilities surfaced during the press release process.
 - [Market Enablement](/strategies/accelerators/market-enablement) – Ensures downstream ecosystem or partner support for the customer-facing outcome.
@@ -189,9 +199,12 @@ A press release that reads as weak or incoherent is a fast signal of strategic u
 - [Fast Follower](/strategies/positional/fast-follower) – The press release process can be used to quickly respond to emerging user needs with evolved capabilities.
 - [Experimentation](/strategies/attacking/experimentation) – Use press releases to simulate outcomes and test resonance before committing resources.
 
+- [insertion](/strategies/poison/insertion)
 ## ⛅ **Relevant Climatic Patterns**
+
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – trigger: describing the end state clarifies uncertain outcomes.
 - [Everything evolves](/climatic-patterns/everything-evolves) – influence: the press release helps teams anticipate how the product will mature.
 
 ## 📚 **Further Reading & References**
+
 - [Working Backwards](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595) - Details Amazon's methodology.

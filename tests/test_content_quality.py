@@ -463,3 +463,32 @@ def test_internal_links_are_in_related_strategies():
 
     assert not issues_found, \
         "Found internal strategy links not listed in 'Related Strategies' sections:\n\n" + "\n\n".join(issues_found)
+
+
+def test_strategy_has_quote_or_explicit_unmentioned_note():
+    """Ensure each strategy either quotes Simon Wardley or states it isn't explicitly mentioned."""
+    strategy_files = find_markdown_files(STRATEGY_DIR, filename_pattern='index.md')
+    missing = []
+
+    for filepath in strategy_files:
+        relative_path = os.path.relpath(filepath, STRATEGY_DIR)
+        if len(os.path.normpath(relative_path).split(os.sep)) < 3:
+            continue
+
+        slug = get_file_slug(filepath, 'docs')
+        try:
+            with open(filepath, 'r', encoding='utf-8') as f:
+                content = f.read()
+        except FileNotFoundError:
+            missing.append(f"File not found: {slug}")
+            continue
+
+        has_quote = re.search(r'^>.*Simon Wardley', content, re.MULTILINE)
+        has_unmentioned = "isn't explicitly mentioned" in content
+
+        if not (has_quote or has_unmentioned):
+            missing.append(slug)
+
+    assert not missing, (
+        "Strategies missing a Wardley quote or 'isn't explicitly mentioned' note:\n" + "\n".join(missing)
+    )

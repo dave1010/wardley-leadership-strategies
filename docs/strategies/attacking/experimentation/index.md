@@ -166,6 +166,10 @@ Experiments often reveal new dependencies or bottlenecks early, letting you shap
 - [Co-creation](/strategies/ecosystem/co-creation) – Working with users during experiments deepens insight.
 - [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon) – Experiments often start by probing weak signals.
 
+- [Fast Follower](/strategies/positional/fast-follower)
+- [Press Release Process](/strategies/attacking/press-release-process)
+- [circling-and-probing](/strategies/competitor/circling-and-probing)
+- [Differentiation](/strategies/markets/differentiation)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [You cannot measure evolution over time or adoption](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty) – influence: uncertainty makes experimentation essential.

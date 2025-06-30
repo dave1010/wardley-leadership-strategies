@@ -138,6 +138,11 @@ The core insight of co-creation is that value is not created by the company and 
 *   **[Open Approaches](/strategies/accelerators/open-approaches)**: Co-creation is a form of open innovation and often relies on open platforms and standards.
 *   **[Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: Co-creation can be a powerful input to the "Leverage" phase of the ILC cycle, providing clear signals about what to commoditize next.
 
+- [Cooperation](/strategies/accelerators/cooperation)
+- [Press Release Process](/strategies/attacking/press-release-process)
+- [Experimentation](/strategies/attacking/experimentation)
+- [Harvesting](/strategies/markets/harvesting)
+- [Differentiation](/strategies/markets/differentiation)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: working directly with users shapes how products and practices mature together.

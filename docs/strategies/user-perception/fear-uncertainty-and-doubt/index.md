@@ -162,6 +162,9 @@ The ethical spectrum of FUD is broad, from aggressive but legitimate competition
 - [Misdirection](/strategies/competitor/misdirection) – Another deceptive tactic.
 - [Lobbying](/strategies/user-perception/lobbying) – Using fear-based arguments in regulatory affairs is essentially FUD toward policymakers.
 
+- [Education](/strategies/user-perception/education)
+- [Confusion of Choice](/strategies/user-perception/confusion-of-choice)
+- [Brand and Marketing](/strategies/user-perception/brand-and-marketing)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [The less evolved something is then the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – trigger: sowing doubt exploits the unknowns around emerging tech.

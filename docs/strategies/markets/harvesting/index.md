@@ -13,6 +13,7 @@ tags: [markets, ecosystem, innovation, scaling, acquisition, replication, platfo
 > - Simon Wardley
 
 ## 🤔 **Explanation**
+
 ### What is Harvesting?
 
 Harvesting is a platform strategy where a company creates an ecosystem that encourages third parties to build new products and services on top of its core offering. The platform owner then acts as a "sensing engine," monitoring the ecosystem to see which of these third-party innovations gain the most traction with customers. Once a winner emerges, the platform owner can choose to "harvest" it by acquiring the company, replicating the functionality, or tightly integrating it into the core platform. This allows the platform owner to benefit from a wide range of experimentation without bearing all the costs and risks.
@@ -27,6 +28,7 @@ This strategy offers several powerful advantages:
 *   **Increased Agility:** It allows a large company to innovate and respond to market needs much faster than if it relied solely on its internal development processes.
 
 ## 🗺️ **Real-World Examples**
+
 ### Apple's App Store
 
 Apple provides the iOS platform and the App Store, but it doesn't create most of the apps. It observes which apps and features become popular. Over the years, Apple has integrated functionality that was once the domain of third-party apps directly into iOS. For example, features like flashlight apps, screen recording, and keyboard enhancements were all pioneered by third-party developers before being harvested by Apple and built into the operating system.
@@ -40,6 +42,7 @@ AWS constantly monitors how its customers are using its primitive services (like
 For decades, Microsoft has observed the vast ecosystem of software built for Windows. When a particular category of utility or application becomes indispensable for a large number of users, Microsoft has often chosen to build a similar feature directly into Windows. This has happened with disk compression, file search, and many other utilities.
 
 ## 🚦 **When to Use / When to Avoid**
+
 <Assessment strategyName="Harvesting">
   <MapSignals>
     <li>Your map shows a platform with a growing ecosystem of third-party developers and solutions.</li>
@@ -69,6 +72,7 @@ For decades, Microsoft has observed the vast ecosystem of software built for Win
 *   The legal or technical barriers to acquiring or replicating the innovation are too high.
 
 ## 🎯 **Leadership**
+
 ### Core challenge
 
 The most significant leadership challenge is managing the relationship with the ecosystem. If developers feel that their best ideas will simply be stolen, they will stop innovating on your platform. Leaders must find a way to harvest successfully while still ensuring the ecosystem remains a vibrant and attractive place for third parties to build. This requires a delicate touch and a long-term perspective.
@@ -88,6 +92,7 @@ Harvesting is ethically complex. On one hand, you are providing the platform tha
 *   Are we leaving enough room for a healthy ecosystem to thrive after we have harvested an idea?
 
 ## 📋 **How to Execute**
+
 1.  **Build and Nurture the Platform:** Create a robust and open platform that makes it easy for third parties to build on.
 2.  **Establish Sensing Engines:** Implement mechanisms to monitor the ecosystem. This could include tracking API usage, analyzing app store data, running developer competitions, or actively engaging with the community.
 3.  **Identify Successful Innovations:** Look for signals of traction: high user adoption, strong developer interest, or significant revenue generation.
@@ -96,12 +101,14 @@ Harvesting is ethically complex. On one hand, you are providing the platform tha
 6.  **Manage the Ecosystem Response:** Communicate your decision clearly and transparently to the developer community. Emphasize the benefits to the overall platform and its users.
 
 ## 📈 **Measuring Success**
+
 *   **Ecosystem Health:** Is the number of developers and applications on your platform still growing after a harvest?
 *   **Pace of Innovation:** Are you able to bring new, market-validated features to your users more quickly?
 *   **Platform Value:** Has the harvested feature increased the overall value and stickiness of your platform?
 *   **Acquisition ROI:** If you acquired a company, is it delivering a positive return on investment?
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
+
 ### Poisoning the Well
 If you are too aggressive or unfair in your harvesting, you will destroy the trust of your developer community, and they will abandon your platform.
 
@@ -115,6 +122,7 @@ You may fail to recognize a significant innovation in your ecosystem until it is
 Even if you successfully acquire or replicate a feature, a poor integration can fail to deliver the expected value to users.
 
 ## 🧠 **Strategic Insights**
+
 ### The Platform as a Sensing Engine
 This strategy reframes the purpose of a platform. It is not just a foundation for your own products, but a powerful sensing engine for detecting and capitalizing on market trends. The more open your platform, the more signals you can receive.
 
@@ -122,6 +130,7 @@ This strategy reframes the purpose of a platform. It is not just a foundation fo
 At its best, harvesting is a symbiotic relationship. The ecosystem provides innovation and market validation, while the platform provides scale and distribution. The challenge is to maintain this balance and not allow it to become parasitic.
 
 ## ❓ **Key Questions to Ask**
+
 *   **Ecosystem Trust:** How can we harvest this innovation without damaging the trust of our developer community?
 *   **Build vs. Buy:** Does it make more sense to acquire this company or to replicate their functionality ourselves?
 *   **Strategic Importance:** Is this feature so important that it needs to be part of our core platform?
@@ -129,13 +138,16 @@ At its best, harvesting is a symbiotic relationship. The ecosystem provides inno
 *   **Long-Term Impact:** What will be the long-term impact of this decision on the health and vibrancy of our ecosystem?
 
 ## 🔀 **Related Strategies**
+
 *   **[Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: The underlying engine that drives a Harvesting strategy.
 *   **[Open Approaches](/strategies/accelerators/open-approaches)**: Creating an open platform is a prerequisite for a healthy ecosystem that can be harvested.
 *   **[Co-creation](/strategies/ecosystem/co-creation)**: Working with partners to build new services can be an early signal of what to harvest later.
 *   **[Co-opting](/strategies/ecosystem/co-opting)**: A related strategy where you might absorb a competitor's differentiation into your platform.
 *   **[Threat Acquisition](/strategies/defensive/threat-acquisition)**: Harvesting can sometimes be a defensive move to acquire a company that is becoming a threat.
 
+- [Market Enablement](/strategies/accelerators/market-enablement)
 ## ⛅ **Relevant Climatic Patterns**
+
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The ecosystem around a platform evolves, creating new opportunities for harvesting.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Third-party innovations on a platform often seek to improve efficiency or offer new capabilities, which can then be harvested.
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Successful harvested features often become part of a higher-order system (the platform), increasing its overall value.
@@ -143,5 +155,6 @@ At its best, harvesting is a symbiotic relationship. The ecosystem provides inno
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Harvesting directs the platform owner's capital (build or buy) towards validated areas of value.
 
 ## 📚 **Further Reading & References**
+
 *   **[Platform Revolution](https://www.goodreads.com/book/show/26899832-platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.
 *   **[The Business of Platforms](https://www.goodreads.com/book/show/43688225-the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie. Explores the strategies of platform companies.

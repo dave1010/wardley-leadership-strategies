@@ -14,6 +14,7 @@ id of the toxic."*
 > - Simon Wardley
 
 ## 🤔 **Explanation**
+
 ### What is Disposal of Liability?
 Disposal of Liability is the strategic removal of components, such as products, services, or operations, that have become
 burdensome or harmful to an organization’s evolution. These components may be outdated, costly to maintain, or generate inertia
@@ -29,6 +30,7 @@ risk, and strategic fit. Develop a disposal plan, which may include divestiture,
 communicate with stakeholders, and manage the transition carefully.
 
 ## 🗺️ **Real-World Examples**
+
 ### IBM’s PC Division Sale to Lenovo (2005)
 IBM sold its commoditized PC division to Lenovo to shed a low-margin business and focus on services and software, enabling it
 to reallocate resources to higher-growth areas.
@@ -42,6 +44,7 @@ A telecom operator divests its legacy copper infrastructure to a specialized fir
 investment in broadband and wireless networks.
 
 ## 🚦 **When to Use / When to Avoid**
+
 <Assessment strategyName="Disposal of Liability">
   <MapSignals>
     <li>Our map shows key components stuck in a mature or commodity stage.</li>
@@ -64,6 +67,7 @@ utweighs the benefits, and you have leadership support for disposal.
 stakeholder alignment to execute a disposal plan.
 
 ## 🎯 **Leadership**
+
 ### Core challenge
 Navigating internal resistance and ensuring organizational alignment when proposing the removal of long-standing assets that
 employees and customers may be attached to.
@@ -79,6 +83,7 @@ Ensure that disposal does not abandon stakeholders, such as employees, customers
 severance, or transition support.
 
 ## 📋 **How to Execute**
+
 1. Map and identify liabilities in your value chain.
 2. Evaluate cost, risk, and strategic fit of each component.
 3. Develop a disposal plan (divestiture, shutdown, or sale).
@@ -87,12 +92,14 @@ severance, or transition support.
 6. Manage transition and monitor outcomes.
 
 ## 📈 **Measuring Success**
+
 - Reduction in maintenance and operational costs.
 - Resources reallocated to strategic initiatives.
 - Percentage of legacy components successfully removed.
 - Improvement in organizational agility and focus.
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
+
 ### Underestimating hidden costs
 Disposal can incur unforeseen expenses—legal fees, severance, or environmental cleanup—that jeopardize the plan.
 
@@ -106,6 +113,7 @@ Ignoring contractual obligations or regulatory requirements can result in fines 
 Removing a component too quickly may deprive the organization of essential skills or knowledge.
 
 ## 🧠 **Strategic Insights**
+
 ### Evolution acceleration
 Removing outdated components accelerates organizational evolution by clearing bottlenecks.
 
@@ -116,6 +124,7 @@ Disposal clarifies strategy, directing attention and investment toward future-fa
 While disposal reduces systemic drag, it can concentrate risk if overused or poorly planned.
 
 ## ❓ **Key Questions to Ask**
+
 - What assets are dragging our evolution?
 - Where are we investing resources to maintain obsolete components?
 - Who will be affected by disposal and how will we support them?
@@ -123,6 +132,7 @@ While disposal reduces systemic drag, it can concentrate risk if overused or poo
 - What is the timeline and criteria for success?
 
 ## 🔀 **Related Strategies**
+
 - [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - Outsource toxic assets to third parties when direct
 disposal isn’t feasible.
 - [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - Misrepresent toxic assets as valuable to offload them.
@@ -130,6 +140,7 @@ disposal isn’t feasible.
 alternative to disposal.
 
 ## ⛅ **Relevant Climatic Patterns**
+
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: What was once an asset can become a liability as the market and technology landscape changes.
 - [Characteristics change](/climatic-patterns/characteristics-change) – rel: The characteristics of a component or business unit can shift, making it toxic to the parent company.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Holding onto a liability due to past success can be detrimental; disposal is necessary.
@@ -137,5 +148,6 @@ alternative to disposal.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Freeing up capital by disposing of liabilities allows investment in new value-creating opportunities.
 
 ## 📚 **Further Reading & References**
+
 - HBR: [“Pruning the Corporate Portfolio”](https://hbr.org/2017/12/case-study-should-a-hotel-giant-eliminate-some-brands-and-refocus) - Guidance on divestment timing and execution.
 - [General Electric rids itself of financial unit in $26.5bn deal as it hones focus](https://www.theguardian.com/business/2015/apr/10/general-electric-sell-financial-unit-26-billion-deal) - GE’s divestiture of GE Capital (2015) - Case study of reducing complexity by divesting a non-core business.

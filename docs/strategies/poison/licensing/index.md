@@ -13,6 +13,7 @@ tags: [poison, intellectual-property, restriction, lock-in]
 > - Simon Wardley
 
 ## 🤔 **Explanation**
+
 ### What is Licensing?
 
 Licensing uses legal agreements like patents, copyrights, or trademarks, to control how others can use, modify, or distribute a technology or component. Terms may include field-of-use restrictions, revocable licenses, or dual-licensing models.
@@ -35,6 +36,7 @@ By structuring licenses strategically, you can:
 - Lock in partners or customers through exclusive rights.
 
 ## 🗺️ **Real-World Examples**
+
 ### MySQL Dual Licensing
 
 Oracle’s MySQL offers GPL-licensed open source and paid proprietary licenses. Projects requiring commercial terms must purchase a license, generating revenue and controlling adoption.
@@ -44,6 +46,7 @@ Oracle’s MySQL offers GPL-licensed open source and paid proprietary licenses. 
 Google releases Android under open-source licenses but retains key services under proprietary licenses, guiding ecosystem development under its terms.
 
 ## 🚦 **When to Use / When to Avoid**
+
 <Assessment strategyName="Licensing">
   <MapSignals>
     <li>Our map highlights critical components that competitors must use.</li>
@@ -72,6 +75,7 @@ Google releases Android under open-source licenses but retains key services unde
 - Legal risks or enforcement costs exceed benefits.
 
 ## 🎯 **Leadership**
+
 ### Core challenge
 
 Crafting license terms that effectively deter competitors without alienating legitimate users or developers.
@@ -88,6 +92,7 @@ Crafting license terms that effectively deter competitors without alienating leg
 Overly restrictive licensing can stifle innovation and erode trust. Leaders should assess broader community impact and balance control with collaboration.
 
 ## 📋 **How to Execute**
+
 1. Audit core IP assets and dependencies.
 2. Define strategic objectives for licensing (protection, revenue, lock-in).
 3. Select license models: field-of-use, dual-licensing, revocable.
@@ -97,6 +102,7 @@ Overly restrictive licensing can stifle innovation and erode trust. Leaders shou
 7. Review and iterate licenses as market and technology evolve.
 
 ## 📈 **Measuring Success**
+
 - Reduced competitor use or replication of core assets.
 - Licensing revenue and renewal rates.
 - Partner and customer satisfaction under license terms.
@@ -104,6 +110,7 @@ Overly restrictive licensing can stifle innovation and erode trust. Leaders shou
 - Sustained market share and ecosystem stability.
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
+
 ### Over-Complexity
 
 Excessively detailed terms can deter all adopters, including loyal partners.
@@ -121,6 +128,7 @@ Open-source communities may fork or abandon overly restrictive licenses.
 Excessive restrictions may create incompatible ecosystems.
 
 ## 🧠 **Strategic Insights**
+
 ### Dual-Licensing Models
 Offering both open source (e.g., GPL) and commercial licenses can be a powerful "Trojan horse." The open version drives adoption and community engagement, while the commercial option captures value from enterprises unwilling or unable to comply with open source terms, effectively segmenting the market.
 
@@ -146,6 +154,7 @@ A sophisticated licensing strategy can use graduated models to first seed a mark
 In complex ecosystems where multiple patented technologies are required to create a final product (e.g., smartphones), strategic licensing can lead to "royalty stacking." A company holding key patents can license them in a way that, while seemingly reasonable in isolation, contributes to an overall high cost for manufacturers when combined with licenses from other patent holders. If a single entity controls a significant portion of these essential patents, their licensing strategy can effectively "tax" the entire ecosystem. The "poison" here is the cumulative burden on implementers, which can stifle innovation, raise prices for consumers, and make it difficult for new entrants to compete, thereby reinforcing the power of the dominant patent holder(s). This is a high-stakes game often seen in standards-essential patent disputes.
 
 ## ❓ **Key Questions to Ask**
+
 - **Dependency:** Which of our assets are critical bottlenecks in the map?
 - **Leverage:** How can license terms create sustainable competitive advantage?
 - **Risk:** What is the litigation and reputational risk?
@@ -153,6 +162,7 @@ In complex ecosystems where multiple patented technologies are required to creat
 - **Evolution:** How will our licensing model adapt to market changes?
 
 ## 🔀 **Related Strategies**
+
 - [Patents & IPR](/strategies/decelerators/ipr) — using patents and IPR for control.
 - [Open Approaches](/strategies/accelerators/open-approaches) — the inverse: open standards and licenses.
 - [Designed to Fail](/strategies/poison/designed-to-fail) — seeding flawed initiatives.
@@ -160,6 +170,7 @@ In complex ecosystems where multiple patented technologies are required to creat
 - [Limitation of Competition](/strategies/defensive/limitation-of-competition) — structural barriers to entry.
 
 ## ⛅ **Relevant Climatic Patterns**
+
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Licensing terms must adapt as technologies evolve and commoditize.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Restrictive licensing can stifle innovation by preventing efficient use or combination of technologies.
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Licensing can control access to components needed to build higher-order systems, thus capturing value.
@@ -167,5 +178,6 @@ In complex ecosystems where multiple patented technologies are required to creat
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A company successful with a particular licensing model might be slow to adapt it as the market changes.
 
 ## 📚 **Further Reading & References**
+
 - [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html) — example of strong copyleft.
 - [Multi-licensing](https://en.wikipedia.org/wiki/Multi-licensing) — overview of dual and multi-licensing strategies.

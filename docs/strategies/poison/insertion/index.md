@@ -11,6 +11,7 @@ tags: [poison, sabotage, influence, misdirection, competitor-manipulation]
 > - Simon Wardley
 
 ## 🤔 **Explanation**
+
 ### What is Insertion?
 
 Insertion involves placing or influencing individuals, partnerships, or narratives within a competitor’s ecosystem to distort their decision-making processes.
@@ -28,6 +29,7 @@ This strategy allows you to:
 - Gain indirect control over market narratives and priorities.
 
 ## 🗺️ **Real-World Examples**
+
 ### Reverse Mentoring in Tech
 
 A dominant platform hires open-source advocates to slow feature rollouts or introduce bureaucratic hurdles, delaying competitor innovation.
@@ -37,6 +39,7 @@ A dominant platform hires open-source advocates to slow feature rollouts or intr
 You contract analysts to publish optimistic forecasts about a competitor’s nascent technology, prompting them to over-invest in an unproven niche.
 
 ## 🚦 **When to Use / When to Avoid**
+
 <Assessment strategyName="Insertion">
   <MapSignals>
     <li>The map shows a competitor gaining momentum in a key component or capability.</li>
@@ -65,6 +68,7 @@ You contract analysts to publish optimistic forecasts about a competitor’s nas
 - Detection would cause unacceptable reputation or regulatory harm.
 
 ## 🎯 **Leadership**
+
 ### Core challenge
 
 Maintaining covert operations while measuring impact and avoiding detection or blowback.
@@ -81,6 +85,7 @@ Maintaining covert operations while measuring impact and avoiding detection or b
 Covert influence can breach trust and legal boundaries. Leaders must assess long-term brand and regulatory impacts.
 
 ## 📋 **How to Execute**
+
 1. Identify the target competitor and strategic inflection points.
 2. Develop an influence plan (personnel, media, partnerships).
 3. Insert agents or narratives with plausible roles.
@@ -89,12 +94,14 @@ Covert influence can breach trust and legal boundaries. Leaders must assess long
 6. Withdraw assets gracefully to minimize detection.
 
 ## 📈 **Measuring Success**
+
 - Competitor shifts away from optimal strategic paths.
 - Resources allocated by competitor to low-value initiatives.
 - Level of uncertainty or delay introduced in their roadmap.
 - Minimal detection and exposure of operations.
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
+
 ### Exposure Risks
 
 Discovery leads to legal action, reputational damage, or regulatory scrutiny.
@@ -112,6 +119,7 @@ Excessive insertion activities increase complexity and detection likelihood.
 Target may ignore inserted assets or narratives, wasting resources.
 
 ## 🧠 **Strategic Insights**
+
 ### Evolution Stage and Fluidity
 
 Insertion tactics are often most potent when applied to components or strategies in the mid-stages of their evolution, specifically transitioning from custom-built to product or even early rental services. During these phases, decisions are still fluid, standards are not yet fully set, and organizations are more susceptible to external narratives or influences that can steer them towards ultimately suboptimal paths before they achieve a more robust, commoditized state. The uncertainty inherent in these evolutionary stages creates fertile ground for doubt and misdirection.
@@ -149,6 +157,7 @@ While difficult, competitors can mitigate hidden influences by fostering open fo
 Insertion is rarely a standalone play. Its effectiveness is often amplified when combined with other strategies like [Misdirection](/strategies/competitor/misdirection) (to create noise and divert attention from the actual insertion point), [Fragmentation](/strategies/competitor/fragmentation) (to create internal divisions that an inserted agent can exploit), or even [Designed to Fail](/strategies/poison/designed-to-fail) (where an inserted narrative convinces a competitor to adopt a flawed initiative).
 
 ## ❓ **Key Questions to Ask**
+
 - **Target Selection:** Which competitor controls components critical to our map?
 - **Access:** Can we infiltrate people or media channels effectively?
 - **Deniability:** How will we mask our involvement?
@@ -156,6 +165,7 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 - **Withdrawal Plan:** How will we remove inserted assets without leaving traces?
 
 ## 🔀 **Related Strategies**
+
 - [Misdirection](/strategies/competitor/misdirection) — redirecting attention through narrative.
 - [Talent Raid](/strategies/competitor/talent-raid) — the inverse: pulling people away.
 - [Fragmentation](/strategies/competitor/fragmentation) — sowing division for confusion.
@@ -163,6 +173,7 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 - [Designed to Fail](/strategies/poison/designed-to-fail) — pre-seeding flawed initiatives.
 
 ## ⛅ **Relevant Climatic Patterns**
+
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The methods of insertion and the vulnerabilities of competitors evolve over time.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Insertion aims to directly influence and manipulate competitors' actions.
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: This strategy exploits the target's lack of awareness about being influenced.
@@ -170,5 +181,6 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 - [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: Uncertainty in a competitor's strategy or market understanding provides fertile ground for insertion.
 
 ## 📚 **Further Reading & References**
+
 - Cialdini, R. — [*Influence: The Psychology of Persuasion*](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X) — foundational concepts of behavioral influence.
 - Mitnick, K. — [*The Art of Deception*](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X) — case studies on social engineering and covert operations.

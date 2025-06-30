@@ -22,6 +22,7 @@ It sounds straightforward, but as Wardley wryly notes, "sounds easy, actually it
 <AssessmentToolAdvert strategyName="Cooperation" />
 
 ## 🤔 **Explanation**
+
 ### What is Cooperation
 
 **Cooperation** in this context is a broad strategy involving collaboration between entities to achieve mutual goals. It encompasses a range of practices, from informal knowledge sharing to formal alliances and joint ventures. See [Alliances](/strategies/ecosystem/alliances) for a more structured, formal subset of cooperation.
@@ -92,6 +93,7 @@ mindmap
 ```
 
 ## 🗺️ **Real-World Examples**
+
 ### The Sony-Ericsson partnership (early 2000s)
 
 Sony had consumer electronics expertise, Ericsson had telecom infrastructure and phone tech. They cooperated to create Sony-Ericsson mobile phones, each filling gaps in the other's capabilities. This cooperation allowed them to compete in mobile phones against larger rivals (Nokia, etc.) with a combined strength neither had alone.
@@ -107,6 +109,7 @@ Sony had consumer electronics expertise, Ericsson had telecom infrastructure and
 Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a cooperative agreement to test a combined therapy and share data. By cooperating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
 
 ## 🚦 **When to Use / When to Avoid**
+
 <Assessment strategyName="Cooperation">
   <MapSignals>
     <li>We’re addressing a component in the Genesis or Custom stage that is too large, risky, or slow to develop alone.</li>
@@ -135,8 +138,8 @@ The **task is too large, risky, or slow** to do alone, and partners have complem
 ### Avoid when
 
 Your goals and potential partners' goals fundamentally clash. Forced cooperation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if cooperating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, cooperation might unnecessarily share the spoils.
-
 ## 🎯 **Leadership**
+
 ### Core challenge
 
 A leader must **balance control and openness**. Cooperation can accelerate innovation but also risks creating dependencies or eroding unique advantages. Effective leadership in cooperation means structuring agreements that align interests while maintaining strategic flexibility.
@@ -146,6 +149,7 @@ A leader must **balance control and openness**. Cooperation can accelerate innov
 fostering trust, managing alliances, setting governance rules
 
 ## 📋 **How to Execute**
+
 1. Assess alignment and goals
    - alignment: Incentive structuring: Revenue-sharing models, IP-sharing agreements, performance-based milestones
 2. Define governance
@@ -157,6 +161,7 @@ fostering trust, managing alliances, setting governance rules
 ### Ethical considerations
 
 ## 📈 **Measuring Success**
+
 - Speed metrics: Reduction in time-to-market or development cycles compared to solo efforts
 - Cost efficiency: Reduced R&D or market-entry costs versus going alone
 - Market creation: Growth in total addressable market (especially for standards-based cooperation)
@@ -167,6 +172,7 @@ fostering trust, managing alliances, setting governance rules
 - Innovation rate: Number of new features, products, or methods developed through the partnership
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
+
 ### Alignment issues
 
 Cooperation can fail due to misaligned incentives (one party might freeride or diverge later). Clear agreements and exit strategies are crucial.
@@ -191,6 +197,7 @@ Partnerships mean committees: things can move slower than a single, decisive ent
 If one side unilaterally exploits the partnership (e.g., learns from cooperation then goes solo), it can lead to sour relations or even legal battles.
 
 ## 🧠 **Strategic Insights**
+
 ### Evolution and Cooperation
 
 Cooperation strategies differ dramatically based on component evolution stage:
@@ -235,7 +242,9 @@ Successful cooperation often targets specific *leverage points*:
 
 Use alliances when the goal is ecosystem-level impact or when formality helps secure trust and alignment.
 
+
 ## ❓ **Key Questions to Ask**
+
 - Value alignment: What specific value does each party bring and extract? Are these balanced and sustainable?
 - Evolution stage: Where on the evolution curve are the components we're collaborating on? (Genesis, Custom, Product, Commodity)
 - Power dynamics: Will this cooperation create dependencies we can't easily escape? Who ultimately controls critical interfaces?
@@ -245,15 +254,19 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 - Exit scenarios: Under what conditions should we
 
 ## 🔀 **Related Strategies**
+
 - [**Alliances**](/strategies/ecosystem/alliances) - a formalized group of cooperating entities, essentially the same domain
 - [**Co-creation**](/strategies/ecosystem/co-creation) - a form of cooperation with *users*
 - [**Circling and Probing**](/strategies/competitor/circling-and-probing) - is opposite: testing a competitor rather than working with them.
 - [Standards Game](/strategies/markets/standards-game) - cooperation often aims to establish common standards and reduce friction.
 
+- [Market Enablement](/strategies/accelerators/market-enablement)
+- [Playing Both Sides](/strategies/attacking/playing-both-sides)
 ## ⛅ **Relevant Climatic Patterns**
+
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: collaboration shapes how capabilities mature together.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: shifts from peace to war often spur new partnerships.
-
 ## 📚 **Further Reading & References**
+
 - [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) on Simon Wardley's Blog. *"Cooperation: Working with others... not easy."* . Underscores that while straightforward in concept, the execution of cooperation is challenging.
 -  HBR Article [*"Simple Rules for Making Alliances Work"*](https://hbr.org/2007/11/simple-rules-for-making-alliances-work) - details best practices and pitfalls in strategic cooperations (e.g., the necessity of aligned incentives and trust-building measures).

@@ -154,6 +154,8 @@ At its core, this is a hedging strategy. It's an admission that you cannot predi
 - **[Standards Game](/strategies/markets/standards-game)**: Playing both sides is a specific move within a larger standards game.
 - **[Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)**: This strategy can be a component of ILC, where you leverage your position as a neutral supplier to sense where the market is heading.
 
+- [Ambush](/strategies/competitor/ambush)
+- [Artificial Competition](/strategies/user-perception/artificial-competition)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: shifting alliances alter how battles unfold.
