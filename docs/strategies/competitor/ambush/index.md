@@ -33,6 +33,20 @@ The Ambush strategy relies on keen competitor intelligence, patience, and decisi
 
 Secrecy in planning the counter-move is crucial, as is the rapid, forceful execution of the Ambush to maximize its disorienting effect on the targeted competitor.
 
+## 🗺️ **Real-World Examples**
+
+### Microsoft Bundling Internet Explorer with Windows (vs. Netscape)
+
+In the 1990s browser wars, Netscape Navigator was the dominant browser, sold as a standalone product. Microsoft, seeing the strategic importance of the browser, executed an Ambush. Instead of trying to out-feature Netscape initially, they bundled Internet Explorer (IE) for free with their dominant Windows 95 operating system. This move directly undermined Netscape's business model (selling browser software). Netscape couldn't compete with "free" and deeply integrated, leading to IE's market dominance. The "drop" wasn't a radically new *type* of technology, but a strategic bundling and pricing play.
+
+### LMW Open-Sourcing a Core Feature (Hypothetical Wardley Mapping Example)
+
+Imagine "Leading Wardley Mapper" (LWM) is a company selling a proprietary Wardley Mapping tool. A competitor, "NewMap," finally develops a feature that brings it to near parity with a key LWM offering. Just as NewMap launches its marketing campaign highlighting this new feature, LWM executes an Ambush by open-sourcing its equivalent (and mature) feature. This negates NewMap's marketing claims, makes their recent development effort less valuable, and potentially attracts developers to LWM's ecosystem.
+
+### Price War Initiation (e.g., Airline Industry)
+
+An airline might execute an Ambush if a competitor launches a new, premium-priced route. The ambushing airline could immediately offer drastically lower fares on the same route, using existing aircraft and staff. This isn't a new technology, but a pricing Ambush designed to devalue the competitor's new premium service and force them into a price war, potentially making the new route unprofitable for them.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Ambush">
@@ -52,20 +66,6 @@ Secrecy in planning the counter-move is crucial, as is the rapid, forceful execu
     <li>Leadership is willing to make bold, potentially aggressive moves.</li>
   </Readiness>
 </Assessment>
-
-## 🗺️ **Real-World Examples**
-
-### Microsoft Bundling Internet Explorer with Windows (vs. Netscape)
-
-In the 1990s browser wars, Netscape Navigator was the dominant browser, sold as a standalone product. Microsoft, seeing the strategic importance of the browser, executed an Ambush. Instead of trying to out-feature Netscape initially, they bundled Internet Explorer (IE) for free with their dominant Windows 95 operating system. This move directly undermined Netscape's business model (selling browser software). Netscape couldn't compete with "free" and deeply integrated, leading to IE's market dominance. The "drop" wasn't a radically new *type* of technology, but a strategic bundling and pricing play.
-
-### LMW Open-Sourcing a Core Feature (Hypothetical Wardley Mapping Example)
-
-Imagine "Leading Wardley Mapper" (LWM) is a company selling a proprietary Wardley Mapping tool. A competitor, "NewMap," finally develops a feature that brings it to near parity with a key LWM offering. Just as NewMap launches its marketing campaign highlighting this new feature, LWM executes an Ambush by open-sourcing its equivalent (and mature) feature. This negates NewMap's marketing claims, makes their recent development effort less valuable, and potentially attracts developers to LWM's ecosystem.
-
-### Price War Initiation (e.g., Airline Industry)
-
-An airline might execute an Ambush if a competitor launches a new, premium-priced route. The ambushing airline could immediately offer drastically lower fares on the same route, using existing aircraft and staff. This isn't a new technology, but a pricing Ambush designed to devalue the competitor's new premium service and force them into a price war, potentially making the new route unprofitable for them.
 
 ## 🎯 **Leadership**
 

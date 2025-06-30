@@ -49,6 +49,16 @@ It’s about **identifying what’s ready to be commoditised**, and building eff
 
 Then execute against that. The press release becomes a forcing function for evolutionary acceleration, team alignment, and strategic focus.
 
+## 🗺️ **Real-World Examples**
+
+### Amazon
+
+Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
+
+### Netflix
+
+Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Press Release Process">
@@ -93,16 +103,6 @@ quadrantChart
     quadrant-3 "Technically Ready, No Pull"
     quadrant-4 "Abandon or Rethink"
 ```
-
-## 🗺️ **Real-World Examples**
-
-### Amazon
-
-Almost every product at Amazon, such as Kindle, AWS services, and Echo, began with an internal press release draft. For example, AWS Lambda's team wrote a press release about running code without managing servers, which guided development and ensured clear messaging at launch.
-
-### Netflix
-
-Netflix uses a similar approach for feature development, such as "Downloads for Offline Viewing." Writing the blog announcement first helped them communicate the feature better than competitors.
 
 ## 🎯 **Leadership**
 

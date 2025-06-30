@@ -33,6 +33,12 @@ This approach reduces risk by using low-cost, low-commitment experiments to gath
 
 The core idea is competitive exploration. A company tests the opponent's defenses and customer response through small experiments (pilot programs, beta products, limited releases). By observing how the market and competitors respond, the company gains insights to inform future actions. This strategy is about learning and adaptation, allowing for adjustments based on the intelligence gathered.
 
+## 🗺️ **Real-World Examples**
+
+* **Netflix’s Entry into Gaming:** Netflix began its move into the gaming market with small steps. It added mobile games for subscribers and experimented with streaming games on TVs and PCs in limited beta tests. This probed a market dominated by console and PC game providers. By assessing user interest and technological feasibility on a small scale, Netflix circled the gaming industry without a large upfront investment.
+* **Google’s Trial Products:** Google frequently launches beta products or services in areas where a competitor is strong. For example, Google+ in social networking (Facebook’s territory) and Google Wave for collaboration (rivaling emerging enterprise tools). These efforts served as exploratory probes. Google+ allowed Google to learn about social media user behavior and integrate features into other products.
+* **Amazon’s Beta Offerings:** Amazon has a history of testing new business ideas in limited regions or with trials, such as grocery delivery and fashion (e.g., Amazon Pantry, Prime Wardrobe beta). These probes gauge demand in markets dominated by others (like supermarkets or apparel retailers). Promising results lead to scaling up, while limited risk and cost are incurred if results are poor.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Circling and Probing">
@@ -70,12 +76,6 @@ Circling and probing is useful for:
 * The competitor is highly vulnerable and can be easily defeated
 * The risks associated with provoking a competitor outweigh the potential benefits of probing
 
-## 🗺️ **Real-World Examples**
-
-* **Netflix’s Entry into Gaming:** Netflix began its move into the gaming market with small steps. It added mobile games for subscribers and experimented with streaming games on TVs and PCs in limited beta tests. This probed a market dominated by console and PC game providers. By assessing user interest and technological feasibility on a small scale, Netflix circled the gaming industry without a large upfront investment.
-* **Google’s Trial Products:** Google frequently launches beta products or services in areas where a competitor is strong. For example, Google+ in social networking (Facebook’s territory) and Google Wave for collaboration (rivaling emerging enterprise tools). These efforts served as exploratory probes. Google+ allowed Google to learn about social media user behavior and integrate features into other products.
-* **Amazon’s Beta Offerings:** Amazon has a history of testing new business ideas in limited regions or with trials, such as grocery delivery and fashion (e.g., Amazon Pantry, Prime Wardrobe beta). These probes gauge demand in markets dominated by others (like supermarkets or apparel retailers). Promising results lead to scaling up, while limited risk and cost are incurred if results are poor.
-
 ## 🎯 **Leadership**
 
 ### Core challenge
@@ -89,6 +89,10 @@ Leaders must balance a **curious, data-driven mindset** with a tolerance for amb
 * Risk management
 * Clear communication
 
+### Ethical considerations
+
+Circling and probing should be conducted ethically, respecting competitors' intellectual property and avoiding deceptive practices.
+
 ## 📋 **How to Execute**
 
 1.  **Define the hypothesis:** Clearly state what you aim to learn from the probe.
@@ -98,10 +102,6 @@ Leaders must balance a **curious, data-driven mindset** with a tolerance for amb
 5.  **Maintain a low profile:** Avoid alerting competitors or setting high customer expectations.
 6.  **Evaluate results:** Assess whether the probe uncovered demand or vulnerabilities.
 7.  **Integrate learnings:** Use the insights gained to inform future strategies.
-
-### Ethical considerations
-
-Circling and probing should be conducted ethically, respecting competitors' intellectual property and avoiding deceptive practices.
 
 ## 📈 **Measuring Success**
 
@@ -170,15 +170,10 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 * [**Tech Drops**](/strategies/competitor/tech-drops) - Launching a sudden, unexpected attack on a competitor.
 * [**Experimentation**](/strategies/attacking/experimentation) - Testing new approaches to find effective strategies.
 * [**Alliances**](/strategies/ecosystem/alliances) - Forming partnerships, the opposite of testing a competitor.
-
 - [Cooperation](/strategies/accelerators/cooperation) - collaborating superficially to gather insights and test competitor responses under the guise of partnership.
 - [sapping](/strategies/competitor/sapping) - gradually undermining a competitor’s resources or alliances to soften defences before probing actions.
 - [fragmentation](/strategies/competitor/fragmentation) - dividing competitor networks or markets to weaken collective resistance and isolate targets for probing.
 - [Ambush](/strategies/competitor/ambush) - striking swiftly once probing reveals vulnerabilities to maximise surprise and impact.
-## 📚 **Further Reading & References**
-
-* "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.
-* "The Art of War" by Sun Tzu - For insights into strategic thinking and maneuvering in competitive situations.
 
 ## ⛅ **Relevant Climatic Patterns**
 
@@ -187,3 +182,8 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Competitors might become complacent, creating opportunities.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Probing can uncover inefficiencies that can be exploited or areas ripe for innovation.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: This strategy is a direct response to and anticipation of competitor actions.
+
+## 📚 **Further Reading & References**
+
+* "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.
+* "The Art of War" by Sun Tzu - For insights into strategic thinking and maneuvering in competitive situations.

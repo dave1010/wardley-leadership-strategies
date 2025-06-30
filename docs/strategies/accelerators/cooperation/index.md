@@ -96,6 +96,24 @@ mindmap
       Exit Strategies
 ```
 
+
+
+## 🗺️ **Real-World Examples**
+
+### The Sony-Ericsson partnership (early 2000s)
+
+Sony had consumer electronics expertise, Ericsson had telecom infrastructure and phone tech. They cooperated to create Sony-Ericsson mobile phones, each filling gaps in the other's capabilities. This cooperation allowed them to compete in mobile phones against larger rivals (Nokia, etc.) with a combined strength neither had alone.
+
+### The Bluetooth SIG (Special Interest Group)
+
+[![Bluetooth SIG Wardley map](bluetooth-sig-wardley-map.svg)](https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh)
+
+ An industry cooperation of many companies (Ericsson, Nokia, IBM, Intel, etc.) to develop the Bluetooth standard. Instead of fighting over wireless peripheral connectivity solutions, they cooperated to establish one standard. This expanded the market for everyone's interoperable devices and accelerated Bluetooth's evolution.
+
+### Hypothetical examples
+
+Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a cooperative agreement to test a combined therapy and share data. By cooperating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Cooperation">
@@ -127,23 +145,6 @@ The **task is too large, risky, or slow** to do alone, and partners have complem
 
 Your goals and potential partners' goals fundamentally clash. Forced cooperation can implode (e.g., if co-development means you later directly compete with the jointly created product, tensions arise). Also avoid if cooperating would give a weaker competitor undue advantage that they can then use against you. If you have the means to win outright, cooperation might unnecessarily share the spoils.
 
-
-## 🗺️ **Real-World Examples**
-
-### The Sony-Ericsson partnership (early 2000s)
-
-Sony had consumer electronics expertise, Ericsson had telecom infrastructure and phone tech. They cooperated to create Sony-Ericsson mobile phones, each filling gaps in the other's capabilities. This cooperation allowed them to compete in mobile phones against larger rivals (Nokia, etc.) with a combined strength neither had alone.
-
-### The Bluetooth SIG (Special Interest Group)
-
-[![Bluetooth SIG Wardley map](bluetooth-sig-wardley-map.svg)](https://onlinewardleymaps.com/#Rn7EaUmb1KfengeImh)
-
- An industry cooperation of many companies (Ericsson, Nokia, IBM, Intel, etc.) to develop the Bluetooth standard. Instead of fighting over wireless peripheral connectivity solutions, they cooperated to establish one standard. This expanded the market for everyone's interoperable devices and accelerated Bluetooth's evolution.
-
-### Hypothetical examples
-
-Two mid-sized pharmaceutical firms co-develop a drug for a rare disease. Each firm had a candidate compound; instead of running two costly parallel trials, they form a cooperative agreement to test a combined therapy and share data. By cooperating, they cut R&D time and cost, and if successful, both share the market (perhaps each selling in different regions). They achieved faster evolution of a treatment than either could alone.
-
 ## 🎯 **Leadership**
 
 ### Core challenge
@@ -154,6 +155,9 @@ A leader must **balance control and openness**. Cooperation can accelerate innov
 
 fostering trust, managing alliances, setting governance rules
 
+### Ethical considerations
+
+
 ## 📋 **How to Execute**
 
 1. Assess alignment and goals
@@ -163,8 +167,6 @@ fostering trust, managing alliances, setting governance rules
 3. Set trust mechanisms
    - build trust early: Pilot projects, transparency mechanisms, pre-agreed dispute resolution
 4. Establish exit strategies
-
-### Ethical considerations
 
 ## 📈 **Measuring Success**
 

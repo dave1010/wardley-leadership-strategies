@@ -75,6 +75,14 @@ Organizations can engage in industrial policy by:
 >       Compliance
 > ```
 
+## 🗺️ **Real-World Examples**
+
+**Historical:** Aerospace industry funding – Boeing and Airbus grew rapidly on the back of government defense contracts, direct subsidies, and co-ownership arrangements, accelerating innovation and scale beyond pure private investment.
+
+**Contemporary:** China’s EV sector – extensive subsidies, infrastructure development, and manufacturing incentives propelled companies like BYD and NIO to global competitiveness years ahead of market-driven timelines.
+
+**Hypothetical:** A renewable energy startup partners with a national green infrastructure program, securing R&D grants and guaranteed off-take contracts for pilot wave energy projects, dramatically reducing risk and time-to-market.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Industrial Policy">
@@ -100,14 +108,6 @@ The long-term benefits of public funding, market guarantees, or regulatory suppo
 
 Policy cycles are highly uncertain or slow, funding strings create strategic constraints, or overreliance on state support risks future agility.
 
-## 🗺️ **Real-World Examples**
-
-**Historical:** Aerospace industry funding – Boeing and Airbus grew rapidly on the back of government defense contracts, direct subsidies, and co-ownership arrangements, accelerating innovation and scale beyond pure private investment.
-
-**Contemporary:** China’s EV sector – extensive subsidies, infrastructure development, and manufacturing incentives propelled companies like BYD and NIO to global competitiveness years ahead of market-driven timelines.
-
-**Hypothetical:** A renewable energy startup partners with a national green infrastructure program, securing R&D grants and guaranteed off-take contracts for pilot wave energy projects, dramatically reducing risk and time-to-market.
-
 ## 🎯 **Leadership**
 
 ### Core challenge
@@ -120,6 +120,10 @@ Balancing public objectives with private strategic goals, maintaining agility wh
 - Strategic framing and narrative building  
 - Compliance oversight and governance  
 - Coalition building across public and private sectors
+
+### Ethical considerations
+
+Engaging in industrial policy requires a commitment to transparency and public accountability. Leaders must ensure that the pursuit of strategic advantage does not compromise ethical standards or create unfair market distortions. The process should be guided by a clear understanding of the public good and a commitment to delivering value beyond the organization itself.
 
 ## 📋 **How to Execute**
 
