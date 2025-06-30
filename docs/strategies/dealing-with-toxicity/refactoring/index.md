@@ -130,10 +130,10 @@ The primary leadership challenge is **managing the transition sensitively and de
 ## 🔀 **Related Strategies**
 
 
-- [**Disposal of Liability**](/strategies/dealing-with-toxicity/disposal-of-liability) refactoring is an approach to disposal by reuse
-- [**Sweat & Dump**](/strategies/dealing-with-toxicity/sweat-and-dump) as an alternative - instead of third-party, you internally transform
-
-- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - packaging toxic components within refactored entities so hidden liabilities surface only after acceptance or deployment.
+- [**Disposal of Liability**](/strategies/dealing-with-toxicity/disposal-of-liability) - Refactoring is an approach to disposal by reuse, focusing on salvaging internal value.
+- [**Sweat & Dump**](/strategies/dealing-with-toxicity/sweat-and-dump) - An alternative to refactoring where the asset is pushed hard for short-term gain before disposal, often externally.
+- [**Value Chain Disaggregation and Re-aggregation**](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - While refactoring is about internal reorganization of a legacy asset, VCDAR is a broader strategic play involving breaking down and recombining entire value chains, often to create new market offerings or business models. Refactoring might be a small part of a larger VCDAR initiative if legacy components are repurposed into a new value chain structure.
+- [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - Packaging toxic components within refactored entities so hidden liabilities surface only after acceptance or deployment.
 ## 📚 **Further Reading & References**
 
 - Agile/DevOps analogies - Many tech companies apply refactoring to processes: e.g., breaking a legacy business process into agile teams. Business literature on **business process re-engineering** touches similar ideas (though BPR often aimed at improvement, here aim is also removal).
