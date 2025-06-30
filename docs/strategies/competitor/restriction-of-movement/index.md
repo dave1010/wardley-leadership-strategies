@@ -25,6 +25,14 @@ This strategy doesn't necessarily eliminate a competitor but restricts their gro
 
 By strategically controlling key aspects of the market, a business can limit a competitor's ability to grow or adapt. This can involve securing exclusive deals, establishing dominant standards, or creating patent thickets. The effect is to limit the competitor's options, forcing them into a constrained position.
 
+## 🗺️ **Real-World Examples**
+
+-   **Facebook "Circling" Snapchat:** Facebook copied Snapchat's core features across its apps after failing to acquire Snapchat. Instagram Stories, WhatsApp Status, and Facebook Stories effectively encircled Snapchat's niche. This limited Snapchat's growth by restricting its room to maneuver.
+
+-   **Exclusive Deals and Ecosystem Control:** Apple's App Store policies restrict competitors on its platform by prohibiting alternative app stores and certain third-party functionalities. Microsoft's exclusive licensing deals with PC manufacturers in the 1990s limited rival operating systems' distribution.
+
+-   **Patent Fencing:** Companies create "patent thickets" by patenting a broad array of technologies, not just core inventions. This restricts competitors' innovation paths, as seen in the smartphone patent wars.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Restriction of Movement">
@@ -55,14 +63,6 @@ Leadership should use this strategy when they want to holistically control the c
 ### Avoid when
 
 Leaders should be cautious of harming industry relationships or attracting regulatory scrutiny.
-
-## 🗺️ **Real-World Examples**
-
--   **Facebook "Circling" Snapchat:** Facebook copied Snapchat's core features across its apps after failing to acquire Snapchat. Instagram Stories, WhatsApp Status, and Facebook Stories effectively encircled Snapchat's niche. This limited Snapchat's growth by restricting its room to maneuver.
-
--   **Exclusive Deals and Ecosystem Control:** Apple's App Store policies restrict competitors on its platform by prohibiting alternative app stores and certain third-party functionalities. Microsoft's exclusive licensing deals with PC manufacturers in the 1990s limited rival operating systems' distribution.
-
--   **Patent Fencing:** Companies create "patent thickets" by patenting a broad array of technologies, not just core inventions. This restricts competitors' innovation paths, as seen in the smartphone patent wars.
 
 ## 🎯 **Leadership**
 
