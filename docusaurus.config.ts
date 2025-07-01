@@ -12,9 +12,9 @@ const config: Config = {
 
   future: {
     experimental_faster: {
-      rspackBundler: true,
-      rspackPersistentCache: true,
-      ssgWorkerThreads: true,
+      rspackBundler: process.env.DISABLE_FASTER_BUILD !== 'true',
+      rspackPersistentCache: process.env.DISABLE_FASTER_BUILD !== 'true',
+      ssgWorkerThreads: process.env.DISABLE_FASTER_BUILD !== 'true',
     },
     v4: {
       removeLegacyPostBuildHeadAttribute: true,
