@@ -65,8 +65,9 @@ Strategies should aim to follow this format as closely as possible.
 
 ### Front Matter
 
-Strategies have a front matter section at the top of the file, which is a YAML object. The front matter looks like this. There may be missing or additional fields for some strategies.
-The `authors` field is an array of author IDs, which should match the keys in `/data/authors/authors.json`.
+Strategies have a front matter section at the top of the file, which is a YAML object. The front matter looks like this. If there are additional fields for some strategies then leave them in.
+
+The `authors` field is an array of author IDs, which must match the keys in `/data/authors/authors.json`. Don't specify an author in the YAML if it's not in the JSON. The author YAML can always be added later if needed.
 
 ```yaml
 ---
@@ -143,6 +144,6 @@ Remember that there are 60+ strategies. Consider whether content is applicable t
 - 1 empty line before and after a list, heading, or blockquote.
 - H2s (`##`) have **bold text** and an emoji. Other headings don't.
 
-## Maintenance Scripts
+## Maintenance Scripts and Tests
 
 The utilities in `./scripts` help keep related links in sync when you edit many strategy files or reorganise content. See [scripts/README.md](./scripts/README.md) for a workflow that checks for missing and reciprocal links before adding them automatically.
