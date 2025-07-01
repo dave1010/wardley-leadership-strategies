@@ -141,7 +141,7 @@ Raising the barriers to entry shifts the basis of competition. It's no longer ab
 - [Lobbying](/strategies/user-perception/lobbying) - advocating for policy changes that institutionalise barriers and discourage new entrants.
 - [Bundling](/strategies/user-perception/bundling) - packaging offerings together to force entrants to match comprehensive solutions, raising thresholds for entry.
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control over supply chains or customer relationships to impose onerous terms on newcomers.
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - A platform can raise barriers to entry by enveloping (integrating or absorbing) adjacent services or functionalities, forcing potential new entrants to compete with a much broader and more integrated offering.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – trigger: barriers entrench incumbents and slow adaptation.
