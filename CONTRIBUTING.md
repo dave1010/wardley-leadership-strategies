@@ -147,3 +147,9 @@ Remember that there are 60+ strategies. Consider whether content is applicable t
 ## Maintenance Scripts and Tests
 
 The utilities in `./scripts` help keep related links in sync when you edit many strategy files or reorganise content. See [scripts/README.md](./scripts/README.md) for a workflow that checks for missing and reciprocal links before adding them automatically.
+
+When changing any content in `/docs`, run the Python tests to check for content quality issues:
+
+```bash
+python -m pytest tests
+```

@@ -56,7 +56,7 @@ The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minu
 These tests check the content of the site rather than the code. They verify things like reciprocal strategy links and required headings in markdown files.
 
 ```bash
-pytest
+python -m pytest tests
 ```
 
 ### Node
