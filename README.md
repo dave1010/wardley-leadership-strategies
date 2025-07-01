@@ -39,6 +39,12 @@ npm run build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+**Note:** If you encounter issues with the faster build (e.g., on `android-arm64` environments), you can disable it by setting the `DISABLE_FASTER_BUILD` environment variable:
+
+```bash
+DISABLE_FASTER_BUILD=true npm run build
+```
+
 ### Deployment
 
 The `main` branch is deployed live with Vercel. This typically takes 1 or 2 minutes.
