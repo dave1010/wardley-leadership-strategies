@@ -131,11 +131,6 @@ Executing a "Pig in a Poke" directly can inflict significant, long-lasting reput
 - [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) – Outsource asset operation to third parties before exiting.
 - [Refactoring](/strategies/dealing-with-toxicity/refactoring) – Internally transform or repurpose assets as an alternative.
 
-## 📚 **Further Reading & References**
-
-- [Pump and Dump](https://en.wikipedia.org/wiki/Pump_and_dump) – Overview of the practice in financial markets.
-- Case Study: Cuban’s [Broadcast.com Sale](https://en.wikipedia.org/wiki/Broadcast.com) – Timing an exit at peak hype for maximum gain.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: A component that was once valuable can become less so, tempting a seller to offload it deceptively.
@@ -143,3 +138,8 @@ Executing a "Pig in a Poke" directly can inflict significant, long-lasting reput
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Buyers might be blinded by the past reputation of an asset, failing to see its current toxicity.
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: The seller exploits the buyer's lack of awareness or due diligence.
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – rel: The seller creates a false sense of certainty about future value.
+
+## 📚 **Further Reading & References**
+
+- [Pump and Dump](https://en.wikipedia.org/wiki/Pump_and_dump) – Overview of the practice in financial markets.
+- Case Study: Cuban’s [Broadcast.com Sale](https://en.wikipedia.org/wiki/Broadcast.com) – Timing an exit at peak hype for maximum gain.

@@ -169,11 +169,6 @@ In complex ecosystems where multiple patented technologies are required to creat
 - [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) — using network lock-in.
 - [Limitation of Competition](/strategies/defensive/limitation-of-competition) — structural barriers to entry.
 
-## 📚 **Further Reading & References**
-
-- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html) — example of strong copyleft.
-- [Multi-licensing](https://en.wikipedia.org/wiki/Multi-licensing) — overview of dual and multi-licensing strategies.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Licensing terms must adapt as technologies evolve and commoditize.
@@ -181,3 +176,8 @@ In complex ecosystems where multiple patented technologies are required to creat
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Licensing can control access to components needed to build higher-order systems, thus capturing value.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Competitors may challenge licenses or create alternatives, forcing changes in licensing strategy.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A company successful with a particular licensing model might be slow to adapt it as the market changes.
+
+## 📚 **Further Reading & References**
+
+- [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html) — example of strong copyleft.
+- [Multi-licensing](https://en.wikipedia.org/wiki/Multi-licensing) — overview of dual and multi-licensing strategies.

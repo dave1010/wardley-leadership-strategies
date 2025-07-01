@@ -33,7 +33,7 @@ Applying this strategy involves a careful assessment of your organization's port
 
 For detailed, actionable steps, refer to the [**How to Execute Strategic Divestment or Disposal**](#-how-to-execute-strategic-divestment-or-disposal) section.
 
-## 🗺️ **Manifestation on a Wardley Map**
+### Manifestation on a Wardley Map
 Strategic Divestment represents a profound "moving of pieces" as it literally removes or reconfigures entire segments of an organization's Wardley Map.
 
 - **Creation of New Maps:** A spun-off entity, for example, effectively creates a new, independent Wardley Map for its operations.
@@ -45,7 +45,7 @@ Strategic Divestment represents a profound "moving of pieces" as it literally re
 
 This makes Strategic Divestment a powerful gameplay for achieving clarity and accelerating progress on a map that has become overly complex or diversified.
 
-## 🏷️ **Real-World Examples**
+## 🗺️ **Real-World Examples**
 
 ### IBM’s PC Division Sale to Lenovo (2005)
 IBM sold its commoditized PC division to Lenovo to shed a low-margin business and focus on services and software, enabling it
@@ -104,11 +104,6 @@ A telecom operator divests or decommissions its legacy copper infrastructure, wh
 - The separated entity would not be viable on its own, or the divestment would critically weaken the parent company's remaining operations or market position.
 - Market conditions are unfavorable for achieving a fair value for the divested asset or entity.
 
-## ⚠️ **Distinction from Doctrines and Climate**
-Strategic Divestment (including disposal of liability) is a highly complex, high-impact decision, not a routine or universally applicable best practice (i.e., not a doctrine). It involves intricate legal, financial, and governance considerations, and is certainly not "nearly always a good idea." It is a specific, strategic choice made under particular circumstances, requiring extensive due diligence and alignment with the company's long-term strategic goals.
-
-While external market dynamics, competitive pressures, or shifts in the broader economic climate might influence the decision to divest, the act of divesting itself is a deliberate, internal strategic action taken by the organization. It is a proactive response to, or an anticipation of, climate patterns, rather than an inherent part of the external climate itself.
-
 ## 🎯 **Leadership**
 
 ### Core challenge
@@ -125,7 +120,7 @@ employees and customers may be attached to.
 Ensure that disposal does not abandon stakeholders, such as employees, customers, or communities. Plan for fair treatment,
 severance, or transition support.
 
-## 📋 **How to Execute Strategic Divestment or Disposal**
+## 📋 **How to Execute**
 
 1. **Identify Candidates:** Map your value chain. Identify components that are liabilities (obsolete, draining resources) or candidates for strategic divestment (non-core, potential for standalone growth, misaligned).
 2. **Evaluate Strategic Fit & Financial Impact:** Assess each candidate's current and future strategic importance, financial contribution (or drain), risks, and potential value if divested/spun-off. Consider market conditions for such a move.
@@ -166,6 +161,11 @@ Ignoring contractual obligations or regulatory requirements can result in fines 
 Removing a component too quickly may deprive the organization of essential skills or knowledge.
 
 ## 🧠 **Strategic Insights**
+
+### Distinction from Doctrines and Climate
+Strategic Divestment (including disposal of liability) is a highly complex, high-impact decision, not a routine or universally applicable best practice (i.e., not a doctrine). It involves intricate legal, financial, and governance considerations, and is certainly not "nearly always a good idea." It is a specific, strategic choice made under particular circumstances, requiring extensive due diligence and alignment with the company's long-term strategic goals.
+
+While external market dynamics, competitive pressures, or shifts in the broader economic climate might influence the decision to divest, the act of divesting itself is a deliberate, internal strategic action taken by the organization. It is a proactive response to, or an anticipation of, climate patterns, rather than an inherent part of the external climate itself.
 
 ### Enhanced Strategic Focus & Re-centering
 Strategic divestments and disposals are powerful tools for clarifying an organization's strategy. By shedding non-core, underperforming, or distracting assets, leadership can redirect attention, capital, and resources toward core, high-growth areas. This re-centers the organization on its primary value proposition.
@@ -211,11 +211,6 @@ disposal isn’t feasible.
 - [Refactoring](/strategies/dealing-with-toxicity/refactoring) - Internally transform or repurpose components as an
 alternative to disposal.
 
-## 📚 **Further Reading & References**
-
-- HBR: [“Pruning the Corporate Portfolio”](https://hbr.org/2017/12/case-study-should-a-hotel-giant-eliminate-some-brands-and-refocus) - Guidance on divestment timing and execution.
-- [General Electric rids itself of financial unit in $26.5bn deal as it hones focus](https://www.theguardian.com/business/2015/apr/10/general-electric-sell-financial-unit-26-billion-deal) - GE’s divestiture of GE Capital (2015) - Case study of reducing complexity by divesting a non-core business.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: What was once an asset can become a liability as the market and technology landscape changes.
@@ -223,3 +218,8 @@ alternative to disposal.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Holding onto a liability due to past success can be detrimental; disposal is necessary.
 - [Creative Destruction](/climatic-patterns/creative-destruction) – rel: Disposing of a liability can be a form of creative destruction, allowing resources to be reallocated to more promising areas.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Freeing up capital by disposing of liabilities allows investment in new value-creating opportunities.
+
+## 📚 **Further Reading & References**
+
+- HBR: [“Pruning the Corporate Portfolio”](https://hbr.org/2017/12/case-study-should-a-hotel-giant-eliminate-some-brands-and-refocus) - Guidance on divestment timing and execution.
+- [General Electric rids itself of financial unit in $26.5bn deal as it hones focus](https://www.theguardian.com/business/2015/apr/10/general-electric-sell-financial-unit-26-billion-deal) - GE’s divestiture of GE Capital (2015) - Case study of reducing complexity by divesting a non-core business.

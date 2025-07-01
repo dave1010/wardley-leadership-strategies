@@ -147,10 +147,6 @@ While operational burdens and capex are offloaded, significant reputational risk
 
 - [designed-to-fail](/strategies/poison/designed-to-fail) - intentionally structuring spin-offs or transformations to fail, enabling clean separation and transfer of liabilities.
 - [Last Man Standing](/strategies/markets/last-man-standing) - offloading assets to specialist providers in a competitive market, letting survivors absorb residual risks and costs.
-## 📚 **Further Reading & References**
-
-- Case Study: [Nortel](https://en.wikipedia.org/wiki/Timeline_of_Nortel) Support Spin-offs – Real-world legacy IT sweat & dump scenario.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems become candidates for Sweat & Dump as they reach the end of their lifecycle.
@@ -158,3 +154,7 @@ While operational burdens and capex are offloaded, significant reputational risk
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Inertia can prevent organizations from divesting toxic assets, making Sweat & Dump a necessary strategy.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Offloading a legacy system allows the organization to focus resources on innovation.
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – rel: Sweat & Dump frees up capital from legacy systems to be invested in new, higher-value areas.
+
+## 📚 **Further Reading & References**
+
+- Case Study: [Nortel](https://en.wikipedia.org/wiki/Timeline_of_Nortel) Support Spin-offs – Real-world legacy IT sweat & dump scenario.

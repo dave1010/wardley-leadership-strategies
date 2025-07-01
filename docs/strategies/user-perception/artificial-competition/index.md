@@ -35,6 +35,12 @@ Used effectively, artificial competition offers multiple layers of strategic ben
 
 This is about **shaping the environment in which decisions are made**. Skilled leaders use this strategy to create optionality, reduce volatility, and consolidate advantage
 
+## 🗺️ **Real-World Examples**
+
+### MediaMarkt and Saturn
+
+The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Artifical Competition">
@@ -69,12 +75,6 @@ This is about **shaping the environment in which decisions are made**. Skilled l
 - Maintaining two entities is prohibitively costly or complex.
 - Transparency in your industry makes affiliations easy to uncover, risking trust erosion.
 
-
-## 🗺️ **Real-World Examples**
-
-### MediaMarkt and Saturn
-
-The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perceived as fierce competitors. However, both belong to the *same holding company*. This strategy consolidates market share within the holding company while blocking out other entrants.
 
 ## 🎯 **Leadership**
 

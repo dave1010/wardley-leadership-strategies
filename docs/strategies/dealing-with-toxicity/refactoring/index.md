@@ -18,6 +18,20 @@ Purpose: *reduce losses and integrate leftover value* into the organization in a
 
 Key principles: identify components (people, tech, processes) that can be useful elsewhere. For example, maybe the product is dead but the underlying database could support another service, or the team can be moved to a different project with slight retraining. By refactoring, you gradually wind down the old structure while not wasting everything.
 
+## 🗺️ **Real-World Examples**
+
+### Software/Tech
+
+Many companies "refactor" their legacy IT. E.g., taking an old mainframe application and breaking it into microservices or migrating functions to modern systems one piece at a time (some parts might be turned into APIs for new apps). In doing so, they preserve critical logic or data (value) but eliminate the monolithic, hard-to-maintain structure. IBM's example with moving combustion engine production offshore (per forum) was partly a physical refactoring, shifting location and focusing that unit solely on being a cost-efficient piece until shut down.
+
+### Industrial
+
+A car manufacturer phasing out combustion engines might refactor its production: move older engine production lines to a lower-cost factory (like VW moving them to Poland) and repurpose some facilities to build electric components. They aren't scrapping everything: they reassign factories or workers to new tasks where possible (e.g., train engine designers to work on electric drive trains). Ultimately, when combustion ends, they have minimized domestic impact and squeezed remaining value from those engines in a cheaper setting. They have a mix of sweat (in cheaper plant) and integration (transition workforce to new tech).
+
+### Hypothetical
+
+A publishing company has a huge staff for print magazine layout, a diminishing need. Instead of mass layoffs, it refactors: it retrains a chunk of them in digital content layout and transfers them to the web team (useful skill reuse), it automates some layout tasks with software, and for the purely excess roles, it offers either internal transfers (some designers might move to marketing department) or packages out. The physical space freed by a smaller print team is converted into a multimedia studio for new digital content. This way, the company gradually morphs the legacy print operation into a leaner, partly repurposed unit that complements the digital side, rather than a sudden chop.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Refactoring">
@@ -49,20 +63,6 @@ The legacy asset has **subcomponents of value** that you can clearly redeploy. O
 ### Avoid when
 
 The toxic asset is hemorrhaging so badly that incremental changes won't stop the bleeding -- sometimes you need a quick cut (disposal) rather than gentle refactor. Also avoid if the effort to refactor is too high or distracts too much from core (sometimes dismantling internally can consume a lot of management attention -- if that's the case, might be better to do sweat & dump or pig in poke). If no part of the old is really salvageable or compatible with new directions, refactoring may just delay the inevitable.
-
-## 🗺️ **Real-World Examples**
-
-### Software/Tech
-
-Many companies "refactor" their legacy IT. E.g., taking an old mainframe application and breaking it into microservices or migrating functions to modern systems one piece at a time (some parts might be turned into APIs for new apps). In doing so, they preserve critical logic or data (value) but eliminate the monolithic, hard-to-maintain structure. IBM's example with moving combustion engine production offshore (per forum) was partly a physical refactoring, shifting location and focusing that unit solely on being a cost-efficient piece until shut down.
-
-### Industrial
-
-A car manufacturer phasing out combustion engines might refactor its production: move older engine production lines to a lower-cost factory (like VW moving them to Poland) and repurpose some facilities to build electric components. They aren't scrapping everything: they reassign factories or workers to new tasks where possible (e.g., train engine designers to work on electric drive trains). Ultimately, when combustion ends, they have minimized domestic impact and squeezed remaining value from those engines in a cheaper setting. They have a mix of sweat (in cheaper plant) and integration (transition workforce to new tech).
-
-### Hypothetical
-
-A publishing company has a huge staff for print magazine layout, a diminishing need. Instead of mass layoffs, it refactors: it retrains a chunk of them in digital content layout and transfers them to the web team (useful skill reuse), it automates some layout tasks with software, and for the purely excess roles, it offers either internal transfers (some designers might move to marketing department) or packages out. The physical space freed by a smaller print team is converted into a multimedia studio for new digital content. This way, the company gradually morphs the legacy print operation into a leaner, partly repurposed unit that complements the digital side, rather than a sudden chop.
 
 ## 🎯 **Leadership**
 
@@ -134,11 +134,6 @@ The primary leadership challenge is **managing the transition sensitively and de
 - [**Sweat & Dump**](/strategies/dealing-with-toxicity/sweat-and-dump) - An alternative to refactoring where the asset is pushed hard for short-term gain before disposal, often externally.
 - [**Value Chain Disaggregation and Re-aggregation**](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - While refactoring is about internal reorganization of a legacy asset, VCDAR is a broader strategic play involving breaking down and recombining entire value chains, often to create new market offerings or business models. Refactoring might be a small part of a larger VCDAR initiative if legacy components are repurposed into a new value chain structure.
 - [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - Packaging toxic components within refactored entities so hidden liabilities surface only after acceptance or deployment.
-## 📚 **Further Reading & References**
-
-- Agile/DevOps analogies - Many tech companies apply refactoring to processes: e.g., breaking a legacy business process into agile teams. Business literature on **business process re-engineering** touches similar ideas (though BPR often aimed at improvement, here aim is also removal).
-- *"Dual Transformation" (Anthony, Johnson)* - a strategy book that talks about running a legacy business (Transformation B) while building new (Transformation A), and how to transfer capabilities from B to A. It's essentially how to refactor an organization during disruption, moving old capabilities to new growth, similar to refactoring concept described here.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems inevitably reach a point where they need refactoring or disposal due to evolution.
@@ -146,3 +141,8 @@ The primary leadership challenge is **managing the transition sensitively and de
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Inertia towards successful legacy systems can delay necessary refactoring.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Refactoring can improve efficiency by removing outdated components, freeing resources for innovation.
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: Refactoring can involve integrating salvaged components into new, higher-order systems.
+
+## 📚 **Further Reading & References**
+
+- Agile/DevOps analogies - Many tech companies apply refactoring to processes: e.g., breaking a legacy business process into agile teams. Business literature on **business process re-engineering** touches similar ideas (though BPR often aimed at improvement, here aim is also removal).
+- *"Dual Transformation" (Anthony, Johnson)* - a strategy book that talks about running a legacy business (Transformation B) while building new (Transformation A), and how to transfer capabilities from B to A. It's essentially how to refactor an organization during disruption, moving old capabilities to new growth, similar to refactoring concept described here.

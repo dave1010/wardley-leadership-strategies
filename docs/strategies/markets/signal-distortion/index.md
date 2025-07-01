@@ -144,11 +144,6 @@ Signal Distortion is a powerful reminder that in many markets, the perception of
 *   **[Fear, Uncertainty, and Doubt (FUD)](/terms/fear-uncertainty-and-doubt)**: A specific tactic of signal distortion focused on creating negative perceptions about a competitor.
 
 - [Fool's Mate](/strategies/attacking/fools-mate) - baiting competitors into missteps with deliberate misinformation, setting up a rapid counterstrike.
-## 📚 **Further Reading & References**
-
-*   **[Trust Me, I'm Lying: Confessions of a Media Manipulator](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)** by Ryan Holiday. A stark look at how media can be manipulated.
-*   **[The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War)** by Sun Tzu. The ancient text is full of wisdom on deception and misdirection.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: This strategy exploits the poor situational awareness of competitors by feeding them misleading signals.
@@ -156,3 +151,8 @@ Signal Distortion is a powerful reminder that in many markets, the perception of
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Competitors relying on past successful signals may be easily misled by distorted new signals.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: The goal of signal distortion is to influence competitors' actions to your advantage.
 - [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: Uncertainty in early-stage markets makes them more susceptible to signal distortion.
+
+## 📚 **Further Reading & References**
+
+*   **[Trust Me, I'm Lying: Confessions of a Media Manipulator](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)** by Ryan Holiday. A stark look at how media can be manipulated.
+*   **[The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War)** by Sun Tzu. The ancient text is full of wisdom on deception and misdirection.
