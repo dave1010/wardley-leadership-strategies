@@ -162,12 +162,6 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 - [Licensing](/strategies/poison/licensing) — controlling ecosystems through legal terms.
 
 - [Standards Game](/strategies/markets/standards-game) - introducing deliberately flawed specifications to fragment competitor ecosystems and clear the path for your own standard.
-## 📚 **Further Reading & References**
-
-- [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — a case of market fragmentation leading to failure.
-- [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — example of proprietary format wars.
-- *Blue Ocean Strategy* (W. Chan Kim & Renée Mauborgne) — insights into creating and defending market spaces.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: This strategy aims to disrupt the natural evolution of a nascent market.
@@ -175,3 +169,9 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: This is a direct attempt to influence and derail competitors' actions.
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: Exploits competitors' inability to discern a deliberately flawed initiative from a genuine one.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: A company might use this to protect a successful but aging core business from a disruptive new market.
+
+## 📚 **Further Reading & References**
+
+- [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — a case of market fragmentation leading to failure.
+- [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — example of proprietary format wars.
+- *Blue Ocean Strategy* (W. Chan Kim & Renée Mauborgne) — insights into creating and defending market spaces.

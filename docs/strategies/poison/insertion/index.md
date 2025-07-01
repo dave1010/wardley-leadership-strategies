@@ -172,11 +172,6 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 - [Press Release Process](/strategies/attacking/press-release-process) — public signals to manipulate perception.
 - [Designed to Fail](/strategies/poison/designed-to-fail) — pre-seeding flawed initiatives.
 
-## 📚 **Further Reading & References**
-
-- Cialdini, R. — [*Influence: The Psychology of Persuasion*](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X) — foundational concepts of behavioral influence.
-- Mitnick, K. — [*The Art of Deception*](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X) — case studies on social engineering and covert operations.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The methods of insertion and the vulnerabilities of competitors evolve over time.
@@ -184,3 +179,8 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – rel: This strategy exploits the target's lack of awareness about being influenced.
 - [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Competitors relying on past successful decision-making frameworks can be vulnerable to inserted narratives that fit those frameworks.
 - [The less evolved something is the more uncertain it becomes](/climatic-patterns/the-less-evolved-something-is-then-the-more-uncertain-it-becomes) – rel: Uncertainty in a competitor's strategy or market understanding provides fertile ground for insertion.
+
+## 📚 **Further Reading & References**
+
+- Cialdini, R. — [*Influence: The Psychology of Persuasion*](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X) — foundational concepts of behavioral influence.
+- Mitnick, K. — [*The Art of Deception*](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X) — case studies on social engineering and covert operations.

@@ -37,6 +37,20 @@ Key principles for effective alliances:
 
 Alliances are particularly effective as ecosystem plays, allowing collective action in environments of high uncertainty or where first-mover advantage matters.
 
+## 🗺️ **Real-World Examples**
+
+### Star Alliance (airlines)
+
+Dozens of airlines allied to extend reach through code-sharing and integrated frequent flyer benefits. This enabled a global network under a single brand, driving the evolution of air travel connectivity.
+
+### AllSeen Alliance (IoT)
+
+Qualcomm, Microsoft, LG and others formed an alliance to promote AllJoyn as an open standard for device interoperability. Similar efforts include the Zigbee Alliance.
+
+### Hypothetical EV Alliance
+
+Several mid-sized electric vehicle startups create a joint venture for charging infrastructure. This allows them to rival Tesla’s Supercharger network and accelerate EV adoption.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Alliances">
@@ -73,20 +87,6 @@ Alliances are particularly effective as ecosystem plays, allowing collective act
 - potential for anti-trust issues or perceptions of collusion
 - alliance could slow you down unnecessarily
 - you have a dominant position and don't need others
-
-## 🗺️ **Real-World Examples**
-
-### Star Alliance (airlines)
-
-Dozens of airlines allied to extend reach through code-sharing and integrated frequent flyer benefits. This enabled a global network under a single brand, driving the evolution of air travel connectivity.
-
-### AllSeen Alliance (IoT)
-
-Qualcomm, Microsoft, LG and others formed an alliance to promote AllJoyn as an open standard for device interoperability. Similar efforts include the Zigbee Alliance.
-
-### Hypothetical EV Alliance
-
-Several mid-sized electric vehicle startups create a joint venture for charging infrastructure. This allows them to rival Tesla’s Supercharger network and accelerate EV adoption.
 
 ## 🎯 **Leadership**
 

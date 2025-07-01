@@ -146,11 +146,6 @@ Every value chain is also a power chain. Understanding this allows you to see th
 
 - [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation) - reallocating buyer-supplier relationships by bypassing intermediaries to capture margin and control channels.
 - [Pricing Policy](/strategies/markets/pricing-policy) - adjusting pricing structures to influence supplier margins and buyer incentives, shifting power dynamics.
-## 📚 **Further Reading & References**
-
-*   **[Competitive Strategy](https://www.goodreads.com/book/show/236901.Competitive_Strategy)** by Michael E. Porter. The classic text that introduced the "Five Forces" framework, which is central to understanding buyer-supplier power.
-*   **[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.goodreads.com/book/show/17660462-the-everything-store)** by Brad Stone. Provides many examples of how Amazon has masterfully managed buyer-supplier power.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: The balance of power between buyers and suppliers shifts as markets and components evolve.
@@ -158,3 +153,8 @@ Every value chain is also a power chain. Understanding this allows you to see th
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Increased efficiency in a part of the value chain can alter power dynamics, e.g., by making suppliers more interchangeable.
 - [Higher order systems create new sources of worth](/climatic-patterns/higher-order-systems-create-new-sources-of-worth) – rel: New higher-order systems can create new chokepoints and shift power, like platform ecosystems.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Competitors' moves to consolidate power or form alliances will impact the buyer-supplier landscape.
+
+## 📚 **Further Reading & References**
+
+*   **[Competitive Strategy](https://www.goodreads.com/book/show/236901.Competitive_Strategy)** by Michael E. Porter. The classic text that introduced the "Five Forces" framework, which is central to understanding buyer-supplier power.
+*   **[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.goodreads.com/book/show/17660462-the-everything-store)** by Brad Stone. Provides many examples of how Amazon has masterfully managed buyer-supplier power.

@@ -40,6 +40,16 @@ In markets saturated with similar offerings, a compelling brand narrative provid
 
 Effective application begins with a deep, empathetic understanding of the target customer segment – their motivations, pain points, values, and identity. This insight is the foundation for crafting authentic brand messages and narratives that genuinely resonate, creating a meaningful connection and sense of relevance. Implementation involves strategically positioning the brand within the market landscape, sometimes requiring sophisticated tactics like dual branding to effectively engage diverse niches without compromising the main brand's integrity. Consistent execution of this brand strategy across all customer touchpoints is vital for building and reinforcing the desired perception.
 
+## 🗺️ **Real-World Examples**
+
+### BlackBerry's "It's not a toy" Campaign
+
+BlackBerry positioned its phones as professional tools, implicitly labeling iPhones as frivolous. This branding aimed to keep corporate users loyal by appealing to their professional identity.
+
+### Orange's "NJU Mobile" Sub-Brand
+
+Orange launched "NJU Mobile" to target youth while maintaining its main brand's integrity. This dual branding strategy allowed it to cover all bases.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Brand and Marketing">
@@ -73,16 +83,6 @@ Effective application begins with a deep, empathetic understanding of the target
 - The market is highly rational and price-driven.
 - The product has quality issues that marketing cannot fix.
 - Innovation is needed more than branding.
-
-## 🗺️ **Real-World Examples**
-
-### BlackBerry's "It's not a toy" Campaign
-
-BlackBerry positioned its phones as professional tools, implicitly labeling iPhones as frivolous. This branding aimed to keep corporate users loyal by appealing to their professional identity.
-
-### Orange's "NJU Mobile" Sub-Brand
-
-Orange launched "NJU Mobile" to target youth while maintaining its main brand's integrity. This dual branding strategy allowed it to cover all bases.
 
 ## 🎯 **Leadership**
 

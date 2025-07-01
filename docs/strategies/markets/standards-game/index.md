@@ -159,12 +159,6 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - [Alliances](/strategies/ecosystem/alliances) - forming coalitions of organisations to coordinate and promote standardisation efforts.
 - [Playing Both Sides](/strategies/attacking/playing-both-sides) - engaging multiple standard bodies or camps in parallel to influence outcomes and retain flexibility.
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control of standard implementation to influence supplier terms and buyer commitments.
-## 📚 **Further Reading & References**
-
-- [USB Implementers Forum](https://www.usb.org/) – Example of industry coordination driving a ubiquitous standard.
-- [GSM Association](https://www.gsma.com/) – Case study of regulators and industry collaborating on a global mobile standard.
-- [RFC 2026 – The Internet Standards Process](https://www.rfc-editor.org/rfc/rfc2026) – Insight into how open standards bodies govern technical specifications.
-
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Standards emerge as components evolve towards commodity; playing the standards game is a way to influence this evolution.
@@ -172,3 +166,9 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – rel: The establishment of a standard can be a punctuation point in the shift of a component to a utility.
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: Competitors will fight to establish their own standards or resist yours.
 - [No one size fits all](/climatic-patterns/no-one-size-fits-all) – rel: While a standard aims for uniformity, its application might still vary, or competing standards may serve different niches.
+
+## 📚 **Further Reading & References**
+
+- [USB Implementers Forum](https://www.usb.org/) – Example of industry coordination driving a ubiquitous standard.
+- [GSM Association](https://www.gsma.com/) – Case study of regulators and industry collaborating on a global mobile standard.
+- [RFC 2026 – The Internet Standards Process](https://www.rfc-editor.org/rfc/rfc2026) – Insight into how open standards bodies govern technical specifications.
