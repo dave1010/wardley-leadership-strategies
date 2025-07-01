@@ -159,6 +159,8 @@ This strategy is based on the insight that today's innovations are tomorrow's co
 - [Co-creation](/strategies/ecosystem/co-creation) - partnering with users and ecosystem members to generate prototypes and validate innovations for leveraging.
 - [Sweat & Dump](/strategies/dealing-with-toxicity/sweat-and-dump) - offloading non-core assets to specialists, freeing resources for focused innovation and leverage.
 - [Playing Both Sides](/strategies/attacking/playing-both-sides) - leveraging relationships on multiple market fronts to gather insights and maximise strategic leverage.
+- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – trigger: nurturing an ecosystem accelerates mutual improvement.

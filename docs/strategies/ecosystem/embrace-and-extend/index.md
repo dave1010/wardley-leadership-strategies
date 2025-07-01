@@ -145,6 +145,7 @@ A strong, vibrant open-source community around a standard is one of the best def
 - [Co-opting](/strategies/ecosystem/co-opting) - absorbing compatible implementations into your ecosystem before introducing proprietary extensions.
 - [restriction-of-movement](/strategies/competitor/restriction-of-movement) - enforcing extensions to constrain competitors’ ability to adopt or move between standards.
 - [fragmentation](/strategies/competitor/fragmentation) - splintering the ecosystem by introducing incompatible variants that divide community implementations.
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: extending a standard can undermine incumbent approaches.

@@ -138,6 +138,7 @@ A Tower and Moat strategy is the ultimate positional play. It's not about having
 *   **[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)**: The Moat is a powerful set of barriers to entry.
 
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging influence over supply chains and customer relationships to deepen the moat and raise switching costs.
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: rapid transitions create opportunities to build the tower.

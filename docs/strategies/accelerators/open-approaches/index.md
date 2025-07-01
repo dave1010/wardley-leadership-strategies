@@ -168,6 +168,7 @@ For example, if your competitor is slower-moving or dependent on licensing, open
 - [Licensing](/strategies/poison/licensing) - choosing license terms to encourage adoption and contributions while maintaining control over derivative uses.
 - [Harvesting](/strategies/markets/harvesting) - extracting strategic value or revenue after an open ecosystem has matured and scaled.
 - [Standards Game](/strategies/markets/standards-game) - using openness to seed protocols or formats that become de facto standards, locking in an ecosystem.
+- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: industrialisation of a component often leads to opening it up.
