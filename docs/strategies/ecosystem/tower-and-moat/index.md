@@ -136,9 +136,8 @@ A Tower and Moat strategy is the ultimate positional play. It's not about having
 *   **[Two-Sided Markets](/strategies/ecosystem/two-factor-markets)**: A two-sided market can be a powerful way to build the network effects needed for a strong Moat.
 *   **[Embrace and Extend](/strategies/ecosystem/embrace-and-extend)**: A related strategy, but typically focused on co-opting an existing standard rather than building a new Tower.
 *   **[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)**: The Moat is a powerful set of barriers to entry.
-
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging influence over supply chains and customer relationships to deepen the moat and raise switching costs.
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - Enveloping adjacent services or functionalities into the core platform is a key method for building the "Moat" around the "Tower," by commoditizing potential differentiators.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: rapid transitions create opportunities to build the tower.

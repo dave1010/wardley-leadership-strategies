@@ -179,8 +179,7 @@ Platforms often start open to attract users and developers, then selectively clo
 *   **[Innovate-Leverage-Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize)** - Platforms often leverage their existing user base and data (Leverage) to move into new areas (Innovate) which they then seek to make standard offerings (Commoditize).
 *   **[Raising Barriers to Entry](/strategies/defensive/raising-barriers-to-entry)** - Successful envelopment can create significant barriers for new entrants or existing competitors.
 *   **[Embrace and Extend](/strategies/ecosystem/embrace-and-extend)** - Similar in that it involves co-opting external functionalities, but envelopment is often more about direct competition or absorption into the platform's core.
-
-- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
+- [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - Platform envelopment is a form of re-aggregating capabilities into the platform's value chain, often absorbing functionalities that were previously disaggregated or provided by others.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: As core platform components become more efficient and commoditized, resources are freed up to innovate and expand into adjacent areas.

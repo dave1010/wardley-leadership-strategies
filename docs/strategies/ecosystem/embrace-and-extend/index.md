@@ -145,7 +145,7 @@ A strong, vibrant open-source community around a standard is one of the best def
 - [Co-opting](/strategies/ecosystem/co-opting) - absorbing compatible implementations into your ecosystem before introducing proprietary extensions.
 - [restriction-of-movement](/strategies/competitor/restriction-of-movement) - enforcing extensions to constrain competitors’ ability to adopt or move between standards.
 - [fragmentation](/strategies/competitor/fragmentation) - splintering the ecosystem by introducing incompatible variants that divide community implementations.
-- [Platform Envelopment](/strategies/ecosystem/platform-envelopment)
+- [Platform Envelopment](/strategies/ecosystem/platform-envelopment) - "Embrace and Extend" can be a method to achieve platform envelopment, by first adopting a standard to integrate a service, then extending it with proprietary features to lock users into the platform's ecosystem.
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Creative Destruction](/climatic-patterns/creative-destruction) – trigger: extending a standard can undermine incumbent approaches.
