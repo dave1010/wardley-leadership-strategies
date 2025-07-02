@@ -1,7 +1,31 @@
 import os
 import re
 import glob
-from typing import List, Set
+from typing import List, Set, Optional
+from functools import cached_property
+
+class Strategy:
+    """A class to represent a strategy document."""
+    def __init__(self, filepath: str, base_dir: str = 'docs'):
+        self.filepath = filepath
+        self.base_dir = base_dir
+
+    @cached_property
+    def slug(self) -> str:
+        return get_file_slug(self.filepath, self.base_dir)
+
+    @cached_property
+    def content(self) -> str:
+        with open(self.filepath, 'r', encoding='utf-8') as f:
+            return f.read()
+
+    @cached_property
+    def headings(self) -> List[str]:
+        return [h.strip() for h in extract_headings_from_file(self.filepath)]
+
+    @cached_property
+    def h2_headings(self) -> List[str]:
+        return [h for h in self.headings if h.startswith('## ')]
 
 def normalize_path(path_str: str) -> str:
     """
@@ -21,7 +45,6 @@ def get_file_slug(filepath: str, base_dir: str) -> str:
     if slug.endswith('index'):
         slug = slug[:-len('index')]
 
-    # Remove trailing slashes that might have resulted from removing 'index'
     while slug.endswith(os.path.sep):
         slug = slug[:-len(os.path.sep)]
 
@@ -38,25 +61,28 @@ def find_markdown_files(directory_path: str, filename_pattern: str = '*.md') -> 
     search_path = os.path.join(directory_path, '**', filename_pattern)
     return glob.glob(search_path, recursive=True)
 
-def extract_links_from_file(filepath: str, content_prefix: str) -> Set[str]:
+def get_strategy_files() -> List[str]:
     """
-    Extracts and normalizes markdown links from a file that start with a specific prefix.
+    Returns a list of file paths for all strategy documents, excluding category indexes.
+    """
+    strategy_dir = os.path.join('docs', 'strategies')
+    all_files = find_markdown_files(strategy_dir, filename_pattern='index.md')
+    strategy_files = []
+    for filepath in all_files:
+        relative_path = os.path.relpath(filepath, strategy_dir)
+        if len(os.path.normpath(relative_path).split(os.sep)) >= 3:
+            strategy_files.append(filepath)
+    return strategy_files
+
+def extract_links_from_content(content: str, content_prefix: str) -> Set[str]:
+    """
+    Extracts and normalizes markdown links from a string that start with a specific prefix.
     """
     links: Set[str] = set()
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        # Regex to find markdown links: [text](link)
-        # It captures the link part: ([^)\s#]+) - this part ensures we don't capture spaces, closing parenthesis, or hash fragments within the main link URL
-        # [^)]* at the end handles optional title attributes like [text](link "title")
-        matches = re.findall(r'\[[^\]]+\]\(([^)\s#]+)[^)]*\)', content)
-        for link in matches:
-            if link.startswith(content_prefix):
-                links.add(normalize_path(link))
-    except FileNotFoundError:
-        # Depending on desired behavior, could log this or raise
-        pass
+    matches = re.findall(r'\[[^\]]+\]\(([^)\s#]+)[^)]*\)', content)
+    for link in matches:
+        if link.startswith(content_prefix):
+            links.add(normalize_path(link))
     return links
 
 def extract_headings_from_file(filepath: str) -> List[str]:
@@ -71,45 +97,33 @@ def extract_headings_from_file(filepath: str) -> List[str]:
                 if stripped_line.startswith('#'):
                     headings.append(stripped_line)
     except FileNotFoundError:
-        # Depending on desired behavior, could log this or raise
         pass
     return headings
 
-def extract_links_from_section(filepath: str, section_heading_pattern: str, content_prefix: str) -> Set[str]:
+def get_section_content(content: str, section_heading: str) -> Optional[str]:
     """
-    Extracts and normalizes markdown links from a specific section of a file.
+    Extracts content from a specific section, defined by a heading.
+    The section runs from the given heading to the next heading of the same or higher level.
     """
-    links: Set[str] = set()
-    try:
-        with open(filepath, 'r', encoding='utf-8') as f:
-            content = f.read()
+    # The heading is passed as a literal string, so escape it for regex
+    heading_pattern = re.escape(section_heading)
+    # The regex needs to match the start of a line
+    section_heading_regex = f"^{heading_pattern}"
 
-        section_match = re.search(section_heading_pattern, content, re.MULTILINE)
-        if not section_match:
-            return links
+    section_match = re.search(section_heading_regex, content, re.MULTILINE)
+    if not section_match:
+        return None
 
-        section_start_index = section_match.end()
+    section_start_index = section_match.end()
+    heading_level = section_match.group(0).count('#')
 
-        # Determine the level of the found heading (e.g., ## is level 2, ### is level 3)
-        heading_level = section_match.group(0).count('#')
+    # Regex to find the next heading of the same or higher level
+    next_heading_pattern = r"\n^#{1," + str(heading_level) + r"} .*"
+    next_heading_match = re.search(next_heading_pattern, content[section_start_index:], re.MULTILINE)
 
-        # Regex to find the next heading of the same or higher level, or end of file
-        # This looks for lines starting with 1 up to `heading_level` hash symbols, followed by a space
-        next_heading_pattern = r"\n^#{1," + str(heading_level) + r"} .*"
-        next_heading_match = re.search(next_heading_pattern, content[section_start_index:], re.MULTILINE)
+    if next_heading_match:
+        section_content = content[section_start_index : section_start_index + next_heading_match.start()]
+    else:
+        section_content = content[section_start_index:]
 
-        if next_heading_match:
-            section_content = content[section_start_index : section_start_index + next_heading_match.start()]
-        else:
-            section_content = content[section_start_index:]
-
-        # Regex to find markdown links: [text](link)
-        matches = re.findall(r'\[[^\]]+\]\(([^)\s#]+)[^)]*\)', section_content)
-        for link in matches:
-            if link.startswith(content_prefix):
-                links.add(normalize_path(link))
-
-    except FileNotFoundError:
-        # Depending on desired behavior, could log this or raise
-        pass
-    return links
+    return section_content.strip()
