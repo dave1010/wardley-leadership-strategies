@@ -123,7 +123,7 @@ Overlooking intellectual property considerations can result in disputes.
 
 ## 🧠 **Strategic Insights**
 
-## Pioneers, Settlers and Town Planners
+### Pioneers, Settlers and Town Planners
 
 Fast Followers can be seen as "Settlers" in the Wardley Mapping framework, who build upon the foundations laid by "Pioneers" while avoiding the risks of uncharted territories. An effective organisation will have their own Settlers who can quickly adapt and improve upon existing solutions. An ineffective organisation may struggle to learn from pioneers, leading to opportunities lost to more agile competitors.
 
