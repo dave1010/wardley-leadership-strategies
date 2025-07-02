@@ -171,3 +171,6 @@ There is a line between strategic positioning and market distortion. Regularly t
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: staged contests steer user expectations and related products.
 
 ## 📚 **Further Reading & References**
+
+- [Multibranding Strategy](https://en.m.wikipedia.org/wiki/Brand#Multibranding_strategy)
+
