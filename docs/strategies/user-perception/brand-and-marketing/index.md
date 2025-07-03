@@ -171,3 +171,5 @@ Effective branding requires thinking beyond immediate sales. It involves alignin
 
 ## 📚 **Further Reading & References**
 
+- [Brand management - Wikipedia](https://en.wikipedia.org/wiki/Brand_management)
+- [Marketing - Wikipedia](https://en.wikipedia.org/wiki/Marketing)
