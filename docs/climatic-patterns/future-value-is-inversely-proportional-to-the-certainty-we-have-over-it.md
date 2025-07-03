@@ -10,4 +10,3 @@ The bigger the unknowns, the greater the possible upside. If everyone is sure ab
 ## 🔀 Related Strategies
 
 - [Directed Investment](/strategies/attacking/directed-investment) – trigger: targeted bets seek uncertain, potentially high-value opportunities.
-

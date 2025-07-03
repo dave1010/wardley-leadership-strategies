@@ -144,6 +144,22 @@ Remember that there are 60+ strategies. Consider whether content is applicable t
 - 1 empty line before and after a list, heading, or blockquote.
 - H2s (`##`) have **bold text** and an emoji. Other headings don't.
 
+## Markdown Linting
+
+This project uses `markdownlint-cli` to enforce markdown style and consistency.
+
+To check for linting errors in the `docs` directory, run:
+
+```bash
+npm run lint:md
+```
+
+To automatically fix linting errors, run:
+
+```bash
+npm run lint:md:fix
+```
+
 ## Maintenance Scripts and Tests
 
 The utilities in `./scripts` help keep related links in sync when you edit many strategy files or reorganise content. See [scripts/README.md](./scripts/README.md) for a workflow that checks for missing and reciprocal links before adding them automatically.

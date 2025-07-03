@@ -155,6 +155,7 @@ Superior processes, cost structures, and delivery models can overcome first-move
 - [Innovate, Leverage, Commoditize (ILC)](/strategies/ecosystem/innovate-leverage-commoditize) - applying the ILC cycle to systematically catch up with and commoditize pioneering innovations.
 - [Co-opting](/strategies/ecosystem/co-opting) - integrating successful external innovations into your offerings to accelerate product refinement.
 - [Press Release Process](/strategies/attacking/press-release-process) - using strategic announcements to highlight enhanced iterations and build on first mover momentum.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Change is not always linear](/climatic-patterns/change-is-not-always-linear) – trigger: wait until the market shows a clear acceleration before following.

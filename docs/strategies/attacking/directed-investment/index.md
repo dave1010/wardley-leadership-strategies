@@ -46,15 +46,19 @@ flowchart TD
 ## 🗺️ **Real-World Examples**
 
 ### Google's Acquisition of DeepMind (2014)
+
 Google recognised the rising importance of AI and made a bold, early investment by acquiring DeepMind and funding advanced AI research. This gave Google a decisive lead in AI talent and technology, underpinning future products and shaping the AI landscape.
 
 ### AT&T's Bell Labs (Mid 20th Century)
+
 AT&T directed monopoly profits into Bell Labs, targeting fundamental innovations (transistors, satellites, information theory). This strategic investment kept AT&T ahead in telecom for decades and produced inventions that shaped entire industries.
 
 ### Hypothetical: Pharma Company Bets on mRNA
+
 A pharmaceutical company, seeing weak signals of mRNA's potential, directs major R&D and capital into mRNA vaccine platforms before COVID-19. When the pandemic hits, it is first to market, outpacing rivals and setting new standards.
 
 ### Failed Example: Early VR Bets in the 1990s
+
 Several tech firms made large, early investments in virtual reality in the 1990s, but the technology and market were not ready. These directed investments failed to yield returns, highlighting the risk of betting too early or on the wrong trend.
 
 ## 🚦 **When to Use / When to Avoid**
@@ -95,9 +99,11 @@ Several tech firms made large, early investments in virtual reality in the 1990s
 ## 🎯 **Leadership**
 
 ### Core challenge
+
 Committing to a bold, focused bet in the face of uncertainty, and sustaining support through inevitable setbacks and ambiguity.
 
 ### Key leadership skills required
+
 - Strategic vision and situational awareness
 - Risk management and scenario planning
 - Stakeholder alignment and communication
@@ -105,6 +111,7 @@ Committing to a bold, focused bet in the face of uncertainty, and sustaining sup
 - Fostering a culture of learning and resilience
 
 ### Ethical considerations
+
 Leaders must weigh the societal and organisational impact of large, risky bets. Consider the potential for wasted resources, opportunity costs, and the effect on employees and partners if the investment fails. Transparency and responsible stewardship are essential.
 
 ## 📋 **How to Execute**
@@ -126,26 +133,33 @@ Leaders must weigh the societal and organisational impact of large, risky bets. 
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### Betting on the wrong trend
+
 Investing heavily in a future that fails to materialise or is overtaken by a different technology or market shift.
 
 ### Isolation or failed integration
+
 Keeping the initiative too separate (skunkworks) can hinder adoption; integrating too soon can stifle innovation. Balance is critical.
 
 ### Financial overreach
+
 Committing more resources than the organisation can sustain, especially if the timeline is longer than expected.
 
 ### Cultural mismatch
+
 The parent organisation may stifle the new initiative or expect quick ROI, undermining the investment.
 
 ## 🧠 **Strategic Insights**
 
 ### Evolution and timing
+
 Directed investment is most effective when the timing is right—early enough to seize advantage, but not so early that the market or technology is immature. Mapping helps clarify when to move.
 
 ### Counterplay and response
+
 Competitors may respond with their own investments, acquisitions, or attempts to set standards. Be prepared for escalation and the need to double down or pivot.
 
 ### Value chain leverage
+
 Directed investment can shift the centre of gravity in a value chain, attracting talent, partners, and users. It can also create new bottlenecks or standards that others must follow.
 
 ## ❓ **Key Questions to Ask**
@@ -165,6 +179,7 @@ Directed investment can shift the centre of gravity in a value chain, attracting
 - [Experimentation](/strategies/attacking/experimentation) – Experimentation can precede or complement directed investment by surfacing opportunities.
 
 - [Press Release Process](/strategies/attacking/press-release-process) - leveraging strategic announcements to publicise investments, shape narratives, and align stakeholders around key initiatives.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Future value is inversely proportional to the certainty we have over it](/climatic-patterns/future-value-is-inversely-proportional-to-the-certainty-we-have-over-it) – influence: big bets seek uncertain but high-reward opportunities.

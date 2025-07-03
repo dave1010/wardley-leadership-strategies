@@ -96,13 +96,13 @@ Circling and probing should be conducted ethically, respecting competitors' inte
 
 ## 📋 **How to Execute**
 
-1.  **Define the hypothesis:** Clearly state what you aim to learn from the probe.
-2.  **Develop a minimal viable offering:** Create something that can be launched quickly and with limited investment, yet is sufficient to attract users and generate feedback.
-3.  **Target strategically:** Use geographic or demographic targeting to limit exposure.
-4.  **Instrument for learning:** Set metrics and collect qualitative feedback to maximize learning.
-5.  **Maintain a low profile:** Avoid alerting competitors or setting high customer expectations.
-6.  **Evaluate results:** Assess whether the probe uncovered demand or vulnerabilities.
-7.  **Integrate learnings:** Use the insights gained to inform future strategies.
+1. **Define the hypothesis:** Clearly state what you aim to learn from the probe.
+2. **Develop a minimal viable offering:** Create something that can be launched quickly and with limited investment, yet is sufficient to attract users and generate feedback.
+3. **Target strategically:** Use geographic or demographic targeting to limit exposure.
+4. **Instrument for learning:** Set metrics and collect qualitative feedback to maximize learning.
+5. **Maintain a low profile:** Avoid alerting competitors or setting high customer expectations.
+6. **Evaluate results:** Assess whether the probe uncovered demand or vulnerabilities.
+7. **Integrate learnings:** Use the insights gained to inform future strategies.
 
 ## 📈 **Measuring Success**
 
@@ -158,12 +158,12 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 
 ## ❓ **Key Questions to Ask**
 
-- **Market Understanding:** What specific hypothesis about the competitor's market or offering are we testing with this probe?
-- **Resource Allocation:** What is the minimal investment required for this probe to yield meaningful data, and how does this align with our overall experimental budget?
-- **Competitor Response:** What is the range of potential competitor reactions, and how prepared are we to adapt our strategy based on these responses?
-- **Learning Objectives:** What are the key learning objectives for this probe, and how will we measure success in achieving them?
-- **Risk Assessment:** What are the potential downsides of this probe, including reputational risk or unwanted competitive attention, and how can we mitigate them?
-- **Strategic Alignment:** How will the insights from this probe inform our broader strategic decisions, regardless of the outcome?
+* **Market Understanding:** What specific hypothesis about the competitor's market or offering are we testing with this probe?
+* **Resource Allocation:** What is the minimal investment required for this probe to yield meaningful data, and how does this align with our overall experimental budget?
+* **Competitor Response:** What is the range of potential competitor reactions, and how prepared are we to adapt our strategy based on these responses?
+* **Learning Objectives:** What are the key learning objectives for this probe, and how will we measure success in achieving them?
+* **Risk Assessment:** What are the potential downsides of this probe, including reputational risk or unwanted competitive attention, and how can we mitigate them?
+* **Strategic Alignment:** How will the insights from this probe inform our broader strategic decisions, regardless of the outcome?
 
 ## 🔀 **Related Strategies**
 
@@ -171,18 +171,18 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 * [**Tech Drops**](/strategies/competitor/tech-drops) - Launching a sudden, unexpected attack on a competitor.
 * [**Experimentation**](/strategies/attacking/experimentation) - Testing new approaches to find effective strategies.
 * [**Alliances**](/strategies/ecosystem/alliances) - Forming partnerships, the opposite of testing a competitor.
-- [Cooperation](/strategies/accelerators/cooperation) - collaborating superficially to gather insights and test competitor responses under the guise of partnership.
-- [sapping](/strategies/competitor/sapping) - gradually undermining a competitor’s resources or alliances to soften defences before probing actions.
-- [fragmentation](/strategies/competitor/fragmentation) - dividing competitor networks or markets to weaken collective resistance and isolate targets for probing.
-- [Ambush](/strategies/competitor/ambush) - striking swiftly once probing reveals vulnerabilities to maximise surprise and impact.
+* [Cooperation](/strategies/accelerators/cooperation) - collaborating superficially to gather insights and test competitor responses under the guise of partnership.
+* [sapping](/strategies/competitor/sapping) - gradually undermining a competitor’s resources or alliances to soften defences before probing actions.
+* [fragmentation](/strategies/competitor/fragmentation) - dividing competitor networks or markets to weaken collective resistance and isolate targets for probing.
+* [Ambush](/strategies/competitor/ambush) - striking swiftly once probing reveals vulnerabilities to maximise surprise and impact.
 
 ## ⛅ **Relevant Climatic Patterns**
 
-- [Everything evolves](/climatic-patterns/everything-evolves) – rel: The landscape is constantly changing, requiring ongoing circling and probing.
-- [Characteristics change](/climatic-patterns/characteristics-change) – rel: Competitor capabilities and market dynamics shift, necessitating adaptation.
-- [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Competitors might become complacent, creating opportunities.
-- [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Probing can uncover inefficiencies that can be exploited or areas ripe for innovation.
-- [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: This strategy is a direct response to and anticipation of competitor actions.
+* [Everything evolves](/climatic-patterns/everything-evolves) – rel: The landscape is constantly changing, requiring ongoing circling and probing.
+* [Characteristics change](/climatic-patterns/characteristics-change) – rel: Competitor capabilities and market dynamics shift, necessitating adaptation.
+* [Past success breeds inertia](/climatic-patterns/past-success-breeds-inertia) – rel: Competitors might become complacent, creating opportunities.
+* [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – rel: Probing can uncover inefficiencies that can be exploited or areas ripe for innovation.
+* [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – rel: This strategy is a direct response to and anticipation of competitor actions.
 
 ## 📚 **Further Reading & References**
 

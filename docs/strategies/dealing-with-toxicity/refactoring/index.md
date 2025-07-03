@@ -55,7 +55,6 @@ A publishing company has a huge staff for print magazine layout, a diminishing n
   </Readiness>
 </Assessment>
 
-
 ### Use when
 
 The legacy asset has **subcomponents of value** that you can clearly redeploy. Often applicable if the asset's decline is not immediate overnight -- you have time to plan and execute a thoughtful re-org. It's good if you value retaining employees or knowledge and want to redeploy them (cultural continuity) rather than sever ties completely. Refactoring is best when the legacy's end state is foreseeable and you can systematically carve it up over time.
@@ -80,13 +79,13 @@ The primary leadership challenge is **managing the transition sensitively and de
 
 ## 📋 **How to Execute**
 
-1.  **Map the Legacy System:** Use Wardley Mapping or similar techniques to break down the legacy asset (product, service, process) into its core components (technology, data, skills, customer segments).
-2.  **Assess Component Value & Evolution:** Evaluate each component. Is it still valuable? Can it be reused? Where is it on the evolution axis (Genesis, Custom, Product, Commodity)?
-3.  **Identify Reusable Parts:** Pinpoint components (e.g., a specific dataset, a skilled team, a modular piece of tech) that can be integrated into newer, strategic initiatives.
-4.  **Develop a Transition Plan:** Outline how reusable components will be extracted and repurposed. Plan for retraining or reassigning personnel. Define the timeline for phasing out the non-reusable parts.
-5.  **Execute Incrementally:** Refactor in manageable stages where possible. Migrate functionality, transition teams, and decommission old parts gradually to minimize disruption. Run old and new in parallel if necessary during transition.
-6.  **Communicate Clearly:** Keep stakeholders (especially affected employees) informed about the process, timelines, and future roles.
-7.  **Decommission Residual Toxicity:** Formally shut down or dispose of the components identified as purely toxic or unusable.
+1. **Map the Legacy System:** Use Wardley Mapping or similar techniques to break down the legacy asset (product, service, process) into its core components (technology, data, skills, customer segments).
+2. **Assess Component Value & Evolution:** Evaluate each component. Is it still valuable? Can it be reused? Where is it on the evolution axis (Genesis, Custom, Product, Commodity)?
+3. **Identify Reusable Parts:** Pinpoint components (e.g., a specific dataset, a skilled team, a modular piece of tech) that can be integrated into newer, strategic initiatives.
+4. **Develop a Transition Plan:** Outline how reusable components will be extracted and repurposed. Plan for retraining or reassigning personnel. Define the timeline for phasing out the non-reusable parts.
+5. **Execute Incrementally:** Refactor in manageable stages where possible. Migrate functionality, transition teams, and decommission old parts gradually to minimize disruption. Run old and new in parallel if necessary during transition.
+6. **Communicate Clearly:** Keep stakeholders (especially affected employees) informed about the process, timelines, and future roles.
+7. **Decommission Residual Toxicity:** Formally shut down or dispose of the components identified as purely toxic or unusable.
 
 ### Ethical Considerations
 
@@ -129,11 +128,11 @@ The primary leadership challenge is **managing the transition sensitively and de
 
 ## 🔀 **Related Strategies**
 
-
 - [**Disposal of Liability**](/strategies/dealing-with-toxicity/disposal-of-liability) - Refactoring is an approach to disposal by reuse, focusing on salvaging internal value.
 - [**Sweat & Dump**](/strategies/dealing-with-toxicity/sweat-and-dump) - An alternative to refactoring where the asset is pushed hard for short-term gain before disposal, often externally.
 - [**Value Chain Disaggregation and Re-aggregation**](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - While refactoring is about internal reorganization of a legacy asset, VCDAR is a broader strategic play involving breaking down and recombining entire value chains, often to create new market offerings or business models. Refactoring might be a small part of a larger VCDAR initiative if legacy components are repurposed into a new value chain structure.
 - [Pig in a Poke](/strategies/dealing-with-toxicity/pig-in-a-poke) - Packaging toxic components within refactored entities so hidden liabilities surface only after acceptance or deployment.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Legacy systems inevitably reach a point where they need refactoring or disposal due to evolution.
