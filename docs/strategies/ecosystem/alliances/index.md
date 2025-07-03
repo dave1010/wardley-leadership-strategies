@@ -2,6 +2,7 @@
 title: Alliances
 description: Formal partnerships or consortia formed to pursue shared goals.
 tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, collective action, cooperation]
+authors: [dave-hulbert]
 ---
 
 **Forming formal partnerships to pursue common objectives.**

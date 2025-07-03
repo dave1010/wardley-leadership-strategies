@@ -2,6 +2,7 @@
 title: Raising Barriers to Entry
 description: A defensive strategy of increasing the complexity and scope of a product or service to make it more difficult for new competitors to enter the market.
 tags: [defensive, barriers-to-entry, competition, incumbents, market-expectations, complexity, bundling]
+authors: [dave-hulbert]
 ---
 
 

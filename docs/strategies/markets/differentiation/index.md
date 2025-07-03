@@ -2,6 +2,7 @@
 title: Differentiation
 description: Creating a unique value proposition by focusing on unmet user needs in less-evolved market spaces.
 tags: [markets, value-proposition, uniqueness, user-needs, competition, positioning, innovation]
+authors: [dave-hulbert]
 ---
 
 

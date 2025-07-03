@@ -2,6 +2,7 @@
 title: Talent Raid
 description: Removing or absorbing key talent from a rival organisation.
 tags: [talent-raid, competitor, talent, human resources, acquisition, poaching, expertise, weakening rivals]
+authors: [dave-hulbert]
 ---
 
 **Removing or absorbing key talent from a rival organization**.

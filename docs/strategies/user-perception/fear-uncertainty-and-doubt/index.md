@@ -2,6 +2,7 @@
 title: Fear, Uncertainty and Doubt
 description: A classic tactic of spreading fear, uncertainty, and doubt to slow adoption of a competitor's innovation or to dissuade customers from switching.
 tags: [user-perception, fud, competition, messaging, risk perception, slowing adoption]
+authors: [dave-hulbert]
 ---
 
 **A classic tactic of spreading fear, uncertainty, and doubt to slow adoption of a competitor's innovation or to dissuade customers from switching.**

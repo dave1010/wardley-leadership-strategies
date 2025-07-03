@@ -13,6 +13,7 @@ strategic_insight_area: Ecosystem
 when_to_use: Task is too large, risky, or slow to do alone; establishing a new standard.
 when_to_avoid: Goals fundamentally clash with partners; giving a weaker competitor undue advantage.
 core_challenge: Balancing control and openness.
+authors: [dave-hulbert]
 ---
 
 **Working with others, even competitors, to achieve a goal**.

@@ -2,6 +2,7 @@
 title: Open Approaches
 description: Making something open—source, standards, data, or APIs—to accelerate adoption, drive commoditisation, and enable ecosystem growth.
 tags: [open approaches, accelerators, open source, open standards, open data, collaboration, community, commoditisation]
+authors: [dave-hulbert]
 ---
 
 **Strategically making software, data, standards, or APIs open to drive adoption, commoditisation, and ecosystem growth.**

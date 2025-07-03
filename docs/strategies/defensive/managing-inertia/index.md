@@ -2,6 +2,7 @@
 title: Managing Inertia
 description: A defensive strategy focused on proactively identifying and overcoming an organization's internal resistance to change to enable adaptation and agility.
 tags: [defensive, inertia, change-management, adaptation, organizational-change, resistance, culture]
+authors: [dave-hulbert]
 ---
 
 **A defensive strategy focused on proactively identifying and overcoming an organization's internal resistance to change to enable adaptation and agility.**

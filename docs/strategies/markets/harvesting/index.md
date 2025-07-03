@@ -2,6 +2,7 @@
 title: Harvesting
 description: Scaling innovation by observing a platform's ecosystem, identifying successful third-party offerings, and then acquiring, replicating, or integrating them.
 tags: [markets, ecosystem, innovation, scaling, acquisition, replication, platform-strategy, sensing-engine]
+authors: [dave-hulbert]
 ---
 
 

@@ -2,6 +2,7 @@
 title: First Mover
 description: Establishing a dominant position by industrialising or standardising a component before others.
 tags: [first-mover, positional, timing, commoditisation, advantage, ecosystem, scale]
+authors: [dave-hulbert]
 ---
 
 **Establishing a dominant position by industrialising or standardising a component before others.**

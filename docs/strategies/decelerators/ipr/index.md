@@ -2,6 +2,7 @@
 title: Patents & Intellectual Property Rights
 description: Use patents and other IP rights to legally fence competitors and slow their technological progress.
 tags: [decelerators, ipr, intellectual-property, patents, licensing]
+authors: [dave-hulbert]
 ---
 
 **Use patents and other intellectual property rights to legally fence competitors and slow their technological progress.**

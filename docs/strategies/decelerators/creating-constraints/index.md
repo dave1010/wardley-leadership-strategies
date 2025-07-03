@@ -2,6 +2,7 @@
 title: Creating Constraints
 description: Purposefully introduce new bottlenecks to constrain competitors by shaping market, legal, or technical environments.
 tags: [decelerators, creating-constraints, barriers-to-entry, supply-chain, exclusivity, regulation]
+authors: [dave-hulbert]
 ---
 
 **Purposefully introduce new bottlenecks to constrain competitors by shaping market, legal, or technical environments.**

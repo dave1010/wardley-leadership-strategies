@@ -2,6 +2,7 @@
 title: Innovate, Leverage, Commoditize (ILC)
 description: A cyclical strategy of using an ecosystem as a sensing engine to guide innovation and maintain market leadership.
 tags: [ecosystem, innovate-leverage-commoditize, ilc, innovate, platform, data, feedback-loop, ecosystem-monitoring, sensing-engine]
+authors: [dave-hulbert]
 ---
 
 

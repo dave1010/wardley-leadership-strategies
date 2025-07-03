@@ -2,6 +2,7 @@
 title: Defensive Regulation
 description: A defensive strategy where an incumbent company uses government regulation and lobbying to create barriers to entry and hinder competitors.
 tags: [defensive, regulation, policy, lobbying, barriers-to-entry, incumbents, compliance, rent-seeking]
+authors: [dave-hulbert]
 ---
 
 

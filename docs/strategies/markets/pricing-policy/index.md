@@ -2,6 +2,7 @@
 title: Pricing Policy
 description: Using pricing as a strategic tool to manipulate demand, shape markets, and gain competitive advantage.
 tags: [markets, pricing, elasticity, demand-manipulation, value-capture, commoditisation, fragmentation]
+authors: [dave-hulbert]
 ---
 
 

@@ -2,6 +2,7 @@
 title: Market Enablement
 description: Actively encouraging the growth of a competitive market around a component or service to accelerate its evolution and adoption.
 tags: [accelerators, markets, adoption, competition, ecosystem, open standards, open approaches, platform, value creation]
+authors: [dave-hulbert]
 ---
 
 **Actively encouraging the growth of a competitive market around a component or service you care about.**

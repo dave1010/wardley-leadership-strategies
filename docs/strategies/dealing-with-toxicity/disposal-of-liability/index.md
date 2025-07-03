@@ -2,6 +2,7 @@
 title: Strategic Divestment and Disposal of Liability
 description: Strategically restructuring by separating or selling off business units, assets, or divisions to unlock value, enhance focus, or dispose of liabilities.
 tags: [dealing-with-toxicity, legacy, divestment, exit-strategy, inertia, obsolescence, risk-mitigation, strategic-divestment, spin-off, carve-out, restructuring]
+authors: [dave-hulbert]
 ---
 
 

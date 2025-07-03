@@ -2,6 +2,7 @@
 title: Creating Artificial Needs
 description: Generating demand by inventing or amplifying a need that did not previously exist.
 tags: [user perception, demand generation, marketing, consumers, influence, creating-artificial-needs]
+authors: [dave-hulbert]
 ---
 
 **Generating demand by inventing or amplifying a need that did not previously exist.**

@@ -2,6 +2,7 @@
 title: Two-Sided Markets
 description: Creating a platform that brings together two distinct groups of users (e.g., buyers and sellers) to create value through network effects.
 tags: [ecosystem, platform, marketplace, network-effects, providers, consumers, data-aggregation]
+authors: [dave-hulbert]
 ---
 
 

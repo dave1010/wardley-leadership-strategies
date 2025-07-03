@@ -1,5 +1,6 @@
 ---
 tags: [poison, denial, sabotage, ecosystem-manipulation]
+authors: [dave-hulbert]
 ---
 
 # Designed to Fail

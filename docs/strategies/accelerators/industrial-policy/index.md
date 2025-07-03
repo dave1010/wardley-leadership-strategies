@@ -13,6 +13,7 @@ strategic_insight_area: Climatic Patterns
 when_to_use: High-capital, strategic industries targeted by government; when public support can dramatically accelerate progress.
 when_to_avoid: When policy cycles are too slow or burdensome; when public funding creates dependencies that stifle agility.
 core_challenge: Balancing public objectives with private strategic goals.
+authors: [dave-hulbert]
 ---
 
 **Aligning with or influencing government investment and policy to accelerate strategic industry growth.**

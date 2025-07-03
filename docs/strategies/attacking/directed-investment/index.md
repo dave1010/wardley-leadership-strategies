@@ -2,6 +2,7 @@
 title: Directed Investment
 description: Making a targeted, venture-capital-style investment in a future change or emerging area to outpace rivals and seize first-mover advantage.
 tags: [directed-investment, attacking, investment, innovation, strategic-bets, disruption, first-mover]
+authors: [dave-hulbert]
 ---
 
 **Making a bold, focused investment in a specific future change or emerging area to seize advantage before others move.**

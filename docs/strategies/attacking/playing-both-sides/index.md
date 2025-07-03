@@ -2,6 +2,7 @@
 title: Playing Both Sides
 description: Profiting from or hedging by engaging with two opposing sides in a market or standards war, so that whichever side wins, you benefit.
 tags: [attacking, markets, standards, arbitrage, uncertainty, hedging, neutrality]
+authors: [dave-hulbert]
 ---
 
 

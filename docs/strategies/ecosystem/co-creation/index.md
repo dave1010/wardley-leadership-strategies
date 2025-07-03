@@ -2,6 +2,7 @@
 title: Co-creation
 description: A strategy of actively involving customers or users in the product development process to create more valuable and user-centric solutions.
 tags: [ecosystem, collaboration, user-involvement, customer-feedback, innovation, community, open-innovation]
+authors: [dave-hulbert]
 ---
 
 

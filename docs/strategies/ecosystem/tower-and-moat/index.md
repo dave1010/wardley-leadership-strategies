@@ -2,6 +2,7 @@
 title: Tower and Moat
 description: Establishing a dominant position in a future market (the Tower) and building defensive barriers (the Moat) to prevent competition.
 tags: [ecosystem, dominance, defensive, barriers-to-entry, platform, network-effects, commoditisation, innovate-leverage-commoditize]
+authors: [dave-hulbert]
 ---
 
 

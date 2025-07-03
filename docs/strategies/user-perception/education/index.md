@@ -2,6 +2,7 @@
 title: Education
 description: Educating the market or users to overcome their inertia to change by informing them of benefits or risks.
 tags: [education, user-perception, inertia, adoption, awareness, information, training]
+authors: [dave-hulbert]
 ---
 
 **Educating the market or users to overcome their inertia to change by informing them of benefits or risks.**

@@ -2,6 +2,7 @@
 title: Last Man Standing
 description: A strategy of outlasting competitors in a commoditizing market to capture remaining market share.
 tags: [markets, commoditisation, attrition, scale, efficiency, price-war, market-consolidation]
+authors: [dave-hulbert]
 ---
 
 **A strategy of outlasting competitors in a commoditizing market to capture remaining market share.**

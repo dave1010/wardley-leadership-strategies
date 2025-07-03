@@ -2,6 +2,7 @@
 title: Center of Gravity
 description: Building a focal point of talent, expertise, or activity that attracts the best resources and shapes the direction of an industry or ecosystem.
 tags: [center-of-gravity, attacking, talent, ecosystem, innovation, expertise, influence, attraction]
+authors: [dave-hulbert]
 ---
 
 **Deliberately concentrating talent, knowledge, or resources in a way that others are compelled to orbit you, voluntarily or strategically.**

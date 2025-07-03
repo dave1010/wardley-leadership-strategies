@@ -2,6 +2,7 @@
 title: Sweat & Dump
 description: Outsource operation of a legacy asset to a third party, extract remaining value, and exit before the cost curve turns against you.
 tags: [dealing-with-toxicity, sweat-and-dump, outsourcing, third-party, exit-strategy, cost-reduction, risk-mitigation, capex, inertia]
+authors: [dave-hulbert]
 ---
 
 

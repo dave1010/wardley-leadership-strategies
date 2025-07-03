@@ -2,6 +2,7 @@
 title: Fast Follower
 description: Leveraging the mistakes and groundwork of pioneers to enter markets at the optimal time with improved execution.
 tags: [fast-follower, positional, timing, execution, imitation, learning, market entry]
+authors: [dave-hulbert]
 ---
 
 **Leveraging the mistakes and groundwork of pioneers to enter markets at the optimal time with improved execution.**

@@ -2,6 +2,7 @@
 title: Pig in a Poke
 description: Disguising toxic assets as valuable to offload risk before their true nature emerges.
 tags: [dealing-with-toxicity, pig-in-a-poke, deception, misrepresentation, exit-strategy, risk-mitigation]
+authors: [dave-hulbert]
 ---
 
 

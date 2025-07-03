@@ -1,6 +1,7 @@
 ---
 title: Restriction of Movement
 tags: [restriction-of-movement, competitor, circling, ecosystem, cornering, constraint, control, limitation]
+authors: [dave-hulbert]
 ---
 
 **Limiting a rival's ability to maneuver or adapt**.

@@ -2,6 +2,7 @@
 title: Bundling
 description: Combining products or changes together so that a less desirable item is packaged with a desirable one, encouraging adoption of the whole package.
 tags: [bundling, user-perception, packaging, adoption, hiding disadvantage, pricing]
+authors: [dave-hulbert]
 ---
 
 

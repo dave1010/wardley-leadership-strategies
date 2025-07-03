@@ -2,6 +2,7 @@
 title: Buyer-Supplier Power
 description: Strategically managing the power dynamics between buyers and suppliers as a market evolves to gain a competitive advantage.
 tags: [markets, power-dynamics, negotiation, value-chain, leverage, commoditisation, chokepoint]
+authors: [dave-hulbert]
 ---
 
 

@@ -2,6 +2,7 @@
 title: Undermining Barriers to Entry
 description: An offensive strategy focused on identifying and dismantling a key barrier that protects an incumbent, thereby opening the market to new competition.
 tags: [attacking, barriers-to-entry, inertia, competition, open-source, open-approaches, disruption, challenger]
+authors: [dave-hulbert]
 ---
 
 

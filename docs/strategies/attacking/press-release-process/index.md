@@ -2,6 +2,7 @@
 title: Press Release Process
 description: Using Amazon's "working backwards" method to ensure clarity of vision and market fit.
 tags: [press-release-process, attacking, marketing, product development, working backwards, customer focus, amazon, clarity]
+authors: [dave-hulbert]
 ---
 
 **Use Amazon’s “working backwards” method as a strategic tool to clarify user needs and accelerate industrialisation of evolved components.**

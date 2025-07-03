@@ -2,6 +2,7 @@
 title: Land Grab
 description: Positioning early in an emerging market to capture strategic ground and shape future competitive dynamics.
 tags: [land-grab, positional, market entry, early mover, dominance, infrastructure, ecosystem control]
+authors: [dave-hulbert]
 ---
 
 **Positioning early in an emerging market to capture strategic ground and shape future competitive dynamics.**

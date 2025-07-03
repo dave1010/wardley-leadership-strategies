@@ -2,6 +2,7 @@
 title: Artificial Competition
 description: Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.
 tags: [artificial-competition, user-perception, illusion of choice, market control, branding, monopoly avoidance]
+authors: [dave-hulbert]
 ---
 
 **Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.**

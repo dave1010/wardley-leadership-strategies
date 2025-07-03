@@ -1,6 +1,7 @@
 ---
 title: Sapping
 tags: [sapping, competitor, multi-front, attrition, endurance, resource drain, distraction]
+authors: [dave-hulbert]
 ---
 
 **Attacking a competitor on multiple fronts simultaneously to weaken their capacity to respond**.

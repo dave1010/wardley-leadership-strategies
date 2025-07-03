@@ -2,6 +2,7 @@
 title: Licensing
 description: Using legal terms to restrict competitors and lock in an ecosystem.
 tags: [poison, intellectual-property, restriction, lock-in]
+authors: [dave-hulbert]
 ---
 
 

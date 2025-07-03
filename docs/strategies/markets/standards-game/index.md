@@ -2,6 +2,7 @@
 title: Standards Game
 description: Driving adoption of your technology or process until it becomes the dominant standard, locking in customers and constraining competitors.
 tags: [standards, markets, dominance, competition, differentiation, switching costs, lock-in]
+authors: [dave-hulbert]
 ---
 
 **Intentionally shaping a market standard so others must follow your approach, limiting their ability to differentiate.**

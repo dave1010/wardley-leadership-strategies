@@ -1,5 +1,6 @@
 ---
 tags: [refactoring, dealing-with-toxicity, legacy, transformation, reuse, reorganization, internal disposal]
+authors: [dave-hulbert]
 ---
 
 # Refactoring

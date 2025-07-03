@@ -2,6 +2,7 @@
 title: Confusion of Choice
 description: Overwhelming customers with too many options or complex choices so that making a rational decision becomes difficult.
 tags: [user-perception, choice overload, complexity, inertia, comparison prevention]
+authors: [dave-hulbert]
 ---
 
 **Overwhelming customers with too many options or complex choices so that making a rational decision becomes difficult.**

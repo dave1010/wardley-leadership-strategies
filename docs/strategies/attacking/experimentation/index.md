@@ -2,6 +2,7 @@
 title: Experimentation
 description: Rapidly testing ideas through hackdays, specialist groups and skunkworks to uncover and exploit opportunities.
 tags: [experimentation, attacking, innovation, culture, skunkworks, hackathons, rapid iteration, learning]
+authors: [dave-hulbert]
 ---
 
 **Running small, fast experiments with dedicated teams to learn and exploit opportunities faster than competitors.**

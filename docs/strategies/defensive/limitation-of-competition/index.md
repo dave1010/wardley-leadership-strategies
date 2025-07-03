@@ -2,6 +2,7 @@
 title: Limitation of Competition
 description: Structurally reducing or preventing competitive pressure through regulatory, legal, or environmental barriers.
 tags: [defensive, anti-competitive, barriers-to-entry, regulation, incumbents, market-control, decelerators]
+authors: [dave-hulbert]
 ---
 
 **Structurally reducing or preventing competitive pressure by shaping the environment to make competition difficult, costly, or impossible.**

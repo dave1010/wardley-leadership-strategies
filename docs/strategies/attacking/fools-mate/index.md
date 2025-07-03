@@ -2,6 +2,7 @@
 title: Fool's Mate
 description: A swift, often uncounterable strategic move that exploits a poorly understood or defended component in an opponent's value chain to cause cascading failure or commoditization.
 tags: [attacking, industrialization, commoditisation, constraint, surprise, chess, disruption, value chain, asymmetric warfare]
+authors: [dave-hulbert]
 ---
 
 **A fast, nearly uncounterable strategic move leveraging a constraint to force the "industrialization" (commoditization) of a higher-order system.**

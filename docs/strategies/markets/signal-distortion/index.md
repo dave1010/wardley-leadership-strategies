@@ -2,6 +2,7 @@
 title: Signal Distortion
 description: Manipulating market signals to mislead competitors and influence their strategic decisions.
 tags: [markets, perception, information-warfare, competitor, influence, hype, signals, misdirection]
+authors: [dave-hulbert]
 ---
 
 

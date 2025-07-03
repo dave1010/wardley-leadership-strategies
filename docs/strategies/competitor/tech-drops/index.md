@@ -2,6 +2,7 @@
 title: Tech Drops
 description: Surprising competitors with significant and unexpected technological advances to seize initiative and reshape the market.
 tags: [competitor, surprise, innovation, technology, tech-drop, disruption, proactive, market-creation]
+authors: [dave-hulbert]
 ---
 
 **Proactively surprising the market and competitors with significant, unexpected technological advances to seize initiative and reshape market paradigms.**

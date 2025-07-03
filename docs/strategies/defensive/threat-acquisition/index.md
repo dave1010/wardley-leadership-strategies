@@ -2,6 +2,7 @@
 title: Threat Acquisition
 description: A defensive strategy where a company acquires a potential competitor to neutralize a threat and maintain market position.
 tags: [defensive, acquisition, competition, market-consolidation, mergers, neutralization]
+authors: [dave-hulbert]
 ---
 
 

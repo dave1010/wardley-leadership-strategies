@@ -2,6 +2,7 @@
 title: Brand and Marketing
 description: Using traditional marketing and brand positioning to shape user perception.
 tags: [brand-and-marketing, user-perception, branding, marketing, positioning, customer loyalty, messaging]
+authors: [dave-hulbert]
 ---
 
 **Using traditional marketing and brand positioning to shape user perception.**

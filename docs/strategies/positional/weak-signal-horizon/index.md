@@ -2,6 +2,7 @@
 title: Weak Signal (Horizon)
 description: Detecting subtle economic, technological, and behavioural patterns to anticipate market shifts before they become obvious.
 tags: [weak-signal-horizon, positional, sensing, anticipation, foresight, market shifts, patterns, signals]
+authors: [dave-hulbert]
 ---
 
 **Detecting subtle economic, technological, and behavioural patterns to anticipate market shifts before they become obvious.**
