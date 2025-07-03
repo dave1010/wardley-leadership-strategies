@@ -148,3 +148,5 @@ The effectiveness of education strategies often varies with market and product e
 - [No one size fits all](/climatic-patterns/no-one-size-fits-all) – influence: education methods must adapt to different contexts.
 
 ## 📚 **Further Reading & References**
+
+- [Education - Wikipedia](https://en.wikipedia.org/wiki/Education)

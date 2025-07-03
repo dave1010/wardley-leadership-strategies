@@ -170,3 +170,6 @@ Effective branding requires thinking beyond immediate sales. It involves alignin
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: marketing shifts when rivals redefine markets.
 
 ## 📚 **Further Reading & References**
+
+- [Brand management - Wikipedia](https://en.wikipedia.org/wiki/Brand_management)
+- [Marketing - Wikipedia](https://en.wikipedia.org/wiki/Marketing)
