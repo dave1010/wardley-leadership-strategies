@@ -93,7 +93,7 @@ Managing inertia often involves making difficult decisions that affect people's 
 7. **Consolidate Gains and Produce More Change:** Use the credibility from early wins to tackle bigger problems and embed the change deeper into the organization.
 8. **Anchor New Approaches in the Culture:** Make the changes stick by ensuring they are reflected in the organization's core values, norms, and shared behaviors.
 
-*(This process is adapted from John Kotter's 8-Step Process for Leading Change.)*
+(This process is adapted from John Kotter's 8-Step Process for Leading Change.)
 
 ## 📈 **Measuring Success**
 

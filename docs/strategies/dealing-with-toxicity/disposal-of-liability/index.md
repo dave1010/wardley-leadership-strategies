@@ -34,8 +34,6 @@ Organizations undertake divestments and disposals for multiple strategic reasons
 
 Applying this strategy involves a careful assessment of your organization's portfolio against its strategic objectives. It requires identifying units or assets that might be candidates for divestment (to unlock value or improve focus) or disposal (to eliminate drag). This evaluation should consider financial performance, strategic alignment, market position, and potential for future growth, either within or outside the parent company. The process is iterative and requires strong analytical backing, stakeholder engagement, and clear decision-making.
 
-For detailed, actionable steps, refer to the [**How to Execute Strategic Divestment or Disposal**](#-how-to-execute-strategic-divestment-or-disposal) section.
-
 ### Manifestation on a Wardley Map
 
 Strategic Divestment represents a profound "moving of pieces" as it literally removes or reconfigures entire segments of an organization's Wardley Map.

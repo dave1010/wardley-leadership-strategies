@@ -1,4 +1,5 @@
 ---
+title: Sapping
 tags: [sapping, competitor, multi-front, attrition, endurance, resource drain, distraction]
 ---
 
