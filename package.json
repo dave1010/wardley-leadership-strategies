@@ -15,8 +15,8 @@
     "typecheck": "tsc",
     "test": "jest",
     "test:watch": "jest --watch",
-    "lint:md": "markdownlint --dot --ignore .git --ignore .github 'docs/**/*.md'",
-    "lint:md:fix": "markdownlint --dot --fix --ignore .git --ignore .github 'docs/**/*.md'"
+    "lint:md": "markdownlint --dot 'docs/**/*.md'",
+    "lint:md:fix": "markdownlint --dot --fix 'docs/**/*.md'"
   },
   "dependencies": {
     "@docusaurus/core": "~3.8.1",
