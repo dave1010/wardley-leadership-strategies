@@ -137,6 +137,7 @@ Balancing coordination and speed across multiple organisations with differing go
 **Relationship to Cooperation:**
 
 Alliances are a formalised, structured subset of broader cooperation. Where cooperation can be flexible or exploratory, alliances typically involve:
+
 - formal agreements or shared entities
 - collective branding or governance
 - explicit resource pooling
@@ -162,6 +163,7 @@ If cooperation is about joint exploration, alliances are about jointly steering 
 - [restriction-of-movement](/strategies/competitor/restriction-of-movement) - using alliances to cordon off partner channels and limit competitor access to critical relationships.
 - [circling-and-probing](/strategies/competitor/circling-and-probing) - leveraging alliance discussions to probe partner commitments and uncover competitor strategies.
 - [fragmentation](/strategies/competitor/fragmentation) - drawing participants into coalitions to divide and weaken competitor ecosystems.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [A 'war' causes organisations to evolve](/climatic-patterns/a-war-causes-organisations-to-evolve) – trigger: intense competition often pushes companies to form alliances.

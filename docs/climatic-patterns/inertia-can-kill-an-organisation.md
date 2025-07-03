@@ -10,4 +10,3 @@ When change is resisted for too long, even a successful company may fail. Being 
 ## 🔀 Related Strategies
 
 - [Managing Inertia](/strategies/defensive/managing-inertia) – influence: proactively addressing internal resistance prevents this outcome.
-

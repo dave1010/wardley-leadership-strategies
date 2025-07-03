@@ -90,6 +90,7 @@ Balancing the benefits of openness (adoption, ecosystem, innovation) with the ri
 - Risk management
 
 ### Ethical considerations
+
 Leaders must ensure openness is genuine (not “open-washing”), respect contributor rights, and avoid exploiting community labor. Consider the impact on users, partners, and the broader ecosystem.
 
 ## 📋 **How to Execute**
@@ -113,15 +114,19 @@ Leaders must ensure openness is genuine (not “open-washing”), respect contri
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### No clear monetization
+
 Opening something without a plan to make money elsewhere (e.g., open sourcing software but not capitalising on services) can hurt revenue.
 
 ### Community misalignment
+
 If you don’t manage the community well, the project may fork or drift away from your strategy, risking loss of control.
 
 ### Competitor benefit
+
 Competitors can freely use what you open. If they are better positioned to monetise it, you may inadvertently strengthen them.
 
 ### Open-washing
+
 Pretending to be open while retaining hidden restrictions damages trust and undermines the strategy.
 
 ## 🧠 **Strategic Insights**
@@ -140,7 +145,7 @@ This creates a positive feedback loop: more users → more contributors → more
 
 ### Counterplay and Strategic Signalling
 
-Openness is not a _safe_ play. It’s a signal to others. It invites counterplay: embrace-and-extend, fork-and-commercialise, regulatory capture via “open standards” bodies. You have to anticipate the likely responses, and design your openness accordingly. Licences, governance, branding and community structure all become weapons or shields.
+Openness is not a *safe* play. It’s a signal to others. It invites counterplay: embrace-and-extend, fork-and-commercialise, regulatory capture via “open standards” bodies. You have to anticipate the likely responses, and design your openness accordingly. Licences, governance, branding and community structure all become weapons or shields.
 
 For example, if your competitor is slower-moving or dependent on licensing, opening your stack could force them into a corner. But if they’re faster or better capitalised, they may simply build on what you’ve opened and outcompete you. That’s why open approaches must be paired with a clear value capture model above the open layer: services, analytics, integrations, brand, or trust.
 
@@ -169,6 +174,7 @@ For example, if your competitor is slower-moving or dependent on licensing, open
 - [Harvesting](/strategies/markets/harvesting) - extracting strategic value or revenue after an open ecosystem has matured and scaled.
 - [Standards Game](/strategies/markets/standards-game) - using openness to seed protocols or formats that become de facto standards, locking in an ecosystem.
 - [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation) - Open approaches can facilitate the disaggregation of value chains by promoting interoperability and standard interfaces between components, and enable new forms of re-aggregation by fostering collaborative ecosystems.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation) – trigger: industrialisation of a component often leads to opening it up.

@@ -14,7 +14,7 @@ tags: [user-perception, choice overload, complexity, inertia, comparison prevent
 
 ### What is Confusion of Choice?
 
-Confusion of Choice is a strategy rooted in consumer behavior research, where too much choice paradoxically reduces satisfaction and impedes decision-making ("analysis paralysis"). By introducing complexity or a multitude of options, organizations nudge users to stick with the familiar or default option (often their own), or to make suboptimal choices that favor the provider. The purpose is often defensive—to keep customers from easily comparing alternatives. 
+Confusion of Choice is a strategy rooted in consumer behavior research, where too much choice paradoxically reduces satisfaction and impedes decision-making ("analysis paralysis"). By introducing complexity or a multitude of options, organizations nudge users to stick with the familiar or default option (often their own), or to make suboptimal choices that favor the provider. The purpose is often defensive—to keep customers from easily comparing alternatives.
 
 **Key principle:** Make offerings incomparable on key points so customers give up on switching. For example, by having many pricing plans with different feature sets, a competitor's single plan is hard to line up side-by-side; the user may default to staying put. It can also be used offensively—flooding the market with variants of your own product to crowd shelves and confuse competitor positioning. Essentially, it exploits cognitive overload.
 

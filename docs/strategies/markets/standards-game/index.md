@@ -112,26 +112,33 @@ Leaders must ensure the standard genuinely serves user and industry needs rather
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### Lack of adoption
+
 If early uptake is weak, the standard may never reach critical mass and could be abandoned.
 
 ### Perceived vendor lock-in
+
 Heavy-handed control can generate backlash and rival standards, undermining adoption.
 
 ### Underestimating maintenance costs
+
 Standards require ongoing stewardship; neglecting updates or compatibility erodes trust.
 
 ### Regulatory backlash
+
 Attempts to force a standard can attract antitrust scrutiny or political opposition.
 
 ## 🧠 **Strategic Insights**
 
 ### Standards as chokepoints
+
 When you define the interface everyone uses, you control the pace of change and become difficult to displace. Others innovate on top of your foundation, not against it.
 
 ### Timing matters
+
 Standardise too early and you may freeze an immature approach. Too late and a rival standard may already dominate. Mapping where the component sits on the evolution curve helps judge the right moment.
 
 ### Prepare for counterplay
+
 Competitors may attempt embrace-and-extend tactics or create alternative alliances. Monitoring and engaging with these efforts is essential to keep your standard central.
 
 ## ❓ **Key Questions to Ask**
@@ -159,6 +166,7 @@ Competitors may attempt embrace-and-extend tactics or create alternative allianc
 - [Alliances](/strategies/ecosystem/alliances) - forming coalitions of organisations to coordinate and promote standardisation efforts.
 - [Playing Both Sides](/strategies/attacking/playing-both-sides) - engaging multiple standard bodies or camps in parallel to influence outcomes and retain flexibility.
 - [Buyer-Supplier Power](/strategies/markets/buyer-supplier-power) - leveraging control of standard implementation to influence supplier terms and buyer commitments.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: Standards emerge as components evolve towards commodity; playing the standards game is a way to influence this evolution.

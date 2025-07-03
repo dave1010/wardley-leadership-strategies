@@ -10,4 +10,3 @@ Investors seek growth. When fresh opportunities emerge, money shifts toward thos
 ## 🔀 Related Strategies
 
 - [Center of Gravity](/strategies/attacking/centre-of-gravity) – trigger: investment often clusters around the hubs that promise the greatest future value.
-

@@ -22,10 +22,10 @@ This is an attacking strategy where a company, typically a challenger, identifie
 
 This is a classic disruptive move. The key benefits are:
 
-*   **Neutralizing an Incumbent's Advantage:** It directly attacks the source of an incumbent's power.
-*   **Leveling the Playing Field:** It allows a challenger to compete on more favorable terms.
-*   **Stimulating an Ecosystem:** By lowering a barrier, you can enable a whole new ecosystem of smaller players to emerge, creating a more dynamic and competitive market.
-*   **Changing the Basis of Competition:** It can shift the focus of competition away from the incumbent's strength (e.g., a proprietary technology) to an area where the attacker is stronger (e.g., service, user experience, or business model).
+- **Neutralizing an Incumbent's Advantage:** It directly attacks the source of an incumbent's power.
+- **Leveling the Playing Field:** It allows a challenger to compete on more favorable terms.
+- **Stimulating an Ecosystem:** By lowering a barrier, you can enable a whole new ecosystem of smaller players to emerge, creating a more dynamic and competitive market.
+- **Changing the Basis of Competition:** It can shift the focus of competition away from the incumbent's strength (e.g., a proprietary technology) to an area where the attacker is stronger (e.g., service, user experience, or business model).
 
 ## 🗺️ **Real-World Examples**
 
@@ -58,17 +58,17 @@ For decades, the high commissions charged by brokerage firms were a significant 
   </Readiness>
 </Assessment>
 
-### Use when:
+### Use when
 
-*   You are a challenger trying to break into a market dominated by a powerful incumbent.
-*   You have a way to turn an incumbent's strength into a weakness (e.g., by open-sourcing their proprietary technology).
-*   You are prepared to compete in the more dynamic, competitive market that you will create.
+- You are a challenger trying to break into a market dominated by a powerful incumbent.
+- You have a way to turn an incumbent's strength into a weakness (e.g., by open-sourcing their proprietary technology).
+- You are prepared to compete in the more dynamic, competitive market that you will create.
 
-### Avoid when:
+### Avoid when
 
-*   You are the incumbent who benefits from the barrier.
-*   You do not have a clear plan to capitalize on the new, more open market. You might simply be creating opportunities for other competitors.
-*   The barrier is protected by strong patents or other legal means that you cannot overcome.
+- You are the incumbent who benefits from the barrier.
+- You do not have a clear plan to capitalize on the new, more open market. You might simply be creating opportunities for other competitors.
+- The barrier is protected by strong patents or other legal means that you cannot overcome.
 
 ## 🎯 **Leadership**
 
@@ -78,9 +78,9 @@ The core leadership challenge is to have the courage to make a bold, disruptive 
 
 ### Key leadership skills required
 
-*   **Disruptive Thinking:** The ability to see how an incumbent's strength can be turned into a weakness.
-*   **Boldness and Risk-Taking:** The courage to take on a powerful, entrenched competitor.
-*   **Ecosystem Thinking:** The capacity to see how lowering a barrier will benefit a whole ecosystem of players, not just your own company.
+- **Disruptive Thinking:** The ability to see how an incumbent's strength can be turned into a weakness.
+- **Boldness and Risk-Taking:** The courage to take on a powerful, entrenched competitor.
+- **Ecosystem Thinking:** The capacity to see how lowering a barrier will benefit a whole ecosystem of players, not just your own company.
 
 ### Ethical considerations
 
@@ -88,52 +88,58 @@ This strategy is generally seen as pro-competitive and beneficial for consumers,
 
 ## 📋 **How to Execute**
 
-1.  **Identify the Key Barrier:** Analyze the market and identify the single most important barrier that is protecting the incumbent.
-2.  **Develop Your Weapon:** Create the tool or technology that will undermine the barrier. This could be an open-source project, a low-cost alternative, or a new business model.
-3.  **Launch the Attack:** Release your solution to the market and actively promote it as a way to circumvent the old barrier.
-4.  **Foster the New Ecosystem:** Encourage other companies and users to adopt your solution and participate in the new, more open market.
-5.  **Compete on New Terms:** Once the barrier is down, be prepared to compete on a new basis, such as user experience, service, or brand.
+1. **Identify the Key Barrier:** Analyze the market and identify the single most important barrier that is protecting the incumbent.
+2. **Develop Your Weapon:** Create the tool or technology that will undermine the barrier. This could be an open-source project, a low-cost alternative, or a new business model.
+3. **Launch the Attack:** Release your solution to the market and actively promote it as a way to circumvent the old barrier.
+4. **Foster the New Ecosystem:** Encourage other companies and users to adopt your solution and participate in the new, more open market.
+5. **Compete on New Terms:** Once the barrier is down, be prepared to compete on a new basis, such as user experience, service, or brand.
 
 ## 📈 **Measuring Success**
 
-*   **Barrier Reduction:** Has the cost or difficulty of entering the market been significantly reduced?
-*   **New Entrants:** Are new competitors entering the market as a result of your actions?
-*   **Incumbent's Reaction:** Is the incumbent being forced to change its business model or lower its prices?
-*   **Your Market Share:** Are you successfully capturing a share of the newly opened market?
+- **Barrier Reduction:** Has the cost or difficulty of entering the market been significantly reduced?
+- **New Entrants:** Are new competitors entering the market as a result of your actions?
+- **Incumbent's Reaction:** Is the incumbent being forced to change its business model or lower its prices?
+- **Your Market Share:** Are you successfully capturing a share of the newly opened market?
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### Creating Competition for Yourself
+
 You might successfully undermine the barrier, only to find that you are out-competed by other new entrants who also benefit from your move.
 
 ### Incumbent Response
+
 A powerful incumbent will not stand by idly. They may respond by lowering their own prices, improving their product, or using their market power to crush you.
 
 ### Incomplete Destruction
+
 If you only partially undermine the barrier, the incumbent may be able to adapt and maintain their dominant position.
 
 ## 🧠 **Strategic Insights**
 
 ### Asymmetric Warfare
+
 This is a form of asymmetric warfare. A smaller, more agile challenger can use this strategy to attack a much larger incumbent at their weakest point.
 
 ### The Power of Open
+
 Open-sourcing a key technology is one of the most powerful ways to undermine a barrier that is based on a proprietary system. It enlists a whole community of developers in your cause.
 
 ## ❓ **Key Questions to Ask**
 
-*   **The Keystone:** What is the single barrier that, if removed, would cause the incumbent's entire position to crumble?
-*   **Our Weapon:** What unique capability do we have that can dismantle this barrier?
-*   **The Day After:** What will the market look like after the barrier is gone, and how do we win in that new world?
-*   **The Incumbent's Response:** What is the most likely way the incumbent will retaliate, and how will we counter it?
+- **The Keystone:** What is the single barrier that, if removed, would cause the incumbent's entire position to crumble?
+- **Our Weapon:** What unique capability do we have that can dismantle this barrier?
+- **The Day After:** What will the market look like after the barrier is gone, and how do we win in that new world?
+- **The Incumbent's Response:** What is the most likely way the incumbent will retaliate, and how will we counter it?
 
 ## 🔀 **Related Strategies**
 
-*   **[Open Approaches](/strategies/accelerators/open-approaches)**: This is the most common tactic used to undermine a barrier based on proprietary technology.
-*   **[Market Enablement](/strategies/accelerators/market-enablement)**: By undermining a barrier, you are often enabling a new market to emerge.
-*   **[Fool's Mate](/strategies/attacking/fools-mate)**: Undermining a critical barrier can be a key move in executing a Fool's Mate, leading to a rapid collapse of the incumbent's position.
+- **[Open Approaches](/strategies/accelerators/open-approaches)**: This is the most common tactic used to undermine a barrier based on proprietary technology.
+- **[Market Enablement](/strategies/accelerators/market-enablement)**: By undermining a barrier, you are often enabling a new market to emerge.
+- **[Fool's Mate](/strategies/attacking/fools-mate)**: Undermining a critical barrier can be a key move in executing a Fool's Mate, leading to a rapid collapse of the incumbent's position.
 
 - [Tech Drops](/strategies/competitor/tech-drops) - releasing open or low-cost versions of core technology to erode proprietary barriers and attract new entrants.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Most competitors have poor situational awareness](/climatic-patterns/most-competitors-have-poor-situational-awareness) – trigger: incumbents may not notice barriers eroding until it's too late.
@@ -141,5 +147,5 @@ Open-sourcing a key technology is one of the most powerful ways to undermine a b
 
 ## 📚 **Further Reading & References**
 
-*   **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides the theoretical framework for understanding how disruptive challengers can attack and defeat established incumbents.
-*   **[Judo Strategy](https://www.goodreads.com/book/show/236922.Judo_Strategy)** by David B. Yoffie and Mary Kwak. A book focused on how smaller players can use an incumbent's weight and strength against them.
+- **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides the theoretical framework for understanding how disruptive challengers can attack and defeat established incumbents.
+- **[Judo Strategy](https://www.goodreads.com/book/show/236922.Judo_Strategy)** by David B. Yoffie and Mary Kwak. A book focused on how smaller players can use an incumbent's weight and strength against them.

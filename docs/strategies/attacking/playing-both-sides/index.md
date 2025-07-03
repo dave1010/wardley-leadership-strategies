@@ -12,8 +12,6 @@ tags: [attacking, markets, standards, arbitrage, uncertainty, hedging, neutralit
 
 **Profiting from or hedging by engaging with two opposing sides in a market or standards war, so that whichever side wins, you benefit.**
 
-
-
 ## 🤔 **Explanation**
 
 ### What is Playing Both Sides?
@@ -99,12 +97,12 @@ This strategy can be viewed as cynical or manipulative, as it may involve profit
 
 ## 📋 **How to Execute**
 
-1.  **Identify the Conflict:** Recognise a market situation with two or more competing sides where the outcome is uncertain.
-2.  **Assess the Costs and Benefits:** Evaluate the financial and reputational costs of supporting each side versus the potential gains.
-3.  **Establish Neutrality:** Position your organisation as a neutral party that can work with all players.
-4.  **Develop Dual Offerings:** Create products, services, or partnerships that cater to each side of the conflict.
-5.  **Manage Relationships:** Carefully manage relationships with all parties to maintain trust and avoid accusations of favoritism.
-6.  **Monitor the Market:** Continuously monitor the market to anticipate the likely winner and be prepared to shift resources accordingly.
+1. **Identify the Conflict:** Recognise a market situation with two or more competing sides where the outcome is uncertain.
+2. **Assess the Costs and Benefits:** Evaluate the financial and reputational costs of supporting each side versus the potential gains.
+3. **Establish Neutrality:** Position your organisation as a neutral party that can work with all players.
+4. **Develop Dual Offerings:** Create products, services, or partnerships that cater to each side of the conflict.
+5. **Manage Relationships:** Carefully manage relationships with all parties to maintain trust and avoid accusations of favoritism.
+6. **Monitor the Market:** Continuously monitor the market to anticipate the likely winner and be prepared to shift resources accordingly.
 
 ## 📈 **Measuring Success**
 
@@ -156,6 +154,7 @@ At its core, this is a hedging strategy. It's an admission that you cannot predi
 
 - [Ambush](/strategies/competitor/ambush) - cooperating to establish trust before executing sudden competitive strikes against both parties.
 - [Artificial Competition](/strategies/user-perception/artificial-competition) - creating the perception of rival offerings to influence decisions and negotiate from a position of strength.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Competitors' actions will change the game](/climatic-patterns/competitors-actions-will-change-the-game) – trigger: shifting alliances alter how battles unfold.

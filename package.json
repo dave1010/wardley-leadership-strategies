@@ -14,7 +14,9 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
     "test": "jest",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "lint:md": "markdownlint --dot --ignore node_modules --ignore .git --ignore .github 'docs/**/*.md'",
+    "lint:md:fix": "markdownlint --dot --fix --ignore node_modules --ignore .git --ignore .github 'docs/**/*.md'"
   },
   "dependencies": {
     "@docusaurus/core": "~3.8.1",
@@ -45,6 +47,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^30.0.3",
     "jest-environment-jsdom": "^30.0.2",
+    "markdownlint-cli": "^0.45.0",
     "typescript": "~5.8.3"
   },
   "browserslist": {

@@ -96,8 +96,6 @@ mindmap
       Exit Strategies
 ```
 
-
-
 ## 🗺️ **Real-World Examples**
 
 ### The Sony-Ericsson partnership (early 2000s)
@@ -156,7 +154,6 @@ A leader must **balance control and openness**. Cooperation can accelerate innov
 fostering trust, managing alliances, setting governance rules
 
 ### Ethical considerations
-
 
 ## 📋 **How to Execute**
 
@@ -250,7 +247,6 @@ Successful cooperation often targets specific *leverage points*:
 
 Use alliances when the goal is ecosystem-level impact or when formality helps secure trust and alignment.
 
-
 ## ❓ **Key Questions to Ask**
 
 - Value alignment: What specific value does each party bring and extract? Are these balanced and sustainable?
@@ -270,11 +266,13 @@ Use alliances when the goal is ecosystem-level impact or when formality helps se
 
 - [Market Enablement](/strategies/accelerators/market-enablement) - cooperation can help build and scale ecosystems by aligning stakeholders to enable and grow the market.
 - [Playing Both Sides](/strategies/attacking/playing-both-sides) - leverages relationships with multiple parties to create competitive tension and strategic advantage through collaborative positioning.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Components can co-evolve](/climatic-patterns/components-can-co-evolve) – influence: collaboration shapes how capabilities mature together.
 - [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: shifts from peace to war often spur new partnerships.
+
 ## 📚 **Further Reading & References**
 
 - [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html) on Simon Wardley's Blog. *"Cooperation: Working with others... not easy."* . Underscores that while straightforward in concept, the execution of cooperation is challenging.
--  HBR Article [*"Simple Rules for Making Alliances Work"*](https://hbr.org/2007/11/simple-rules-for-making-alliances-work) - details best practices and pitfalls in strategic cooperations (e.g., the necessity of aligned incentives and trust-building measures).
+- HBR Article [*"Simple Rules for Making Alliances Work"*](https://hbr.org/2007/11/simple-rules-for-making-alliances-work) - details best practices and pitfalls in strategic cooperations (e.g., the necessity of aligned incentives and trust-building measures).

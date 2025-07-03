@@ -66,4 +66,3 @@ Speed patterns examine the pace of change and how stability affects agility.
 - [Evolution of communication mechanisms increases overall speed](/climatic-patterns/evolution-of-communication-mechanisms-can-increase-the-speed-of-evolution-overall-and-the-diffusion-of-a-single-example-of-change)
 - [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination)
 - [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium)
-

@@ -18,10 +18,10 @@ Last Man Standing is a strategy of attrition, played in a market that is in the 
 
 This strategy is not about glorious victory, but about survival and inheritance. The primary motivations are:
 
-*   **Market Consolidation:** To become the sole or dominant player in a mature market.
-*   **Capture of Market Share:** To absorb the customers of all the competitors who have exited.
-*   **Long-Term Profitability:** While margins are thin during the attrition phase, the last player standing can potentially enjoy a stable, albeit low-margin, revenue stream from the consolidated market, or even raise prices once competition is eliminated.
-*   **Creation of a Utility:** The end state of this strategy is often the creation of a stable, utility-like service that, while not exciting, is deeply embedded in the value chains of many other businesses.
+* **Market Consolidation:** To become the sole or dominant player in a mature market.
+* **Capture of Market Share:** To absorb the customers of all the competitors who have exited.
+* **Long-Term Profitability:** While margins are thin during the attrition phase, the last player standing can potentially enjoy a stable, albeit low-margin, revenue stream from the consolidated market, or even raise prices once competition is eliminated.
+* **Creation of a Utility:** The end state of this strategy is often the creation of a stable, utility-like service that, while not exciting, is deeply embedded in the value chains of many other businesses.
 
 ## 🗺️ **Real-World Examples**
 
@@ -54,19 +54,19 @@ The airline industry, particularly in the United States, has undergone significa
   </Readiness>
 </Assessment>
 
-### Use when:
+### Use when
 
-*   You are in a mature, commoditizing market.
-*   You have a clear and sustainable cost advantage over your competitors.
-*   You have the financial strength to survive a protracted price war.
-*   The long-term value of the consolidated market is worth the short-term pain.
+* You are in a mature, commoditizing market.
+* You have a clear and sustainable cost advantage over your competitors.
+* You have the financial strength to survive a protracted price war.
+* The long-term value of the consolidated market is worth the short-term pain.
 
-### Avoid when:
+### Avoid when
 
-*   The market is still growing and differentiating.
-*   You do not have a significant cost advantage.
-*   You lack the financial resources to outlast your competitors.
-*   The market is likely to be disrupted by a new technology or business model, making the prize of winning not worth the fight.
+* The market is still growing and differentiating.
+* You do not have a significant cost advantage.
+* You lack the financial resources to outlast your competitors.
+* The market is likely to be disrupted by a new technology or business model, making the prize of winning not worth the fight.
 
 ## 🎯 **Leadership**
 
@@ -76,10 +76,10 @@ The core leadership challenge is maintaining organizational morale and disciplin
 
 ### Key leadership skills required
 
-*   **Operational Excellence:** A deep understanding of how to optimize processes and drive out costs.
-*   **Financial Discipline:** The ability to manage cash flow and maintain financial stability during a period of low profitability.
-*   **Long-Term Vision:** The capacity to stay focused on the ultimate prize, even when the daily reality is bleak.
-*   **Resilience:** The personal and organizational fortitude to withstand a brutal competitive environment.
+* **Operational Excellence:** A deep understanding of how to optimize processes and drive out costs.
+* **Financial Discipline:** The ability to manage cash flow and maintain financial stability during a period of low profitability.
+* **Long-Term Vision:** The capacity to stay focused on the ultimate prize, even when the daily reality is bleak.
+* **Resilience:** The personal and organizational fortitude to withstand a brutal competitive environment.
 
 ### Ethical considerations
 
@@ -87,65 +87,72 @@ A Last Man Standing strategy can have a significant negative impact on the indus
 
 ## 📋 **How to Execute**
 
-1.  **Confirm the Market Stage:** Use Wardley Maps to verify that the market is indeed in a commodity phase and that the conditions are right for a war of attrition.
-2.  **Achieve Cost Leadership:** Relentlessly focus on driving down your costs through automation, process optimization, and economies of scale.
-3.  **Initiate or Escalate the Price War:** Use your cost advantage to lower prices to a level that is unsustainable for your competitors.
-4.  **Maintain Financial Discipline:** Carefully manage your cash flow and resources to ensure you can outlast your rivals.
-5.  **Acquire Distressed Assets:** As competitors begin to fail, consider acquiring their assets (e.g., customers, technology) at a low cost.
-6.  **Consolidate and Stabilize:** Once the competition has been eliminated, stabilize the market, potentially by slowly increasing prices to a sustainable level.
+1. **Confirm the Market Stage:** Use Wardley Maps to verify that the market is indeed in a commodity phase and that the conditions are right for a war of attrition.
+2. **Achieve Cost Leadership:** Relentlessly focus on driving down your costs through automation, process optimization, and economies of scale.
+3. **Initiate or Escalate the Price War:** Use your cost advantage to lower prices to a level that is unsustainable for your competitors.
+4. **Maintain Financial Discipline:** Carefully manage your cash flow and resources to ensure you can outlast your rivals.
+5. **Acquire Distressed Assets:** As competitors begin to fail, consider acquiring their assets (e.g., customers, technology) at a low cost.
+6. **Consolidate and Stabilize:** Once the competition has been eliminated, stabilize the market, potentially by slowly increasing prices to a sustainable level.
 
 ## 📈 **Measuring Success**
 
-*   **Competitor Exit:** The most obvious measure of success is the number of competitors who have exited the market.
-*   **Market Share:** Are you successfully capturing the market share of the failed competitors?
-*   **Cost Leadership:** Are you maintaining or widening your cost advantage over the remaining players?
-*   **Post-Consolidation Profitability:** Once the war is over, are you able to achieve sustainable profitability?
+* **Competitor Exit:** The most obvious measure of success is the number of competitors who have exited the market.
+* **Market Share:** Are you successfully capturing the market share of the failed competitors?
+* **Cost Leadership:** Are you maintaining or widening your cost advantage over the remaining players?
+* **Post-Consolidation Profitability:** Once the war is over, are you able to achieve sustainable profitability?
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### Misjudging the Market
+
 If you initiate a price war in a market that is not yet fully commoditized, you may simply destroy value for everyone, including yourself.
 
 ### Underestimating Competitors
+
 Never assume your competitors will fold easily. They may have hidden financial reserves or a stronger will to survive than you anticipate.
 
 ### Pyrrhic Victory
+
 You may win the war of attrition, only to find that the consolidated market is smaller or less profitable than you expected, or that it is about to be disrupted by a new technology.
 
 ### Loss of Focus
+
 A relentless focus on cost can lead to a decline in quality or customer service, which can damage your brand in the long run.
 
 ## 🧠 **Strategic Insights**
 
 ### The Endgame of Evolution
+
 Last Man Standing is the natural endgame of the evolutionary process described by Wardley Mapping. It is the final, brutal phase where the market matures into a stable, utility-like service. Understanding this process allows you to anticipate and prepare for it.
 
 ### Creative Destruction
+
 This strategy is a powerful example of Joseph Schumpeter's concept of "creative destruction." The old, inefficient players are destroyed, making way for a new, more efficient market structure. While painful, this process is essential for long-term economic progress.
 
 ## ❓ **Key Questions to Ask**
 
-*   **Market Maturity:** Are we certain that this market is in the commodity phase and ripe for consolidation?
-*   **Cost Advantage:** Do we have a genuine and sustainable cost advantage that will allow us to win a price war?
-*   **Financial Strength:** Do we have the financial resources and the stomach to see this through to the end?
-*   **The Prize:** Is the value of the consolidated market large enough to justify the cost of the fight?
-*   **Disruption Risk:** What is the risk that a new technology or business model will disrupt this market before we can reap the rewards of our victory?
+* **Market Maturity:** Are we certain that this market is in the commodity phase and ripe for consolidation?
+* **Cost Advantage:** Do we have a genuine and sustainable cost advantage that will allow us to win a price war?
+* **Financial Strength:** Do we have the financial resources and the stomach to see this through to the end?
+* **The Prize:** Is the value of the consolidated market large enough to justify the cost of the fight?
+* **Disruption Risk:** What is the risk that a new technology or business model will disrupt this market before we can reap the rewards of our victory?
 
 ## 🔀 **Related Strategies**
 
-*   **[Threat Acquisition](/strategies/defensive/threat-acquisition)**: A potential tactic within a Last Man Standing strategy is to acquire failing competitors cheaply.
-*   **[Pricing Policy](/strategies/markets/pricing-policy)**: This strategy is fundamentally driven by an aggressive pricing policy.
-*   **[Sweat and Dump](/strategies/dealing-with-toxicity/sweat-and-dump)**: You might use this to offload non-essential assets before embarking on a war of attrition.
-*   **[Exploiting Constraint](/strategies/decelerators/exploiting-constraint)**: If competitors are constrained (e.g., by supply chain issues), you can accelerate their demise.
+* **[Threat Acquisition](/strategies/defensive/threat-acquisition)**: A potential tactic within a Last Man Standing strategy is to acquire failing competitors cheaply.
+* **[Pricing Policy](/strategies/markets/pricing-policy)**: This strategy is fundamentally driven by an aggressive pricing policy.
+* **[Sweat and Dump](/strategies/dealing-with-toxicity/sweat-and-dump)**: You might use this to offload non-essential assets before embarking on a war of attrition.
+* **[Exploiting Constraint](/strategies/decelerators/exploiting-constraint)**: If competitors are constrained (e.g., by supply chain issues), you can accelerate their demise.
 
-- [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - leveraging adoption feedback loops to reinforce dominance and outlast competitors in a market war.
-- [Confusion of Choice](/strategies/user-perception/confusion-of-choice) - overwhelming customers with options to obscure competitor offerings and sustain market control.
+* [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects) - leveraging adoption feedback loops to reinforce dominance and outlast competitors in a market war.
+* [Confusion of Choice](/strategies/user-perception/confusion-of-choice) - overwhelming customers with options to obscure competitor offerings and sustain market control.
+
 ## ⛅ **Relevant Climatic Patterns**
 
-- [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: attrition strategies often surface during war phases when the market contracts.
-- [Efficiency does not mean a reduced spend](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) – influence: scale efficiencies let you outlast rivals even as total spending rises.
+* [Economy has cycles](/climatic-patterns/economy-has-cycles) – trigger: attrition strategies often surface during war phases when the market contracts.
+* [Efficiency does not mean a reduced spend](/climatic-patterns/efficiency-does-not-mean-a-reduced-spend) – influence: scale efficiencies let you outlast rivals even as total spending rises.
 
 ## 📚 **Further Reading & References**
 
-*   **[Amazon and the last man standing](https://blog.gardeviance.org/2015/08/amazon-and-last-man-standing.html)** by Simon Wardley. A foundational post on this strategy.
-*   **[Competition Demystified](https://www.goodreads.com/book/show/236923.Competition_Demystified)** by Bruce Greenwald and Judd Kahn. Provides a framework for analyzing competitive advantages, which is crucial for this strategy.
+* **[Amazon and the last man standing](https://blog.gardeviance.org/2015/08/amazon-and-last-man-standing.html)** by Simon Wardley. A foundational post on this strategy.
+* **[Competition Demystified](https://www.goodreads.com/book/show/236923.Competition_Demystified)** by Bruce Greenwald and Judd Kahn. Provides a framework for analyzing competitive advantages, which is crucial for this strategy.

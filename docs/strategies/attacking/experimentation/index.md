@@ -62,12 +62,15 @@ Experimentation accelerates learning and surfaces options that can become future
 ## 🗺️ **Real-World Examples**
 
 ### Lockheed Martin's Skunk Works
+
 A small, isolated team delivered breakthroughs like the SR‑71 Blackbird by bypassing normal bureaucracy.
 
 ### Facebook Hackathons
+
 Short hackathons produced features such as the Like button, keeping Facebook ahead in user engagement.
 
 ### Hypothetical: Accelerated Drug Discovery
+
 An "innovation unit" uses AI to screen compounds rapidly, finding leads far faster than traditional R&D.
 
 ## 🚦 **When to Use / When to Avoid**
@@ -90,11 +93,13 @@ An "innovation unit" uses AI to screen compounds rapidly, finding leads far fast
 </Assessment>
 
 ### Use when
+
 - Rapid change or uncertainty demands fast learning.
 - You want to explore new technology or markets with minimal commitment.
 - The organisation will act on experimental results.
 
 ### Avoid when
+
 - Regulation or safety requirements forbid quick iteration.
 - There is no way to scale or abandon experiments.
 - Failure is punished, discouraging honest trials.
@@ -102,15 +107,18 @@ An "innovation unit" uses AI to screen compounds rapidly, finding leads far fast
 ## 🎯 **Leadership**
 
 ### Core challenge
+
 Creating room for risk‑taking while ensuring valuable ideas are adopted.
 
 ### Key leadership skills required
+
 - Fostering curiosity and psychological safety
 - Protecting experimental teams and budgets
 - Judging which experiments to scale or stop
 - Communicating lessons across the organisation
 
 ### Ethical considerations
+
 Experiments should respect user privacy and consent. Leaders must ensure transparency and avoid exploiting participants.
 
 ## 📋 **How to Execute**
@@ -132,23 +140,29 @@ Experiments should respect user privacy and consent. Leaders must ensure transpa
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### Innovation theatre
+
 Flashy hackathons that never influence real products waste energy and credibility.
 
 ### Lack of focus
+
 Unbounded experimentation scatters effort. Experiments should align with strategic themes.
 
 ### Poor integration
+
 Without a clear path to production, prototypes remain isolated and fail to deliver advantage.
 
 ## 🧠 **Strategic Insights**
 
 ### Evolution and timing
+
 Experimentation is most powerful when components are immature. As they mature, shift focus from discovery to refinement.
 
 ### Counterplay
+
 Competitors may copy successful experiments quickly. Be ready to double down or pivot.
 
 ### Value chain leverage
+
 Experiments often reveal new dependencies or bottlenecks early, letting you shape the emerging value chain.
 
 ## ❓ **Key Questions to Ask**
@@ -170,6 +184,7 @@ Experiments often reveal new dependencies or bottlenecks early, letting you shap
 - [Press Release Process](/strategies/attacking/press-release-process) - publicising experimental results and pilot programs to validate concepts and generate broader interest.
 - [circling-and-probing](/strategies/competitor/circling-and-probing) - running targeted probes on competitors’ positions to inform and refine experimental hypotheses.
 - [Differentiation](/strategies/markets/differentiation) - using unique experimental outcomes to distinguish offerings and gain market advantage.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [You cannot measure evolution over time or adoption](/climatic-patterns/you-cannot-measure-evolution-over-time-or-adoption-you-need-to-embrace-uncertainty) – influence: uncertainty makes experimentation essential.

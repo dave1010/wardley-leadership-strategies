@@ -52,12 +52,15 @@ mindmap
 ## 🗺️ **Real-World Examples**
 
 ### Silicon Valley as a Tech Hub
+
 Silicon Valley became a center of gravity for global technology talent. Companies like Google, Apple, and Facebook created such strong gravitational pull that the best minds in tech naturally migrated there. Google's focus on AI research (publishing papers, open-sourcing TensorFlow, hosting conferences) made it the epicenter for AI talent, giving it early access to ideas and influence over the field's direction.
 
 ### Red Hat and the Open Source Ecosystem
+
 Red Hat became a center of gravity in enterprise open source by investing in projects and building a business and culture around them. Talent and enterprise customers gravitated to Red Hat for anything Linux. Even competitors like IBM had to partner or consider Red Hat's influence, eventually leading to IBM acquiring them.
 
 ### Cambridge and Stanford Innovation Clusters
+
 Both Cambridge (UK) and Stanford (US) have become innovation clusters, attracting startups, researchers, and investors. Their reputations and networks create a gravitational pull for new ventures and talent.
 
 ## 🚦 **When to Use / When to Avoid**
@@ -84,9 +87,11 @@ Both Cambridge (UK) and Stanford (US) have become innovation clusters, attractin
 ## 🎯 **Leadership**
 
 ### Core challenge
+
 Maintaining the gravitational pull requires constant investment, cultural stewardship, and vigilance against complacency. The challenge is to remain the place others want to join, not just a legacy hub.
 
 ### Key leadership skills required
+
 - Vision-setting and narrative control
 - Talent attraction and retention
 - Ecosystem building and partnership management
@@ -94,17 +99,21 @@ Maintaining the gravitational pull requires constant investment, cultural stewar
 - Strategic investment and resource allocation
 
 ### Ethical considerations
+
 Leaders must avoid creating exclusionary or monocultural environments. Overconcentration can stifle diversity and innovation. There is also a responsibility to the wider ecosystem—dominance should not become exploitation.
 
 ## 📋 **How to Execute**
 
 ### Create Mass (Value Density)
+
 Concentrate unique value, such as exceptional talent, proprietary data, or distinctive capabilities, so your organisation becomes the most attractive focal point in the landscape. The greater your value density, the stronger your gravitational pull on others.
 
 ### Create Surface (Connectivity)
+
 Design open interfaces, platforms, or engagement models that make it easy for others to connect, contribute, and build upon your foundation. Lowering barriers to participation encourages a thriving ecosystem around your hub.
 
 ### Create Pull (Narrative, Incentives, Alignment)
+
 Craft compelling narratives, offer meaningful incentives, and align interests to draw talent, partners, and users into your orbit. Sustained engagement depends on both initial attraction and ongoing reasons to stay connected.
 
 ## 📈 **Measuring Success**
@@ -118,15 +127,19 @@ Craft compelling narratives, offer meaningful incentives, and align interests to
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### Overconcentration risk
+
 Over-investing in one location, technology, or field can lead to missed innovation elsewhere ("not-invented-here" syndrome).
 
 ### Sustainability
+
 Centers of gravity can shift. If you falter (e.g., mismanage culture), talent and partners can disperse quickly. Constant effort is needed to remain the hot spot.
 
 ### Competitor response
+
 Rivals may counter by building their own hubs or poaching from yours (e.g., talent raids, regional labs).
 
 ### Complacency
+
 Assuming your gravitational pull is permanent can lead to stagnation and loss of relevance.
 
 ## 🧠 **Strategic Insights**
@@ -143,7 +156,7 @@ You don’t have to build your own centre of gravity from scratch. You can infil
 
 ### Narrative Gravity
 
-People and organisations orbit _vision_.
+People and organisations orbit *vision*.
 
 The most powerful centres of gravity shape how others think the future will unfold. This is why SpaceX, OpenAI, and Tesla have attracted top-tier talent: the narrative of working on something meaningful or epoch-defining is itself gravitational.
 
@@ -167,6 +180,7 @@ This kind of cultural or visionary gravity is harder to replicate or fight. It�
 - [Experimentation](/strategies/attacking/experimentation) - probing and iterative tests around the hub to reveal weaknesses or shift influence in the ecosystem.
 - [Fool's Mate](/strategies/attacking/fools-mate) - executing deceptive or unexpected moves that exploit the hub's blind spots to rapidly erode its dominance.
 - [Directed Investment](/strategies/attacking/directed-investment) - injecting targeted resources into specific nodes to reorient the center of gravity toward advantageous areas.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Capital flows to new areas of value](/climatic-patterns/capital-flows-to-new-areas-of-value) – trigger: investment tends to cluster around emerging hubs.

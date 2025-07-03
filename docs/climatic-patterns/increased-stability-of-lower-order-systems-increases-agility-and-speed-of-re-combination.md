@@ -11,4 +11,3 @@ Reliable building blocks let you mix and match them quickly. With the basics sta
 
 - [Open Approaches](/strategies/accelerators/open-approaches) – influence: stable open components enable rapid recombination.
 - [Cooperation](/strategies/accelerators/cooperation) – trigger: once foundations stabilise, collaboration becomes easier.
-

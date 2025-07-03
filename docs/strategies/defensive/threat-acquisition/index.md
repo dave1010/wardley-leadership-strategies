@@ -22,10 +22,10 @@ Threat Acquisition is a strategic move where a company identifies and purchases 
 
 Companies use Threat Acquisition to:
 
-*   **Neutralize a competitor:** The most direct reason is to remove a competitive threat from the landscape.
-*   **Acquire talent and technology:** It can be a fast way to bring in a skilled team or innovative technology without the time and expense of internal development.
-*   **Maintain market leadership:** By acquiring potential disruptors, a company can protect its dominant position.
-*   **Prevent a competitor from acquiring the target:** It can also be a defensive move to stop a rival from gaining a strategic advantage.
+- **Neutralize a competitor:** The most direct reason is to remove a competitive threat from the landscape.
+- **Acquire talent and technology:** It can be a fast way to bring in a skilled team or innovative technology without the time and expense of internal development.
+- **Maintain market leadership:** By acquiring potential disruptors, a company can protect its dominant position.
+- **Prevent a competitor from acquiring the target:** It can also be a defensive move to stop a rival from gaining a strategic advantage.
 
 ## 🗺️ **Real-World Examples**
 
@@ -58,18 +58,18 @@ In 1999, Yahoo acquired GeoCities, a popular web hosting service. However, Yahoo
   </Readiness>
 </Assessment>
 
-### Use when:
+### Use when
 
-*   A competitor poses a genuine, long-term threat to your core business.
-*   The acquisition can be executed at a reasonable cost.
-*   You have a clear plan for integrating the acquired company.
+- A competitor poses a genuine, long-term threat to your core business.
+- The acquisition can be executed at a reasonable cost.
+- You have a clear plan for integrating the acquired company.
 
-### Avoid when:
+### Avoid when
 
-*   The acquisition cost is prohibitive and would strain your company's finances.
-*   The target company's culture is vastly different from your own, making integration difficult.
-*   The acquisition is likely to attract negative attention from regulators.
-*   The threat is not significant enough to warrant the cost and effort of an acquisition.
+- The acquisition cost is prohibitive and would strain your company's finances.
+- The target company's culture is vastly different from your own, making integration difficult.
+- The acquisition is likely to attract negative attention from regulators.
+- The threat is not significant enough to warrant the cost and effort of an acquisition.
 
 ## 🎯 **Leadership**
 
@@ -79,10 +79,10 @@ The core challenge for leaders is to accurately identify genuine threats and act
 
 ### Key leadership skills required
 
-*   **Strategic Foresight:** The ability to anticipate market trends and identify potential threats before they become critical.
-*   **Financial Acumen:** The skill to accurately value a target company and structure a favorable deal.
-*   **Negotiation:** The ability to secure the best possible terms for the acquisition.
-*   **Integration Management:** The capability to successfully merge the acquired company's people, processes, and technology.
+- **Strategic Foresight:** The ability to anticipate market trends and identify potential threats before they become critical.
+- **Financial Acumen:** The skill to accurately value a target company and structure a favorable deal.
+- **Negotiation:** The ability to secure the best possible terms for the acquisition.
+- **Integration Management:** The capability to successfully merge the acquired company's people, processes, and technology.
 
 ### Ethical considerations
 
@@ -90,19 +90,19 @@ Threat acquisitions can raise ethical concerns, particularly around competition.
 
 ## 📋 **How to Execute**
 
-1.  **Identify Potential Threats:** Continuously scan the market for new entrants, disruptive technologies, and shifting customer preferences. Use Wardley Maps to visualize the competitive landscape and identify potential disruptors.
-2.  **Assess the Threat Level:** Evaluate the potential impact of the threat on your business. Is it a minor nuisance or a genuine existential threat?
-3.  **Conduct Due Diligence:** Thoroughly investigate the target company's financials, technology, team, and market position.
-4.  **Negotiate the Acquisition:** Structure a deal that is fair to both parties and aligns with your strategic objectives.
-5.  **Plan the Integration:** Develop a detailed plan for integrating the acquired company's people, processes, and technology. This is a critical step that is often overlooked.
-6.  **Execute the Integration:** Carefully manage the integration process to minimize disruption and maximize the value of the acquisition.
+1. **Identify Potential Threats:** Continuously scan the market for new entrants, disruptive technologies, and shifting customer preferences. Use Wardley Maps to visualize the competitive landscape and identify potential disruptors.
+2. **Assess the Threat Level:** Evaluate the potential impact of the threat on your business. Is it a minor nuisance or a genuine existential threat?
+3. **Conduct Due Diligence:** Thoroughly investigate the target company's financials, technology, team, and market position.
+4. **Negotiate the Acquisition:** Structure a deal that is fair to both parties and aligns with your strategic objectives.
+5. **Plan the Integration:** Develop a detailed plan for integrating the acquired company's people, processes, and technology. This is a critical step that is often overlooked.
+6. **Execute the Integration:** Carefully manage the integration process to minimize disruption and maximize the value of the acquisition.
 
 ## 📈 **Measuring Success**
 
-*   **Threat Neutralization:** Has the competitive threat been effectively eliminated or mitigated?
-*   **Market Share:** Has the acquisition protected or increased your market share?
-*   **Return on Investment (ROI):** Is the acquisition delivering a positive financial return?
-*   **Talent Retention:** Have you been able to retain key employees from the acquired company?
+- **Threat Neutralization:** Has the competitive threat been effectively eliminated or mitigated?
+- **Market Share:** Has the acquisition protected or increased your market share?
+- **Return on Investment (ROI):** Is the acquisition delivering a positive financial return?
+- **Talent Retention:** Have you been able to retain key employees from the acquired company?
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
@@ -134,21 +134,22 @@ While threat acquisitions can be expensive, the cost of inaction can be even hig
 
 ## ❓ **Key Questions to Ask**
 
-*   **Threat Assessment:** Does this company represent a genuine, long-term threat to our core business?
-*   **Strategic Fit:** How does this acquisition align with our overall strategic goals?
-*   **Integration Plan:** Do we have a clear and realistic plan for integrating the acquired company?
-*   **Valuation:** Are we paying a fair price for the acquisition?
-*   **Regulatory Risk:** What is the likelihood of regulatory challenges, and how will we address them?
+- **Threat Assessment:** Does this company represent a genuine, long-term threat to our core business?
+- **Strategic Fit:** How does this acquisition align with our overall strategic goals?
+- **Integration Plan:** Do we have a clear and realistic plan for integrating the acquired company?
+- **Valuation:** Are we paying a fair price for the acquisition?
+- **Regulatory Risk:** What is the likelihood of regulatory challenges, and how will we address them?
 
 ## 🔀 **Related Strategies**
 
-*   **[Co-opting](/strategies/ecosystem/co-opting)**: A less aggressive approach where a company works with a potential competitor to align their interests.
-*   **[Restriction of Movement](/strategies/competitor/restriction-of-movement)**: Hindering a competitor's ability to operate without acquiring them.
-*   **[Talent Raid](/strategies/competitor/talent-raid)**: Acquiring key talent from a competitor to weaken their capabilities.
+- **[Co-opting](/strategies/ecosystem/co-opting)**: A less aggressive approach where a company works with a potential competitor to align their interests.
+- **[Restriction of Movement](/strategies/competitor/restriction-of-movement)**: Hindering a competitor's ability to operate without acquiring them.
+- **[Talent Raid](/strategies/competitor/talent-raid)**: Acquiring key talent from a competitor to weaken their capabilities.
 
 - [Limitation of Competition](/strategies/defensive/limitation-of-competition) - acquiring rivals to remove threats and legally limit future competitive challenges.
 - [Harvesting](/strategies/markets/harvesting) - extracting and monetising acquired capabilities or market segments post-acquisition.
 - [Last Man Standing](/strategies/markets/last-man-standing) - consolidating competitors through acquisitions to emerge as the sole dominant operator.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – trigger: acquisitions help an organisation adapt as markets shift.
@@ -156,6 +157,6 @@ While threat acquisitions can be expensive, the cost of inaction can be even hig
 
 ## 📚 **Further Reading & References**
 
-*   [Wardley Maps](https://medium.com/wardleymaps) by Simon Wardley.
-*   [The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma) by Clayton M. Christensen.
-*   [Mergers & Acquisitions For Dummies](https://www.goodreads.com/book/show/137523.Mergers_Acquisitions_For_Dummies) by Bill Snow.
+- [Wardley Maps](https://medium.com/wardleymaps) by Simon Wardley.
+- [The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma) by Clayton M. Christensen.
+- [Mergers & Acquisitions For Dummies](https://www.goodreads.com/book/show/137523.Mergers_Acquisitions_For_Dummies) by Bill Snow.

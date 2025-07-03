@@ -22,10 +22,10 @@ tags: [ecosystem, channel-conflict, disintermediation, distribution, direct-to-c
 
 While it can be disruptive, creating channel conflict is a powerful way to:
 
-*   **Take Control of the Customer Relationship:** Bypassing intermediaries gives you direct access to your customers, allowing you to build a relationship, gather data, and control the brand experience.
-*   **Increase Margins:** By cutting out the middleman, you can capture a larger share of the profit from each sale.
-*   **Accelerate Market Evolution:** A direct channel allows you to innovate and iterate on your product and messaging much faster than if you had to work through partners.
-*   **Shift Power Dynamics:** It can be used to weaken the power of entrenched distributors or retailers, forcing them to accept more favorable terms.
+- **Take Control of the Customer Relationship:** Bypassing intermediaries gives you direct access to your customers, allowing you to build a relationship, gather data, and control the brand experience.
+- **Increase Margins:** By cutting out the middleman, you can capture a larger share of the profit from each sale.
+- **Accelerate Market Evolution:** A direct channel allows you to innovate and iterate on your product and messaging much faster than if you had to work through partners.
+- **Shift Power Dynamics:** It can be used to weaken the power of entrenched distributors or retailers, forcing them to accept more favorable terms.
 
 ## 🗺️ **Real-World Examples**
 
@@ -58,19 +58,19 @@ In recent years, Nike has deliberately reduced its reliance on wholesale partner
   </Readiness>
 </Assessment>
 
-### Use when:
+### Use when
 
-*   You have a strong brand and can attract customers without relying on partners.
-*   You need direct access to customer data to drive your business.
-*   Your partners are holding you back or capturing too much value.
-*   You have the operational capability to handle direct sales and fulfillment.
+- You have a strong brand and can attract customers without relying on partners.
+- You need direct access to customer data to drive your business.
+- Your partners are holding you back or capturing too much value.
+- You have the operational capability to handle direct sales and fulfillment.
 
-### Avoid when:
+### Avoid when
 
-*   You are heavily dependent on your channel partners for sales and market access.
-*   Your customers rely on the value-added services provided by your partners (e.g., complex installation, local support).
-*   You lack the brand strength or operational capacity to go direct.
-*   The backlash from your partners would be too damaging to your business.
+- You are heavily dependent on your channel partners for sales and market access.
+- Your customers rely on the value-added services provided by your partners (e.g., complex installation, local support).
+- You lack the brand strength or operational capacity to go direct.
+- The backlash from your partners would be too damaging to your business.
 
 ## 🎯 **Leadership**
 
@@ -80,10 +80,10 @@ The core leadership challenge is managing the fallout. This strategy will inevit
 
 ### Key leadership skills required
 
-*   **Conflict Tolerance:** The ability to stay the course in the face of intense pressure and criticism from partners.
-*   **Strategic Communication:** The skill to craft and deliver a clear narrative that explains the rationale for the change to all stakeholders.
-*   **Change Management:** The ability to manage the internal and external transition to a new channel model.
-*   **Decisiveness:** The willingness to make a bold, potentially risky move and see it through.
+- **Conflict Tolerance:** The ability to stay the course in the face of intense pressure and criticism from partners.
+- **Strategic Communication:** The skill to craft and deliver a clear narrative that explains the rationale for the change to all stakeholders.
+- **Change Management:** The ability to manage the internal and external transition to a new channel model.
+- **Decisiveness:** The willingness to make a bold, potentially risky move and see it through.
 
 ### Ethical considerations
 
@@ -91,57 +91,64 @@ This strategy can have a significant negative impact on the businesses of your p
 
 ## 📋 **How to Execute**
 
-1.  **Analyze the Value Chain:** Map out your current routes to market and identify the costs and benefits of each. Where is value being created, and where is it being captured?
-2.  **Develop the Direct Channel:** Build the infrastructure for your direct channel. This could be an e-commerce website, a physical store, or a direct sales team.
-3.  **Define the Rules of Engagement:** Decide how you will manage the conflict. Will you offer different products or pricing in your direct channel? How will you handle leads that come through your website but are in a partner's territory?
-4.  **Launch and Communicate:** Launch your direct channel and clearly communicate the new reality to your partners. Be prepared for a negative reaction.
-5.  **Manage the Transition:** Carefully manage the transition period. You may need to offer incentives to partners to keep them on board, or you may need to be prepared to lose some of them.
-6.  **Optimize the Direct Channel:** Continuously invest in and improve your direct channel to make it the preferred route to market for your customers.
+1. **Analyze the Value Chain:** Map out your current routes to market and identify the costs and benefits of each. Where is value being created, and where is it being captured?
+2. **Develop the Direct Channel:** Build the infrastructure for your direct channel. This could be an e-commerce website, a physical store, or a direct sales team.
+3. **Define the Rules of Engagement:** Decide how you will manage the conflict. Will you offer different products or pricing in your direct channel? How will you handle leads that come through your website but are in a partner's territory?
+4. **Launch and Communicate:** Launch your direct channel and clearly communicate the new reality to your partners. Be prepared for a negative reaction.
+5. **Manage the Transition:** Carefully manage the transition period. You may need to offer incentives to partners to keep them on board, or you may need to be prepared to lose some of them.
+6. **Optimize the Direct Channel:** Continuously invest in and improve your direct channel to make it the preferred route to market for your customers.
 
 ## 📈 **Measuring Success**
 
-*   **Direct Revenue Growth:** Is the revenue from your direct channel growing and becoming a significant part of your business?
-*   **Margin Improvement:** Are your overall profit margins improving as you shift sales to the direct channel?
-*   **Customer Data:** Are you gathering valuable customer data that you can use to improve your products and marketing?
-*   **Brand Strength:** Is your brand becoming stronger and more recognized in the market?
+- **Direct Revenue Growth:** Is the revenue from your direct channel growing and becoming a significant part of your business?
+- **Margin Improvement:** Are your overall profit margins improving as you shift sales to the direct channel?
+- **Customer Data:** Are you gathering valuable customer data that you can use to improve your products and marketing?
+- **Brand Strength:** Is your brand becoming stronger and more recognized in the market?
 
 ## ⚠️ **Common Pitfalls and Warning Signs**
 
 ### Underestimating Partner Backlash
+
 Your partners will not be happy, and they may actively work to undermine your business. Be prepared for a fight.
 
 ### Operational Failures
+
 If you are not ready to handle the complexities of e-commerce, logistics, and customer service, your direct channel will fail and damage your brand.
 
 ### Channel Confusion
+
 If customers are confused about where to buy your product or see inconsistent pricing across channels, it can create a negative experience.
 
 ### Half-Measures
+
 A hesitant or poorly executed move into a direct channel can give you the worst of both worlds: you anger your partners without gaining the full benefits of going direct.
 
 ## 🧠 **Strategic Insights**
 
 ### The Inevitability of Disintermediation
+
 In many industries, the internet has made disintermediation inevitable. The companies that embrace this shift and build direct relationships with their customers are the ones that are most likely to succeed in the long run.
 
 ### Conflict as a Catalyst
+
 Channel conflict is not just about cutting costs; it's about forcing change. It can be a powerful catalyst for innovation and a way to break free from the inertia of legacy business models.
 
 ## ❓ **Key Questions to Ask**
 
-*   **The Power Dynamic:** Who currently owns the customer relationship in our market, and why?
-*   **The Value of Intermediaries:** What value are our partners providing, and can we provide that value ourselves?
-*   **The Risk of Inaction:** What is the long-term risk of allowing our partners to control our destiny?
-*   **The Operational Readiness:** Are we truly ready to handle the operational complexities of a direct-to-consumer business?
-*   **The Transition Plan:** How will we manage the transition and the inevitable conflict with our existing partners?
+- **The Power Dynamic:** Who currently owns the customer relationship in our market, and why?
+- **The Value of Intermediaries:** What value are our partners providing, and can we provide that value ourselves?
+- **The Risk of Inaction:** What is the long-term risk of allowing our partners to control our destiny?
+- **The Operational Readiness:** Are we truly ready to handle the operational complexities of a direct-to-consumer business?
+- **The Transition Plan:** How will we manage the transition and the inevitable conflict with our existing partners?
 
 ## 🔀 **Related Strategies**
 
-*   **[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)**: This strategy is a direct attempt to shift the balance of power between you and your buyers (in this case, your channel partners).
-*   **[Vertical Integration](/terms/value-chain)**: Disintermediation is a form of vertical integration, as you are taking on a part of the value chain that was previously outsourced.
-*   **[Direct-to-Consumer (DTC)](https://en.wikipedia.org/wiki/Direct-to-consumer)**: This is the most common manifestation of a disintermediation strategy.
+- **[Buyer-Supplier Power](/strategies/markets/buyer-supplier-power)**: This strategy is a direct attempt to shift the balance of power between you and your buyers (in this case, your channel partners).
+- **[Vertical Integration](/terms/value-chain)**: Disintermediation is a form of vertical integration, as you are taking on a part of the value chain that was previously outsourced.
+- **[Direct-to-Consumer (DTC)](https://en.wikipedia.org/wiki/Direct-to-consumer)**: This is the most common manifestation of a disintermediation strategy.
 
 - [Two-Sided Markets](/strategies/ecosystem/two-factor-markets) - creating platforms that directly connect supply and demand sides, bypassing traditional channel partners.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Shifts from product to utility tend to demonstrate a punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium) – trigger: direct channels emerge as industries commoditise.
@@ -149,5 +156,5 @@ Channel conflict is not just about cutting costs; it's about forcing change. It 
 
 ## 📚 **Further Reading & References**
 
-*   **[The Direct-to-Consumer Playbook](https://books.google.co.uk/books/about/The_Direct_to_Consumer_Playbook.html?id=THibzgEACAAJ&redir_esc=y)** by Mike Stevens. A guide to building a DTC business.
-*   **[Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption](https://books.google.co.uk/books/about/Unlocking_the_Customer_Value_Chain.html?id=xSdcDwAAQBAJ&redir_esc=y)** by Thales S. Teixeira, Greg Piechota, Crown, 19 Feb 2019. An HBR article that explores the dynamics of disintermediation.
+- **[The Direct-to-Consumer Playbook](https://books.google.co.uk/books/about/The_Direct_to_Consumer_Playbook.html?id=THibzgEACAAJ&redir_esc=y)** by Mike Stevens. A guide to building a DTC business.
+- **[Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption](https://books.google.co.uk/books/about/Unlocking_the_Customer_Value_Chain.html?id=xSdcDwAAQBAJ&redir_esc=y)** by Thales S. Teixeira, Greg Piechota, Crown, 19 Feb 2019. An HBR article that explores the dynamics of disintermediation.

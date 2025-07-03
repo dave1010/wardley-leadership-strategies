@@ -26,7 +26,6 @@ You might:
 
 These efforts occupy mindshare and fragment momentum, discouraging others from investing.
 
-
 ### Why use Designed to Fail?
 
 Deploy this strategy when an adjacent or emerging market may threaten your core position. By seeding a flawed initiative, you can:
@@ -89,7 +88,6 @@ Leadership tension: Playing dirty without eroding trust or morale. This tactic r
 
 This strategy walks a line between cunning and deception. Overuse breeds cynicism inside and outside your oranisation. If discovered, you risk brand damage and trust collapse.
 
-
 ## 📋 **How to Execute**
 
 1. Identify a vulnerable or emerging market segment.
@@ -127,24 +125,31 @@ Maintaining a deceptive initiative may consume more resources than planned.
 ## 🧠 **Strategic Insights**
 
 ### Governance Vacuum is Key
+
 This strategy thrives where no one yet has control. A lack of established standards, dominant players, or clear leadership in an emerging market allows a "Designed to Fail" initiative to more easily shape perceptions and create confusion. The ambiguity of a nascent space is the fertile ground for such a ploy.
 
 ### Narrative Dominance is Crucial
+
 The success of a "Designed to Fail" initiative hinges on controlling the narrative. The flawed project must be marketed with enough credibility and fanfare to appear legitimate, occupy mindshare, and influence competitor or ecosystem behavior. Without a convincing story, the flaws become obvious too quickly, and the strategic intent is lost.
 
 ### The "Osborne Effect" Multiplier
+
 A well-publicized "Designed to Fail" initiative can generate an "Osborne Effect" in the targeted market. By hinting at a superior (but ultimately undelivered) future product, it can deter customers from purchasing existing, viable solutions from competitors, effectively freezing demand and poisoning the market by creating widespread purchasing hesitation.
 
 ### Ecosystem Contamination and Resource Burn
+
 Beyond direct competitors, a sophisticated "Designed to Fail" play can contaminate the adjacent ecosystem. By launching a flawed standard or platform, it can entice third-party developers, integrators, and investors to commit resources. The inevitable collapse wastes their investment and creates disillusionment, making the entire field appear barren and raising barriers for future legitimate efforts.
 
 ### Strategic Misdirection: The "Empty Fort" or "False Scapegoat"
+
 "Designed to Fail" initiatives can serve as powerful misdirection. Like an "Empty Fort," a visible but hollow show of occupying a space can make competitors overestimate your commitment, causing them to hesitate or misallocate resources. Alternatively, it can be a "False Scapegoat," providing a public reason for retreating from a market due to the initiative's "failure," masking deeper strategic shifts or internal weaknesses.
 
 ### Short Half-Life by Design
+
 These initiatives are not meant to last. Their purpose is to occupy space, create temporary distortion, or achieve a specific signaling effect. If a "Designed to Fail" project persists too long or, worse, accidentally becomes viable (perhaps through community fixes), it risks failing in its strategic objective of denial or delay. Plan for its eventual, controlled collapse.
 
 ### Best as a Tactical Side-Play
+
 "Designed to Fail" should generally be a tactical, peripheral move rather than core to a company's primary strategy. Its utility lies in specific, often defensive, contexts. Over-reliance on such "poisoning" tactics can distract from genuine value creation, damage reputation if discovered, and foster a cynical internal culture.
 
 ## ❓ **Key Questions to Ask**
@@ -162,6 +167,7 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 - [Licensing](/strategies/poison/licensing) — controlling ecosystems through legal terms.
 
 - [Standards Game](/strategies/markets/standards-game) - introducing deliberately flawed specifications to fragment competitor ecosystems and clear the path for your own standard.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Everything evolves](/climatic-patterns/everything-evolves) – rel: This strategy aims to disrupt the natural evolution of a nascent market.

@@ -161,6 +161,7 @@ Intellectual Property Rights are increasingly becoming a significant element in 
 - [Creating Constraints](/strategies/decelerators/creating-constraints) - establishing new legal or contractual bottlenecks to control competitor access to protected technologies.
 - [Exploiting Existing Constraint](/strategies/decelerators/exploiting-constraint) - leveraging your current IP protections to intensify barriers and limit rivals’ evolution.
 - [Limitation of Competition](/strategies/defensive/limitation-of-competition) - deploying IP rights to legally restrict competitor activities and narrow market options.
+
 ## ⛅ **Relevant Climatic Patterns**
 
 - [Inertia can kill an organisation](/climatic-patterns/inertia-can-kill-an-organisation) – influence: aggressive IP use can entrench slow-moving leaders.

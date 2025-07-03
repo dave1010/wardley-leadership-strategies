@@ -10,4 +10,3 @@ The point of industrialisation often feels like a battle for survival. Competiti
 ## 🔀 Related Strategies
 
 - [Alliances](/strategies/ecosystem/alliances) – trigger: wartime competition often drives organisations to band together.
-
