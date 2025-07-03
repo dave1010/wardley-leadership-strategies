@@ -86,6 +86,7 @@ The most significant leadership challenge is managing the relationship with the 
 ### Ethical considerations
 
 Harvesting is ethically complex. On one hand, you are providing the platform that makes the innovation possible. On the other hand, you are profiting from the work of others, and potentially putting them out of business. Key questions include:
+
 - Are we being transparent with our developer community about our intentions?
 - Are we offering fair compensation when we acquire a company?
 - Are we leaving enough room for a healthy ecosystem to thrive after we have harvested an idea?

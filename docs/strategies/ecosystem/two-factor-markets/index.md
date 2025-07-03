@@ -86,6 +86,7 @@ The most significant leadership challenge is solving the "chicken and egg" probl
 ### Ethical considerations
 
 Two-sided platforms hold significant power. Leaders must consider the ethics of their position. Key issues include:
+
 - **Fairness:** Are the rules of the platform fair to both sides? Is the platform taking an excessive cut of the value created?
 - **Data Privacy:** How is the platform using the vast amounts of data it collects? Is it being used to exploit users?
 - **Competition:** Is the platform using its dominant position to stifle competition or unfairly favor its own services?

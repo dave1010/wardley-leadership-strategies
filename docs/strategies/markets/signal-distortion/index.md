@@ -86,6 +86,7 @@ The central leadership challenge is to navigate the significant ethical grey are
 ### Ethical considerations
 
 This is an inherently deceptive strategy. It involves intentionally misleading others for your own gain. Key ethical questions include:
+
 - Does this manipulation harm customers or the public?
 - Could this lead to a "boy who cried wolf" scenario, where you are not believed when you are telling the truth?
 - Does this practice contribute to a market environment of cynicism and mistrust?
