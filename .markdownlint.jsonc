@@ -1,3 +1,5 @@
 {
-  "default": true
+  "default": true,
+  "MD013": false, // allow long lines https://github.com/DavidAnson/markdownlint/blob/v0.38.0/doc/md013.md
+  "no-inline-html": false
 }
