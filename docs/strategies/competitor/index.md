@@ -4,7 +4,6 @@ description: Engaging rivals to erode their advantages, waste resources, or neut
 authors: [dave-hulbert]
 ---
 
-# Competitor
 
 This category of strategies encompasses a diverse array of tactical and strategic actions aimed at directly or indirectly engaging with rivals. These approaches come into play when a competitor's presence is too significant to ignore, or when strategic absorption isn't feasible or desirable. The core objectives often revolve around diminishing a rival's competitive edge, misdirecting their strategic focus, depleting their valuable resources, maneuvering them into strategically unfavorable circumstances, or otherwise shaping the competitive landscape to your advantage.
 

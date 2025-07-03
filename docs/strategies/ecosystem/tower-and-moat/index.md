@@ -4,7 +4,6 @@ description: Establishing a dominant position in a future market (the Tower) and
 tags: [ecosystem, dominance, defensive, barriers-to-entry, platform, network-effects, commoditisation, innovate-leverage-commoditize]
 ---
 
-# Tower and Moat
 
 **Establishing a dominant position in a future market (the Tower) and building defensive barriers (the Moat) to prevent competition.**
 

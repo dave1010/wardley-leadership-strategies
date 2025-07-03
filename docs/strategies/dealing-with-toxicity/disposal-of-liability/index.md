@@ -4,7 +4,6 @@ description: Strategically restructuring by separating or selling off business u
 tags: [dealing-with-toxicity, legacy, divestment, exit-strategy, inertia, obsolescence, risk-mitigation, strategic-divestment, spin-off, carve-out, restructuring]
 ---
 
-# Strategic Divestment and Disposal of Liability
 
 **Strategically restructuring through actions like spin-offs, split-offs, carve-outs, or direct disposal to unlock shareholder value, enhance strategic focus, reduce debt, streamline operations, or eliminate burdensome components from your value chain.**
 

@@ -3,7 +3,6 @@ title: "Evolution to higher order systems increases local order"
 tags: [financial]
 ---
 
-# Evolution to higher order systems increases local order
 
 As components industrialise, they consume more energy and concentrate complexity elsewhere. The total cost may rise even as efficiency improves.
 

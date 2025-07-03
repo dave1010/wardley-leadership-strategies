@@ -3,7 +3,6 @@ title: "Competitors' actions will change the game"
 tags: [competitors]
 ---
 
-# Competitors' actions will change the game
 
 No strategy lives in a vacuum. Moves by rivals alter the landscape and force you to respond or reposition.
 

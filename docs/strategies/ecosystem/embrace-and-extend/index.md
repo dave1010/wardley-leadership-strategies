@@ -4,7 +4,6 @@ description: A strategy to gain market dominance by first adopting a widely used
 tags: [ecosystem, standards, competition, dominance, proprietary-extensions, lock-in, microsoft]
 ---
 
-# Embrace and Extend
 
 **A strategy to gain market dominance by first adopting a widely used standard, then adding proprietary extensions to create a lock-in effect.**
 

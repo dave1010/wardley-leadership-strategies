@@ -3,7 +3,6 @@ title: "Past success breeds inertia"
 tags: [inertia]
 ---
 
-# Past success breeds inertia
 
 When a company has enjoyed consistent success with a particular product, service, or business model, it naturally becomes invested in that approach. The processes, culture, and incentives that grew around that success often harden into habits. As the environment changes and new competitors emerge, those same habits can make it difficult to pivot. Leaders may cling to what worked before, assuming it will continue to work, even as the underlying landscape evolves.
 

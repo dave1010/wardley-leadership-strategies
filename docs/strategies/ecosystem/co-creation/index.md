@@ -4,7 +4,6 @@ description: A strategy of actively involving customers or users in the product 
 tags: [ecosystem, collaboration, user-involvement, customer-feedback, innovation, community, open-innovation]
 ---
 
-# Co-creation
 
 **A strategy of actively involving customers or users in the product development process to create more valuable and user-centric solutions.**
 

@@ -4,7 +4,6 @@ description: Creating a unique value proposition by focusing on unmet user needs
 tags: [markets, value-proposition, uniqueness, user-needs, competition, positioning, innovation]
 ---
 
-# Differentiation
 
 **Creating a unique value proposition by focusing on unmet user needs in less-evolved market spaces.**
 

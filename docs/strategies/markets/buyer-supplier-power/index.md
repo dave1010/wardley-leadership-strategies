@@ -4,7 +4,6 @@ description: Strategically managing the power dynamics between buyers and suppli
 tags: [markets, power-dynamics, negotiation, value-chain, leverage, commoditisation, chokepoint]
 ---
 
-# Buyer-Supplier Power
 
 **Strategically managing the power dynamics between buyers and suppliers as a market evolves to gain a competitive advantage.**
 

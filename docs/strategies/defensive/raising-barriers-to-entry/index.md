@@ -4,7 +4,6 @@ description: A defensive strategy of increasing the complexity and scope of a pr
 tags: [defensive, barriers-to-entry, competition, incumbents, market-expectations, complexity, bundling]
 ---
 
-# Raising Barriers to Entry
 
 **A defensive strategy of increasing the complexity and scope of a product or service to make it more difficult for new competitors to enter the market.**
 

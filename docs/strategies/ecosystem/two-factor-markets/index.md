@@ -4,7 +4,6 @@ description: Creating a platform that brings together two distinct groups of use
 tags: [ecosystem, platform, marketplace, network-effects, providers, consumers, data-aggregation]
 ---
 
-# Two-Sided Markets
 
 **Creating a platform that brings together two distinct groups of users (e.g., buyers and sellers) to create value through network effects.**
 

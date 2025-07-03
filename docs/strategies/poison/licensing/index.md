@@ -4,7 +4,6 @@ description: Using legal terms to restrict competitors and lock in an ecosystem.
 tags: [poison, intellectual-property, restriction, lock-in]
 ---
 
-# Licensing
 
 **Leveraging legal frameworks to restrict competitor use and lock in ecosystems.**
 

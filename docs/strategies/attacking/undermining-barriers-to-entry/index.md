@@ -4,7 +4,6 @@ description: An offensive strategy focused on identifying and dismantling a key 
 tags: [attacking, barriers-to-entry, inertia, competition, open-source, open-approaches, disruption, challenger]
 ---
 
-# Undermining Barriers to Entry
 
 **An offensive strategy focused on identifying and dismantling a key barrier that protects an incumbent, thereby opening the market to new competition.**
 

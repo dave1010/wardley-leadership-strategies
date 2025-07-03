@@ -5,7 +5,6 @@ tags: [platform-envelopment, ecosystem, platform, bundling, absorption, integrat
 authors: [dave-hulbert]
 ---
 
-# Platform Envelopment
 
 **Platform Envelopment is a strategic action where a platform provider expands its market influence and value capture by either integrating or bundling the functionality of another platform, or by directly competing with its own users by offering similar products or services (often referred to as 'absorption').**
 

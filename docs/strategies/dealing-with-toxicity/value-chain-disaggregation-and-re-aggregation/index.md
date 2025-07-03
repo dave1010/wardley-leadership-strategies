@@ -5,7 +5,6 @@ tags: [value chain, disaggregation, re-aggregation, dealing-with-toxicity, trans
 authors: [dave-hulbert]
 ---
 
-# Value Chain Disaggregation and Re-aggregation
 
 **Value Chain Disaggregation involves strategically breaking down existing, often integrated, processes, services, and functions within a value chain into their more granular component parts. Re-aggregation is the subsequent, deliberate recombination or re-engineering of these newly disaggregated parts to better meet evolving user needs, enable new business models, or address emerging competitive landscapes.**
 

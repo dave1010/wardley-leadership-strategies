@@ -3,7 +3,6 @@ title: "No one size fits all"
 tags: [components]
 ---
 
-# No one size fits all
 
 A system is built from components that sit at different stages of evolution. Experimental parts require freedom to change, while industrialised parts demand stability and efficiency. Because of this mix, a single management or delivery method cannot suit every component.
 

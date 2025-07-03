@@ -4,7 +4,6 @@ description: Disguising toxic assets as valuable to offload risk before their tr
 tags: [dealing-with-toxicity, pig-in-a-poke, deception, misrepresentation, exit-strategy, risk-mitigation]
 ---
 
-# Pig in a Poke
 
 **Hiding liabilities in plain sight and selling them to unsuspecting buyers before they discover the true risk.**
 

@@ -4,7 +4,6 @@ description: A defensive strategy where an incumbent company uses government reg
 tags: [defensive, regulation, policy, lobbying, barriers-to-entry, incumbents, compliance, rent-seeking]
 ---
 
-# Defensive Regulation
 
 **A defensive strategy where an incumbent company uses government regulation and lobbying to create barriers to entry and hinder competitors.**
 
