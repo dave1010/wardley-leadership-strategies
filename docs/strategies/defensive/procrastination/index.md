@@ -4,7 +4,6 @@ description: A defensive strategy of deliberately waiting for competitors to bea
 tags: [defensive, waiting, fast-follower, risk-mitigation, cost-reduction, observation, second-mover-advantage]
 ---
 
-# Procrastination
 
 **A defensive strategy of deliberately waiting for competitors to bear the costs and risks of developing a new market or technology before entering.**
 

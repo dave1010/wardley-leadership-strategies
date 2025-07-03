@@ -4,7 +4,6 @@ description: Combining products or changes together so that a less desirable ite
 tags: [bundling, user-perception, packaging, adoption, hiding disadvantage, pricing]
 ---
 
-# Bundling
 
 **Combining products or changes together so that a less desirable item is packaged with a desirable one, encouraging adoption of the whole package.**
 

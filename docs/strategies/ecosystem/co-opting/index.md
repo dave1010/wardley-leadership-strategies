@@ -4,7 +4,6 @@ description: A strategy of adopting or mimicking a competitor's features, standa
 tags: [ecosystem, influence, absorption, competition, neutralization, standards, ecosystem-control, fast-follower]
 ---
 
-# Co-opting
 
 **A strategy of adopting or mimicking a competitor's features, standards, or messaging to neutralize their advantage and attract their users.**
 

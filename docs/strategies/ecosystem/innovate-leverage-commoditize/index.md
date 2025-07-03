@@ -4,7 +4,6 @@ description: A cyclical strategy of using an ecosystem as a sensing engine to gu
 tags: [ecosystem, innovate-leverage-commoditize, ilc, innovate, platform, data, feedback-loop, ecosystem-monitoring, sensing-engine]
 ---
 
-# Innovate, Leverage, Commoditize (ILC)
 
 **A cyclical strategy of using an ecosystem as a sensing engine to guide innovation and maintain market leadership.**
 

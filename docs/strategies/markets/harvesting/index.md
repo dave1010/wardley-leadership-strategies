@@ -4,7 +4,6 @@ description: Scaling innovation by observing a platform's ecosystem, identifying
 tags: [markets, ecosystem, innovation, scaling, acquisition, replication, platform-strategy, sensing-engine]
 ---
 
-# Harvesting
 
 **Scaling innovation by observing a platform's ecosystem, identifying successful third-party offerings, and then acquiring, replicating, or integrating them.**
 

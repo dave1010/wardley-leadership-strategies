@@ -4,7 +4,6 @@ description: Manipulating market signals to mislead competitors and influence th
 tags: [markets, perception, information-warfare, competitor, influence, hype, signals, misdirection]
 ---
 
-# Signal Distortion
 
 **Manipulating market signals to mislead competitors and influence their strategic decisions.**
 

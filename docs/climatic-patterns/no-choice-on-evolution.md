@@ -3,7 +3,6 @@ title: "No choice on evolution"
 tags: [components]
 ---
 
-# No choice on evolution
 
 When competitors adopt a more evolved component, others feel pressure to follow. The gains in efficiency and capability create a pull that is hard to resist. This "Red Queen" effect means standing still rarely remains an option: as some players move forward, the rest must keep pace simply to survive.
 
