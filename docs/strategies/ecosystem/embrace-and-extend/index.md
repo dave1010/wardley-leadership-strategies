@@ -33,9 +33,13 @@ This is a high-risk strategy for companies with significant market power. The pr
 
 ## 🗺️ **Real-World Examples**
 
-### Microsoft and the Browser Wars
+### Success: Microsoft's Browser Wars
 
 The most famous (and infamous) example is Microsoft's strategy with Internet Explorer in the late 1990s. Microsoft **embraced** the open web standards of the time (HTML, CSS). They then **extended** these standards with proprietary features and tags (like `<marquee>`) that only worked in Internet Explorer. As IE's market share grew, web developers were forced to build sites that used these proprietary extensions, making them look broken in competing browsers like Netscape Navigator. This helped Microsoft **extinguish** Netscape and achieve a near-monopoly in the browser market.
+
+### Cautionary Example: The Aftermath of the Browser Wars
+
+While Microsoft's "embrace and extend" strategy was successful in winning the browser wars, it came at a high cost. The strategy led to a stagnant web, where innovation slowed for years. Developers were forced to build for a single, non-standard browser, and users were locked into a single ecosystem. This ultimately led to a massive antitrust lawsuit against Microsoft, which damaged the company's reputation and led to years of legal battles. This example shows that even a successful "embrace and extend" strategy can have significant negative consequences.
 
 ### Google's Use of Android
 

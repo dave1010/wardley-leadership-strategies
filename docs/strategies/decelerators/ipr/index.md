@@ -59,6 +59,10 @@ Qualcomm’s extensive portfolio in 3G/4G standards forces device manufacturers 
 
 A startup patents a broad drone delivery mechanism covering general package drop-off techniques. Established logistics firms must negotiate licenses or delay their own R&D to avoid infringement.
 
+### Cautionary Example: SCO Group vs. Linux
+
+In the early 2000s, SCO Group launched a series of lawsuits against Linux users and vendors, claiming that Linux contained code that was stolen from SCO's proprietary version of Unix. The lawsuits were widely seen as an attack on the open-source community and created a great deal of fear, uncertainty, and doubt (FUD). Ultimately, SCO's claims were rejected by the courts, and the company went bankrupt. This example shows that an overly aggressive IPR strategy can backfire, leading to costly legal battles, reputational damage, and ultimately, failure.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Patents & IPR">

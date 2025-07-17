@@ -32,6 +32,10 @@ Cable TV providers bundle less-popular channels with very popular ones in packag
 
 A SaaS software company needs to deprecate an old feature that some legacy customers still use. They release a new upgrade bundle: the old feature is removed, but the upgrade includes extra storage and a new AI tool at the same price. By **bundling improvements** with the removal of the old feature, they soften the blow and get customers to accept the change.
 
+### Cautionary Example: RealPlayer
+
+In the late 1990s, RealPlayer was a popular media player. However, it became infamous for bundling additional software, such as adware and browser toolbars, with its installer. Users who just wanted the media player found themselves with a host of unwanted and often malicious software. This created a strong negative perception of the brand and led many users to seek alternatives. This example shows that bundling can backfire if it is perceived as deceptive or harmful to the user.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Bundling">

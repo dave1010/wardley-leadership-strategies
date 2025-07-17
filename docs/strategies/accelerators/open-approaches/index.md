@@ -57,6 +57,10 @@ Google released Android as open source, eliminating licensing fees and restricti
 
 Governments and organizations releasing open data sets, such as GPS signals, weather information, or public transport data, have enabled entire industries to emerge and thrive. For example, Transport for London (TfL) provides open APIs for real-time transit data, empowering developers to create journey planners, accessibility tools, and mobility apps. This has resulted in more innovation, ecosystem growth, and unlocked new business opportunities.
 
+### Cautionary Example: The Fragmentation of Android
+
+While Android's openness was a strategic success for Google, it also created significant challenges. The Android Open Source Project (AOSP) allowed any manufacturer to create their own version of the OS, leading to a fragmented ecosystem. This meant that apps might work on one manufacturer's phone but not another's, creating a poor experience for both users and developers. Google has tried to manage this with compatibility requirements for accessing its Play Store, but the underlying fragmentation remains a persistent issue, demonstrating that openness without strong governance can lead to chaos and a loss of strategic control.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Open Approaches">
