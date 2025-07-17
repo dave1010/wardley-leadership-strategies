@@ -127,11 +127,27 @@ An incumbent may dismiss a new market as a niche, only to find that it has becom
 
 ### The Second-Mover Advantage
 
-This strategy is a powerful example of the "second-mover advantage." The first mover often makes the mistakes that the second mover can learn from. The first mover educates the market, and the second mover reaps the rewards.
+This strategy is a powerful example of the "second-mover advantage." The first mover bears the "burden of discovery," making the mistakes and educating the market, which the second mover can learn from. The first mover proves a market exists, and the second mover can then enter with a more refined product, a more efficient business model, and a clearer understanding of customer needs, often leading to market dominance.
 
 ### Patience as a Weapon
 
-In a world obsessed with speed and being first, deliberate patience can be a powerful and contrarian strategic weapon. It requires discipline and a long-term perspective.
+In a business culture often obsessed with speed and being first, deliberate patience can be a powerful and contrarian strategic weapon. It requires discipline, a long-term perspective, and the courage to resist the pressure to act prematurely. Strategic procrastination is not about being slow; it's about being deliberate and timing your entry for maximum impact.
+
+### Active Waiting vs. Passive Inaction
+
+It is critical to distinguish between "active waiting" and "passive inaction." Strategic procrastination is an active strategy. It requires continuous monitoring of the market, deep analysis of competitors' moves, and preparation for a swift entry. Passive inaction, on the other hand, is simply ignoring a new market or technology out of fear, ignorance, or arrogance. This is what Kodak did with digital photography, and it led to their downfall. Active waiting is a strategy; passive inaction is a path to obsolescence.
+
+### The Role of Market Uncertainty and Evolution
+
+This strategy is most effective in markets characterized by high uncertainty and rapid evolution. In such environments, the first mover faces significant risks, as the technology and customer preferences are still in flux. By waiting for the market to mature and for standards to emerge, the strategic procrastinator can enter with a solution that is better aligned with the stabilized market reality.
+
+### Exploiting the Incumbent's Dilemma
+
+Strategic procrastination can be a way to exploit the "innovator's dilemma" faced by incumbents. An incumbent may be hesitant to embrace a new, disruptive technology for fear of cannibalizing its existing, profitable business. A fast follower can wait for the technology to mature and then enter the market with a solution that the incumbent is culturally or structurally unable to compete with.
+
+### Procrastination as a Portfolio Strategy
+
+For large organizations, strategic procrastination can be part of a broader portfolio approach to innovation. While they may be first movers in their core markets, they can act as fast followers in adjacent or more speculative markets. This allows them to balance the risks and rewards of innovation across their portfolio, placing big bets on a few core initiatives while taking a more cautious, observant stance on others.
 
 ## ❓ **Key Questions to Ask**
 
