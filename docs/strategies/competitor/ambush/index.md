@@ -8,7 +8,7 @@ authors: [dave-hulbert]
 **Reactively undermining a specific competitor's progress or negating their advantage with a surprise strategic maneuver.**
 
 :::note
-**Ambush** isn't explicitly mentioned in Wardley's [On 61 differnt forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+**Ambush** isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
 :::
 
 ## 🤔 **Explanation**
