@@ -150,11 +150,6 @@ Ensure employees understand the difference between core business efforts and pro
 
 Avoid getting stuck in analysis; the goal is to use insights to decide where to invest.
 
-### Relevant Links
-
-* [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
-* [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)
-
 ## ❓ **Key Questions to Ask**
 
 * **Market Understanding:** What specific hypothesis about the competitor's market or offering are we testing with this probe?
@@ -187,3 +182,5 @@ Avoid getting stuck in analysis; the goal is to use insights to decide where to 
 
 * "Competitive Strategy" by Michael Porter - For foundational concepts on competitive analysis and strategy.
 * "The Art of War" by Sun Tzu - For insights into strategic thinking and maneuvering in competitive situations.
+* [Netflix Tests Expanding Games From Mobile to TVs and PCs | PCMag](https://www.pcmag.com/news/netflix-tests-expanding-games-from-mobile-to-tvs-and-pcs)
+* [IBM to Spend Another $1 Billion on Linux - Business Insider](https://www.businessinsider.com/ibm-to-spend-another-1-billion-on-linux-2013-9)
