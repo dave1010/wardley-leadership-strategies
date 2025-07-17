@@ -48,6 +48,10 @@ Boeing was first to industrialise jet-powered commercial aircraft, establishing 
 
 An automotive company standardises electric vehicle battery modules, licensing the design to other manufacturers. By defining the architecture early, they capture manufacturing scale and ecosystem support.
 
+### Cautionary Example: Friendster
+
+Friendster was one of the first social networking sites and gained significant traction in the early 2000s. However, it was slow to innovate and failed to scale its infrastructure to meet demand. This created an opening for a "fast follower," Facebook, which learned from Friendster's mistakes, built a more stable platform, and ultimately dominated the market. This example shows that being a first mover is not enough; you must also be able to execute and adapt to maintain your lead.
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="First Mover">
