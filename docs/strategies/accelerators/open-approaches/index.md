@@ -57,6 +57,14 @@ Google released Android as open source, eliminating licensing fees and restricti
 
 Governments and organizations releasing open data sets, such as GPS signals, weather information, or public transport data, have enabled entire industries to emerge and thrive. For example, Transport for London (TfL) provides open APIs for real-time transit data, empowering developers to create journey planners, accessibility tools, and mobility apps. This has resulted in more innovation, ecosystem growth, and unlocked new business opportunities.
 
+### AWS and the Cloud Battle (2006 Wardley Map)
+
+This Wardley Map, created by Chris Adams, illustrates the landscape of AWS in 2006 and highlights how the "battle for cloud" was ultimately lost by competitors who failed to embrace open approaches. Amazon's early lead and proprietary ecosystem, coupled with the lack of open, API-compatible alternatives from competitors, allowed them to dominate the IaaS market. The article argues that a deliberate offensive strategy using open APIs could have fostered a healthier, more competitive ecosystem by undermining Amazon's barriers to entry.
+
+![Wardley Map for AWS in 2006](/img/maps/2017-09-wardley-map-for-aws-in-2006-a-bit-less-common.png)
+
+*Map credit: [Chris Adams](https://awmug.wordpress.com/author/mrchrisadams/). For a detailed analysis, see the article: [How the battle for Cloud was lost, mapped](https://awmug.wordpress.com/2017/09/20/how-the-battle-for-cloud-was-lost-mapped/).*
+
 ### Cautionary Example: The Fragmentation of Android
 
 While Android's openness was a strategic success for Google, it also created significant challenges. The Android Open Source Project (AOSP) allowed any manufacturer to create their own version of the OS, leading to a fragmented ecosystem. This meant that apps might work on one manufacturer's phone but not another's, creating a poor experience for both users and developers. Google has tried to manage this with compatibility requirements for accessing its Play Store, but the underlying fragmentation remains a persistent issue, demonstrating that openness without strong governance can lead to chaos and a loss of strategic control.
