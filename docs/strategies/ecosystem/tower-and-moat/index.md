@@ -33,9 +33,16 @@ This is a high-risk, high-reward strategy for achieving sustained market leaders
 
 AWS is the canonical example. Amazon anticipated that computing infrastructure would evolve into a utility. They built a massive, scalable platform (the Tower) and then systematically built a Moat. They did this by creating a vast ecosystem of services and, crucially, by commoditizing higher-level services (e.g., databases, machine learning) that could have been points of differentiation for competitors. By offering these services cheaply, they made it uneconomical for rivals to compete on those features, forcing them to compete on the core utility, where AWS's scale is a huge advantage.
 
-### Google and Open Source AI
+### Google, Meta, and Open Source AI
 
-A fascinating modern example is the debate around Google's AI strategy. A leaked internal Google document argued that open-source AI models were building a powerful Moat that neither Google nor OpenAI could overcome. The argument was that the open-source community was commoditizing the core AI models faster than Google could innovate, preventing Google from building a defensible "Tower" in proprietary AI. This illustrates the power of commoditization in building (or destroying) a Moat.
+A fascinating modern example is the debate around Google's AI strategy, particularly in light of Meta's release of the LLaMA model. A leaked internal Google document argued that open-source AI models were building a powerful Moat that neither Google nor OpenAI could overcome.
+
+The argument was that the open-source community, building on Meta's work, was commoditizing the core AI models faster than Google could innovate. This prevents Google from building a defensible "Tower" in proprietary AI. This illustrates the power of commoditization in building (or destroying) a Moat.
+
+As [Joaquín Peña Fernández notes](https://joapen.com/blog/2023/05/08/if-microsoft-took-google-to-dance-facebook-has-stripped-it/), while Microsoft may have forced Google to react, Meta's open source strategy has fundamentally undermined the positions of both.
+
+![Wardley Map of the AI space](/img/maps/tower-and-moat-google-vs-meta.png)
+*Credit: [Joaquín Peña Fernández](https://joapen.com/)*
 
 ## 🚦 **When to Use / When to Avoid**
 
