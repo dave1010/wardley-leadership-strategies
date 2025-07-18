@@ -41,7 +41,7 @@ The argument was that the open-source community, building on Meta's work, was co
 
 As [Joaquín Peña Fernández notes](https://joapen.com/blog/2023/05/08/if-microsoft-took-google-to-dance-facebook-has-stripped-it/), while Microsoft may have forced Google to react, Meta's open source strategy has fundamentally undermined the positions of both.
 
-![Wardley Map of the AI space](img/maps/tower-and-moat-google-vs-meta.png)
+![Wardley Map of the AI space](/img/maps/tower-and-moat-google-vs-meta.png)
 *Credit: [Joaquín Peña Fernández](https://joapen.com/)*
 
 ## 🚦 **When to Use / When to Avoid**
