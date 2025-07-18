@@ -26,9 +26,9 @@ This creates a powerful feedback loop where the market itself tells you what to 
 
 ```mermaid
 flowchart TD
-    Innovate["1. Innovate<br/>(Create a new platform/component)"]
-    Leverage["2. Leverage<br/>(Ecosystem builds on the platform)"]
-    Commoditize["3. Commoditize<br/>(Sense successful patterns and build them into the platform)"]
+    Innovate["1. Innovate (Create a new platform/component)"]
+    Leverage["2. Leverage (Ecosystem builds on the platform)"]
+    Commoditize["3. Commoditize (Sense successful patterns and build them into the platform)"]
 
     Innovate --> Leverage
     Leverage --> Commoditize
