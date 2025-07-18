@@ -52,6 +52,20 @@ AWS is the textbook example of ILC. They **Innovated** by creating the first tru
 
 Apple **Innovated** with the iPhone and the App Store. They **Leveraged** a huge community of developers to create millions of apps. Their **Sensing Engine** is the App Store itself – they can see which apps and features become popular. Over time, they have **Commoditized** successful app concepts directly into iOS. Features like flashlight apps, podcast players, and screen time monitors were all pioneered by third-party developers before being absorbed into the core operating system.
 
+### Microsoft and GitHub
+
+The acquisition of GitHub by Microsoft is a classic example of the ILC strategy in action.
+
+1.  **Innovate:** GitHub created a platform for developers that made it easy to host and collaborate on code. This was a significant innovation in the software development workflow.
+2.  **Leverage:** Microsoft, along with the entire software development community, leveraged GitHub for its own projects. They built on top of the platform and became an active participant in the ecosystem.
+3.  **Commoditize:** By acquiring GitHub, Microsoft is now in a position to commoditize many of the activities that happen on the platform. They can more deeply integrate it with their Azure cloud platform, and use the data from GitHub to sense emerging trends in technology. This allows them to create new services and tools that meet the needs of developers, further strengthening their position in the market.
+
+This is illustrated in the following map:
+
+![Map of Microsoft and GitHub ILC strategy](/img/maps/microsoft-github-ilc.png)
+
+This example is based on an article from the [AWMUG blog](https://awmug.wordpress.com/2018/10/02/2018-06-05-mapping-microsoft-and-github/) by [Chris Adams](https://awmug.wordpress.com/author/mrchrisadams/).
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Innovate, Leverage, Commoditize (ILC)">
