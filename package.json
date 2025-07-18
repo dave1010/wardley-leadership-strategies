@@ -65,6 +65,9 @@
   "engines": {
     "node": ">=18.0"
   },
+  "overrides": {
+    "webpack-dev-server": "^5.2.2"
+  },
   "jest": {
     "transform": {
       "^.+\\.(js|jsx|ts|tsx)$": "babel-jest"
