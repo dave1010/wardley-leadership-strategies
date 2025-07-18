@@ -64,6 +64,20 @@ This is illustrated in the following map from [Chris Adams](https://awmug.wordpr
 
 ![Map of Microsoft and GitHub ILC strategy](/img/maps/microsoft-github-ilc.png)
 
+### AWS Rekognition
+
+John Duffy (@JDUFFY) describes how AWS utilized the ILC cycle to dominate the facial recognition market with their Rekognition service. The key steps were:
+
+1. **Innovate:** A company built a facial recognition (FR) system for fraud detection on AWS EC2.
+2. **Leverage:** AWS noticed its usage and suggested applying it to general user authentication. The competitor wasn't concerned, as their strength was the core algorithm, not the UI or API.
+3. **Commoditize:** AWS then launched its own service, Rekognition, built on the newer and more efficient ECS platform, targeting the "simpler" user authentication market. They then upgraded Rekognition to also perform fraud detection, charging only for processing time, effectively commoditizing the competitor's valuable market.
+
+This emergent strategy allowed AWS to "see the board" better and apply the ILC framework to dominate the market.
+
+![AWS Rekognition Wardley Map](/img/maps/ilc-aws-rekognition-map.jpeg)
+
+Credit: John Duffy, original thread: [https://x.com/jduffy/status/1440320398738870275](https://x.com/jduffy/status/1440320398738870275)
+
 ## 🚦 **When to Use / When to Avoid**
 
 <Assessment strategyName="Innovate, Leverage, Commoditize (ILC)">
