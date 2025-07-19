@@ -168,5 +168,5 @@ For large organizations, strategic procrastination can be part of a broader port
 
 ## 📚 **Further Reading & References**
 
-- **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides a deep understanding of why incumbent companies often procrastinate on disruptive innovations.
+- **[The Innovator's Dilemma](/books/the-innovators-dilemma)** by Clayton M. Christensen. Provides a deep understanding of why incumbent companies often procrastinate on disruptive innovations.
 - **[Fast Second: How Smart Companies Bypass Radical Innovation to Enter and Dominate New Markets](https://www.goodreads.com/book/show/13338.Fast_Second)** by Constantinos C. Markides and Paul A. Geroski. A book dedicated to the strategy of being a fast follower.

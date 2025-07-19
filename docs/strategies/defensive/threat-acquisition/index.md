@@ -158,5 +158,5 @@ While threat acquisitions can be expensive, the cost of inaction can be even hig
 ## 📚 **Further Reading & References**
 
 - [Wardley Maps](https://medium.com/wardleymaps) by Simon Wardley.
-- [The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma) by Clayton M. Christensen.
+- [The Innovator's Dilemma](/books/the-innovators-dilemma) by Clayton M. Christensen.
 - [Mergers & Acquisitions For Dummies](https://www.goodreads.com/book/show/137523.Mergers_Acquisitions_For_Dummies) by Bill Snow.

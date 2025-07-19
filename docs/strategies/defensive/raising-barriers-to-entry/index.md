@@ -160,5 +160,5 @@ This strategy fundamentally changes competition from a battle of individual prod
 
 ## 📚 **Further Reading & References**
 
-- **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Discusses how incumbents can be disrupted by new entrants with simpler, more focused products, which is the threat that this strategy is designed to counter.
+- **[The Innovator's Dilemma](/books/the-innovators-dilemma)** by Clayton M. Christensen. Discusses how incumbents can be disrupted by new entrants with simpler, more focused products, which is the threat that this strategy is designed to counter.
 - **[Competitive Strategy](https://www.goodreads.com/book/show/236901.Competitive_Strategy)** by Michael E. Porter. The classic text on competitive strategy, which includes a detailed analysis of barriers to entry.

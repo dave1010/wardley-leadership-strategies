@@ -1,13 +1,3 @@
----
-authors: [dave-hulbert]
----
-
 # Terms
 
-Glossary of terms.
-
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```
+This section contains a list of terms referenced throughout the site.

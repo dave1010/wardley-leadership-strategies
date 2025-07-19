@@ -198,4 +198,4 @@ This strategy is based on the insight that today's innovations are tomorrow's co
 ## 📚 **Further Reading & References**
 
 - **[Wardley Maps (the book)](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)** by Simon Wardley. The foundational text for understanding the ILC cycle.
-- **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Provides the theoretical underpinning for why established companies struggle with disruptive innovation, a problem that ILC is designed to solve.
+- **[The Innovator's Dilemma](/books/the-innovators-dilemma)** by Clayton M. Christensen. Provides the theoretical underpinning for why established companies struggle with disruptive innovation, a problem that ILC is designed to solve.
