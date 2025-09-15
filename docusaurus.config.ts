@@ -186,6 +186,10 @@ const config: Config = {
           title: 'More',
           items: [
             {
+              label: 'Privacy Policy',
+              to: '/privacy-policy',
+            },
+            {
               label: 'GitHub',
               href: 'https://github.com/dave1010/wardley-leadership-strategies',
             },
