@@ -1,8 +1,15 @@
-import React, { useState } from 'react';
-import Results from './Results';
+import React, { useCallback, useEffect, useState } from 'react';
+import Results, { getLevelFromScore, summaryText } from './Results';
 import SignalList from './SignalList';
 import { extractStatements } from './parseChildren';
 import AssessmentToolAdvert from './AssessmentToolAdvert';
+import { useDoc } from '@docusaurus/plugin-content-docs/client';
+import {
+  clearStrategy,
+  isStorageAvailable,
+  saveSummary,
+} from '@site/src/utils/assessmentStorage';
+import { TrafficLight } from './types';
 
 export const MapSignals = ({ children }) => <>{children}</>;
 export const Readiness = ({ children }) => <>{children}</>;
@@ -14,6 +21,67 @@ const Assessment = ({ children, strategyName }) => {
 
   const [mapScore, setMapScore] = useState(0);
   const [readinessScore, setReadinessScore] = useState(0);
+  const [mapTouched, setMapTouched] = useState(false);
+  const [readinessTouched, setReadinessTouched] = useState(false);
+  const { metadata } = useDoc();
+
+  const storageId = metadata?.permalink ?? strategyName;
+  const strategyTitle = metadata?.title ?? strategyName;
+  const permalink = metadata?.permalink;
+
+  const handleMapChange = useCallback(
+    (score: number, values: TrafficLight[], interacted: boolean) => {
+      setMapScore(score);
+      setMapTouched(interacted);
+    },
+    [],
+  );
+
+  const handleReadinessChange = useCallback(
+    (score: number, values: TrafficLight[], interacted: boolean) => {
+      setReadinessScore(score);
+      setReadinessTouched(interacted);
+    },
+    [],
+  );
+
+  const hasAnyInteraction = mapTouched || readinessTouched;
+
+  useEffect(() => {
+    if (!isStorageAvailable() || !storageId) {
+      return;
+    }
+
+    if (!hasAnyInteraction) {
+      clearStrategy(storageId);
+      return;
+    }
+
+    const mapLevel = getLevelFromScore(mapScore);
+    const readinessLevel = getLevelFromScore(readinessScore);
+    const recommendation = summaryText(mapLevel, readinessLevel);
+
+    saveSummary({
+      id: storageId,
+      strategyName,
+      strategyTitle,
+      permalink,
+      mapScore,
+      readinessScore,
+      mapLevel,
+      readinessLevel,
+      recommendation,
+      updatedAt: new Date().toISOString(),
+    });
+  }, [
+    hasAnyInteraction,
+    mapScore,
+    readinessScore,
+    storageId,
+    strategyName,
+    strategyTitle,
+    permalink,
+  ]);
 
   return (
     <div className="container margin-vert--lg" id="assessment-tool">
@@ -31,14 +99,18 @@ const Assessment = ({ children, strategyName }) => {
             title="Landscape and Climate"
             description="How well does the strategy fit your context?"
             items={mapSignals}
-            onScoreChange={setMapScore}
+            storageId={storageId}
+            section="map"
+            onChange={handleMapChange}
           />
 
           <SignalList
             title="Organisational Readiness (Doctrine)"
             description="How capable is your organisation to execute the strategy?"
             items={readiness}
-            onScoreChange={setReadinessScore}
+            storageId={storageId}
+            section="readiness"
+            onChange={handleReadinessChange}
           />
 
           <h3>Assessment and Recommendation</h3>

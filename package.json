@@ -73,6 +73,7 @@
       "^.+\\.(js|jsx|ts|tsx)$": "babel-jest"
     },
     "moduleNameMapper": {
+      "^@site/(.*)$": "<rootDir>/$1",
       "\\.(css|less|scss|sass)$": "identity-obj-proxy"
     },
     "testEnvironment": "jsdom",
