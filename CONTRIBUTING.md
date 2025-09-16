@@ -129,6 +129,14 @@ The `## 🧠 **Strategic Insights**` section of a strategy is where the big idea
 - Link to a strategy only if it is *very* relevant
 - Link to other terms only if it is *very* relevant: `[Foo](/terms/foo)`
 
+## Books
+
+- Books capture sources that are referenced by strategies or terms. Focus on works that are cited multiple times or provide foundational context.
+- Book pages live in `./docs/books/<book-name>.md` and the H1 should match the book title.
+- Start with 1-2 short paragraphs that cover the subtitle (if useful), the author(s), and the key ideas readers should know. Only include details you can verify.
+- Add a `## Referenced in` section that lists internal links to every strategy or term that cites the book. Keep the list updated when adding new references elsewhere on the site.
+- When editing a strategy, prefer linking to the existing book page (eg `[Platform Revolution](/books/platform-revolution)`) instead of an external retailer or review. Create or update the book page first if it does not exist.
+
 
 ## Tone, Voice and Style
 
