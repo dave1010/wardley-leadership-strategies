@@ -1,6 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import remarkImportPartial from 'remark-import-partial';
 import storeSiteDataPlugin from './src/plugins/storeSiteData';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
@@ -81,6 +82,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/dave1010/wardley-leadership-strategies/tree/main/',
+          remarkPlugins: [remarkImportPartial],
         },
         blog:false,
         theme: {
@@ -228,7 +230,7 @@ const config: Config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     '@docusaurus/plugin-vercel-analytics',
-    storeSiteDataPlugin
+    storeSiteDataPlugin,
   ],
 };
 

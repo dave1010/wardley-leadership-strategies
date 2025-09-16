@@ -166,6 +166,8 @@ fostering trust, managing alliances, setting governance rules
    - build trust early: Pilot projects, transparency mechanisms, pre-agreed dispute resolution
 4. Establish exit strategies
 
+{@import ../../../shared/partnership-operating-rhythms.md}
+
 ## 📈 **Measuring Success**
 
 - Speed metrics: Reduction in time-to-market or development cycles compared to solo efforts
