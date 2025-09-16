@@ -111,6 +111,10 @@ const config: Config = {
           to: '/strategies',
         },
         {
+          label: 'Strategy Navigator',
+          to: '/strategy-navigator',
+        },
+        {
           label: 'Doctrines',
           to: '/doctrines',
         },
@@ -146,6 +150,10 @@ const config: Config = {
             {
               label: 'Strategies',
               to: '/strategies',
+            },
+            {
+              label: 'Strategy Navigator',
+              to: '/strategy-navigator',
             },
             {
               label: 'Doctrines',

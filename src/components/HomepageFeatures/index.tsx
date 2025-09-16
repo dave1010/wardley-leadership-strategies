@@ -78,6 +78,47 @@ export default function HomepageFeatures(): ReactNode {
             </div>
           </div>
         </div>
+
+        <div className="card shadow--md padding--lg margin-top--lg">
+          <div className="row">
+            <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
+              <h2 className="margin-bottom--sm">Strategy Navigator</h2>
+              <p className="margin-bottom--sm" style={{ fontSize: '1.15rem' }}>
+                Need a shortlist of plays for your situation? Blend goals, landscape stages, and organisational pressures to uncover strategies that fit—then compare them side by side before you commit.
+              </p>
+              <ul className="margin-bottom--sm">
+                <li>Filter 60+ plays by the outcomes you need.</li>
+                <li>Spot climate signals, first moves, and watch-outs at a glance.</li>
+                <li>Compare up to three strategies to choose the next move.</li>
+              </ul>
+              <a className="button button--secondary" href="/strategy-navigator">
+                Open the Navigator
+              </a>
+            </div>
+            <div className={clsx('col col--4')}>
+              <BrowserFrame>
+                <div className={styles.navigatorPreview}>
+                  <span className={styles.navigatorBadge}>High fit</span>
+                  <div className={styles.navigatorPills}>
+                    <span className={styles.navigatorPill}>Accelerate adoption</span>
+                    <span className={styles.navigatorPill}>Genesis</span>
+                    <span className={styles.navigatorPill}>Limited resources</span>
+                  </div>
+                  <div className={styles.navigatorStack}>
+                    <div>
+                      <h4>Signals</h4>
+                      <p>Map reveals complementary partners.</p>
+                    </div>
+                    <div>
+                      <h4>Momentum</h4>
+                      <p>Pilot a narrow collaboration.</p>
+                    </div>
+                  </div>
+                </div>
+              </BrowserFrame>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>

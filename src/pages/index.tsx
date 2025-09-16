@@ -26,6 +26,11 @@ function HomepageHeader() {
             Explore Strategies
           </Link>
           <Link
+            className={clsx('button button--secondary button--lg', styles.navigatorButton)}
+            to="/strategy-navigator">
+            Strategy Navigator
+          </Link>
+          <Link
             className="button button--secondary button--lg"
             to="/about">
             Learn More

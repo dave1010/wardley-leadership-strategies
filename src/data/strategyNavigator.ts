@@ -1,0 +1,422 @@
+export type StrategyProfile = {
+  title: string;
+  slug: string;
+  summary: string;
+  stages: string[];
+  goals: string[];
+  pressures: string[];
+  leadershipFocus: string[];
+  quickSignals: string[];
+  momentumMoves: string[];
+  watchOuts: string[];
+  effortLevel: 'Lean Experiment' | 'Cross-Functional Initiative' | 'Enterprise Transformation';
+  timeHorizon: 'Fast impact' | 'Medium-term shaping' | 'Long-term positioning';
+};
+
+export const strategyProfiles: StrategyProfile[] = [
+  {
+    title: 'Cooperation',
+    slug: '/strategies/accelerators/cooperation',
+    summary:
+      'Form partnerships or joint ventures to tackle problems bigger than any single organisation and grow the market together.',
+    stages: ['Genesis', 'Custom-Built'],
+    goals: ['Accelerate adoption', 'Build ecosystem leverage', 'Secure long-term investment'],
+    pressures: ['Limited resources or capacity', 'Market is nascent or undefined', 'Facing dominant incumbent'],
+    leadershipFocus: ['Trust-building', 'Partner choreography', 'Shared governance discipline'],
+    quickSignals: [
+      'The work is too risky or capital intensive to pursue alone.',
+      'Your map reveals complementary players around the same user need.',
+      'Speed to establish a de facto approach matters more than owning everything.',
+    ],
+    momentumMoves: [
+      'Map mutual value exchanges and publish the shared intent.',
+      'Pilot a narrow collaboration to build trust and working rhythms.',
+      'Create a lightweight governance forum that keeps decisions transparent.',
+    ],
+    watchOuts: [
+      'Misaligned incentives that turn collaboration into competition.',
+      'Sharing differentiating capabilities without a plan to protect them.',
+      'Cultural friction or slow decision cycles between partners.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Alliances',
+    slug: '/strategies/ecosystem/alliances',
+    summary:
+      'Create a formal alliance or consortium so that multiple organisations can set the agenda and standards for an emerging space.',
+    stages: ['Custom-Built', 'Product'],
+    goals: ['Shape the market', 'Build ecosystem leverage', 'Secure long-term investment'],
+    pressures: ['Facing dominant incumbent', 'Market is nascent or undefined', 'Ecosystem fragmentation'],
+    leadershipFocus: ['Diplomacy and narrative setting', 'Joint governance design', 'Mutual accountability'],
+    quickSignals: [
+      'No single organisation can credibly move the market on its own.',
+      'Regulators, partners or customers are asking for collective direction.',
+      'Fragmented initiatives are slowing progress and confusing the market.',
+    ],
+    momentumMoves: [
+      'Define the shared mission and minimum viable structure for the alliance.',
+      'Secure anchor members who bring credibility, coverage and resources.',
+      'Publish a roadmap or manifesto that frames the desired future state.',
+    ],
+    watchOuts: [
+      'Power imbalances causing the alliance to stall or fracture.',
+      'Governance that is heavy, slow or detached from delivery.',
+      'Failing to articulate the value for participants beyond lofty statements.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Exploiting Network Effects',
+    slug: '/strategies/accelerators/exploiting-network-effects',
+    summary:
+      'Design incentives and experiences so every new participant increases the value for everyone else, creating compounding adoption.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Accelerate adoption', 'Defend your position', 'Unlock new growth'],
+    pressures: ['Market is nascent or undefined', 'Competitive attack underway'],
+    leadershipFocus: ['Growth loop design', 'Data instrumentation', 'Two-sided marketplace management'],
+    quickSignals: [
+      'Value per user increases as more people participate or integrate.',
+      'You can subsidise one side of the market to ignite participation.',
+      'Customers cite community, content or liquidity as the reason to stay.',
+    ],
+    momentumMoves: [
+      'Remove onboarding friction and spotlight proof of value quickly.',
+      'Instrument the core loop so you can amplify the highest leverage actions.',
+      'Seed the network with curated supply or demand to reach critical mass.',
+    ],
+    watchOuts: [
+      'Negative network effects when quality drops as the network grows.',
+      'Over-investing in acquisition before retention mechanics are proven.',
+      'Ignoring trust and safety, creating vulnerabilities for the community.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Market Enablement',
+    slug: '/strategies/accelerators/market-enablement',
+    summary:
+      'Nurture a broader market around a component you care about so that competition and choice make the space more valuable to you.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Build ecosystem leverage', 'Shape the market', 'Unlock new growth'],
+    pressures: ['Ecosystem fragmentation', 'Limited resources or capacity'],
+    leadershipFocus: ['Ecosystem cultivation', 'Platform stewardship', 'Incentive design'],
+    quickSignals: [
+      'More providers in the space would increase demand for your higher-order offerings.',
+      'Partners or regulators are seeking neutrality or open access.',
+      'Customers hesitate because they fear lock-in or lack alternatives.',
+    ],
+    momentumMoves: [
+      'Publish tooling, reference architectures or funding to reduce entry barriers.',
+      'Host community forums to align language and success measures.',
+      'Highlight success stories from ecosystem participants to build momentum.',
+    ],
+    watchOuts: [
+      'Creating a market that benefits competitors more than you.',
+      'Under-investing in governance, leading to fragmentation you cannot influence.',
+      'Forgetting to evolve your own value proposition as the market matures.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Open Approaches',
+    slug: '/strategies/accelerators/open-approaches',
+    summary:
+      'Make software, data, or interfaces open to collapse friction, commoditise lower layers, and attract an ecosystem around your play.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Accelerate adoption', 'Shape the market', 'Build ecosystem leverage'],
+    pressures: ['Facing dominant incumbent', 'Ecosystem fragmentation', 'Customers are nervous about change'],
+    leadershipFocus: ['Community stewardship', 'Licensing strategy', 'Narrative building'],
+    quickSignals: [
+      'Users or partners avoid your offer because of licensing or integration friction.',
+      'You benefit more from scale and ecosystem health than from direct control.',
+      'Competitors lean on proprietary lock-in while sentiment favours openness.',
+    ],
+    momentumMoves: [
+      'Choose what to open and what remains differentiating to you.',
+      'Establish contribution guidelines and community rituals early.',
+      'Pair the open asset with services or higher-order value capture.',
+    ],
+    watchOuts: [
+      'Opening crown-jewel capabilities without a replacement advantage.',
+      'Community governance that lacks clarity or favours a single participant.',
+      'Failing to invest in documentation and onboarding for new contributors.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Industrial Policy',
+    slug: '/strategies/accelerators/industrial-policy',
+    summary:
+      'Align with or influence government investment and policy so public funding accelerates your strategic bets.',
+    stages: ['Custom-Built', 'Product'],
+    goals: ['Secure long-term investment', 'Shape the market', 'Defend your position'],
+    pressures: ['Regulatory or policy leverage available', 'Limited resources or capacity'],
+    leadershipFocus: ['Policy advocacy', 'Coalition building', 'Long-horizon roadmapping'],
+    quickSignals: [
+      'National or regional initiatives name your domain as a priority.',
+      'Your map shows infrastructure or R&D too expensive to fund alone.',
+      'Competitors lobby for incentives that could disadvantage you.',
+    ],
+    momentumMoves: [
+      'Map the policy landscape, timelines and key influencers.',
+      'Frame your proposal in terms of public outcomes and resilience.',
+      'Secure pilot projects that demonstrate credible momentum to funders.',
+    ],
+    watchOuts: [
+      'Political cycles that change priorities mid-stream.',
+      'Reporting obligations that slow execution if left unmanaged.',
+      'Dependence on subsidies without a path to stand-alone economics.',
+    ],
+    effortLevel: 'Enterprise Transformation',
+    timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Tech Drops',
+    slug: '/strategies/competitor/tech-drops',
+    summary:
+      'Secretly develop a step-change capability and launch it in a coordinated shock that forces the market to react on your terms.',
+    stages: ['Genesis', 'Custom-Built'],
+    goals: ['Unlock new growth', 'Defend your position', 'Change the narrative'],
+    pressures: ['Competitive attack underway', 'Market is nascent or undefined'],
+    leadershipFocus: ['Secrecy and timing', 'Launch choreography', 'Operational readiness'],
+    quickSignals: [
+      'You can industrialise something rivals still view as bespoke or low value.',
+      'Competitors publish predictable roadmaps you can leapfrog.',
+      'Users express fatigue with incremental improvements.',
+    ],
+    momentumMoves: [
+      'Ring-fence a skunkworks team with clear executive sponsorship.',
+      'Stress test supply chain, support and marketing readiness before launch.',
+      'Craft a bold narrative that reframes expectations the moment you launch.',
+    ],
+    watchOuts: [
+      'Launching before the experience or operations can handle scale.',
+      'Leaks that give incumbents time to respond or copy.',
+      'Overspending on spectacle instead of sustainable advantage.',
+    ],
+    effortLevel: 'Enterprise Transformation',
+    timeHorizon: 'Fast impact',
+  },
+  {
+    title: 'Fragmentation',
+    slug: '/strategies/competitor/fragmentation',
+    summary:
+      'Undermine a dominant rival by splintering their market into segments you or allies can win, rather than confronting them head-on.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Defend your position', 'Shape the market'],
+    pressures: ['Facing dominant incumbent', 'Ecosystem fragmentation', 'Competitive attack underway'],
+    leadershipFocus: ['Market segmentation', 'Alliance building', 'Narrative counter-positioning'],
+    quickSignals: [
+      'Customers complain about a monolithic incumbent that ignores edge cases.',
+      'Partners or regulators are open to alternatives but lack coordination.',
+      'You can fund or seed multiple differentiated options in adjacent niches.',
+    ],
+    momentumMoves: [
+      'Pick the wedge segments where the incumbent under-serves users.',
+      'Support allies with tooling, funding or messaging so they can take share.',
+      'Surface success stories that normalise choosing the alternative.',
+    ],
+    watchOuts: [
+      'Failing to capture value once the rival is weakened.',
+      'Backing weak alternatives that damage credibility.',
+      'Triggering retaliation without insulating your own core business.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Experimentation',
+    slug: '/strategies/attacking/experimentation',
+    summary:
+      'Run rapid, contained experiments to explore new plays, gather evidence, and feed successful ideas into the main delivery stream.',
+    stages: ['Genesis', 'Custom-Built'],
+    goals: ['Unlock new growth', 'Accelerate adoption', 'Change the narrative'],
+    pressures: ['Need to go faster than internal bureaucracy', 'Market is nascent or undefined', 'Limited resources or capacity'],
+    leadershipFocus: ['Learning culture', 'Empowered teams', 'Disciplined portfolio management'],
+    quickSignals: [
+      'You see promising opportunities but lack proof to commit fully.',
+      'Teams are stuck debating options instead of testing them.',
+      'Competitors are iterating faster and claiming the story.',
+    ],
+    momentumMoves: [
+      'Ring-fence time and budget explicitly for discovery work.',
+      'Define clear exit criteria so weak experiments close quickly.',
+      'Share insights widely so the core organisation can absorb wins.',
+    ],
+    watchOuts: [
+      'Zombie experiments that never end or scale.',
+      'Treating experiments as theatre without learning loops.',
+      'Failing to transition validated ideas into mainstream delivery.',
+    ],
+    effortLevel: 'Lean Experiment',
+    timeHorizon: 'Fast impact',
+  },
+  {
+    title: 'Center of Gravity',
+    slug: '/strategies/attacking/centre-of-gravity',
+    summary:
+      'Concentrate talent, knowledge or resources so the ecosystem naturally orbits you and reinforces your influence.',
+    stages: ['Custom-Built', 'Product'],
+    goals: ['Build ecosystem leverage', 'Defend your position', 'Shape the market'],
+    pressures: ['Talent scarcity', 'Facing dominant incumbent', 'Ecosystem fragmentation'],
+    leadershipFocus: ['Signature culture and mission', 'Community leadership', 'Selective openness'],
+    quickSignals: [
+      'Your teams already attract thought leaders or influential contributors.',
+      'Partners prefer to launch or integrate with you first.',
+      'There is no clear hub for the topic and stakeholders seek an anchor.',
+    ],
+    momentumMoves: [
+      'Invest in flagship programmes, events or research that showcase excellence.',
+      'Create pathways for external contributors to plug into your ecosystem.',
+      'Codify rituals and narratives that make belonging visible and desirable.',
+    ],
+    watchOuts: [
+      'Assuming gravity persists without constant renewal.',
+      'Over-centralising decisions, leading to bureaucratic drag.',
+      'Neglecting diversity of thought, which erodes credibility.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Standards Game',
+    slug: '/strategies/markets/standards-game',
+    summary:
+      'Drive adoption of your preferred approach until it becomes the default standard others must follow or interoperate with.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Shape the market', 'Defend your position', 'Build ecosystem leverage'],
+    pressures: ['Ecosystem fragmentation', 'Facing dominant incumbent', 'Customers are nervous about change'],
+    leadershipFocus: ['Standard stewardship', 'Certification and compliance', 'Coalition management'],
+    quickSignals: [
+      'Incompatible approaches are slowing adoption or integration.',
+      'You already provide the reference implementation most partners copy.',
+      'Regulators or large buyers seek clarity on what “good” looks like.',
+    ],
+    momentumMoves: [
+      'Publish open specifications and supporting test suites.',
+      'Recruit a neutral or respected body to host the standard.',
+      'Offer accreditation or compatibility programmes that reinforce trust.',
+    ],
+    watchOuts: [
+      'Appearing self-serving and triggering regulatory backlash.',
+      'Letting the standard stagnate while competitors innovate around it.',
+      'Failing to resource the operational overhead of maintaining the standard.',
+    ],
+    effortLevel: 'Enterprise Transformation',
+    timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Differentiation',
+    slug: '/strategies/markets/differentiation',
+    summary:
+      'Craft a distinctive value proposition in immature parts of the market by obsessing over unmet user needs.',
+    stages: ['Genesis', 'Custom-Built'],
+    goals: ['Unlock new growth', 'Change the narrative'],
+    pressures: ['Market is nascent or undefined', 'Competitive attack underway', 'Customers are nervous about change'],
+    leadershipFocus: ['Deep user insight', 'Experience design', 'Storytelling'],
+    quickSignals: [
+      'Users complain that all existing offers feel interchangeable.',
+      'Your mapping uncovers underserved segments with unique needs.',
+      'You can prototype rapidly to show a better way before rivals respond.',
+    ],
+    momentumMoves: [
+      'Run discovery work directly with users to surface sharp, emotional needs.',
+      'Prototype the signature experience and test with target segments.',
+      'Tell the story of the new value repeatedly so the market remembers it is yours.',
+    ],
+    watchOuts: [
+      'Trying to differentiate on commodity features where price wins.',
+      'Confusing novelty with usefulness and chasing gimmicks.',
+      'Scaling before the operating model can deliver the promised experience.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Raising Barriers to Entry',
+    slug: '/strategies/defensive/raising-barriers-to-entry',
+    summary:
+      'Bundle capabilities and raise expectations so newcomers must meet a far broader scope before customers will consider switching.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Defend your position', 'Stabilise operations'],
+    pressures: ['Competitive attack underway', 'Customers are nervous about change'],
+    leadershipFocus: ['Integrated roadmapping', 'Operational excellence', 'Pricing and packaging strategy'],
+    quickSignals: [
+      'New entrants offer narrow point solutions that undercut you on price.',
+      'Customers value the breadth and integration of your offer.',
+      'You can add adjacent capabilities faster than challengers can replicate them.',
+    ],
+    momentumMoves: [
+      'Invest in integrations or services that are hard to replicate.',
+      'Bundle offerings to reset market expectations of a “complete” solution.',
+      'Educate customers and analysts on the total cost of switching.',
+    ],
+    watchOuts: [
+      'Increasing complexity faster than customers can absorb.',
+      'Spreading teams too thin across low-value features.',
+      'Breeding internal inertia that slows future innovation.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Fear, Uncertainty and Doubt',
+    slug: '/strategies/user-perception/fear-uncertainty-and-doubt',
+    summary:
+      'Shape the narrative by surfacing risks and unanswered questions that make customers hesitate before embracing a rival.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Defend your position', 'Change the narrative'],
+    pressures: ['Customers are nervous about change', 'Competitive attack underway'],
+    leadershipFocus: ['Narrative control', 'Influencer engagement', 'Risk framing'],
+    quickSignals: [
+      'Procurement or compliance teams already worry about switching risk.',
+      'You have trusted relationships with analysts, media or community voices.',
+      'The competitor relies on hype more than proven delivery.',
+    ],
+    momentumMoves: [
+      'Prepare fact-based talking points that highlight unanswered questions.',
+      'Brief influential voices who can credibly raise concerns.',
+      'Offer safe migration paths back to you so hesitation favours your side.',
+    ],
+    watchOuts: [
+      'Crossing ethical lines and damaging long-term trust.',
+      'Accidentally promoting the competitor by repeating their message.',
+      'Relying on FUD instead of addressing genuine product gaps.',
+    ],
+    effortLevel: 'Lean Experiment',
+    timeHorizon: 'Fast impact',
+  },
+  {
+    title: 'Refactoring',
+    slug: '/strategies/dealing-with-toxicity/refactoring',
+    summary:
+      'Break apart a legacy system to salvage useful capabilities, reduce toxicity, and redeploy people or assets with purpose.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Reduce legacy drag', 'Stabilise operations'],
+    pressures: ['Legacy system drag', 'Limited resources or capacity', 'Need to go faster than internal bureaucracy'],
+    leadershipFocus: ['Change management', 'Architectural thinking', 'Talent redeployment'],
+    quickSignals: [
+      'A legacy platform soaks up disproportionate budget and attention.',
+      'Maps reveal components worth keeping alongside toxic ones to retire.',
+      'The organisation needs runway to transition without a risky big-bang cutover.',
+    ],
+    momentumMoves: [
+      'Catalogue components, skills and data flows to inform decisions.',
+      'Sequence the refactor so value is released incrementally.',
+      'Communicate redeployment plans early to maintain morale and focus.',
+    ],
+    watchOuts: [
+      'Letting the effort sprawl without clear governance.',
+      'Refactoring only the technology and ignoring process or people impacts.',
+      'Running dual systems indefinitely because decisions are postponed.',
+    ],
+    effortLevel: 'Enterprise Transformation',
+    timeHorizon: 'Long-term positioning',
+  },
+];
