@@ -67,9 +67,14 @@ export default function HomepageFeatures(): ReactNode {
                 <a href="/about/assessment-tool">Strategy Assessment Tool</a>.
                 Explore signals in your maps and organisation that suggest a good fit, and check your readiness to execute effectively.
               </p>
-              <a className="button button--primary" href="/about/assessment-tool">
-                Try the Tool
-              </a>
+              <div className={styles.buttonGroup}>
+                <a className="button button--primary" href="/about/assessment-tool">
+                  Try the Tool
+                </a>
+                <a className="button button--secondary" href="/my-progress">
+                  Review Saved Assessments
+                </a>
+              </div>
             </div>
             <div className={clsx('col col--4')}>
               <BrowserFrame>

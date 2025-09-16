@@ -123,6 +123,10 @@ const config: Config = {
           to: '/terms',
         },
         {
+          label: 'My Assessments',
+          to: '/my-progress',
+        },
+        {
           label: 'About',
           to: '/about',
         },
@@ -158,6 +162,10 @@ const config: Config = {
             {
               label: 'Terms',
               to: '/terms',
+            },
+            {
+              label: 'My Assessments',
+              to: '/my-progress',
             },
             {
               label: 'Tags',

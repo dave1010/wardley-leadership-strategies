@@ -60,3 +60,31 @@
 [data-theme='dark'] .iconSlider.green {
   background-color: var(--ifm-color-success-darkest);
 }
+
+.headerRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.resetButton {
+  background: transparent;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 0.4rem;
+  color: var(--ifm-color-content);
+  padding: 0.35rem 0.75rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.resetButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.resetButton:not(:disabled):hover {
+  background-color: var(--ifm-color-emphasis-200);
+}

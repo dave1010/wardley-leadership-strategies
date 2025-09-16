@@ -1,11 +1,27 @@
 import React from 'react';
 import { render, screen, act } from '@testing-library/react';
 import Assessment, { MapSignals, Readiness } from './index'; // Assuming MapSignals and Readiness are exported from here
+import { TrafficLight } from './types';
 
 // --- Mocks ---
 // Mock './parseChildren' first
 jest.mock('./parseChildren', () => ({
   extractStatements: jest.fn(),
+}));
+
+jest.mock('@docusaurus/plugin-content-docs/client', () => ({
+  useDoc: jest.fn(() => ({
+    metadata: {
+      title: 'Mock Strategy Title',
+      permalink: '/mock-permalink',
+    },
+  })),
+}));
+
+jest.mock('@site/src/utils/assessmentStorage', () => ({
+  isStorageAvailable: jest.fn(() => false),
+  clearStrategy: jest.fn(),
+  saveSummary: jest.fn(),
 }));
 
 // THEN import the mocked function to get a reference to the mock
@@ -15,15 +31,28 @@ const mockExtractStatements = _mockExtractStatementsUnsafe as jest.Mock;
 
 
 // Callbacks store needs to be defined outside and before the mock factories
-const mockSignalListOnScoreChangeCallbacks: Record<string, (score: number) => void> = {};
+const mockSignalListOnChangeCallbacks: Record<
+  string,
+  (score: number, values: TrafficLight[], interacted: boolean) => void
+> = {};
 
 jest.mock('./SignalList', () => {
   const MockedSignalList = jest.fn(
-    ({ title, items, onScoreChange }: { title: string; items: string[]; onScoreChange: (score: number) => void; }) => {
+    ({
+      title,
+      items,
+      onChange,
+    }: {
+      title: string;
+      items: string[];
+      section: string;
+      storageId: string;
+      onChange: (score: number, values: TrafficLight[], interacted: boolean) => void;
+    }) => {
       if (title === "Landscape and Climate") {
-        mockSignalListOnScoreChangeCallbacks.map = onScoreChange;
+        mockSignalListOnChangeCallbacks.map = onChange;
       } else if (title === "Organisational Readiness (Doctrine)") {
-        mockSignalListOnScoreChangeCallbacks.readiness = onScoreChange;
+        mockSignalListOnChangeCallbacks.readiness = onChange;
       }
       return (
         <div data-testid={`mock-signallist-${title.toLowerCase().replace(/\s+/g, '-')}`}>
@@ -64,8 +93,8 @@ describe('Assessment Component', () => {
     mockExtractStatements.mockReset();
     (SignalList as jest.Mock).mockClear();
     (Results as jest.Mock).mockClear();
-    mockSignalListOnScoreChangeCallbacks.map = undefined;
-    mockSignalListOnScoreChangeCallbacks.readiness = undefined;
+    mockSignalListOnChangeCallbacks.map = undefined;
+    mockSignalListOnChangeCallbacks.readiness = undefined;
 
     // Setup default mock behavior for extractStatements
     mockExtractStatements.mockImplementation((_children, targetType) => {
@@ -118,7 +147,9 @@ describe('Assessment Component', () => {
     expect(firstSignalListCallArgs.title).toBe("Landscape and Climate");
     expect(firstSignalListCallArgs.description).toBe("How well does the strategy fit your context?");
     expect(firstSignalListCallArgs.items).toEqual(mockMapItems);
-    expect(firstSignalListCallArgs.onScoreChange).toEqual(expect.any(Function));
+    expect(firstSignalListCallArgs.onChange).toEqual(expect.any(Function));
+    expect(firstSignalListCallArgs.section).toBe('map');
+    expect(firstSignalListCallArgs.storageId).toBeTruthy();
     // expect(SignalList).toHaveBeenNthCalledWith(
     //   1, // First call
     //   expect.objectContaining({
@@ -134,7 +165,9 @@ describe('Assessment Component', () => {
     expect(secondSignalListCallArgs.title).toBe("Organisational Readiness (Doctrine)");
     expect(secondSignalListCallArgs.description).toBe("How capable is your organisation to execute the strategy?");
     expect(secondSignalListCallArgs.items).toEqual(mockReadinessItems);
-    expect(secondSignalListCallArgs.onScoreChange).toEqual(expect.any(Function));
+    expect(secondSignalListCallArgs.onChange).toEqual(expect.any(Function));
+    expect(secondSignalListCallArgs.section).toBe('readiness');
+    expect(secondSignalListCallArgs.storageId).toBeTruthy();
     // expect(SignalList).toHaveBeenNthCalledWith(
     //   2, // Second call
     //   expect.objectContaining({
@@ -180,11 +213,15 @@ describe('Assessment Component', () => {
       );
 
       // Ensure the onScoreChange callback for map was captured
-      expect(mockSignalListOnScoreChangeCallbacks.map).toBeDefined();
+      expect(mockSignalListOnChangeCallbacks.map).toBeDefined();
 
       const newMapScore = 75;
       act(() => {
-        mockSignalListOnScoreChangeCallbacks.map!(newMapScore);
+        mockSignalListOnChangeCallbacks.map!(
+          newMapScore,
+          ['green'] as TrafficLight[],
+          true,
+        );
       });
 
       // Results mock should be called again with the new mapScore
@@ -210,11 +247,15 @@ describe('Assessment Component', () => {
       );
 
       // Ensure the onScoreChange callback for readiness was captured
-      expect(mockSignalListOnScoreChangeCallbacks.readiness).toBeDefined();
+      expect(mockSignalListOnChangeCallbacks.readiness).toBeDefined();
 
       const newReadinessScore = 60;
       act(() => {
-        mockSignalListOnScoreChangeCallbacks.readiness!(newReadinessScore);
+        mockSignalListOnChangeCallbacks.readiness!(
+          newReadinessScore,
+          ['green'] as TrafficLight[],
+          true,
+        );
       });
 
       // Results mock should be called again with the new readinessScore
@@ -239,14 +280,18 @@ describe('Assessment Component', () => {
         </Assessment>
       );
 
-      expect(mockSignalListOnScoreChangeCallbacks.map).toBeDefined();
-      expect(mockSignalListOnScoreChangeCallbacks.readiness).toBeDefined();
+      expect(mockSignalListOnChangeCallbacks.map).toBeDefined();
+      expect(mockSignalListOnChangeCallbacks.readiness).toBeDefined();
 
       const newMapScore = 80;
       const newReadinessScore = 70;
 
       act(() => {
-        mockSignalListOnScoreChangeCallbacks.map!(newMapScore);
+        mockSignalListOnChangeCallbacks.map!(
+          newMapScore,
+          ['green'] as TrafficLight[],
+          true,
+        );
       });
       // Check intermediate update for map score
       const resultsCallArgs_mapUpdate = (Results as jest.Mock).mock.calls.slice(-1)[0][0];
@@ -256,10 +301,14 @@ describe('Assessment Component', () => {
       //   expect.objectContaining({ mapScore: newMapScore, readinessScore: 0 })
       // );
       expect(screen.getByTestId('mock-results')).toHaveTextContent(`Map Score: ${newMapScore}`);
-
+      
 
       act(() => {
-        mockSignalListOnScoreChangeCallbacks.readiness!(newReadinessScore);
+        mockSignalListOnChangeCallbacks.readiness!(
+          newReadinessScore,
+          ['green'] as TrafficLight[],
+          true,
+        );
       });
       // Check final update for readiness score
       const resultsCallArgs_bothUpdate = (Results as jest.Mock).mock.calls.slice(-1)[0][0];

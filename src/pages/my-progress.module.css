@@ -1,0 +1,66 @@
+.headerActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.emptyState {
+  text-align: center;
+  padding: 2rem;
+}
+
+.summaryPanel {
+  max-width: 28rem;
+}
+
+.table td,
+.table th {
+  vertical-align: top;
+}
+
+.scoreCell {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.scoreValue {
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+.secondaryName {
+  margin-top: 0.25rem;
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.85rem;
+}
+
+.recommendationCell {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  max-width: 26rem;
+}
+
+.recommendationText {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.actionCell {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: flex-end;
+}
+
+@media (max-width: 768px) {
+  .recommendationCell {
+    max-width: 100%;
+  }
+
+  .actionCell {
+    align-items: stretch;
+  }
+}

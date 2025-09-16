@@ -1,6 +1,6 @@
-import React from 'react';
 import { render, screen, fireEvent } from '@testing-library/react';
-import SignalList, { calcScore, TrafficLight } from './SignalList';
+import SignalList, { calcScore } from './SignalList';
+import { TrafficLight } from './types';
 // Note: The styles import will not work directly in jest environment as CSS modules are not processed by default.
 // We will check for class names like 'red', 'amber', 'green' assuming they are applied alongside hashed class names.
 // For a more robust solution, Jest needs to be configured to handle CSS modules (e.g., using identity-obj-proxy).
@@ -16,24 +16,28 @@ const getIconSlider = (listItem: HTMLElement) => {
   }
   return slider;
 };
-
-
 describe('SignalList', () => {
   const mockTitle = 'Test Title';
   const mockDescription = 'Test Description';
   // Default initial state for all items is 'amber' as per component logic
   // nextState cycles: 'amber' -> 'green' -> 'red' -> 'amber'
 
+  beforeEach(() => {
+    window.localStorage.clear();
+  });
+
   it('renders the correct number of items and initial visual states', () => {
     const mockItems = ['item1', 'item2', 'item3'];
-    const mockOnScoreChange = jest.fn();
+    const mockOnChange = jest.fn();
 
     render(
       <SignalList
         items={mockItems}
-        onScoreChange={mockOnScoreChange}
+        onChange={mockOnChange}
         title={mockTitle}
         description={mockDescription}
+        section="map"
+        storageId="test-signal"
       />
     );
 
@@ -55,27 +59,37 @@ describe('SignalList', () => {
     });
     // Initial score (all amber)
     const initialExpectedScore = calcScore(Array(mockItems.length).fill('amber'));
-    expect(mockOnScoreChange).toHaveBeenCalledWith(initialExpectedScore);
+    expect(mockOnChange).toHaveBeenCalledWith(
+      initialExpectedScore,
+      Array(mockItems.length).fill('amber'),
+      false,
+    );
   });
 
   it('updates item state on click, calls onScoreChange, and reflects visual changes', () => {
     const mockItems = ['item A', 'item B'];
-    const mockOnScoreChange = jest.fn();
+    const mockOnChange = jest.fn();
 
     // Initial states are 'amber', 'amber'
     // Initial score: calcScore(['amber', 'amber']) which is (50+50)/2 = 50
     const initialExpectedScore = calcScore(['amber', 'amber']);
 
-    const { rerender } = render(
+    render(
       <SignalList
         items={mockItems}
-        onScoreChange={mockOnScoreChange}
+        onChange={mockOnChange}
         title={mockTitle}
         description={mockDescription}
+        section="map"
+        storageId="test-signal-update"
       />
     );
     // useEffect in SignalList calls onScoreChange on mount
-    expect(mockOnScoreChange).toHaveBeenCalledWith(initialExpectedScore);
+    expect(mockOnChange).toHaveBeenCalledWith(
+      initialExpectedScore,
+      ['amber', 'amber'],
+      false,
+    );
 
     const listItems = screen.getAllByRole('listitem');
     expect(listItems.length).toBe(mockItems.length);
@@ -91,7 +105,7 @@ describe('SignalList', () => {
     fireEvent.click(listItems[0]);
     let expectedStates: TrafficLight[] = ['green', 'amber'];
     let expectedScore = calcScore(expectedStates); // (100+50)/2 = 75
-    expect(mockOnScoreChange).toHaveBeenCalledWith(expectedScore);
+    expect(mockOnChange).toHaveBeenLastCalledWith(expectedScore, expectedStates, true);
     iconSliderA = getIconSlider(listItems[0]); // Re-query after click might be safer if component re-renders deeply
     expect(iconSliderA.classList.toString()).toMatch(/green/i);
     expect(iconSliderA.classList.toString()).not.toMatch(/amber|red/i);
@@ -100,7 +114,7 @@ describe('SignalList', () => {
     fireEvent.click(listItems[0]);
     expectedStates = ['red', 'amber'];
     expectedScore = calcScore(expectedStates); // (0+50)/2 = 25
-    expect(mockOnScoreChange).toHaveBeenCalledWith(expectedScore);
+    expect(mockOnChange).toHaveBeenLastCalledWith(expectedScore, expectedStates, true);
     iconSliderA = getIconSlider(listItems[0]);
     expect(iconSliderA.classList.toString()).toMatch(/red/i);
     expect(iconSliderA.classList.toString()).not.toMatch(/green|amber/i);
@@ -109,7 +123,7 @@ describe('SignalList', () => {
     fireEvent.click(listItems[1]);
     expectedStates = ['red', 'green'];
     expectedScore = calcScore(expectedStates); // (0+100)/2 = 50
-    expect(mockOnScoreChange).toHaveBeenCalledWith(expectedScore);
+    expect(mockOnChange).toHaveBeenLastCalledWith(expectedScore, expectedStates, true);
     iconSliderB = getIconSlider(listItems[1]);
     expect(iconSliderB.classList.toString()).toMatch(/green/i);
     expect(iconSliderB.classList.toString()).not.toMatch(/amber|red/i);
@@ -119,7 +133,7 @@ describe('SignalList', () => {
     fireEvent.click(listItems[0]);
     expectedStates = ['amber', 'green'];
     expectedScore = calcScore(expectedStates); // (50+100)/2 = 75
-    expect(mockOnScoreChange).toHaveBeenCalledWith(expectedScore);
+    expect(mockOnChange).toHaveBeenLastCalledWith(expectedScore, expectedStates, true);
     iconSliderA = getIconSlider(listItems[0]);
     expect(iconSliderA.classList.toString()).toMatch(/amber/i);
     expect(iconSliderA.classList.toString()).not.toMatch(/green|red/i);
@@ -127,20 +141,22 @@ describe('SignalList', () => {
 
   it('calls onScoreChange prop correctly over multiple clicks', () => {
     const mockItems = ['item X', 'item Y']; // Using 2 items for simplicity
-    const mockOnScoreChange = jest.fn();
+    const mockOnChange = jest.fn();
     // Initial states: ['amber', 'amber'], Score: (50+50)/2 = 50
     const initialExpectedScore = calcScore(['amber', 'amber']);
 
     render(
       <SignalList
         items={mockItems}
-        onScoreChange={mockOnScoreChange}
+        onChange={mockOnChange}
         title={mockTitle}
         description={mockDescription}
+        section="map"
+        storageId="test-signal-multi"
       />
     );
     // Called on mount
-    expect(mockOnScoreChange).toHaveBeenCalledWith(initialExpectedScore);
+    expect(mockOnChange).toHaveBeenCalledWith(initialExpectedScore, ['amber', 'amber'], false);
     let timesCalled = 1;
 
     const listItems = screen.getAllByRole('listitem');
@@ -148,31 +164,51 @@ describe('SignalList', () => {
     // Click item X: 'amber' -> 'green'. States: ['green', 'amber']. Score: (100+50)/2 = 75
     fireEvent.click(listItems[0]);
     timesCalled++;
-    expect(mockOnScoreChange).toHaveBeenCalledTimes(timesCalled);
-    expect(mockOnScoreChange).toHaveBeenLastCalledWith(calcScore(['green', 'amber']));
+    expect(mockOnChange).toHaveBeenCalledTimes(timesCalled);
+    expect(mockOnChange).toHaveBeenLastCalledWith(
+      calcScore(['green', 'amber']),
+      ['green', 'amber'],
+      true,
+    );
 
     // Click item Y: 'amber' -> 'green'. States: ['green', 'green']. Score: (100+100)/2 = 100
     fireEvent.click(listItems[1]);
     timesCalled++;
-    expect(mockOnScoreChange).toHaveBeenCalledTimes(timesCalled);
-    expect(mockOnScoreChange).toHaveBeenLastCalledWith(calcScore(['green', 'green']));
+    expect(mockOnChange).toHaveBeenCalledTimes(timesCalled);
+    expect(mockOnChange).toHaveBeenLastCalledWith(
+      calcScore(['green', 'green']),
+      ['green', 'green'],
+      true,
+    );
 
     // Click item X again: 'green' -> 'red'. States: ['red', 'green']. Score: (0+100)/2 = 50
     fireEvent.click(listItems[0]);
     timesCalled++;
-    expect(mockOnScoreChange).toHaveBeenCalledTimes(timesCalled);
-    expect(mockOnScoreChange).toHaveBeenLastCalledWith(calcScore(['red', 'green']));
+    expect(mockOnChange).toHaveBeenCalledTimes(timesCalled);
+    expect(mockOnChange).toHaveBeenLastCalledWith(
+      calcScore(['red', 'green']),
+      ['red', 'green'],
+      true,
+    );
 
     // Click item Y again: 'green' -> 'red'. States: ['red', 'red']. Score: (0+0)/2 = 0
     fireEvent.click(listItems[1]);
     timesCalled++;
-    expect(mockOnScoreChange).toHaveBeenCalledTimes(timesCalled);
-    expect(mockOnScoreChange).toHaveBeenLastCalledWith(calcScore(['red', 'red']));
+    expect(mockOnChange).toHaveBeenCalledTimes(timesCalled);
+    expect(mockOnChange).toHaveBeenLastCalledWith(
+      calcScore(['red', 'red']),
+      ['red', 'red'],
+      true,
+    );
 
     // Click item X again: 'red' -> 'amber'. States: ['amber', 'red']. Score: (50+0)/2 = 25
     fireEvent.click(listItems[0]);
     timesCalled++;
-    expect(mockOnScoreChange).toHaveBeenCalledTimes(timesCalled);
-    expect(mockOnScoreChange).toHaveBeenLastCalledWith(calcScore(['amber', 'red']));
+    expect(mockOnChange).toHaveBeenCalledTimes(timesCalled);
+    expect(mockOnChange).toHaveBeenLastCalledWith(
+      calcScore(['amber', 'red']),
+      ['amber', 'red'],
+      true,
+    );
   });
 });
