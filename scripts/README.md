@@ -10,7 +10,7 @@ Run `pytest` from the repository root to check for content issues such as:
 - unexplained related links
 - required headings in strategy documents
 
-Only one helper script remains:
+Helper scripts:
 
 ## `add_related_links.py`
 Automatically inserts missing links into the **Related Strategies** sections
@@ -24,3 +24,11 @@ python3 scripts/add_related_links.py > added.csv
 
 **Note:** This script modifies the markdown files. Review changes with `git diff`
 before committing.
+
+## `build-strategy-index.mjs`
+Parses every strategy file and generates `src/data/strategyIndex.ts`, which powers
+the Strategy Navigator page. Run it whenever strategy content changes:
+
+```bash
+node scripts/build-strategy-index.mjs
+```
