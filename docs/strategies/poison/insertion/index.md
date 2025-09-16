@@ -182,5 +182,5 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 
 ## 📚 **Further Reading & References**
 
-- Cialdini, R. — [*Influence: The Psychology of Persuasion*](https://www.amazon.co.uk/Influence-Psychology-Robert-Cialdini-PhD/dp/006124189X) — foundational concepts of behavioral influence.
-- Mitnick, K. — [*The Art of Deception*](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X) — case studies on social engineering and covert operations.
+- Cialdini, R. — [*Influence: The Psychology of Persuasion*](/books/influence-the-psychology-of-persuasion) — foundational concepts of behavioral influence.
+- Mitnick, K. — [*The Art of Deception*](/books/the-art-of-deception) — case studies on social engineering and covert operations.

@@ -191,4 +191,4 @@ Directed investment can shift the centre of gravity in a value chain, attracting
 - [The Innovator's Dilemma (Christensen)](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) – Explores why established organisations struggle with disruptive innovation and the need for separate, focused investments.
 - [Corporate Venturing: Managing the Innovation Family](https://www.strategy-business.com/article/03408) – On structuring and managing internal ventures.
 - [Google DeepMind: The Story Behind the World's Leading AI Startup](https://www.techadvisor.com/article/738778/google-deepmind-the-story-behind-the-worlds-leading-ai-startup.html) – Case study of Google's directed investment in AI.
-- [Bell Labs: Life in the Crown Jewel](https://books.google.co.uk/books/about/Bell_Labs.html?id=3vpSAAAAMAAJ&redir_esc=y) by Narain Gehani, Silicon Press, 2002 – The story of AT&T's legendary R&D investment.
+- [Bell Labs: Life in the Crown Jewel](/books/bell-labs-life-in-the-crown-jewel) by Narain Gehani, Silicon Press, 2002 – The story of AT&T's legendary R&D investment.

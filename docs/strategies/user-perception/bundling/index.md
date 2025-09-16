@@ -145,4 +145,4 @@ From a value chain perspective, bundling can represent a form of vertical integr
 
 - [U.S. v. Microsoft (1998) – DOJ Antitrust Case Documents](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact) – Describes how bundling Internet Explorer with Windows gave Microsoft a strategic edge and the legal ramifications.
 - [Bundling and Tying: Antitrust Analysis](https://www.ftc.gov/advice-guidance/competition-guidance/guide-antitrust-laws/single-firm-conduct/tying-sale-two-products) – Federal Trade Commission guidance on bundling and tying practices.
-- [The Strategy and Tactics of Pricing](https://www.amazon.co.uk/Double-Your-Price-Strategy-Tactics/dp/1292426349) – Book covering pricing strategies, including bundling.
+- [The Strategy and Tactics of Pricing](/books/the-strategy-and-tactics-of-pricing) – Book covering pricing strategies, including bundling.

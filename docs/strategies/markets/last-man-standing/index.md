@@ -156,4 +156,4 @@ This strategy is a powerful example of Joseph Schumpeter's concept of "creative 
 ## 📚 **Further Reading & References**
 
 * **[Amazon and the last man standing](https://blog.gardeviance.org/2015/08/amazon-and-last-man-standing.html)** by Simon Wardley. A foundational post on this strategy.
-* **[Competition Demystified](https://www.goodreads.com/book/show/236923.Competition_Demystified)** by Bruce Greenwald and Judd Kahn. Provides a framework for analyzing competitive advantages, which is crucial for this strategy.
+* **[Competition Demystified](/books/competition-demystified)** by Bruce Greenwald and Judd Kahn. Provides a framework for analyzing competitive advantages, which is crucial for this strategy.

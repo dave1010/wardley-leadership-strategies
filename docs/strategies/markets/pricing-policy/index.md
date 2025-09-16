@@ -157,6 +157,6 @@ Pricing is the primary mechanism for capturing value. However, a pricing policy 
 
 ## 📚 **Further Reading & References**
 
-- **[Confessions of the Pricing Man](https://www.goodreads.com/book/show/25999222-confessions-of-the-pricing-man)** by Hermann Simon. A deep dive into the art and science of pricing.
-- **[Monetizing Innovation](https://www.goodreads.com/book/show/28788259-monetizing-innovation)** by Madhavan Ramanujam and Georg Tacke. A practical guide to building a pricing strategy around innovation.
-- **[Priceless: The Myth of Fair Value](https://www.goodreads.com/book/show/6903732-priceless)** by William Poundstone. An exploration of the psychology of pricing.
+- **[Confessions of the Pricing Man](/books/confessions-of-the-pricing-man)** by Hermann Simon. A deep dive into the art and science of pricing.
+- **[Monetizing Innovation](/books/monetizing-innovation)** by Madhavan Ramanujam and Georg Tacke. A practical guide to building a pricing strategy around innovation.
+- **[Priceless: The Myth of Fair Value](/books/priceless-the-myth-of-fair-value)** by William Poundstone. An exploration of the psychology of pricing.

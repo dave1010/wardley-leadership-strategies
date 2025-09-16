@@ -160,8 +160,8 @@ Heavy upfront investment requires clear signals and strong governance to avoid w
 
 ## 📚 **Further Reading & References**
 
-- Gawer, A. – [*Platforms, Markets and Innovation*](https://www.amazon.co.uk/Platforms-Markets-Innovation-Annabelle-Gawer/dp/1848447892) – analysis of platform leadership and standards.
-- Schilling, M. – [*Strategic Management of Technological Innovation*](https://www.amazon.co.uk/Strategic-Management-Technological-Innovation-Schilling/dp/0071326448) – insights on timing and scaling innovations.
+- Gawer, A. – [*Platforms, Markets and Innovation*](/books/platforms-markets-and-innovation) – analysis of platform leadership and standards.
+- Schilling, M. – [*Strategic Management of Technological Innovation*](/books/strategic-management-of-technological-innovation) – insights on timing and scaling innovations.
 - [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - Simon Wardley
 - [Is it better to be a first mover or a fast follower?](https://www.bdo.co.uk/en-gb/insights/industries/technology-media-and-life-sciences/plugdin-insights-is-it-better-to-be-a-first-mover-or-a-fast-follower)
 - [Fast Followers and First Movers: Innovation in Organizations](https://blog.siemens.com/2022/12/fast-followers-and-first-movers-innovation-in-organizations/)

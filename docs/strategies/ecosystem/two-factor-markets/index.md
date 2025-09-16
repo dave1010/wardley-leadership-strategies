@@ -164,5 +164,5 @@ In a two-sided market, your product is not just a piece of software; it is the e
 ## 📚 **Further Reading & References**
 
 - **[Platform Revolution](/books/platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. The definitive guide to platform business models.
-- **[The Cold Start Problem](https://www.goodreads.com/book/show/56223994-the-cold-start-problem)** by Andrew Chen. A deep dive into how to launch and scale network effects.
-- **[Modern Monopolies](https://www.goodreads.com/book/show/26245217-modern-monopolies)** by Alex Moazed and Nicholas L. Johnson. An analysis of the platform business model and its impact on the economy.
+- **[The Cold Start Problem](/books/the-cold-start-problem)** by Andrew Chen. A deep dive into how to launch and scale network effects.
+- **[Modern Monopolies](/books/modern-monopolies)** by Alex Moazed and Nicholas L. Johnson. An analysis of the platform business model and its impact on the economy.
