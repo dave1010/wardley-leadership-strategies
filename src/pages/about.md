@@ -20,6 +20,8 @@ This resource offers detailed explanations, real-world examples, and practical a
 
 The site also includes an interactive [**🚦 Strategy Assessment Tool**](/about/assessment-tool) for some strategies, allowing you to evaluate the applicability and readiness of a specific strategy within your context.
 
+Use the interactive [**Strategy Navigator**](/strategy-navigator) to combine goals, evolution stages, and organisational pressures into a tailored shortlist of plays. Compare recommended strategies side by side to understand signals, first moves, and watch-outs before committing.
+
 To understand the broader organisational capabilities that enable those plays, explore the [**Strategy Maturity Model**](/about/strategy-maturity-model), which charts how teams progress from ad hoc experimentation to doctrine-led mastery.
 
 Over time it has expanded with dedicated sections on [Climatic Patterns](/climatic-patterns) and [Doctrine](/doctrines). These provide additional context for why a strategy works, but the primary emphasis remains on the gameplays themselves.

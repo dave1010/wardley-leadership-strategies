@@ -23,3 +23,15 @@
   gap: 1rem;
   flex-wrap: wrap;
 }
+
+.navigatorButton {
+  border: 2px solid var(--ifm-color-primary);
+  background: rgba(37, 194, 160, 0.12);
+  color: var(--ifm-color-primary) !important;
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
+.navigatorButton:hover {
+  background: var(--ifm-color-primary);
+  color: #fff !important;
+}
