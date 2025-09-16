@@ -166,7 +166,7 @@ fostering trust, managing alliances, setting governance rules
    - build trust early: Pilot projects, transparency mechanisms, pre-agreed dispute resolution
 4. Establish exit strategies
 
-{@include: shared/partnership-operating-rhythms.md}
+{@import ../../../shared/partnership-operating-rhythms.md}
 
 ## 📈 **Measuring Success**
 

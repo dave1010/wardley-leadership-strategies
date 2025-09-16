@@ -109,7 +109,7 @@ Balancing coordination and speed across multiple organisations with differing go
 - create governance structures that ensure fairness and decision-making agility
 - manage relationships actively and continually evaluate alignment
 
-{@include: shared/partnership-operating-rhythms.md}
+{@import ../../../shared/partnership-operating-rhythms.md}
 
 ### Ethical considerations
 

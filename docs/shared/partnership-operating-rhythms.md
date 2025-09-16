@@ -2,7 +2,7 @@
 
 ### Partnership operating rhythms
 
-Maintaining momentum across organisations requires disciplined routines in {MappingDiscipline}.
+Maintaining momentum across organisations requires disciplined routines in Wardley Mapping.
 
 - Align on a shared map review cadence so every partner sees landscape shifts at the same time.
 - Publish transparent dependency and decision logs to avoid context gaps when teams move at different speeds.
