@@ -157,5 +157,5 @@ Channel conflict is not just about cutting costs; it's about forcing change. It 
 
 ## 📚 **Further Reading & References**
 
-- **[The Direct-to-Consumer Playbook](https://books.google.co.uk/books/about/The_Direct_to_Consumer_Playbook.html?id=THibzgEACAAJ&redir_esc=y)** by Mike Stevens. A guide to building a DTC business.
-- **[Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption](https://books.google.co.uk/books/about/Unlocking_the_Customer_Value_Chain.html?id=xSdcDwAAQBAJ&redir_esc=y)** by Thales S. Teixeira, Greg Piechota, Crown, 19 Feb 2019. An HBR article that explores the dynamics of disintermediation.
+- **[The Direct-to-Consumer Playbook](/books/the-direct-to-consumer-playbook)** by Mike Stevens. A guide to building a DTC business.
+- **[Unlocking the Customer Value Chain: How Decoupling Drives Consumer Disruption](/books/unlocking-the-customer-value-chain)** by Thales S. Teixeira and Greg Piechota. Analysis of how decoupling shifts value and drives disintermediation.

@@ -155,7 +155,7 @@ Maintain agility by planning divestment or spin-off strategies for positions tha
 
 ## 📚 **Further Reading & References**
 
-- Gawer, A. – [*Platforms, Markets and Innovation*](https://www.amazon.co.uk/Platforms-Markets-Innovation-Annabelle-Gawer/dp/1848447892) – analysis of platform leadership and standards.
-- Schilling, M. – [*Strategic Management of Technological Innovation*](https://www.amazon.co.uk/Strategic-Management-Technological-Innovation-Schilling/dp/0071326448) – insights on timing and scaling innovations.
+- Gawer, A. – [*Platforms, Markets and Innovation*](/books/platforms-markets-and-innovation) – analysis of platform leadership and standards.
+- Schilling, M. – [*Strategic Management of Technological Innovation*](/books/strategic-management-of-technological-innovation) – insights on timing and scaling innovations.
 - [On Pioneers, Settlers, Town Planners and Theft.](https://blog.gardeviance.org/2015/03/on-pioneers-settlers-town-planners-and.html) - Simon Wardley
-- Teece, D. – [*Dynamic Capabilities and Strategic Management*](https://www.amazon.co.uk/Dynamic-Capabilities-Strategic-Management-Organizing/dp/0199691908) – on resource commitment and agility.
+- Teece, D. – [*Dynamic Capabilities and Strategic Management*](/books/dynamic-capabilities-and-strategic-management) – on resource commitment and agility.

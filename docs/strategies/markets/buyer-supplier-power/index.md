@@ -163,5 +163,5 @@ Every value chain is also a power chain. Understanding this allows you to see th
 
 ## 📚 **Further Reading & References**
 
-- **[Competitive Strategy](https://www.goodreads.com/book/show/236901.Competitive_Strategy)** by Michael E. Porter. The classic text that introduced the "Five Forces" framework, which is central to understanding buyer-supplier power.
-- **[The Everything Store: Jeff Bezos and the Age of Amazon](https://www.goodreads.com/book/show/17660462-the-everything-store)** by Brad Stone. Provides many examples of how Amazon has masterfully managed buyer-supplier power.
+- **[Competitive Strategy](/books/competitive-strategy)** by Michael E. Porter. The classic text that introduced the "Five Forces" framework, which is central to understanding buyer-supplier power.
+- **[The Everything Store: Jeff Bezos and the Age of Amazon](/books/the-everything-store)** by Brad Stone. Provides many examples of how Amazon has masterfully managed buyer-supplier power.

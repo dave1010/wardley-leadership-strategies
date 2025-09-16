@@ -161,5 +161,5 @@ Effective sensing requires an organisational culture that values and acts on ear
 ## 📚 **Further Reading & References**
 
 - Wardley, S. – [*Anticipation*](https://blog.gardeviance.org/2016/12/anticipation.html) – foundational concepts on sensing and foresight.
-- Kahneman, D. – [*Thinking, Fast and Slow*](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576#:~:text=Book%20details&text=Nobel%20Prize%20winner%20Daniel%20Kahneman,%2C%20and%20slow%2C%20rational%20thinking.) – for insights on bias and signal interpretation.
+- Kahneman, D. – [*Thinking, Fast and Slow*](/books/thinking-fast-and-slow) – for insights on bias and signal interpretation.
 - [*Horizon Scanning*](https://en.wikipedia.org/wiki/Horizon_scanning), Wikipedia - methodologies in foresight practice.

@@ -209,4 +209,4 @@ A press release that reads as weak or incoherent is a fast signal of strategic u
 
 ## 📚 **Further Reading & References**
 
-- [Working Backwards](https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595) - Details Amazon's methodology.
+- [Working Backwards](/books/working-backwards) - Details Amazon's methodology.

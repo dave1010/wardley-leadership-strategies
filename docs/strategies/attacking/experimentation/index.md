@@ -195,6 +195,6 @@ Experiments often reveal new dependencies or bottlenecks early, letting you shap
 
 - Simon Wardley – *"Use of specialists groups, hackdays and other mechanisms of experimentation."*
 - [Empowered Product Teams](https://www.svpg.com/empowered-product-teams/) – Article by Marty Cagan on enabling autonomy.
-- [Empowered](https://www.amazon.com/gp/product/1119387507) – Book expanding on how to build empowered teams.
+- [Empowered](/books/empowered) – Book expanding on how to build empowered teams.
 - [Google's 20% Time](https://www.wired.com/2013/08/20-percent-time-will-never-die/) – How giving employees space to experiment led to products like Gmail.
 - [Skunk Works](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks.html) – Official history and lessons from Lockheed's experimental team.

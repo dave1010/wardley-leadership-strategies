@@ -150,4 +150,4 @@ This strategy is often used to neutralize a competitor's main weapon. By removin
 ## 📚 **Further Reading & References**
 
 - **[How Instagram's new Stories feature is a Snapchat clone](https://www.theverge.com/2016/8/2/12353186/instagram-stories-snapchat-clone)** by Casey Newton, The Verge. A contemporary analysis of the most famous modern example of co-opting.
-- **[Seeing Like a State](https://www.goodreads.com/book/show/2345.Seeing_Like_a_State)** by James C. Scott. While not a business book, it provides deep insights into how large, centralized systems (like big companies) co-opt and absorb local, organic practices.
+- **[Seeing Like a State](/books/seeing-like-a-state)** by James C. Scott. While not a business book, it provides deep insights into how large, centralized systems (like big companies) co-opt and absorb local, organic practices.
