@@ -14,6 +14,34 @@ when_to_use: High-capital, strategic industries targeted by government; when pub
 when_to_avoid: When policy cycles are too slow or burdensome; when public funding creates dependencies that stifle agility.
 core_challenge: Balancing public objectives with private strategic goals.
 authors: [dave-hulbert]
+stages:
+  - Custom-Built
+  - Product
+goals:
+  - Secure long-term investment
+  - Shape the market
+  - Defend your position
+pressures:
+  - Regulatory or policy leverage available
+  - Limited resources or capacity
+leadership_focus:
+  - Policy advocacy
+  - Coalition building
+  - Long-horizon roadmapping
+quick_signals:
+  - National or regional initiatives name your domain as a priority.
+  - Your map shows infrastructure or R&D too expensive to fund alone.
+  - Competitors lobby for incentives that could disadvantage you.
+momentum_moves:
+  - Map the policy landscape, timelines and key influencers.
+  - Frame your proposal in terms of public outcomes and resilience.
+  - Secure pilot projects that demonstrate credible momentum to funders.
+watch_outs:
+  - Political cycles that change priorities mid-stream.
+  - Reporting obligations that slow execution if left unmanaged.
+  - Dependence on subsidies without a path to stand-alone economics.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 **Aligning with or influencing government investment and policy to accelerate strategic industry growth.**

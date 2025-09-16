@@ -75,8 +75,56 @@ title: Cooperation
 description: Working with others, even competitors, to achieve a goal.
 tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
 authors: [dave-hulbert]
+stages:
+  - Genesis
+  - Custom-Built
+goals:
+  - Accelerate adoption
+  - Build ecosystem leverage
+  - Secure long-term investment
+pressures:
+  - Limited resources or capacity
+  - Market is nascent or undefined
+  - Facing dominant incumbent
+leadership_focus:
+  - Trust-building
+  - Partner choreography
+  - Shared governance discipline
+quick_signals:
+  - The work is too risky or capital intensive to pursue alone.
+  - Your map reveals complementary players around the same user need.
+  - Speed to establish a de facto approach matters more than owning everything.
+momentum_moves:
+  - Map mutual value exchanges and publish the shared intent.
+  - Pilot a narrow collaboration to build trust and working rhythms.
+  - Create a lightweight governance forum that keeps decisions transparent.
+watch_outs:
+  - Misaligned incentives that turn collaboration into competition.
+  - Sharing differentiating capabilities without a plan to protect them.
+  - Cultural friction or slow decision cycles between partners.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 ```
+
+#### Strategy Navigator metadata
+
+The Strategy Navigator metadata lives at the top level of the front matter. Keep these keys present on every strategy page that should appear in the navigator and update them whenever the content changes. Use the following structure:
+
+- `description` – a one sentence overview of the play (also used as the navigator summary).
+- `stages` – evolution stages that best match the play (e.g. `Genesis`, `Custom-Built`, `Product`, `Commodity/Utility`).
+- `goals` – high level outcomes the play advances.
+- `pressures` – contextual pressures or triggers that make the play relevant.
+- `leadership_focus` – leadership disciplines or mindsets that need emphasis.
+- `quick_signals` – field signals that suggest the play might fit. Keep them specific and actionable.
+- `momentum_moves` – first actions to build momentum once the play is selected.
+- `watch_outs` – realistic risks or pitfalls to monitor.
+- `effort_level` – choose one of `Lean Experiment`, `Cross-Functional Initiative`, or `Enterprise Transformation`.
+- `time_horizon` – choose one of `Fast impact`, `Medium-term shaping`, or `Long-term positioning`.
+
+The navigator summary reuses the `description` field, so keep that sentence short and accessible.
+
+After editing any of the Strategy Navigator metadata run `npm run generate:strategy-navigator` to regenerate `src/data/strategyNavigator.ts`.
 
 ### Tags
 

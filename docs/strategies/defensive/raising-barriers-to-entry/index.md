@@ -3,6 +3,33 @@ title: Raising Barriers to Entry
 description: A defensive strategy of increasing the complexity and scope of a product or service to make it more difficult for new competitors to enter the market.
 tags: [defensive, barriers-to-entry, competition, incumbents, market-expectations, complexity, bundling]
 authors: [dave-hulbert]
+stages:
+  - Product
+  - Commodity/Utility
+goals:
+  - Defend your position
+  - Stabilise operations
+pressures:
+  - Competitive attack underway
+  - Customers are nervous about change
+leadership_focus:
+  - Integrated roadmapping
+  - Operational excellence
+  - Pricing and packaging strategy
+quick_signals:
+  - New entrants offer narrow point solutions that undercut you on price.
+  - Customers value the breadth and integration of your offer.
+  - You can add adjacent capabilities faster than challengers can replicate them.
+momentum_moves:
+  - Invest in integrations or services that are hard to replicate.
+  - Bundle offerings to reset market expectations of a “complete” solution.
+  - Educate customers and analysts on the total cost of switching.
+watch_outs:
+  - Increasing complexity faster than customers can absorb.
+  - Spreading teams too thin across low-value features.
+  - Breeding internal inertia that slows future innovation.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

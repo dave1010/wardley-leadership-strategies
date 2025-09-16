@@ -3,6 +3,35 @@ title: Experimentation
 description: Rapidly testing ideas through hackdays, specialist groups and skunkworks to uncover and exploit opportunities.
 tags: [experimentation, attacking, innovation, culture, skunkworks, hackathons, rapid iteration, learning]
 authors: [dave-hulbert]
+stages:
+  - Genesis
+  - Custom-Built
+goals:
+  - Unlock new growth
+  - Accelerate adoption
+  - Change the narrative
+pressures:
+  - Need to go faster than internal bureaucracy
+  - Market is nascent or undefined
+  - Limited resources or capacity
+leadership_focus:
+  - Learning culture
+  - Empowered teams
+  - Disciplined portfolio management
+quick_signals:
+  - You see promising opportunities but lack proof to commit fully.
+  - Teams are stuck debating options instead of testing them.
+  - Competitors are iterating faster and claiming the story.
+momentum_moves:
+  - Ring-fence time and budget explicitly for discovery work.
+  - Define clear exit criteria so weak experiments close quickly.
+  - Share insights widely so the core organisation can absorb wins.
+watch_outs:
+  - Zombie experiments that never end or scale.
+  - Treating experiments as theatre without learning loops.
+  - Failing to transition validated ideas into mainstream delivery.
+effort_level: Lean Experiment
+time_horizon: Fast impact
 ---
 
 **Running small, fast experiments with dedicated teams to learn and exploit opportunities faster than competitors.**

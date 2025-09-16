@@ -3,6 +3,35 @@ title: Alliances
 description: Formal partnerships or consortia formed to pursue shared goals.
 tags: [alliances, ecosystem, partnerships, consortia, collaboration, standards, collective action, cooperation]
 authors: [dave-hulbert]
+stages:
+  - Custom-Built
+  - Product
+goals:
+  - Shape the market
+  - Build ecosystem leverage
+  - Secure long-term investment
+pressures:
+  - Facing dominant incumbent
+  - Market is nascent or undefined
+  - Ecosystem fragmentation
+leadership_focus:
+  - Diplomacy and narrative setting
+  - Joint governance design
+  - Mutual accountability
+quick_signals:
+  - No single organisation can credibly move the market on its own.
+  - Regulators, partners or customers are asking for collective direction.
+  - Fragmented initiatives are slowing progress and confusing the market.
+momentum_moves:
+  - Define the shared mission and minimum viable structure for the alliance.
+  - Secure anchor members who bring credibility, coverage and resources.
+  - Publish a roadmap or manifesto that frames the desired future state.
+watch_outs:
+  - Power imbalances causing the alliance to stall or fracture.
+  - Governance that is heavy, slow or detached from delivery.
+  - Failing to articulate the value for participants beyond lofty statements.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Forming formal partnerships to pursue common objectives.**

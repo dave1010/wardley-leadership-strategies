@@ -10,7 +10,17 @@ Run `pytest` from the repository root to check for content issues such as:
 - unexplained related links
 - required headings in strategy documents
 
-Only one helper script remains:
+Helper scripts:
+
+## `generate-strategy-navigator.js`
+Reads the Strategy Navigator front matter fields (e.g. `stages`, `goals`,
+`pressures`, etc.) from every strategy and regenerates
+`src/data/strategyNavigator.ts`. Run this after updating the navigator metadata
+or the `description` summary in any strategy:
+
+```bash
+npm run generate:strategy-navigator
+```
 
 ## `add_related_links.py`
 Automatically inserts missing links into the **Related Strategies** sections
