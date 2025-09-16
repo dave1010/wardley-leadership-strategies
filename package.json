@@ -27,6 +27,7 @@
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
+    "gray-matter": "^4.0.3",
     "lucide-react": "^0.523.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.1.0",

@@ -1,0 +1,16 @@
+.hero {
+  background: linear-gradient(135deg, rgba(var(--ifm-color-primary-rgb), 0.9), rgba(var(--ifm-color-primary-dark-rgb), 0.9));
+  text-align: left;
+  padding-bottom: 3rem;
+}
+
+.hero :global(.hero__subtitle) {
+  max-width: 720px;
+}
+
+@media screen and (max-width: 768px) {
+  .hero {
+    text-align: left;
+    padding-top: 3.5rem;
+  }
+}

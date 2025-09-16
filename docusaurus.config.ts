@@ -2,6 +2,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import storeSiteDataPlugin from './src/plugins/storeSiteData';
+import strategyMetadataPlugin from './src/plugins/strategyMetadata';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -109,6 +110,10 @@ const config: Config = {
         {
           label: 'Strategies',
           to: '/strategies',
+        },
+        {
+          label: 'Strategy Explorer',
+          to: '/strategy-explorer',
         },
         {
           label: 'Doctrines',
@@ -220,7 +225,8 @@ const config: Config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     '@docusaurus/plugin-vercel-analytics',
-    storeSiteDataPlugin
+    storeSiteDataPlugin,
+    strategyMetadataPlugin,
   ],
 };
 
