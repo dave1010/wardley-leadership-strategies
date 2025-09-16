@@ -205,7 +205,7 @@ Platforms often start open to attract users and developers, then selectively clo
 ## 📚 **Further Reading & References**
 
 * **[Platform Competition: Envelopment Strategies](https://www.jstor.org/stable/41261793)** by Thomas R. Eisenmann, Geoffrey Parker, and Marshall W. Van Alstyne - A foundational academic paper on platform envelopment. (Note: Access may require subscription or purchase).
-* **[The Business of Platforms: Strategy in the Age of Digital Competition, Innovation, and Power](https://www.hbs.edu/faculty/Pages/item.aspx?num=56021)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie - Discusses platform strategies, including envelopment.
+* **[The Business of Platforms](/books/the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie - Discusses platform strategies, including envelopment.
 * **[WeChat's World](https://www.economist.com/business/2016/08/06/wechats-world)** by The Economist - An article describing the breadth of WeChat's platform and its envelopment of various services.
 * **[Aggregators and Platforms: A Strategic Analysis](https://stratechery.com/2015/aggregation-theory/)** by Ben Thompson (Stratechery) - While not solely about envelopment, discusses platform power and dynamics relevant to this strategy.
 

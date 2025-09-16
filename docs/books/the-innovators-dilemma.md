@@ -2,7 +2,7 @@
 
 **The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail** is a book by Clayton M. Christensen.
 
-It provides the theoretical framework for understanding how disruptive challengers can attack and defeat established incumbents.
+It introduced the theory of disruptive innovation, explaining how technologies that start out as simpler, cheaper, or lower-performing alternatives can upend industry leaders. Christensen distinguishes sustaining innovations from disruptive ones and advocates for creating autonomous teams to explore disruptive opportunities before competitors do.
 
 ## Referenced in
 
