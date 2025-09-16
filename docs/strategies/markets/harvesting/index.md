@@ -164,5 +164,5 @@ At its best, harvesting is a symbiotic relationship. The ecosystem provides inno
 
 ## 📚 **Further Reading & References**
 
-- **[Platform Revolution](https://www.goodreads.com/book/show/26899832-platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.
-- **[The Business of Platforms](https://www.goodreads.com/book/show/43688225-the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie. Explores the strategies of platform companies.
+- **[Platform Revolution](/books/platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.
+- **[The Business of Platforms](/books/the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie. Explores the strategies of platform companies.

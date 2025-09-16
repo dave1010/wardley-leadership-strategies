@@ -170,6 +170,6 @@ It's important to distinguish Tech Drops from [Ambush](/strategies/competitor/am
 
 ## 📚 **Further Reading & References**
 
-- [The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma) by Clayton Christensen - Explains the theory of disruptive innovation, which is often the basis for a Tech Drop.
-- [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu - The classic text on strategy, with timeless insights on the importance of surprise and deception.
+- [The Innovator's Dilemma](/books/the-innovators-dilemma) by Clayton Christensen - Explains the theory of disruptive innovation, which is often the basis for a Tech Drop.
+- [The Art of War](/books/the-art-of-war) by Sun Tzu - The classic text on strategy, with timeless insights on the importance of surprise and deception.
 - [Apple's iPhone launch 2007](https://www.youtube.com/watch?v=vN4U5FqrOdQ) - A video of the event, showcasing how a masterfully executed Tech Drop can reshape an industry.

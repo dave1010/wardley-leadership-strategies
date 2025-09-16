@@ -181,4 +181,4 @@ These initiatives are not meant to last. Their purpose is to occupy space, creat
 
 - [HD DVD vs Blu-ray (Wikipedia)](https://en.wikipedia.org/wiki/HD_DVD) — a case of market fragmentation leading to failure.
 - [Betamax vs VHS (Wikipedia)](https://en.wikipedia.org/wiki/Betamax) — example of proprietary format wars.
-- *Blue Ocean Strategy* (W. Chan Kim & Renée Mauborgne) — insights into creating and defending market spaces.
+- **[Blue Ocean Strategy](/books/blue-ocean-strategy)** by W. Chan Kim and Renée Mauborgne — insights into creating and defending market spaces.

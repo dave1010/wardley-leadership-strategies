@@ -158,6 +158,6 @@ Differentiation is useless if customers don't know about it or don't understand 
 
 ## 📚 **Further Reading & References**
 
-- **[Blue Ocean Strategy](https://www.goodreads.com/book/show/4892.Blue_Ocean_Strategy)** by W. Chan Kim and Renée Mauborgne. A classic book on creating uncontested market space.
+- **[Blue Ocean Strategy](/books/blue-ocean-strategy)** by W. Chan Kim and Renée Mauborgne. A classic book on creating uncontested market space.
 - **[Differentiate or Die](https://www.goodreads.com/book/show/13339.Differentiate_or_Die)** by Jack Trout and Steve Rivkin. A practical guide to the principles of differentiation.
 - **[Obviously Awesome](https://www.goodreads.com/book/show/44232216-obviously-awesome)** by April Dunford. A book focused on positioning, which is the art of communicating differentiation.

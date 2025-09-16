@@ -226,7 +226,7 @@ This strategy can fundamentally alter the competitive landscape. It can lower ba
 
 - *"Unbundling the Corporation"* by John Hagel and Marc Singer (Harvard Business Review, 1999) - A foundational article on the concept of disaggregating corporate functions.
 - *"The Wide Lens: A New Strategy for Innovation"* by Ron Adner - Discusses innovation ecosystems and the importance of managing dependencies beyond your own organization, relevant to re-aggregation.
-- *"Platform Revolution: How Networked Markets Are Transforming the Economy—and How to Make Them Work for You"* by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary - Explores the rise of platform business models, often an outcome of value chain re-aggregation.
+- **[Platform Revolution](/books/platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary - Explores the rise of platform business models, often an outcome of value chain re-aggregation.
 - Various industry reports on Telco Disaggregation, Open Banking (FinTech), and the changing Media landscape provide practical examples.
 
 ---

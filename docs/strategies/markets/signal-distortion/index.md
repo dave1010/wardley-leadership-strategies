@@ -163,4 +163,4 @@ Signal Distortion is a powerful reminder that in many markets, the perception of
 ## 📚 **Further Reading & References**
 
 - **[Trust Me, I'm Lying: Confessions of a Media Manipulator](https://www.goodreads.com/book/show/13542853-trust-me-i-m-lying)** by Ryan Holiday. A stark look at how media can be manipulated.
-- **[The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War)** by Sun Tzu. The ancient text is full of wisdom on deception and misdirection.
+- **[The Art of War](/books/the-art-of-war)** by Sun Tzu. The ancient text is full of wisdom on deception and misdirection.

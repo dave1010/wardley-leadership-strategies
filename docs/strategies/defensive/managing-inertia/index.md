@@ -151,5 +151,5 @@ To overcome inertia, you often need to change the organizational structure to al
 ## 📚 **Further Reading & References**
 
 - **[Leading Change](https://www.goodreads.com/book/show/10548.Leading_Change)** by John P. Kotter. The classic, foundational text on managing organizational change.
-- **[The Innovator's Dilemma](https://www.goodreads.com/book/show/2618.The_Innovator_s_Dilemma)** by Clayton M. Christensen. Explains why successful companies often fail to adapt to disruptive change.
+- **[The Innovator's Dilemma](/books/the-innovators-dilemma)** by Clayton M. Christensen. Explains why successful companies often fail to adapt to disruptive change.
 - **[Who Says Elephants Can't Dance?](https://www.goodreads.com/book/show/13337.Who_Says_Elephants_Can_t_Dance_)** by Louis V. Gerstner Jr. A firsthand account of managing the massive inertia at IBM to turn the company around.

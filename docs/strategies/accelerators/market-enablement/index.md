@@ -246,4 +246,4 @@ The degree of "openness" (e.g., open standards, open source, open data) is a cri
 ## 📚 **Further Reading & References**
 
 - *"The Innovator's Dilemma"* by Clayton M. Christensen - While not directly about market enablement, this book provides deep insights into how markets evolve and how incumbents can be disrupted, which is relevant context for why and how one might enable new markets.
-- *["Platform Revolution: How Networked Markets Are Transforming the Economy—and How to Make Them Work for You"](https://www.amazon.co.uk/Platform-Revolution-Networked-Transforming-Economy/dp/0393249131)* by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary - Explores the dynamics of platform business models, many of which rely on enabling an ecosystem of producers and consumers.
+- **[Platform Revolution](/books/platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary - Explores the dynamics of platform business models, many of which rely on enabling an ecosystem of producers and consumers.

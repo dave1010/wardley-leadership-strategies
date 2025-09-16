@@ -201,6 +201,6 @@ An Ambush is an overtly aggressive move, and it can easily lead to an all-out wa
 
 ## 📚 **Further Reading & References**
 
-* [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) by Sun Tzu - Provides timeless wisdom on surprise, timing, and knowing your enemy, all crucial for Ambush strategies.
+* [The Art of War](/books/the-art-of-war) by Sun Tzu - Provides timeless wisdom on surprise, timing, and knowing your enemy, all crucial for Ambush strategies.
 * [Competitive Strategy: Techniques for Analyzing Industries and Competitors](https://www.goodreads.com/book/show/309100.Competitive_Strategy) by Michael E. Porter - Offers frameworks for understanding competitor behavior and industry dynamics, useful for identifying Ambush opportunities.
 * [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.goodreads.com/book/show/35911677-thinking-in-bets) by Annie Duke - While not directly about Ambush, it offers insights into decision-making under uncertainty, relevant for timing an Ambush.
