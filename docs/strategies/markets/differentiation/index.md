@@ -3,6 +3,34 @@ title: Differentiation
 description: Creating a unique value proposition by focusing on unmet user needs in less-evolved market spaces.
 tags: [markets, value-proposition, uniqueness, user-needs, competition, positioning, innovation]
 authors: [dave-hulbert]
+stages:
+  - Genesis
+  - Custom-Built
+goals:
+  - Unlock new growth
+  - Change the narrative
+pressures:
+  - Market is nascent or undefined
+  - Competitive attack underway
+  - Customers are nervous about change
+leadership_focus:
+  - Deep user insight
+  - Experience design
+  - Storytelling
+quick_signals:
+  - Users complain that all existing offers feel interchangeable.
+  - Your mapping uncovers underserved segments with unique needs.
+  - You can prototype rapidly to show a better way before rivals respond.
+momentum_moves:
+  - Run discovery work directly with users to surface sharp, emotional needs.
+  - Prototype the signature experience and test with target segments.
+  - Tell the story of the new value repeatedly so the market remembers it is yours.
+watch_outs:
+  - Trying to differentiate on commodity features where price wins.
+  - Confusing novelty with usefulness and chasing gimmicks.
+  - Scaling before the operating model can deliver the promised experience.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

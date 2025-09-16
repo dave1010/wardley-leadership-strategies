@@ -1,6 +1,35 @@
 ---
 title: Fragmentation
+description: Splintering a rival's market to erode their stronghold.
 tags: [competitor, fragmentation, markets, underdog, disruption, divide and conquer]
+stages:
+  - Product
+  - Commodity/Utility
+goals:
+  - Defend your position
+  - Shape the market
+pressures:
+  - Facing dominant incumbent
+  - Ecosystem fragmentation
+  - Competitive attack underway
+leadership_focus:
+  - Market segmentation
+  - Alliance building
+  - Narrative counter-positioning
+quick_signals:
+  - Customers complain about a monolithic incumbent that ignores edge cases.
+  - Partners or regulators are open to alternatives but lack coordination.
+  - You can fund or seed multiple differentiated options in adjacent niches.
+momentum_moves:
+  - Pick the wedge segments where the incumbent under-serves users.
+  - Support allies with tooling, funding or messaging so they can take share.
+  - Surface success stories that normalise choosing the alternative.
+watch_outs:
+  - Failing to capture value once the rival is weakened.
+  - Backing weak alternatives that damage credibility.
+  - Triggering retaliation without insulating your own core business.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Splintering a rival's market to erode their stronghold**.

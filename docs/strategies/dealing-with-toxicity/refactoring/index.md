@@ -1,9 +1,37 @@
 ---
+title: Refactoring
+description: Internally reorganising and repurposing legacy components to salvage value while eliminating toxicity.
 tags: [refactoring, dealing-with-toxicity, legacy, transformation, reuse, reorganization, internal disposal]
 authors: [dave-hulbert]
+stages:
+  - Product
+  - Commodity/Utility
+goals:
+  - Reduce legacy drag
+  - Stabilise operations
+pressures:
+  - Legacy system drag
+  - Limited resources or capacity
+  - Need to go faster than internal bureaucracy
+leadership_focus:
+  - Change management
+  - Architectural thinking
+  - Talent redeployment
+quick_signals:
+  - A legacy platform soaks up disproportionate budget and attention.
+  - Maps reveal components worth keeping alongside toxic ones to retire.
+  - The organisation needs runway to transition without a risky big-bang cutover.
+momentum_moves:
+  - Catalogue components, skills and data flows to inform decisions.
+  - Sequence the refactor so value is released incrementally.
+  - Communicate redeployment plans early to maintain morale and focus.
+watch_outs:
+  - Letting the effort sprawl without clear governance.
+  - Refactoring only the technology and ignoring process or people impacts.
+  - Running dual systems indefinitely because decisions are postponed.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
-
-# Refactoring
 
 Internally **reorganizing and repurposing components of a legacy system** to salvage value or reduce toxicity. Refactoring means breaking the old asset into parts, reassigning useful parts to new roles, and eliminating the rest. Akin to code refactoring in software, but applied to business assets.
 

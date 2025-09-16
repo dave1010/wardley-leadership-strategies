@@ -3,6 +3,35 @@ title: Center of Gravity
 description: Building a focal point of talent, expertise, or activity that attracts the best resources and shapes the direction of an industry or ecosystem.
 tags: [center-of-gravity, attacking, talent, ecosystem, innovation, expertise, influence, attraction]
 authors: [dave-hulbert]
+stages:
+  - Custom-Built
+  - Product
+goals:
+  - Build ecosystem leverage
+  - Defend your position
+  - Shape the market
+pressures:
+  - Talent scarcity
+  - Facing dominant incumbent
+  - Ecosystem fragmentation
+leadership_focus:
+  - Signature culture and mission
+  - Community leadership
+  - Selective openness
+quick_signals:
+  - Your teams already attract thought leaders or influential contributors.
+  - Partners prefer to launch or integrate with you first.
+  - There is no clear hub for the topic and stakeholders seek an anchor.
+momentum_moves:
+  - Invest in flagship programmes, events or research that showcase excellence.
+  - Create pathways for external contributors to plug into your ecosystem.
+  - Codify rituals and narratives that make belonging visible and desirable.
+watch_outs:
+  - Assuming gravity persists without constant renewal.
+  - Over-centralising decisions, leading to bureaucratic drag.
+  - Neglecting diversity of thought, which erodes credibility.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Deliberately concentrating talent, knowledge, or resources in a way that others are compelled to orbit you, voluntarily or strategically.**

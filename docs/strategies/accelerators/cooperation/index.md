@@ -14,6 +14,35 @@ when_to_use: Task is too large, risky, or slow to do alone; establishing a new s
 when_to_avoid: Goals fundamentally clash with partners; giving a weaker competitor undue advantage.
 core_challenge: Balancing control and openness.
 authors: [dave-hulbert]
+stages:
+  - Genesis
+  - Custom-Built
+goals:
+  - Accelerate adoption
+  - Build ecosystem leverage
+  - Secure long-term investment
+pressures:
+  - Limited resources or capacity
+  - Market is nascent or undefined
+  - Facing dominant incumbent
+leadership_focus:
+  - Trust-building
+  - Partner choreography
+  - Shared governance discipline
+quick_signals:
+  - The work is too risky or capital intensive to pursue alone.
+  - Your map reveals complementary players around the same user need.
+  - Speed to establish a de facto approach matters more than owning everything.
+momentum_moves:
+  - Map mutual value exchanges and publish the shared intent.
+  - Pilot a narrow collaboration to build trust and working rhythms.
+  - Create a lightweight governance forum that keeps decisions transparent.
+watch_outs:
+  - Misaligned incentives that turn collaboration into competition.
+  - Sharing differentiating capabilities without a plan to protect them.
+  - Cultural friction or slow decision cycles between partners.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Working with others, even competitors, to achieve a goal**.

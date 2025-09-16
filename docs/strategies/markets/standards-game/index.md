@@ -3,6 +3,35 @@ title: Standards Game
 description: Driving adoption of your technology or process until it becomes the dominant standard, locking in customers and constraining competitors.
 tags: [standards, markets, dominance, competition, differentiation, switching costs, lock-in]
 authors: [dave-hulbert]
+stages:
+  - Product
+  - Commodity/Utility
+goals:
+  - Shape the market
+  - Defend your position
+  - Build ecosystem leverage
+pressures:
+  - Ecosystem fragmentation
+  - Facing dominant incumbent
+  - Customers are nervous about change
+leadership_focus:
+  - Standard stewardship
+  - Certification and compliance
+  - Coalition management
+quick_signals:
+  - Incompatible approaches are slowing adoption or integration.
+  - You already provide the reference implementation most partners copy.
+  - Regulators or large buyers seek clarity on what “good” looks like.
+momentum_moves:
+  - Publish open specifications and supporting test suites.
+  - Recruit a neutral or respected body to host the standard.
+  - Offer accreditation or compatibility programmes that reinforce trust.
+watch_outs:
+  - Appearing self-serving and triggering regulatory backlash.
+  - Letting the standard stagnate while competitors innovate around it.
+  - Failing to resource the operational overhead of maintaining the standard.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 **Intentionally shaping a market standard so others must follow your approach, limiting their ability to differentiate.**

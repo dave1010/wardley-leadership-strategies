@@ -3,6 +3,33 @@ title: Fear, Uncertainty and Doubt
 description: A classic tactic of spreading fear, uncertainty, and doubt to slow adoption of a competitor's innovation or to dissuade customers from switching.
 tags: [user-perception, fud, competition, messaging, risk perception, slowing adoption]
 authors: [dave-hulbert]
+stages:
+  - Product
+  - Commodity/Utility
+goals:
+  - Defend your position
+  - Change the narrative
+pressures:
+  - Customers are nervous about change
+  - Competitive attack underway
+leadership_focus:
+  - Narrative control
+  - Influencer engagement
+  - Risk framing
+quick_signals:
+  - Procurement or compliance teams already worry about switching risk.
+  - You have trusted relationships with analysts, media or community voices.
+  - The competitor relies on hype more than proven delivery.
+momentum_moves:
+  - Prepare fact-based talking points that highlight unanswered questions.
+  - Brief influential voices who can credibly raise concerns.
+  - Offer safe migration paths back to you so hesitation favours your side.
+watch_outs:
+  - Crossing ethical lines and damaging long-term trust.
+  - Accidentally promoting the competitor by repeating their message.
+  - Relying on FUD instead of addressing genuine product gaps.
+effort_level: Lean Experiment
+time_horizon: Fast impact
 ---
 
 **A classic tactic of spreading fear, uncertainty, and doubt to slow adoption of a competitor's innovation or to dissuade customers from switching.**

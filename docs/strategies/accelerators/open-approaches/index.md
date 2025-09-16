@@ -3,6 +3,35 @@ title: Open Approaches
 description: Making something open—source, standards, data, or APIs—to accelerate adoption, drive commoditisation, and enable ecosystem growth.
 tags: [open approaches, accelerators, open source, open standards, open data, collaboration, community, commoditisation]
 authors: [dave-hulbert]
+stages:
+  - Product
+  - Commodity/Utility
+goals:
+  - Accelerate adoption
+  - Shape the market
+  - Build ecosystem leverage
+pressures:
+  - Facing dominant incumbent
+  - Ecosystem fragmentation
+  - Customers are nervous about change
+leadership_focus:
+  - Community stewardship
+  - Licensing strategy
+  - Narrative building
+quick_signals:
+  - Users or partners avoid your offer because of licensing or integration friction.
+  - You benefit more from scale and ecosystem health than from direct control.
+  - Competitors lean on proprietary lock-in while sentiment favours openness.
+momentum_moves:
+  - Choose what to open and what remains differentiating to you.
+  - Establish contribution guidelines and community rituals early.
+  - Pair the open asset with services or higher-order value capture.
+watch_outs:
+  - Opening crown-jewel capabilities without a replacement advantage.
+  - Community governance that lacks clarity or favours a single participant.
+  - Failing to invest in documentation and onboarding for new contributors.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Strategically making software, data, standards, or APIs open to drive adoption, commoditisation, and ecosystem growth.**

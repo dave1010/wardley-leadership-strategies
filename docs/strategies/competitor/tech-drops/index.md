@@ -3,6 +3,34 @@ title: Tech Drops
 description: Surprising competitors with significant and unexpected technological advances to seize initiative and reshape the market.
 tags: [competitor, surprise, innovation, technology, tech-drop, disruption, proactive, market-creation]
 authors: [dave-hulbert]
+stages:
+  - Genesis
+  - Custom-Built
+goals:
+  - Unlock new growth
+  - Defend your position
+  - Change the narrative
+pressures:
+  - Competitive attack underway
+  - Market is nascent or undefined
+leadership_focus:
+  - Secrecy and timing
+  - Launch choreography
+  - Operational readiness
+quick_signals:
+  - You can industrialise something rivals still view as bespoke or low value.
+  - Competitors publish predictable roadmaps you can leapfrog.
+  - Users express fatigue with incremental improvements.
+momentum_moves:
+  - Ring-fence a skunkworks team with clear executive sponsorship.
+  - Stress test supply chain, support and marketing readiness before launch.
+  - Craft a bold narrative that reframes expectations the moment you launch.
+watch_outs:
+  - Launching before the experience or operations can handle scale.
+  - Leaks that give incumbents time to respond or copy.
+  - Overspending on spectacle instead of sustainable advantage.
+effort_level: Enterprise Transformation
+time_horizon: Fast impact
 ---
 
 **Proactively surprising the market and competitors with significant, unexpected technological advances to seize initiative and reshape market paradigms.**

@@ -3,6 +3,34 @@ title: Market Enablement
 description: Actively encouraging the growth of a competitive market around a component or service to accelerate its evolution and adoption.
 tags: [accelerators, markets, adoption, competition, ecosystem, open standards, open approaches, platform, value creation]
 authors: [dave-hulbert]
+stages:
+  - Product
+  - Commodity/Utility
+goals:
+  - Build ecosystem leverage
+  - Shape the market
+  - Unlock new growth
+pressures:
+  - Ecosystem fragmentation
+  - Limited resources or capacity
+leadership_focus:
+  - Ecosystem cultivation
+  - Platform stewardship
+  - Incentive design
+quick_signals:
+  - More providers in the space would increase demand for your higher-order offerings.
+  - Partners or regulators are seeking neutrality or open access.
+  - Customers hesitate because they fear lock-in or lack alternatives.
+momentum_moves:
+  - Publish tooling, reference architectures or funding to reduce entry barriers.
+  - Host community forums to align language and success measures.
+  - Highlight success stories from ecosystem participants to build momentum.
+watch_outs:
+  - Creating a market that benefits competitors more than you.
+  - Under-investing in governance, leading to fragmentation you cannot influence.
+  - Forgetting to evolve your own value proposition as the market matures.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Actively encouraging the growth of a competitive market around a component or service you care about.**
