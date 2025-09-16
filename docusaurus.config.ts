@@ -218,9 +218,15 @@ const config: Config = {
   themes: ['@docusaurus/theme-mermaid'],
 
   plugins: [
+    [
+      'docusaurus-plugin-includes',
+      {
+        replacements: [{key: '{MappingDiscipline}', value: 'Wardley Mapping'}],
+      },
+    ],
     require.resolve('docusaurus-lunr-search'),
     '@docusaurus/plugin-vercel-analytics',
-    storeSiteDataPlugin
+    storeSiteDataPlugin,
   ],
 };
 
