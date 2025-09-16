@@ -30,6 +30,11 @@ function HomepageHeader() {
             to="/about">
             Learn More
           </Link>
+          <Link
+            className="button button--outline button--lg"
+            to="/strategy-explorer">
+            Strategy Explorer
+          </Link>
         </div>
       </div>
     </header>
