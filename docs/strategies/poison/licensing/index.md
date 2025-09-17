@@ -1,8 +1,42 @@
 ---
 title: Licensing
 description: Using legal terms to restrict competitors and lock in an ecosystem.
-tags: [poison, intellectual-property, restriction, lock-in]
-authors: [dave-hulbert]
+tags:
+- poison
+- intellectual-property
+- restriction
+- lock-in
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Shape the market
+- Secure long-term investment
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Regulatory or policy leverage available
+leadership_focus:
+- Policy advocacy
+- Standard stewardship
+- Risk framing
+quick_signals:
+- Competitors monetise your technology via permissive terms that no longer suit you.
+- Partners push for clarity on acceptable use before committing deeper.
+- You need revenue or control levers beyond pure product innovation.
+momentum_moves:
+- Audit existing licenses to understand loopholes and strategic exposures.
+- Design tiered or dual licensing models aligned to desired behaviours.
+- Educate partners on the value exchange behind the updated terms.
+watch_outs:
+- Imposing terms so restrictive that the ecosystem abandons you.
+- Failing to enforce the license consistently, undermining credibility.
+- Creating legal complexity your own teams cannot administer.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 

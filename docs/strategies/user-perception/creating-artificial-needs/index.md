@@ -1,8 +1,45 @@
 ---
 title: Creating Artificial Needs
-description: Generating demand by inventing or amplifying a need that did not previously exist.
-tags: [user perception, demand generation, marketing, consumers, influence, creating-artificial-needs]
-authors: [dave-hulbert]
+description: Generating demand by inventing or amplifying a need that did not previously
+  exist.
+tags:
+- user perception
+- demand generation
+- marketing
+- consumers
+- influence
+- creating-artificial-needs
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Change the narrative
+- Accelerate adoption
+- Unlock new growth
+pressures:
+- Customers are nervous about change
+- Competitive attack underway
+- Market is nascent or undefined
+leadership_focus:
+- Narrative building
+- Storytelling
+- Influencer engagement
+quick_signals:
+- Organic demand plateaus despite healthy satisfaction scores.
+- Cultural trends hint at aspirational identities your product could attach to.
+- Competitors capture imagination with stories rather than functional claims.
+momentum_moves:
+- Develop a compelling myth or movement that reframes the product as essential.
+- Use scarcity, rituals, or social proof to reinforce the newly created need.
+- Align product roadmaps so experiences deliver on the promise the story sells.
+watch_outs:
+- Manufacturing needs that conflict with your values or social expectations.
+- Overhyping benefits and disappointing early adopters.
+- Ignoring real customer problems while chasing manufactured desire.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Generating demand by inventing or amplifying a need that did not previously exist.**

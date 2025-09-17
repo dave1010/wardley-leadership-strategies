@@ -1,8 +1,47 @@
 ---
 title: Channel Conflict and Disintermediation
-description: A strategy of deliberately creating tension between distribution channels to gain control, reshape value flows, and own the customer relationship.
-tags: [ecosystem, channel-conflict, disintermediation, distribution, direct-to-consumer, partners, leverage]
-authors: [dave-hulbert]
+description: A strategy of deliberately creating tension between distribution channels
+  to gain control, reshape value flows, and own the customer relationship.
+tags:
+- ecosystem
+- channel-conflict
+- disintermediation
+- distribution
+- direct-to-consumer
+- partners
+- leverage
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Build ecosystem leverage
+- Shape the market
+- Unlock new growth
+pressures:
+- Ecosystem fragmentation
+- Facing dominant incumbent
+- Customers are nervous about change
+leadership_focus:
+- Partner choreography
+- Narrative building
+- Platform stewardship
+quick_signals:
+- Intermediaries block access to customer data or slow your go-to-market.
+- Customers complain about inconsistent experiences across channels.
+- Partners resist experimenting with new offerings you want to bring to market.
+momentum_moves:
+- Launch a direct channel pilot that proves superior experience and economics.
+- Re-negotiate partner agreements with incentives tied to shared data and standards.
+- Invest in systems that unify pricing, inventory, and service across every route
+  to market.
+watch_outs:
+- Alienating partners without a plan to replace their coverage.
+- Underestimating the operational complexity of running multiple channels.
+- Sending conflicting messages that confuse customers and sales teams.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **A strategy of deliberately creating tension between distribution channels to gain control, reshape value flows, and own the customer relationship.**

@@ -1,7 +1,45 @@
 ---
 title: Sapping
-tags: [sapping, competitor, multi-front, attrition, endurance, resource drain, distraction]
-authors: [dave-hulbert]
+tags:
+- sapping
+- competitor
+- multi-front
+- attrition
+- endurance
+- resource drain
+- distraction
+authors:
+- dave-hulbert
+description: Overwhelming a rival by opening multiple simultaneous competitive fronts.
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Accelerate adoption
+- Shape the market
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Limited resources or capacity
+leadership_focus:
+- Operational readiness
+- Integrated roadmapping
+- Narrative control
+quick_signals:
+- You can afford to open several initiatives while the rival is resource constrained.
+- Competitors respond predictably when pressured on more than one dimension.
+- Your portfolio has adjacent products or channels you can weaponise quickly.
+momentum_moves:
+- Sequence overlapping releases across price, product, and partnership fronts.
+- Coordinate messaging so each thrust amplifies the pressure on the same rival.
+- Instrument response data to double down where the competitor weakens.
+watch_outs:
+- Diluting your own focus and delivering mediocre moves on every front.
+- Triggering regulatory scrutiny for anti-competitive behaviour.
+- Ignoring customer impact while pursuing the attrition campaign.
+effort_level: Enterprise Transformation
+time_horizon: Medium-term shaping
 ---
 
 **Attacking a competitor on multiple fronts simultaneously to weaken their capacity to respond**.

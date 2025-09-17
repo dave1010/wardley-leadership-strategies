@@ -1,8 +1,47 @@
 ---
 title: Weak Signal (Horizon)
-description: Detecting subtle economic, technological, and behavioural patterns to anticipate market shifts before they become obvious.
-tags: [weak-signal-horizon, positional, sensing, anticipation, foresight, market shifts, patterns, signals]
-authors: [dave-hulbert]
+description: Detecting subtle economic, technological, and behavioural patterns to
+  anticipate market shifts before they become obvious.
+tags:
+- weak-signal-horizon
+- positional
+- sensing
+- anticipation
+- foresight
+- market shifts
+- patterns
+- signals
+authors:
+- dave-hulbert
+stages:
+- Genesis
+- Custom-Built
+goals:
+- Shape the market
+- Unlock new growth
+- Reduce legacy drag
+pressures:
+- Market is nascent or undefined
+- Need to go faster than internal bureaucracy
+- Limited resources or capacity
+leadership_focus:
+- Data instrumentation
+- Learning culture
+- Long-horizon roadmapping
+quick_signals:
+- Your strategy process relies on lagging indicators instead of leading ones.
+- Front-line teams spot emerging behaviours but struggle to get executive attention.
+- Competitors consistently move first when new patterns emerge.
+momentum_moves:
+- Establish a cross-functional sensing cadence that reviews anomalies and trends.
+- Run lightweight experiments to validate weak signals before scaling.
+- Translate signal insights into scenario plans and investment options.
+watch_outs:
+- Drowning in noise because criteria for meaningful signals are unclear.
+- Using sensing as theatre without committing resources when evidence appears.
+- Treating sensing as a centralised function instead of embedding it in teams.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Detecting subtle economic, technological, and behavioural patterns to anticipate market shifts before they become obvious.**

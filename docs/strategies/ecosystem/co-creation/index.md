@@ -1,8 +1,46 @@
 ---
 title: Co-creation
-description: A strategy of actively involving customers or users in the product development process to create more valuable and user-centric solutions.
-tags: [ecosystem, collaboration, user-involvement, customer-feedback, innovation, community, open-innovation]
-authors: [dave-hulbert]
+description: A strategy of actively involving customers or users in the product development
+  process to create more valuable and user-centric solutions.
+tags:
+- ecosystem
+- collaboration
+- user-involvement
+- customer-feedback
+- innovation
+- community
+- open-innovation
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Build ecosystem leverage
+- Accelerate adoption
+- Unlock new growth
+pressures:
+- Ecosystem fragmentation
+- Market is nascent or undefined
+- Limited resources or capacity
+leadership_focus:
+- Community stewardship
+- Experience design
+- Learning culture
+quick_signals:
+- Users already hack together workarounds or share their own enhancements.
+- Your roadmap lags behind demand because insight and capacity are limited.
+- Communities form around the product without formal support from you.
+momentum_moves:
+- Create structured programmes where users can submit ideas and prototypes.
+- Provide tooling, APIs, and documentation that lower the barrier to contribution.
+- Highlight co-created wins publicly to celebrate contributors and attract more.
+watch_outs:
+- Ignoring contributor feedback once the programme launches.
+- Allowing governance gaps that let a few voices dominate the community.
+- Failing to integrate co-created work into your core offering.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

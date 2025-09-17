@@ -1,8 +1,45 @@
 ---
 title: Brand and Marketing
 description: Using traditional marketing and brand positioning to shape user perception.
-tags: [brand-and-marketing, user-perception, branding, marketing, positioning, customer loyalty, messaging]
-authors: [dave-hulbert]
+tags:
+- brand-and-marketing
+- user-perception
+- branding
+- marketing
+- positioning
+- customer loyalty
+- messaging
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Change the narrative
+- Accelerate adoption
+- Defend your position
+pressures:
+- Customers are nervous about change
+- Competitive attack underway
+- Facing dominant incumbent
+leadership_focus:
+- Narrative building
+- Storytelling
+- Experience design
+quick_signals:
+- Customers struggle to articulate what makes you different despite feature parity.
+- Sales cycles stall because buyers lack emotional or social proof.
+- Competitors own the mindshare even when your offer outperforms on value.
+momentum_moves:
+- Clarify the brand promise and embed it across campaigns and customer touchpoints.
+- Invest in signature experiences that make the story tangible.
+- Activate advocates and influencers who personify the brand narrative.
+watch_outs:
+- Overpromising in campaigns and underdelivering in the product.
+- Relying on vanity metrics instead of behaviour changes.
+- Ignoring segments that do not resonate with the chosen narrative.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Using traditional marketing and brand positioning to shape user perception.**

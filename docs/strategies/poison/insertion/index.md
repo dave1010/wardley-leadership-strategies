@@ -1,8 +1,43 @@
 ---
-tags: [poison, sabotage, influence, misdirection, competitor-manipulation]
+tags:
+- poison
+- sabotage
+- influence
+- misdirection
+- competitor-manipulation
+title: Insertion
+description: "Embedding agents or narratives inside a rival\u2019s ecosystem to steer\
+  \ them toward poor choices."
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Change the narrative
+- Shape the market
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Secrecy and timing
+- Risk framing
+- Influencer engagement
+quick_signals:
+- You rely on intelligence channels that could subtly influence rival decisions.
+- Competitors chase every rumour about your moves, showing susceptibility.
+- "You have trusted insiders or partners close to the rival\u2019s planning cycles."
+momentum_moves:
+- Identify decision forums in the competitor organisation you can credibly influence.
+- Plant narratives that encourage overcommitment to low-yield initiatives.
+- Establish cover stories and compartmentalise knowledge to protect the operation.
+watch_outs:
+- Crossing legal or ethical boundaries that expose you to severe penalties.
+- "Underestimating the rival\u2019s ability to detect and purge the insertion."
+- Becoming reliant on manipulation instead of improving your own offer.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
-
-# Insertion
 
 **Embedding agents or narratives to covertly steer competitors into suboptimal strategic decisions.**
 

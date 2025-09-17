@@ -1,8 +1,46 @@
 ---
 title: Two-Sided Markets
-description: Creating a platform that brings together two distinct groups of users (e.g., buyers and sellers) to create value through network effects.
-tags: [ecosystem, platform, marketplace, network-effects, providers, consumers, data-aggregation]
-authors: [dave-hulbert]
+description: Creating a platform that brings together two distinct groups of users
+  (e.g., buyers and sellers) to create value through network effects.
+tags:
+- ecosystem
+- platform
+- marketplace
+- network-effects
+- providers
+- consumers
+- data-aggregation
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Build ecosystem leverage
+- Unlock new growth
+- Accelerate adoption
+pressures:
+- Ecosystem fragmentation
+- Market is nascent or undefined
+- Facing dominant incumbent
+leadership_focus:
+- Two-sided marketplace management
+- Incentive design
+- Data instrumentation
+quick_signals:
+- Each side of your market hesitates to join without proof the other side is present.
+- Existing intermediaries fail to match supply and demand efficiently.
+- You can subsidise one side long enough to spark a self-sustaining loop.
+momentum_moves:
+- Sequence onboarding so the scarcest side receives high-touch support.
+- Design incentives and trust mechanisms that keep both sides engaged.
+- Instrument the matching process to identify and fix cold-start gaps quickly.
+watch_outs:
+- Growing one side without ensuring quality, triggering negative network effects.
+- Treating all participants the same instead of curating for balance.
+- Failing to adapt governance as the marketplace scales.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

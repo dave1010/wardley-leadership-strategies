@@ -1,8 +1,46 @@
 ---
 title: Embrace and Extend
-description: A strategy to gain market dominance by first adopting a widely used standard, then adding proprietary extensions to create a lock-in effect.
-tags: [ecosystem, standards, competition, dominance, proprietary-extensions, lock-in, microsoft]
-authors: [dave-hulbert]
+description: A strategy to gain market dominance by first adopting a widely used standard,
+  then adding proprietary extensions to create a lock-in effect.
+tags:
+- ecosystem
+- standards
+- competition
+- dominance
+- proprietary-extensions
+- lock-in
+- microsoft
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Build ecosystem leverage
+- Defend your position
+- Shape the market
+pressures:
+- Facing dominant incumbent
+- Ecosystem fragmentation
+- Competitive attack underway
+leadership_focus:
+- Platform stewardship
+- Standard stewardship
+- Narrative control
+quick_signals:
+- An open standard dominates but lacks advanced capabilities users crave.
+- You can ship compatible extensions faster than rivals can standardise them.
+- Developers or partners already rely on your tooling despite official standards.
+momentum_moves:
+- Launch a fully compatible baseline that removes friction for adopters.
+- Introduce proprietary enhancements that solve high-value pain points.
+- Invest in developer support so the ecosystem defaults to your extensions.
+watch_outs:
+- Breaking compatibility so early that trust evaporates.
+- Triggering regulatory scrutiny for anti-competitive tying.
+- Failing to sustain the extended platform and stranding adopters.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

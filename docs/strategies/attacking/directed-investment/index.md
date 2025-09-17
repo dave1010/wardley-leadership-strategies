@@ -1,8 +1,46 @@
 ---
 title: Directed Investment
-description: Making a targeted, venture-capital-style investment in a future change or emerging area to outpace rivals and seize first-mover advantage.
-tags: [directed-investment, attacking, investment, innovation, strategic-bets, disruption, first-mover]
-authors: [dave-hulbert]
+description: Making a targeted, venture-capital-style investment in a future change
+  or emerging area to outpace rivals and seize first-mover advantage.
+tags:
+- directed-investment
+- attacking
+- investment
+- innovation
+- strategic-bets
+- disruption
+- first-mover
+authors:
+- dave-hulbert
+stages:
+- Genesis
+- Custom-Built
+goals:
+- Accelerate adoption
+- Unlock new growth
+- Shape the market
+pressures:
+- Facing dominant incumbent
+- Competitive attack underway
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Disciplined portfolio management
+- Launch choreography
+- Learning culture
+quick_signals:
+- Your mapping reveals an impending shift where incumbents lack a credible response.
+- Capital is available but incremental projects keep diluting strategic focus.
+- You can assemble the specialist talent or assets required before rivals can react.
+momentum_moves:
+- Ring-fence a skunkworks team with clear executive sponsorship.
+- Define staged funding milestones tied to evidence of traction and learning.
+- Co-design early pilots with lead customers to validate the new direction.
+watch_outs:
+- Spreading investment thin across pet projects instead of doubling down.
+- Failing to transition validated ideas into mainstream delivery.
+- Betting on hype cycles without evidence of user demand.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 **Making a bold, focused investment in a specific future change or emerging area to seize advantage before others move.**

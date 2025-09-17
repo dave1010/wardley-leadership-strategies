@@ -1,7 +1,47 @@
 ---
 title: Lobbying
-description: Influencing government or regulatory bodies to shape the environment in your favour, often as a precursor to regulation or limitation of competition.
-tags: [user-perception, lobbying, regulation, policy, influence, government-relations, alliances, standards, defensive, counterplay]
+description: Influencing government or regulatory bodies to shape the environment
+  in your favour, often as a precursor to regulation or limitation of competition.
+tags:
+- user-perception
+- lobbying
+- regulation
+- policy
+- influence
+- government-relations
+- alliances
+- standards
+- defensive
+- counterplay
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Shape the market
+- Change the narrative
+- Secure long-term investment
+pressures:
+- Regulatory or policy leverage available
+- Competitive attack underway
+- Facing dominant incumbent
+leadership_focus:
+- Policy advocacy
+- Coalition building
+- Narrative building
+quick_signals:
+- Pending legislation or standards could redefine your competitive position.
+- Competitors visibly invest in government relations while you remain reactive.
+- Public sentiment aligns with arguments you can credibly champion.
+momentum_moves:
+- Map stakeholders, timelines, and decision points across the policy landscape.
+- Build coalitions that connect your goals to shared public outcomes.
+- Prepare evidence and narratives that frame your position as the responsible choice.
+watch_outs:
+- Appearing transactional and eroding trust with policymakers.
+- Investing in influence without aligning your operations to deliver on promises.
+- Neglecting transparency obligations that could expose conflicts of interest.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Influencing government or regulatory bodies to shape the environment in your favour, often by aligning with user or public interest.**

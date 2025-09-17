@@ -1,8 +1,44 @@
 ---
 title: Patents & Intellectual Property Rights
-description: Use patents and other IP rights to legally fence competitors and slow their technological progress.
-tags: [decelerators, ipr, intellectual-property, patents, licensing]
-authors: [dave-hulbert]
+description: Use patents and other IP rights to legally fence competitors and slow
+  their technological progress.
+tags:
+- decelerators
+- ipr
+- intellectual-property
+- patents
+- licensing
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Secure long-term investment
+- Shape the market
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Regulatory or policy leverage available
+leadership_focus:
+- Disciplined portfolio management
+- Policy advocacy
+- Secrecy and timing
+quick_signals:
+- Competitors file overlapping patents that crowd your differentiation.
+- Investors question the defensibility of your innovation pipeline.
+- Standards bodies debate IP terms that could lock you out.
+momentum_moves:
+- Audit existing IP assets and identify gaps around critical components.
+- File continuation or defensive patents that reinforce your strategic positions.
+- Design licensing frameworks that monetise access while setting usage boundaries.
+watch_outs:
+- Over-aggressive enforcement that provokes countersuits or regulatory backlash.
+- Patent filings that outpace real innovation and create a false sense of security.
+- IP spend draining focus from evolving the underlying product.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Use patents and other intellectual property rights to legally fence competitors and slow their technological progress.**

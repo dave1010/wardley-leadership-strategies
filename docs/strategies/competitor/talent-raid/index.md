@@ -1,8 +1,47 @@
 ---
 title: Talent Raid
 description: Removing or absorbing key talent from a rival organisation.
-tags: [talent-raid, competitor, talent, human resources, acquisition, poaching, expertise, weakening rivals]
-authors: [dave-hulbert]
+tags:
+- talent-raid
+- competitor
+- talent
+- human resources
+- acquisition
+- poaching
+- expertise
+- weakening rivals
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Unlock new growth
+- Secure long-term investment
+pressures:
+- Talent scarcity
+- Competitive attack underway
+- Facing dominant incumbent
+leadership_focus:
+- Talent redeployment
+- Trust-building
+- Secrecy and timing
+quick_signals:
+- Critical initiatives stall because you lack senior expertise competitors already
+  have.
+- Retention data shows your best people being targeted by the same rival.
+- "The competitor\u2019s success hinges on a small cohort of visible specialists."
+momentum_moves:
+- Identify mission-critical roles and craft tailored offers or acqui-hire options.
+- Prepare onboarding and cultural integration plans so new hires deliver impact quickly.
+- Sequence communications to respect legal boundaries while signalling strength.
+watch_outs:
+- Triggering talent wars that inflate compensation beyond sustainable levels.
+- Neglecting your existing teams and creating resentment or attrition.
+- Underestimating non-compete obligations or ethical recruiting standards.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Removing or absorbing key talent from a rival organization**.

@@ -1,8 +1,47 @@
 ---
 title: Harvesting
-description: Scaling innovation by observing a platform's ecosystem, identifying successful third-party offerings, and then acquiring, replicating, or integrating them.
-tags: [markets, ecosystem, innovation, scaling, acquisition, replication, platform-strategy, sensing-engine]
-authors: [dave-hulbert]
+description: Scaling innovation by observing a platform's ecosystem, identifying successful
+  third-party offerings, and then acquiring, replicating, or integrating them.
+tags:
+- markets
+- ecosystem
+- innovation
+- scaling
+- acquisition
+- replication
+- platform-strategy
+- sensing-engine
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Shape the market
+- Unlock new growth
+- Build ecosystem leverage
+pressures:
+- Ecosystem fragmentation
+- Limited resources or capacity
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Ecosystem cultivation
+- Data instrumentation
+- Disciplined portfolio management
+quick_signals:
+- Third-party offerings on your platform repeatedly solve the same user pain.
+- Customers expect native support for capabilities currently delivered by partners.
+- You struggle to prioritise innovation because evidence is scattered.
+momentum_moves:
+- Instrument ecosystem usage to spot breakout adoption patterns quickly.
+- Create transparent harvesting criteria that balance partner trust and platform goals.
+- Offer acquisition, revenue share, or native integration paths to successful partners.
+watch_outs:
+- Harvesting without rewarding partners, discouraging future investment.
+- Integrating features without matching the quality users loved originally.
+- Letting the sensing engine become bureaucratic and slow.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

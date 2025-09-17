@@ -1,8 +1,47 @@
 ---
 title: Signal Distortion
-description: Manipulating market signals to mislead competitors and influence their strategic decisions.
-tags: [markets, perception, information-warfare, competitor, influence, hype, signals, misdirection]
-authors: [dave-hulbert]
+description: Manipulating market signals to mislead competitors and influence their
+  strategic decisions.
+tags:
+- markets
+- perception
+- information-warfare
+- competitor
+- influence
+- hype
+- signals
+- misdirection
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Change the narrative
+- Defend your position
+- Shape the market
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Market is nascent or undefined
+leadership_focus:
+- Narrative control
+- Secrecy and timing
+- Influencer engagement
+quick_signals:
+- Competitors obsess over analyst chatter rather than direct user feedback.
+- You need breathing room to launch a real initiative without immediate scrutiny.
+- Market hype swings valuations or investment flows with little substance.
+momentum_moves:
+- Seed stories and data points that steer analysts toward your preferred narrative.
+- Synchronise executive messaging to reinforce the distorted signal.
+- Monitor competitor responses and adjust the decoy story to keep them chasing.
+watch_outs:
+- Losing credibility with customers or regulators when truth emerges.
+- Confusing your own teams about what really matters.
+- Overinvesting in theatre instead of real capability.
+effort_level: Cross-Functional Initiative
+time_horizon: Fast impact
 ---
 
 

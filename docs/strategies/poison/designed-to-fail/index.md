@@ -1,9 +1,44 @@
 ---
-tags: [poison, denial, sabotage, ecosystem-manipulation]
-authors: [dave-hulbert]
+tags:
+- poison
+- denial
+- sabotage
+- ecosystem-manipulation
+authors:
+- dave-hulbert
+title: Designed to Fail
+description: Intentionally launching flawed initiatives to poison a potential market
+  before rivals can benefit.
+stages:
+- Genesis
+- Custom-Built
+goals:
+- Defend your position
+- Change the narrative
+- Shape the market
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Market is nascent or undefined
+leadership_focus:
+- Secrecy and timing
+- Narrative control
+- Risk framing
+quick_signals:
+- An emerging market threatens to redefine your core business before you're ready.
+- Analysts and investors chase hype despite weak evidence of viability.
+- You can influence early adopters or standards before they consolidate.
+momentum_moves:
+- Craft a plausible offer that sets unrealistic expectations for the space.
+- Seed the initiative with messaging that emphasises unresolved risks.
+- Monitor uptake closely so you can retire the play once momentum stalls.
+watch_outs:
+- Damaging your brand if the failure is traced back to you.
+- Inadvertently validating the market if users hack the flawed offer into success.
+- Distracting your teams from real strategic priorities.
+effort_level: Cross-Functional Initiative
+time_horizon: Fast impact
 ---
-
-# Designed to Fail
 
 **Intentionally launching flawed initiatives to occupy, fragment, or poison a market before it can pose a threat.**
 

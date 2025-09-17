@@ -1,8 +1,48 @@
 ---
 title: Press Release Process
-description: Using Amazon's "working backwards" method to ensure clarity of vision and market fit.
-tags: [press-release-process, attacking, marketing, product development, working backwards, customer focus, amazon, clarity]
-authors: [dave-hulbert]
+description: Using Amazon's "working backwards" method to ensure clarity of vision
+  and market fit.
+tags:
+- press-release-process
+- attacking
+- marketing
+- product development
+- working backwards
+- customer focus
+- amazon
+- clarity
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Accelerate adoption
+- Unlock new growth
+- Change the narrative
+pressures:
+- Need to go faster than internal bureaucracy
+- Customers are nervous about change
+- Competitive attack underway
+leadership_focus:
+- Narrative building
+- Launch choreography
+- Learning culture
+quick_signals:
+- Teams struggle to articulate why their initiative matters to users.
+- Roadmaps sprawl because no one agrees on the user-facing outcome.
+- Competitive launches keep owning the story before your teams can respond.
+momentum_moves:
+- Facilitate working-backwards sessions with cross-functional teams to define the
+  target press release.
+- Use the FAQ to expose risky assumptions and trigger discovery work.
+- Socialise the vision artefacts so enabling teams can align dependencies early.
+watch_outs:
+- Treating the artefacts as theatre without changing investment choices.
+- Locking the story too early and ignoring evidence from research.
+- Letting the press release drift away from actual delivery capability.
+effort_level: Cross-Functional Initiative
+time_horizon: Fast impact
 ---
 
 **Use Amazon’s “working backwards” method as a strategic tool to clarify user needs and accelerate industrialisation of evolved components.**

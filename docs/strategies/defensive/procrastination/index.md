@@ -1,8 +1,46 @@
 ---
 title: Procrastination
-description: A defensive strategy of deliberately waiting for competitors to bear the costs and risks of developing a new market or technology before entering.
-tags: [defensive, waiting, fast-follower, risk-mitigation, cost-reduction, observation, second-mover-advantage]
-authors: [dave-hulbert]
+description: A defensive strategy of deliberately waiting for competitors to bear
+  the costs and risks of developing a new market or technology before entering.
+tags:
+- defensive
+- waiting
+- fast-follower
+- risk-mitigation
+- cost-reduction
+- observation
+- second-mover-advantage
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Stabilise operations
+- Secure long-term investment
+- Defend your position
+pressures:
+- Limited resources or capacity
+- Need to go faster than internal bureaucracy
+- Customers are nervous about change
+leadership_focus:
+- Disciplined portfolio management
+- Market segmentation
+- Risk framing
+quick_signals:
+- You lack evidence that early adopters will pay for the emerging offer.
+- Competitors absorb heavy R&D costs while unit economics remain unclear.
+- Your current portfolio still delivers returns but shows signs of future plateau.
+momentum_moves:
+- Instrument the market so you know when adoption crosses meaningful thresholds.
+- Prepare modular capabilities you can scale quickly once timing is right.
+- Keep exploratory teams small and focused on intelligence rather than full builds.
+watch_outs:
+- Waiting so long that switching costs become insurmountable.
+- Letting complacency erode skills needed for the eventual entry.
+- Underestimating the story you'll need to explain the late move.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

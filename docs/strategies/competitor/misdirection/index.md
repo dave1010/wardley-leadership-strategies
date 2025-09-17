@@ -1,6 +1,45 @@
 ---
 title: Misdirection
-tags: [misdirection, competitor, deception, assumptions, signals, influence, competitor intelligence]
+tags:
+- misdirection
+- competitor
+- deception
+- assumptions
+- signals
+- influence
+- competitor intelligence
+description: Deliberately misleading rivals about your intent to buy time or redirect
+  them toward less valuable moves.
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Shape the market
+- Change the narrative
+pressures:
+- Facing dominant incumbent
+- Competitive attack underway
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Narrative control
+- Secrecy and timing
+- Selective openness
+quick_signals:
+- Competitors shadow your moves closely and react to every announcement.
+- You need breathing space to mature a genuine initiative without interference.
+- Market chatter easily shifts based on hints from your leadership team.
+momentum_moves:
+- Craft decoy narratives backed by plausible but low-risk signals.
+- Coordinate communications so every channel reinforces the misdirection.
+- Monitor competitor behaviour to ensure the feint lands before revealing your real
+  play.
+watch_outs:
+- Confusing your own teams with the decoy story and slowing actual delivery.
+- Damaging trust with customers or regulators if the feint crosses ethical lines.
+- Overusing deception and training competitors to ignore your signals.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Deliberately sending false or misleading signals to competitors to obscure your true intentions**.

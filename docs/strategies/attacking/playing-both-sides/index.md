@@ -1,8 +1,46 @@
 ---
 title: Playing Both Sides
-description: Profiting from or hedging by engaging with two opposing sides in a market or standards war, so that whichever side wins, you benefit.
-tags: [attacking, markets, standards, arbitrage, uncertainty, hedging, neutrality]
-authors: [dave-hulbert]
+description: Profiting from or hedging by engaging with two opposing sides in a market
+  or standards war, so that whichever side wins, you benefit.
+tags:
+- attacking
+- markets
+- standards
+- arbitrage
+- uncertainty
+- hedging
+- neutrality
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Build ecosystem leverage
+- Defend your position
+- Shape the market
+pressures:
+- Facing dominant incumbent
+- Ecosystem fragmentation
+- Market is nascent or undefined
+leadership_focus:
+- Partner choreography
+- Risk framing
+- Selective openness
+quick_signals:
+- Customers demand compatibility with rival standards you cannot ignore.
+- Ecosystem partners hedge their bets instead of committing to a single platform.
+- Regulators or buyers push for neutrality to avoid lock-in.
+momentum_moves:
+- Design modular offerings so shared components serve each camp without rework.
+- Establish governance that keeps data and insights firewalled between competing efforts.
+- Invest in messaging that frames you as the trusted neutral enabler.
+watch_outs:
+- Spreading resources so thin that neither side receives a competitive experience.
+- Accidentally leaking insight that erodes trust with one of the camps.
+- Being perceived as disloyal and getting squeezed out by both sides.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

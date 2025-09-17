@@ -1,8 +1,46 @@
 ---
 title: Managing Inertia
-description: A defensive strategy focused on proactively identifying and overcoming an organization's internal resistance to change to enable adaptation and agility.
-tags: [defensive, inertia, change-management, adaptation, organizational-change, resistance, culture]
-authors: [dave-hulbert]
+description: A defensive strategy focused on proactively identifying and overcoming
+  an organization's internal resistance to change to enable adaptation and agility.
+tags:
+- defensive
+- inertia
+- change-management
+- adaptation
+- organizational-change
+- resistance
+- culture
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Reduce legacy drag
+- Stabilise operations
+- Unlock new growth
+pressures:
+- Legacy system drag
+- Need to go faster than internal bureaucracy
+- Customers are nervous about change
+leadership_focus:
+- Change management
+- Learning culture
+- Empowered teams
+quick_signals:
+- Critical initiatives stall because leaders cling to the old operating model.
+- Maps highlight components that should evolve, yet budgets stay locked in maintenance.
+- Employees voice fatigue from decision bottlenecks and conflicting priorities.
+momentum_moves:
+- Expose inertia explicitly on maps and review boards so leaders see the drag.
+- Create empowered, cross-functional cells to prove alternative ways of working.
+- Reward teams for retiring legacy processes as much as for launching new features.
+watch_outs:
+- Framing inertia as a people problem instead of addressing structural blockers.
+- Launching transformation theatre without sustained sponsorship.
+- Failing to give teams the skills and support needed to operate differently.
+effort_level: Enterprise Transformation
+time_horizon: Medium-term shaping
 ---
 
 **A defensive strategy focused on proactively identifying and overcoming an organization's internal resistance to change to enable adaptation and agility.**

@@ -1,8 +1,49 @@
 ---
 title: Fool's Mate
-description: A swift, often uncounterable strategic move that exploits a poorly understood or defended component in an opponent's value chain to cause cascading failure or commoditization.
-tags: [attacking, industrialization, commoditisation, constraint, surprise, chess, disruption, value chain, asymmetric warfare]
-authors: [dave-hulbert]
+description: A swift, often uncounterable strategic move that exploits a poorly understood
+  or defended component in an opponent's value chain to cause cascading failure or
+  commoditization.
+tags:
+- attacking
+- industrialization
+- commoditisation
+- constraint
+- surprise
+- chess
+- disruption
+- value chain
+- asymmetric warfare
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Shape the market
+- Accelerate adoption
+pressures:
+- Facing dominant incumbent
+- Competitive attack underway
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Secrecy and timing
+- Risk framing
+- Narrative control
+quick_signals:
+- Your mapping exposes a linchpin component your rival assumes will stay proprietary.
+- You can industrialise a bottleneck faster than incumbents can reorganise.
+- Customers already resent the friction created by that hidden dependency.
+momentum_moves:
+- Prototype an open, commoditised alternative and stress-test it with lead adopters.
+- Line up ecosystem supporters ready to switch once the component becomes abundant.
+- Sequence communications to control the reveal and deny rivals reaction time.
+watch_outs:
+- "Misjudging the component\u2019s importance and tipping resources into a dead end."
+- Triggering retaliation before your alternative is ready to absorb demand.
+- Underestimating the operational lift required to maintain the commoditised service.
+effort_level: Cross-Functional Initiative
+time_horizon: Fast impact
 ---
 
 **A fast, nearly uncounterable strategic move leveraging a constraint to force the "industrialization" (commoditization) of a higher-order system.**

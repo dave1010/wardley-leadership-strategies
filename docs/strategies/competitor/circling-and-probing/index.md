@@ -1,6 +1,45 @@
 ---
 title: Circling and Probing
-tags: [circling-and-probing, competitor, circling, probing, exploration, experimentation, market testing, intelligence]
+tags:
+- circling-and-probing
+- competitor
+- circling
+- probing
+- exploration
+- experimentation
+- market testing
+- intelligence
+description: Testing competitor territory with small experiments to gather intelligence
+  before committing heavy investment.
+stages:
+- Genesis
+- Custom-Built
+goals:
+- Unlock new growth
+- Shape the market
+- Defend your position
+pressures:
+- Facing dominant incumbent
+- Competitive attack underway
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Learning culture
+- Deep user insight
+- Disciplined portfolio management
+quick_signals:
+- You lack real data on how competitors respond to new offerings.
+- Senior leaders debate offensive moves without evidence from the field.
+- Maps highlight attractive spaces but confidence is low about demand.
+momentum_moves:
+- Launch low-risk experiments in adjacent segments to observe reactions.
+- Instrument probes to capture competitor response time and customer feedback.
+- Use findings to refine larger plays or decide where not to invest.
+watch_outs:
+- Treating probes as vanity experiments with no learning loop.
+- Provoking competitors without the capacity to follow through.
+- Misinterpreting noisy signals and drawing the wrong conclusions.
+effort_level: Lean Experiment
+time_horizon: Fast impact
 ---
 
 

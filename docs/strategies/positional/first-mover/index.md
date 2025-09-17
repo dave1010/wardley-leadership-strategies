@@ -1,8 +1,48 @@
 ---
 title: First Mover
-description: Establishing a dominant position by industrialising or standardising a component before others.
-tags: [first-mover, positional, timing, commoditisation, advantage, ecosystem, scale]
-authors: [dave-hulbert]
+description: Establishing a dominant position by industrialising or standardising
+  a component before others.
+tags:
+- first-mover
+- positional
+- timing
+- commoditisation
+- advantage
+- ecosystem
+- scale
+authors:
+- dave-hulbert
+stages:
+- Genesis
+- Custom-Built
+- Product
+goals:
+- Shape the market
+- Accelerate adoption
+- Build ecosystem leverage
+pressures:
+- Market is nascent or undefined
+- Facing dominant incumbent
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Launch choreography
+- Standard stewardship
+- Partner choreography
+quick_signals:
+- You see a component ripe for industrialisation before competitors commit.
+- You can marshal capital and talent to set the standard quickly.
+- Early customers ask for a reliable provider even if it costs more initially.
+momentum_moves:
+- Define and publish the reference architecture or service level everyone else will
+  follow.
+- Secure flagship customers or partners who confer credibility.
+- Invest in scalable operations to handle demand spikes once the market tips.
+watch_outs:
+- Misjudging timing and industrialising before demand exists.
+- Neglecting ecosystem incentives so rivals create a better standard.
+- Overextending financially before the model stabilises.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 **Establishing a dominant position by industrialising or standardising a component before others.**

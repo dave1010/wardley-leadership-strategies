@@ -1,8 +1,45 @@
 ---
 title: Platform Envelopment
-description: A platform provider expands its market influence by integrating or bundling functionality of another platform, or by directly competing with its own users.
-tags: [platform-envelopment, ecosystem, platform, bundling, absorption, integration]
-authors: [dave-hulbert]
+description: A platform provider expands its market influence by integrating or bundling
+  functionality of another platform, or by directly competing with its own users.
+tags:
+- platform-envelopment
+- ecosystem
+- platform
+- bundling
+- absorption
+- integration
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Build ecosystem leverage
+- Unlock new growth
+- Defend your position
+pressures:
+- Competitive attack underway
+- Ecosystem fragmentation
+- Facing dominant incumbent
+leadership_focus:
+- Platform stewardship
+- Disciplined portfolio management
+- Narrative control
+quick_signals:
+- Adjacent services on your platform capture outsized value from your user base.
+- Partners monetise core experiences you could deliver more seamlessly.
+- Customers ask for integrated journeys rather than stitching offerings themselves.
+momentum_moves:
+- Analyse platform data to spot services with the highest attachment and margins.
+- Offer native alternatives with preferential placement or pricing.
+- Provide migration paths so users can adopt the bundled service without friction.
+watch_outs:
+- Alienating developers or sellers whose businesses you absorb.
+- Triggering regulatory action for self-preferencing your own services.
+- Overextending operationally and degrading the core platform experience.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 
