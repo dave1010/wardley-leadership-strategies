@@ -1,8 +1,48 @@
 ---
 title: Tower and Moat
-description: Establishing a dominant position in a future market (the Tower) and building defensive barriers (the Moat) to prevent competition.
-tags: [ecosystem, dominance, defensive, barriers-to-entry, platform, network-effects, commoditisation, innovate-leverage-commoditize]
-authors: [dave-hulbert]
+description: Establishing a dominant position in a future market (the Tower) and building
+  defensive barriers (the Moat) to prevent competition.
+tags:
+- ecosystem
+- dominance
+- defensive
+- barriers-to-entry
+- platform
+- network-effects
+- commoditisation
+- innovate-leverage-commoditize
+authors:
+- dave-hulbert
+stages:
+- Genesis
+- Custom-Built
+- Product
+goals:
+- Build ecosystem leverage
+- Secure long-term investment
+- Shape the market
+pressures:
+- Facing dominant incumbent
+- Market is nascent or undefined
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Long-horizon roadmapping
+- Platform stewardship
+- Incentive design
+quick_signals:
+- You can see a future bottleneck forming where no player yet dominates.
+- Your organisation has the capital and patience to invest ahead of market demand.
+- Adjacent ecosystems look for a neutral leader to set standards.
+momentum_moves:
+- Invest early in the infrastructure or capability that will anchor the future tower.
+- Commoditise surrounding differentiators so rivals struggle to build alternatives.
+- Design incentive programmes that attract partners to commit before the market tips.
+watch_outs:
+- Betting on a tower that never becomes essential.
+- Neglecting short-term performance while chasing the far horizon.
+- Building a moat that alienates partners you need for scale.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

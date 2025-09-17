@@ -1,8 +1,45 @@
 ---
 title: Threat Acquisition
-description: A defensive strategy where a company acquires a potential competitor to neutralize a threat and maintain market position.
-tags: [defensive, acquisition, competition, market-consolidation, mergers, neutralization]
-authors: [dave-hulbert]
+description: A defensive strategy where a company acquires a potential competitor
+  to neutralize a threat and maintain market position.
+tags:
+- defensive
+- acquisition
+- competition
+- market-consolidation
+- mergers
+- neutralization
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Secure long-term investment
+- Unlock new growth
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Disciplined portfolio management
+- Talent redeployment
+- Risk framing
+quick_signals:
+- A fast-growing rival begins eroding your core metrics.
+- Investors or partners pressure you to respond to a disruptive entrant.
+- "You cannot replicate the rival\u2019s capability quickly enough internally."
+momentum_moves:
+- Set clear acquisition criteria tied to strategic gaps you must close.
+- Plan integration options ranging from full absorption to independent operation.
+- Establish guardrails to preserve the acquired team's momentum post-deal.
+watch_outs:
+- Overpaying because the acquisition is the only strategy you prepared.
+- Crushing the acquired culture and losing the very talent you needed.
+- Inviting antitrust scrutiny by eliminating competition without delivering user benefits.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

@@ -1,8 +1,44 @@
 ---
 title: Confusion of Choice
-description: Overwhelming customers with too many options or complex choices so that making a rational decision becomes difficult.
-tags: [user-perception, choice overload, complexity, inertia, comparison prevention]
-authors: [dave-hulbert]
+description: Overwhelming customers with too many options or complex choices so that
+  making a rational decision becomes difficult.
+tags:
+- user-perception
+- choice overload
+- complexity
+- inertia
+- comparison prevention
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Change the narrative
+- Stabilise operations
+pressures:
+- Customers are nervous about change
+- Competitive attack underway
+- Facing dominant incumbent
+leadership_focus:
+- Pricing and packaging strategy
+- Narrative control
+- Experience design
+quick_signals:
+- Customers default to your legacy offer when presented with too much detail.
+- Churn spikes whenever rivals present simple comparisons.
+- Your catalogue already contains numerous variants with minimal differentiation.
+momentum_moves:
+- Design option sets intentionally to anchor buyers toward preferred choices.
+- Train front-line teams to guide conversations without revealing easy comparisons.
+- Continuously monitor competitor messaging to adjust the complexity dial.
+watch_outs:
+- Frustrating customers to the point they seek simpler alternatives.
+- Creating operational overhead managing SKUs nobody understands.
+- Drawing regulator attention for deceptive or confusing practices.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Overwhelming customers with too many options or complex choices so that making a rational decision becomes difficult.**

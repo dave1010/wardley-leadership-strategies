@@ -1,6 +1,44 @@
 ---
 title: Reinforcing Competitor Inertia
-tags: [reinforcing-competitor-inertia, competitor, inertia, change, resistance, obsolescence, innovation]
+tags:
+- reinforcing-competitor-inertia
+- competitor
+- inertia
+- change
+- resistance
+- obsolescence
+- innovation
+description: "Exploiting a rival\u2019s reluctance to change by pushing moves that\
+  \ deepen their commitment to the past."
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Shape the market
+- Unlock new growth
+pressures:
+- Facing dominant incumbent
+- Competitive attack underway
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Narrative building
+- Risk framing
+- Integrated roadmapping
+quick_signals:
+- Competitors double down on legacy offerings despite clear user migration.
+- Your discovery work shows customers ready to abandon the old model.
+- The rival dismisses new business models publicly even as metrics shift.
+momentum_moves:
+- Amplify customer stories that celebrate the emerging alternative.
+- Sequence launches that make switching progressively easier for the market.
+- Expose comparative data that forces the competitor to defend their old stance.
+watch_outs:
+- Confusing inertia with incompetence and underestimating a fast pivot.
+- Forgetting to keep improving once the competitor finally changes course.
+- Over-relying on rhetoric without delivering real user value.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Exploiting a competitor's reluctance or inability to change**.

@@ -1,8 +1,47 @@
 ---
 title: Education
-description: Educating the market or users to overcome their inertia to change by informing them of benefits or risks.
-tags: [education, user-perception, inertia, adoption, awareness, information, training]
-authors: [dave-hulbert]
+description: Educating the market or users to overcome their inertia to change by
+  informing them of benefits or risks.
+tags:
+- education
+- user-perception
+- inertia
+- adoption
+- awareness
+- information
+- training
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Accelerate adoption
+- Change the narrative
+- Stabilise operations
+pressures:
+- Customers are nervous about change
+- Need to go faster than internal bureaucracy
+- Competitive attack underway
+leadership_focus:
+- Narrative building
+- Experience design
+- Community stewardship
+quick_signals:
+- Users misunderstand the risk or value proposition and delay adoption.
+- Support teams spend disproportionate time correcting myths or misinformation.
+- Regulators or stakeholders demand proof that users know how to use the product safely.
+momentum_moves:
+- Develop tailored education journeys addressing the most common objections.
+- "Equip trusted voices\u2014partners, community leaders, frontline staff\u2014to\
+  \ deliver the message."
+- Measure behaviour change to refine the curriculum, not just awareness metrics.
+watch_outs:
+- "Delivering generic content that doesn\u2019t address real barriers."
+- Educating the market for competitors who move faster on execution.
+- Ignoring feedback that the programme feels patronising or out of touch.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Educating the market or users to overcome their inertia to change by informing them of benefits or risks.**

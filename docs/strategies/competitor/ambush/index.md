@@ -1,8 +1,47 @@
 ---
 title: Ambush
-description: Reactively undermining a specific competitor's progress or negating their advantage with a surprise strategic maneuver.
-tags: [competitor, surprise, reactive, undermining, market-play, disruption, counter-attack]
-authors: [dave-hulbert]
+description: Reactively undermining a specific competitor's progress or negating their
+  advantage with a surprise strategic maneuver.
+tags:
+- competitor
+- surprise
+- reactive
+- undermining
+- market-play
+- disruption
+- counter-attack
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Change the narrative
+- Accelerate adoption
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Secrecy and timing
+- Operational readiness
+- Narrative control
+quick_signals:
+- A rival prepares a high-profile launch that threatens your core revenue.
+- You have a mature asset you can reconfigure faster than the competitor can respond.
+- Channel or partner intelligence reveals a narrow window to derail their momentum.
+momentum_moves:
+- Package an aggressive counter-offer that lands before or alongside their announcement.
+- Align marketing, sales and delivery teams around a single disruptive response.
+- "Secure supply, distribution or licensing levers that block the competitor\u2019\
+  s rollout."
+watch_outs:
+- Telegraphing the move too early and giving the rival time to adapt.
+- Overextending discounts or bundles in ways that erode long-term value.
+- Focusing so much on the ambush that you neglect longer-term differentiation.
+effort_level: Cross-Functional Initiative
+time_horizon: Fast impact
 ---
 
 **Reactively undermining a specific competitor's progress or negating their advantage with a surprise strategic maneuver.**

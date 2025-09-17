@@ -1,8 +1,48 @@
 ---
 title: Value Chain Disaggregation and Re-aggregation
-description: Strategically breaking down and recombining value chain components to unlock new operating models and market opportunities.
-tags: [value chain, disaggregation, re-aggregation, dealing-with-toxicity, transformation, reorganization, strategic-shift, modularization]
-authors: [dave-hulbert]
+description: Strategically breaking down and recombining value chain components to
+  unlock new operating models and market opportunities.
+tags:
+- value chain
+- disaggregation
+- re-aggregation
+- dealing-with-toxicity
+- transformation
+- reorganization
+- strategic-shift
+- modularization
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Reduce legacy drag
+- Unlock new growth
+- Stabilise operations
+pressures:
+- Legacy system drag
+- Need to go faster than internal bureaucracy
+- Limited resources or capacity
+leadership_focus:
+- Change management
+- Architectural thinking
+- Disciplined portfolio management
+quick_signals:
+- Monolithic services slow every attempt to evolve the business model.
+- Teams reinvent similar capabilities because the existing platform cannot flex.
+- External partners offer modular components you could integrate instead of owning.
+momentum_moves:
+- Map the current value chain to identify components that can be separated safely.
+- Pilot modular replacements in a contained domain before scaling across the estate.
+- Establish governance that decides which capabilities you build, buy, or partner
+  for.
+watch_outs:
+- Fragmenting the experience without a clear plan to stitch it back together.
+- Creating new complexity faster than the organisation can absorb.
+- Ignoring the cultural shift needed to operate as a modular ecosystem.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

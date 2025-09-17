@@ -1,8 +1,47 @@
 ---
 title: Co-opting
-description: A strategy of adopting or mimicking a competitor's features, standards, or messaging to neutralize their advantage and attract their users.
-tags: [ecosystem, influence, absorption, competition, neutralization, standards, ecosystem-control, fast-follower]
-authors: [dave-hulbert]
+description: A strategy of adopting or mimicking a competitor's features, standards,
+  or messaging to neutralize their advantage and attract their users.
+tags:
+- ecosystem
+- influence
+- absorption
+- competition
+- neutralization
+- standards
+- ecosystem-control
+- fast-follower
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Build ecosystem leverage
+- Defend your position
+- Accelerate adoption
+pressures:
+- Competitive attack underway
+- Ecosystem fragmentation
+- Facing dominant incumbent
+leadership_focus:
+- Platform stewardship
+- Narrative control
+- Experience design
+quick_signals:
+- Users churn because a rival feature or standard feels indispensable.
+- "Partners demand integration with the competitor\u2019s ecosystem to stay relevant."
+- You can deliver the copied capability faster or at greater scale than the originator.
+momentum_moves:
+- Prioritise replication of the rival feature while improving onboarding to your platform.
+- Announce interoperability or compatibility that removes switching friction.
+- Use marketing to reposition the feature as table stakes available everywhere.
+watch_outs:
+- Copying without understanding the underlying user job-to-be-done.
+- Neglecting to differentiate once parity is achieved.
+- Triggering IP disputes if you ignore legal boundaries.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

@@ -1,8 +1,46 @@
 ---
 title: Pricing Policy
-description: Using pricing as a strategic tool to manipulate demand, shape markets, and gain competitive advantage.
-tags: [markets, pricing, elasticity, demand-manipulation, value-capture, commoditisation, fragmentation]
-authors: [dave-hulbert]
+description: Using pricing as a strategic tool to manipulate demand, shape markets,
+  and gain competitive advantage.
+tags:
+- markets
+- pricing
+- elasticity
+- demand-manipulation
+- value-capture
+- commoditisation
+- fragmentation
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Shape the market
+- Accelerate adoption
+- Defend your position
+pressures:
+- Competitive attack underway
+- Customers are nervous about change
+- Limited resources or capacity
+leadership_focus:
+- Pricing and packaging strategy
+- Market segmentation
+- Data instrumentation
+quick_signals:
+- You need to stimulate demand or throttle usage without major product changes.
+- Competitors undercut pricing narratives you historically owned.
+- Unit economics vary wildly across segments, hinting at better price architectures.
+momentum_moves:
+- Model elasticity scenarios that align pricing moves with strategic outcomes.
+- Run controlled experiments to validate willingness to pay across segments.
+- Align pricing, marketing, and sales playbooks to reinforce the new positioning.
+watch_outs:
+- Triggering a price war you cannot sustain.
+- Confusing customers with constant or opaque price changes.
+- Ignoring cost-to-serve differences and destroying margin.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

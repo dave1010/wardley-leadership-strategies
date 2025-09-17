@@ -1,8 +1,49 @@
 ---
 title: Innovate, Leverage, Commoditize (ILC)
-description: A cyclical strategy of using an ecosystem as a sensing engine to guide innovation and maintain market leadership.
-tags: [ecosystem, innovate-leverage-commoditize, ilc, innovate, platform, data, feedback-loop, ecosystem-monitoring, sensing-engine]
-authors: [dave-hulbert]
+description: A cyclical strategy of using an ecosystem as a sensing engine to guide
+  innovation and maintain market leadership.
+tags:
+- ecosystem
+- innovate-leverage-commoditize
+- ilc
+- innovate
+- platform
+- data
+- feedback-loop
+- ecosystem-monitoring
+- sensing-engine
+authors:
+- dave-hulbert
+stages:
+- Genesis
+- Custom-Built
+- Product
+goals:
+- Build ecosystem leverage
+- Unlock new growth
+- Shape the market
+pressures:
+- Market is nascent or undefined
+- Ecosystem fragmentation
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Ecosystem cultivation
+- Data instrumentation
+- Standard stewardship
+quick_signals:
+- Your platform attracts experimentation but you struggle to decide what to productise.
+- Ecosystem partners succeed faster than your internal teams can copy.
+- You lack telemetry that shows which extensions are gaining momentum.
+momentum_moves:
+- Instrument usage across the ecosystem to surface breakout patterns.
+- Create clear pathways for promoting partner innovations into the core platform.
+- Continuously communicate roadmap decisions so contributors see the flywheel working.
+watch_outs:
+- Commoditising partner innovations without rewarding or retaining them.
+- Letting bureaucracy slow the cycle until the ecosystem loses interest.
+- Failing to invest in the next wave while harvesting the current one.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

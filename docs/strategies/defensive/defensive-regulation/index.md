@@ -1,8 +1,47 @@
 ---
 title: Defensive Regulation
-description: A defensive strategy where an incumbent company uses government regulation and lobbying to create barriers to entry and hinder competitors.
-tags: [defensive, regulation, policy, lobbying, barriers-to-entry, incumbents, compliance, rent-seeking]
-authors: [dave-hulbert]
+description: A defensive strategy where an incumbent company uses government regulation
+  and lobbying to create barriers to entry and hinder competitors.
+tags:
+- defensive
+- regulation
+- policy
+- lobbying
+- barriers-to-entry
+- incumbents
+- compliance
+- rent-seeking
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Secure long-term investment
+- Shape the market
+pressures:
+- Competitive attack underway
+- Regulatory or policy leverage available
+- Customers are nervous about change
+leadership_focus:
+- Policy advocacy
+- Narrative control
+- Risk framing
+quick_signals:
+- New entrants threaten to bypass safeguards you spent years building.
+- Policy makers ask for clarity on safety, compliance, or consumer protection.
+- Lobbyists or trade groups invite incumbents to shape upcoming rules.
+momentum_moves:
+- Document public-interest arguments that justify higher standards.
+- Build coalitions with partners and regulators around shared safeguards.
+- Invest in compliance capabilities you can later turn into market differentiators.
+watch_outs:
+- Appearing self-serving and triggering regulatory backlash.
+- Stifling your own innovation while freezing competitors.
+- Assuming regulation alone will protect you without ongoing delivery excellence.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

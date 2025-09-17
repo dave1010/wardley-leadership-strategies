@@ -1,8 +1,45 @@
 ---
 title: Pig in a Poke
-description: Disguising toxic assets as valuable to offload risk before their true nature emerges.
-tags: [dealing-with-toxicity, pig-in-a-poke, deception, misrepresentation, exit-strategy, risk-mitigation]
-authors: [dave-hulbert]
+description: Disguising toxic assets as valuable to offload risk before their true
+  nature emerges.
+tags:
+- dealing-with-toxicity
+- pig-in-a-poke
+- deception
+- misrepresentation
+- exit-strategy
+- risk-mitigation
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Reduce legacy drag
+- Stabilise operations
+- Change the narrative
+pressures:
+- Legacy system drag
+- Limited resources or capacity
+- Customers are nervous about change
+leadership_focus:
+- Risk framing
+- Narrative control
+- Secrecy and timing
+quick_signals:
+- A business unit looks profitable only because issues are temporarily hidden.
+- Potential buyers are chasing growth stories in your sector without deep diligence.
+- Internal forecasts show the asset will turn toxic before you can fix it.
+momentum_moves:
+- Curate metrics and case studies that highlight short-term momentum.
+- Structure the deal to transfer future obligations or cleanup costs.
+- Plan the announcement cadence so sceptics have little time to scrutinise.
+watch_outs:
+- Crossing legal or ethical boundaries that invite lawsuits or regulatory action.
+- Burning trust with partners or markets you still need afterwards.
+- Selling the asset without ring-fencing dependencies that could boomerang back.
+effort_level: Cross-Functional Initiative
+time_horizon: Fast impact
 ---
 
 

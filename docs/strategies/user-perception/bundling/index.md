@@ -1,8 +1,45 @@
 ---
 title: Bundling
-description: Combining products or changes together so that a less desirable item is packaged with a desirable one, encouraging adoption of the whole package.
-tags: [bundling, user-perception, packaging, adoption, hiding disadvantage, pricing]
-authors: [dave-hulbert]
+description: Combining products or changes together so that a less desirable item
+  is packaged with a desirable one, encouraging adoption of the whole package.
+tags:
+- bundling
+- user-perception
+- packaging
+- adoption
+- hiding disadvantage
+- pricing
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Accelerate adoption
+- Change the narrative
+- Defend your position
+pressures:
+- Customers are nervous about change
+- Competitive attack underway
+- Limited resources or capacity
+leadership_focus:
+- Pricing and packaging strategy
+- Narrative building
+- Experience design
+quick_signals:
+- Users resist a necessary change unless it comes with visible upside.
+- Adoption lags because each component is sold separately and feels fragmented.
+- Competitors succeed by offering integrated suites while you sell point solutions.
+momentum_moves:
+- Design bundles that solve a complete job and make the trade-off explicit.
+- Use tiered packaging to guide customers toward desired behaviours.
+- Equip sales and success teams to explain the value of the package clearly.
+watch_outs:
+- Bundling unrelated products that dilute trust.
+- Triggering regulatory scrutiny for anti-competitive tying.
+- Failing to monitor whether customers actually use the bundled elements.
+effort_level: Cross-Functional Initiative
+time_horizon: Fast impact
 ---
 
 

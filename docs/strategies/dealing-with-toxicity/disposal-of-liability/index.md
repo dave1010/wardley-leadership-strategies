@@ -1,8 +1,50 @@
 ---
 title: Strategic Divestment and Disposal of Liability
-description: Strategically restructuring by separating or selling off business units, assets, or divisions to unlock value, enhance focus, or dispose of liabilities.
-tags: [dealing-with-toxicity, legacy, divestment, exit-strategy, inertia, obsolescence, risk-mitigation, strategic-divestment, spin-off, carve-out, restructuring]
-authors: [dave-hulbert]
+description: Strategically restructuring by separating or selling off business units,
+  assets, or divisions to unlock value, enhance focus, or dispose of liabilities.
+tags:
+- dealing-with-toxicity
+- legacy
+- divestment
+- exit-strategy
+- inertia
+- obsolescence
+- risk-mitigation
+- strategic-divestment
+- spin-off
+- carve-out
+- restructuring
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Reduce legacy drag
+- Stabilise operations
+- Secure long-term investment
+pressures:
+- Legacy system drag
+- Limited resources or capacity
+- Customers are nervous about change
+leadership_focus:
+- Change management
+- Risk framing
+- Disciplined portfolio management
+quick_signals:
+- Toxic assets consume disproportionate leadership attention with little upside.
+- Compliance or safety issues escalate faster than teams can mitigate them.
+- Investors or boards question why you still carry a loss-making unit.
+momentum_moves:
+- Map the liabilities and isolate the minimum viable operations you must protect.
+- Build a transition office to manage legal, financial, and people impacts.
+- Communicate openly with stakeholders about the future state and support offered.
+watch_outs:
+- Underestimating cultural grief and morale hits after divestment.
+- Disposing of capabilities that underpin differentiation elsewhere.
+- Leaving hidden liabilities behind that later reattach via warranties or guarantees.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 

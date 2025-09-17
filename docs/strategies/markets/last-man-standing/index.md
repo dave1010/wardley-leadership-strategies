@@ -1,8 +1,46 @@
 ---
 title: Last Man Standing
-description: A strategy of outlasting competitors in a commoditizing market to capture remaining market share.
-tags: [markets, commoditisation, attrition, scale, efficiency, price-war, market-consolidation]
-authors: [dave-hulbert]
+description: A strategy of outlasting competitors in a commoditizing market to capture
+  remaining market share.
+tags:
+- markets
+- commoditisation
+- attrition
+- scale
+- efficiency
+- price-war
+- market-consolidation
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Stabilise operations
+- Secure long-term investment
+pressures:
+- Competitive attack underway
+- Limited resources or capacity
+- Customers are nervous about change
+leadership_focus:
+- Operational excellence
+- Disciplined portfolio management
+- Risk framing
+quick_signals:
+- Industry margins collapse but you still have scale advantages.
+- Competitors close plants or exit geographies while you remain solvent.
+- Customers need continuity even as suppliers disappear.
+momentum_moves:
+- Double down on efficiency programmes that protect cash flow.
+- Acquire distressed assets that strengthen your cost position.
+- Communicate stability to customers so they migrate before rivals fail.
+watch_outs:
+- Burning out teams through endless austerity without a reinvention plan.
+- Ignoring innovation and being blindsided when the market evolves again.
+- Absorbing failing competitors without fixing the structural issues.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 **A strategy of outlasting competitors in a commoditizing market to capture remaining market share.**

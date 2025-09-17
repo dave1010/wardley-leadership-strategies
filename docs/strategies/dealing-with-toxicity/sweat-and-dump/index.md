@@ -1,8 +1,49 @@
 ---
 title: Sweat & Dump
-description: Outsource operation of a legacy asset to a third party, extract remaining value, and exit before the cost curve turns against you.
-tags: [dealing-with-toxicity, sweat-and-dump, outsourcing, third-party, exit-strategy, cost-reduction, risk-mitigation, capex, inertia]
-authors: [dave-hulbert]
+description: Outsource operation of a legacy asset to a third party, extract remaining
+  value, and exit before the cost curve turns against you.
+tags:
+- dealing-with-toxicity
+- sweat-and-dump
+- outsourcing
+- third-party
+- exit-strategy
+- cost-reduction
+- risk-mitigation
+- capex
+- inertia
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Reduce legacy drag
+- Stabilise operations
+- Secure long-term investment
+pressures:
+- Legacy system drag
+- Limited resources or capacity
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Change management
+- Partner choreography
+- Disciplined portfolio management
+quick_signals:
+- Legacy systems consume capacity you need for modernization.
+- Specialist staff are hard to retain for ageing platforms.
+- Third parties express interest in operating the asset for a fee.
+momentum_moves:
+- Document operational run-books before transitioning to an external partner.
+- Negotiate contracts that define service levels, exit clauses, and liability transfer.
+- Redirect internal investment toward the replacement capability while monitoring
+  the outsourced service.
+watch_outs:
+- Losing critical knowledge before your replacement is ready.
+- Being locked into a vendor that underinvests and harms your users.
+- Allowing the temporary arrangement to become a permanent crutch.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

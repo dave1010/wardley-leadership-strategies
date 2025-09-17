@@ -1,8 +1,49 @@
 ---
 title: Undermining Barriers to Entry
-description: An offensive strategy focused on identifying and dismantling a key barrier that protects an incumbent, thereby opening the market to new competition.
-tags: [attacking, barriers-to-entry, inertia, competition, open-source, open-approaches, disruption, challenger]
-authors: [dave-hulbert]
+description: An offensive strategy focused on identifying and dismantling a key barrier
+  that protects an incumbent, thereby opening the market to new competition.
+tags:
+- attacking
+- barriers-to-entry
+- inertia
+- competition
+- open-source
+- open-approaches
+- disruption
+- challenger
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Accelerate adoption
+- Shape the market
+- Unlock new growth
+pressures:
+- Facing dominant incumbent
+- Competitive attack underway
+- Customers are nervous about change
+leadership_focus:
+- Policy advocacy
+- Narrative building
+- Partner choreography
+quick_signals:
+- Customers cite prohibitive costs or licensing terms that freeze them with the incumbent.
+- "Regulators or large buyers question the fairness of the incumbent\u2019s control."
+- Emerging entrants struggle with the same bottleneck despite user demand.
+momentum_moves:
+- "Map the barrier\u2019s components and expose the friction with evidence users can\
+  \ feel."
+- "Back an open alternative or shared service that collapses the incumbent\u2019s\
+  \ advantage."
+- Mobilise partners or regulators to legitimise the new lower-friction path.
+watch_outs:
+- Neutralising the barrier without a plan to capture the freed-up value.
+- Provoking a legal or lobbying battle you are not prepared to fight.
+- Underestimating the investment required to sustain the alternative once it scales.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

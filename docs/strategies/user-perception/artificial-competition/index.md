@@ -1,8 +1,45 @@
 ---
 title: Artificial Competition
-description: Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.
-tags: [artificial-competition, user-perception, illusion of choice, market control, branding, monopoly avoidance]
-authors: [dave-hulbert]
+description: Creating the illusion of competition by establishing or funding a secondary
+  entity that competes with your own offerings.
+tags:
+- artificial-competition
+- user-perception
+- illusion of choice
+- market control
+- branding
+- monopoly avoidance
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Change the narrative
+- Defend your position
+- Shape the market
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Customers are nervous about change
+leadership_focus:
+- Narrative control
+- Risk framing
+- Secrecy and timing
+quick_signals:
+- Regulators or customers question whether they truly have choice.
+- A challenger brand emerges that could redefine the category narrative.
+- You control multiple channels or assets that could support a parallel brand.
+momentum_moves:
+- Design the secondary brand with distinct positioning but complementary economics.
+- Coordinate go-to-market plays so the proxy competes visibly while sharing infrastructure.
+- Maintain plausible independence by separating governance and messaging teams.
+watch_outs:
+- Regulatory discovery that both brands share ownership.
+- Creating internal cannibalisation that confuses customers.
+- Underinvesting in the proxy so real challengers still break through.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Creating the illusion of competition by establishing or funding a secondary entity that competes with your own offerings.**

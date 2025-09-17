@@ -1,8 +1,46 @@
 ---
 title: Fast Follower
-description: Leveraging the mistakes and groundwork of pioneers to enter markets at the optimal time with improved execution.
-tags: [fast-follower, positional, timing, execution, imitation, learning, market entry]
-authors: [dave-hulbert]
+description: Leveraging the mistakes and groundwork of pioneers to enter markets at
+  the optimal time with improved execution.
+tags:
+- fast-follower
+- positional
+- timing
+- execution
+- imitation
+- learning
+- market entry
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Accelerate adoption
+- Unlock new growth
+- Defend your position
+pressures:
+- Facing dominant incumbent
+- Market is nascent or undefined
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Operational readiness
+- Learning culture
+- Launch choreography
+quick_signals:
+- Pioneers validate demand but struggle with scale or reliability.
+- You can replicate the core experience with better distribution or pricing.
+- User research reveals dissatisfaction with early leaders despite the buzz.
+momentum_moves:
+- Document pioneer missteps and bake the fixes into your design and go-to-market.
+- Line up supply chain and support capabilities to absorb fast followers quickly.
+- "Time your launch to coincide with public fatigue toward the pioneer\u2019s flaws."
+watch_outs:
+- Underestimating switching costs once customers commit to the pioneer.
+- Copying without adding distinctive value.
+- Arriving late because internal governance slowed approvals.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 **Leveraging the mistakes and groundwork of pioneers to enter markets at the optimal time with improved execution.**

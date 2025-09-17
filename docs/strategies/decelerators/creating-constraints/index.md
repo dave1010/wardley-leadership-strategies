@@ -1,8 +1,45 @@
 ---
 title: Creating Constraints
-description: Purposefully introduce new bottlenecks to constrain competitors by shaping market, legal, or technical environments.
-tags: [decelerators, creating-constraints, barriers-to-entry, supply-chain, exclusivity, regulation]
-authors: [dave-hulbert]
+description: Purposefully introduce new bottlenecks to constrain competitors by shaping
+  market, legal, or technical environments.
+tags:
+- decelerators
+- creating-constraints
+- barriers-to-entry
+- supply-chain
+- exclusivity
+- regulation
+authors:
+- dave-hulbert
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Shape the market
+- Secure long-term investment
+pressures:
+- Competitive attack underway
+- Facing dominant incumbent
+- Regulatory or policy leverage available
+leadership_focus:
+- Integrated roadmapping
+- Risk framing
+- Policy advocacy
+quick_signals:
+- Suppliers warn that capacity is tightening around components everyone needs.
+- Regulators consider new rules that could redefine access to critical inputs.
+- Competitors rely on the same fragile distribution or manufacturing channels.
+momentum_moves:
+- Lock in contracts or investments that give you preferential control of the bottleneck.
+- Co-design standards or certification schemes that raise compliance expectations.
+- Coordinate messaging that frames the constraint as necessary for quality or safety.
+watch_outs:
+- Creating constraints you cannot sustain operationally.
+- Inviting regulatory scrutiny for anti-competitive behaviour.
+- Alienating partners who feel trapped by your manoeuvre.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Purposefully introduce new bottlenecks to constrain competitors by shaping market, legal, or technical environments.**

@@ -1,7 +1,47 @@
 ---
 title: Restriction of Movement
-tags: [restriction-of-movement, competitor, circling, ecosystem, cornering, constraint, control, limitation]
-authors: [dave-hulbert]
+tags:
+- restriction-of-movement
+- competitor
+- circling
+- ecosystem
+- cornering
+- constraint
+- control
+- limitation
+authors:
+- dave-hulbert
+description: "Limiting a rival\u2019s options so they cannot adapt or expand into\
+  \ your territory."
+stages:
+- Custom-Built
+- Product
+goals:
+- Defend your position
+- Shape the market
+- Build ecosystem leverage
+pressures:
+- Facing dominant incumbent
+- Competitive attack underway
+- Need to go faster than internal bureaucracy
+leadership_focus:
+- Partner choreography
+- Policy advocacy
+- Risk framing
+quick_signals:
+- Competitors court your partners or suppliers to open new channels.
+- You see rivals experimenting in adjacencies that threaten your core.
+- There are regulatory or contract windows where exclusivity can be locked in.
+momentum_moves:
+- Secure exclusive access to distribution, data, or capabilities that form the bottleneck.
+- Negotiate agreements that tie key partners closer through mutual incentives.
+- Stack legal, technical, and ecosystem barriers so alternatives appear unattractive.
+watch_outs:
+- Overplaying exclusivity and triggering antitrust or partner backlash.
+- Blocking rivals without investing in your own evolution.
+- Boxing yourself in with the same constraints you impose on others.
+effort_level: Cross-Functional Initiative
+time_horizon: Long-term positioning
 ---
 
 **Limiting a rival's ability to maneuver or adapt**.

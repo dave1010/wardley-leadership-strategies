@@ -1,8 +1,47 @@
 ---
 title: Land Grab
-description: Positioning early in an emerging market to capture strategic ground and shape future competitive dynamics.
-tags: [land-grab, positional, market entry, early mover, dominance, infrastructure, ecosystem control]
-authors: [dave-hulbert]
+description: Positioning early in an emerging market to capture strategic ground and
+  shape future competitive dynamics.
+tags:
+- land-grab
+- positional
+- market entry
+- early mover
+- dominance
+- infrastructure
+- ecosystem control
+authors:
+- dave-hulbert
+stages:
+- Genesis
+- Custom-Built
+- Product
+goals:
+- Shape the market
+- Build ecosystem leverage
+- Secure long-term investment
+pressures:
+- Market is nascent or undefined
+- Facing dominant incumbent
+- Limited resources or capacity
+leadership_focus:
+- Launch choreography
+- Partner choreography
+- Risk framing
+quick_signals:
+- Scarce assets or permits will determine who can participate later.
+- Your mapping shows white space the incumbents still ignore.
+- Early adopters beg for infrastructure or standards that do not exist yet.
+momentum_moves:
+- Secure rights, spectrum, or real estate before prices spike.
+- Deploy visible prototypes or facilities that anchor the emerging ecosystem.
+- Forge alliances with complementors to make your footprint the default choice.
+watch_outs:
+- Overextending before demand proves out.
+- Ignoring local stakeholders and triggering backlash or delays.
+- Locking into technology choices that later become obsolete.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 **Positioning early in an emerging market to capture strategic ground and shape future competitive dynamics.**

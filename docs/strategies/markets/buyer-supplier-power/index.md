@@ -1,8 +1,46 @@
 ---
 title: Buyer-Supplier Power
-description: Strategically managing the power dynamics between buyers and suppliers as a market evolves to gain a competitive advantage.
-tags: [markets, power-dynamics, negotiation, value-chain, leverage, commoditisation, chokepoint]
-authors: [dave-hulbert]
+description: Strategically managing the power dynamics between buyers and suppliers
+  as a market evolves to gain a competitive advantage.
+tags:
+- markets
+- power-dynamics
+- negotiation
+- value-chain
+- leverage
+- commoditisation
+- chokepoint
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Shape the market
+- Defend your position
+- Secure long-term investment
+pressures:
+- Facing dominant incumbent
+- Limited resources or capacity
+- Competitive attack underway
+leadership_focus:
+- Partner choreography
+- Risk framing
+- Disciplined portfolio management
+quick_signals:
+- Suppliers or buyers increasingly dictate terms that erode your margin.
+- Concentration analysis shows single points of failure in your value chain.
+- Competitors secure long-term deals that could lock you out.
+momentum_moves:
+- Map dependency flows to reveal where leverage truly sits.
+- Diversify or consolidate suppliers to rebalance bargaining power.
+- Invest in capabilities that make you indispensable to the ecosystem.
+watch_outs:
+- Pursuing leverage without considering relationship consequences.
+- Overcommitting to a chokepoint that can disappear as the market evolves.
+- Ignoring antitrust and fair-dealing obligations.
+effort_level: Cross-Functional Initiative
+time_horizon: Medium-term shaping
 ---
 
 

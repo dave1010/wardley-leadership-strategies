@@ -1,8 +1,46 @@
 ---
 title: Limitation of Competition
-description: Structurally reducing or preventing competitive pressure through regulatory, legal, or environmental barriers.
-tags: [defensive, anti-competitive, barriers-to-entry, regulation, incumbents, market-control, decelerators]
-authors: [dave-hulbert]
+description: Structurally reducing or preventing competitive pressure through regulatory,
+  legal, or environmental barriers.
+tags:
+- defensive
+- anti-competitive
+- barriers-to-entry
+- regulation
+- incumbents
+- market-control
+- decelerators
+authors:
+- dave-hulbert
+stages:
+- Product
+- Commodity/Utility
+goals:
+- Defend your position
+- Secure long-term investment
+- Shape the market
+pressures:
+- Competitive attack underway
+- Regulatory or policy leverage available
+- Limited resources or capacity
+leadership_focus:
+- Policy advocacy
+- Coalition building
+- Narrative building
+quick_signals:
+- New entrants erode margins faster than you can respond through product changes.
+- Industry bodies debate rules that could reset who is allowed to participate.
+- Partners worry about market instability and ask for long-term commitments.
+momentum_moves:
+- Map the ecosystem to identify alliances that favour a stable playing field.
+- Draft shared position papers that emphasise safety, reliability, or national interest.
+- Invest in compliance capabilities that become the benchmark for others.
+watch_outs:
+- Relying on gatekeeping while ignoring signals that users want alternatives.
+- Alienating innovators who might have been valuable partners.
+- Creating rigidity that makes future strategic pivots harder.
+effort_level: Enterprise Transformation
+time_horizon: Long-term positioning
 ---
 
 **Structurally reducing or preventing competitive pressure by shaping the environment to make competition difficult, costly, or impossible.**
