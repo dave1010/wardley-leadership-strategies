@@ -1,0 +1,89 @@
+.overviewCard {
+  border: 1px solid var(--ifm-toc-border-color);
+  border-radius: 16px;
+  background: var(--ifm-card-background-color);
+  padding: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
+  box-shadow: var(--ifm-global-shadow-lw);
+}
+
+.goalsSection {
+  margin-bottom: 1.5rem;
+}
+
+.sectionLabel {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ifm-font-color-secondary);
+  margin-bottom: 0.5rem;
+  display: block;
+  font-weight: 600;
+}
+
+.pillGroup {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  background: rgba(37, 194, 160, 0.12);
+  border: 1px solid rgba(37, 194, 160, 0.45);
+  border-radius: 999px;
+  color: var(--ifm-color-primary);
+  padding: 0.35rem 0.95rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.metaGrid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+}
+
+.metaGridCompact {
+  margin-top: 0.5rem;
+}
+
+.metaItem {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.5rem 0;
+}
+
+.metaLabel {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ifm-font-color-secondary);
+}
+
+.metaValue {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.leadershipContainer {
+  margin: 1rem 0 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+@media screen and (max-width: 600px) {
+  .overviewCard {
+    padding: 1.25rem;
+    margin: 1.25rem 0 2rem;
+  }
+
+  .pill {
+    font-size: 0.85rem;
+    padding: 0.3rem 0.85rem;
+  }
+}
