@@ -15,6 +15,14 @@ export const MapSignals = ({ children }) => <>{children}</>;
 export const Readiness = ({ children }) => <>{children}</>;
 export { AssessmentToolAdvert };
 
+const useOptionalDoc = (): ReturnType<typeof useDoc> | null => {
+  try {
+    return useDoc();
+  } catch (error) {
+    return null;
+  }
+};
+
 const Assessment = ({ children, strategyName }) => {
   const mapSignals = extractStatements(children, MapSignals);
   const readiness = extractStatements(children, Readiness);
@@ -23,7 +31,8 @@ const Assessment = ({ children, strategyName }) => {
   const [readinessScore, setReadinessScore] = useState(0);
   const [mapTouched, setMapTouched] = useState(false);
   const [readinessTouched, setReadinessTouched] = useState(false);
-  const { metadata } = useDoc();
+  const docContext = useOptionalDoc();
+  const metadata = docContext?.metadata;
 
   const storageId = metadata?.permalink ?? strategyName;
   const strategyTitle = metadata?.title ?? strategyName;
