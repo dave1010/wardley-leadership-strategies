@@ -8,6 +8,8 @@ When an activity becomes standardised and efficient, it forms a dependable build
 
 From electricity grids to cloud computing, each wave of industrialisation has sparked fresh waves of creativity. A world of interchangeable parts frees organisations to focus on higher order ideas rather than reinventing the basics.
 
+Efficiency enables innovation: AI and automation commoditises execution, freeing human capacity for higher-order judgement and invention.
+
 ## 🔀 Related Strategies
 
 - [Open Approaches](/strategies/accelerators/open-approaches) – trigger: once a component becomes efficient, opening it up can drive further innovation.

@@ -19,6 +19,7 @@ Patterns in this category describe how different parts of a system mature and in
 - [No choice on evolution](/climatic-patterns/no-choice-on-evolution)
 - [No one size fits all](/climatic-patterns/no-one-size-fits-all)
 - [Rates of evolution can vary by ecosystem](/climatic-patterns/rates-of-evolution-can-vary-by-ecosystem)
+- [Synthetic labour becomes a commodity](/climatic-patterns/synthetic-labour-becomes-a-commodity)
 
 ## Competitors
 
@@ -65,4 +66,5 @@ Speed patterns examine the pace of change and how stability affects agility.
 - [Efficiency enables innovation](/climatic-patterns/efficiency-enables-innovation)
 - [Evolution of communication mechanisms increases overall speed](/climatic-patterns/evolution-of-communication-mechanisms-can-increase-the-speed-of-evolution-overall-and-the-diffusion-of-a-single-example-of-change)
 - [Increased stability of lower order systems boosts agility](/climatic-patterns/increased-stability-of-lower-order-systems-increases-agility-and-speed-of-re-combination)
+- [Autonomy length expands](/climatic-patterns/autonomy-length-expands)
 - [Shifts from product to utility show punctuated equilibrium](/climatic-patterns/shifts-from-product-to-utility-tend-to-demonstrate-a-punctuated-equilibrium)

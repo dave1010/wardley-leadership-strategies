@@ -8,3 +8,5 @@ All parts of a value chain move from novel beginnings toward well defined commod
 Supply and demand competition drives this progression.
 
 This evolution means every component has a history and a future. Knowing that change is inevitable helps leaders anticipate when once "special" capabilities will become routine services and when new components may be about to appear.
+
+Everything evolves: AI and automation capability is no exception. It’s diffusing from novel prototypes to industrialised utilities, with agents following the same product-to-commodity trajectory.
