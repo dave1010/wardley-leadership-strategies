@@ -20,6 +20,7 @@ import DocItemContent from '@theme/DocItem/Content';
 import DocBreadcrumbs from '@theme/DocBreadcrumbs';
 import ContentVisibility from '@theme/ContentVisibility';
 import type {Props} from '@theme/DocItem/Layout';
+import {StrategyAtAGlance} from '@site/src/components/StrategyMetadata';
 
 import styles from './styles.module.css';
 
@@ -50,6 +51,7 @@ function useDocTOC() {
 export default function DocItemLayout({children}: Props): ReactNode {
   const docTOC = useDocTOC();
   const {metadata, frontMatter} = useDoc();
+  const isStrategyDoc = metadata.permalink?.startsWith('/strategies/');
   return (
     <div className="row">
       <div className={clsx('col', !docTOC.hidden && styles.docItemCol)}>
@@ -60,6 +62,7 @@ export default function DocItemLayout({children}: Props): ReactNode {
             <DocBreadcrumbs />
             <DocVersionBadge />
             {docTOC.mobile}
+            {isStrategyDoc && <StrategyAtAGlance />}
             <DocItemContent>{children}</DocItemContent>
             <DocItemFooter />
             {frontMatter.authors && frontMatter.authors.length > 0 && (
