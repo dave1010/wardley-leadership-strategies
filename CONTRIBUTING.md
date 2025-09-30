@@ -157,7 +157,7 @@ or at least generic skills that make it clear where they are applied in relation
 
 ### Strategic Insights
 
-The `## 🧠 **Strategic Insights**` section of a strategy is where the big ideas live. It's critical that these are well thought out, expert insights that are related to the specific strategy. Not just a vague idea or summary. These should add significant depth to the page. They can even expand the strategy beyond its confines a bit, whether that's more practical business thoughts, mental models, philosophy (don't get carried away!), left field techniques or practices, etc. See [notes/authoritative-content-writing.md](./notes/authoritative-content-writing.md) for additional guidance on writing with authority.
+The `## 🧠 **Strategic Insights**` section of a strategy is where the big ideas live. It's critical that these are well thought out, expert insights that are related to the specific strategy. Not just a vague idea or summary. These should add significant depth to the page. They can even expand the strategy beyond its confines a bit, whether that's more practical business thoughts, mental models, philosophy (don't get carried away!), left field techniques or practices, etc. See [notes/authoritative-content-writing.md](./notes/authoritative-content-writing.md) for additional guidance on writing with authority, and [notes/strategy-page-best-practices.md](./notes/strategy-page-best-practices.md) for examples of what high-quality strategy content covers.
 
 - Only put relevant insights here, not generic ones.
 - Consider evolution stages, counterplay, value chains, users, markets, leverage, higher order thinking, wider goals, etc.
