@@ -12,7 +12,7 @@ Wardley Maps began as artefacts that captured a moment in time. With AI accelera
 
 ## Instrumenting evolution
 
-An AI-enabled stack can stream live data into the map: usage telemetry reveals where user needs fragment, cost analytics highlight components sliding toward commodity, and anomaly detection uncovers new genesis experiments at the edge. Instrumentation turns doctrine into code—policies decide when to trigger [Pioneers, Settlers, Town Planners](/doctrines/climate/pioneers-settlers-town-planners) hand-offs or when to retire bespoke solutions in favour of utilities. Leaders define thresholds that automatically flag when agents overstep their evolutionary lane.
+An AI-enabled stack can stream live data into the map: usage telemetry reveals where user needs fragment, cost analytics highlight components sliding toward commodity, and anomaly detection uncovers new genesis experiments at the edge. Instrumentation turns doctrine into code—policies decide when to trigger Pioneers, Settlers, Town Planners hand-offs or when to retire bespoke solutions in favour of utilities. Leaders define thresholds that automatically flag when agents overstep their evolutionary lane.
 
 ## Leadership loops in three horizons
 
