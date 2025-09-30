@@ -100,44 +100,53 @@ const config: Config = {
         src: 'img/knight-cropped.jpg',
       },
       items: [
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Strategies',
-        // },
         {
           label: 'Strategies',
           to: '/strategies',
         },
         {
-          label: 'Strategy Navigator',
-          to: '/strategy-navigator',
+          type: 'dropdown',
+          label: 'Knowledge Base',
+          items: [
+            {
+              label: 'Doctrines',
+              to: '/doctrines',
+            },
+            {
+              label: 'Climatic Patterns',
+              to: '/climatic-patterns',
+            },
+            {
+              label: 'Terms',
+              to: '/terms',
+            },
+            {
+              label: 'AI & Leadership',
+              to: '/ai-and-leadership',
+            },
+            {
+              label: 'Books',
+              to: '/books',
+            },
+          ],
         },
         {
-          label: 'Doctrines',
-          to: '/doctrines',
-        },
-        {
-          label: 'Climatic Patterns',
-          to: '/climatic-patterns',
-        },
-        {
-          label: 'Terms',
-          to: '/terms',
-        },
-        {
-          label: 'My Assessments',
-          to: '/my-progress',
+          type: 'dropdown',
+          label: 'Tools',
+          items: [
+            {
+              label: 'Strategy Navigator',
+              to: '/strategy-navigator',
+            },
+            {
+              label: 'My Assessments',
+              to: '/my-progress',
+            },
+          ],
         },
         {
           label: 'About',
           to: '/about',
-        },
-        {
-          href: 'https://github.com/dave1010/wardley-leadership-strategies',
-          label: 'GitHub',
-          position: 'right',
         },
       ],
     },
@@ -156,10 +165,6 @@ const config: Config = {
               to: '/strategies',
             },
             {
-              label: 'Strategy Navigator',
-              to: '/strategy-navigator',
-            },
-            {
               label: 'Doctrines',
               to: '/doctrines',
             },
@@ -167,17 +172,43 @@ const config: Config = {
               label: 'Climatic Patterns',
               to: '/climatic-patterns',
             },
+          ],
+        },
+        {
+          title: 'Knowledge Base',
+          items: [
             {
               label: 'Terms',
               to: '/terms',
+            },
+            {
+              label: 'AI & Leadership',
+              to: '/ai-and-leadership',
+            },
+            {
+              label: 'Books',
+              to: '/books',
+            },
+            {
+              label: 'Tags',
+              to: '/tags',
+            },
+          ],
+        },
+        {
+          title: 'Tools & Community',
+          items: [
+            {
+              label: 'Strategy Navigator',
+              to: '/strategy-navigator',
             },
             {
               label: 'My Assessments',
               to: '/my-progress',
             },
             {
-              label: 'Tags',
-              to: '/tags',
+              label: 'GitHub',
+              href: 'https://github.com/dave1010/wardley-leadership-strategies',
             },
           ],
         },
@@ -206,8 +237,8 @@ const config: Config = {
               to: '/privacy-policy',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/dave1010/wardley-leadership-strategies',
+              label: 'Home',
+              to: '/',
             },
           ],
         },
