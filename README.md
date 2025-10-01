@@ -75,6 +75,4 @@ Or run them in watch mode:
 npm run test:watch
 ```
 
-You can also use `yarn test` or `yarn test:watch` if you prefer Yarn.
-
 **Note:** CSS module imports are mocked during testing, so tests do not rely on actual styles.
