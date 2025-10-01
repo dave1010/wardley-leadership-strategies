@@ -1,0 +1,42 @@
+name: AI PR review
+on:
+  pull_request: { types: [opened, synchronize, reopened] }
+permissions:
+  contents: read
+  pull-requests: write
+  models: read
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Collect diff (patches)
+        id: diff
+        uses: actions/github-script@v8
+        with:
+          result-encoding: string
+          script: |
+            const {data: files} = await github.rest.pulls.listFiles({
+              owner: context.repo.owner, repo: context.repo.repo,
+              pull_number: context.issue.number, per_page: 100
+            });
+            return files.map(f => `# ${f.filename}\n${f.patch||''}`).join('\n\n').slice(0, 30000);
+      - name: Review with a model
+        id: ai
+        uses: actions/ai-inference@v1
+        with:
+          model: openai/gpt-5-nano
+          system-prompt: |
+            You are a strict code reviewer. Return concise, actionable bullets.
+            If nothing material: return "LGTM".
+          prompt: |
+            Diff:
+            ${{ steps.diff.outputs.result }}
+      - name: Comment on PR
+        uses: actions/github-script@v8
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `${{ steps.ai.outputs.response }}`
+            });
