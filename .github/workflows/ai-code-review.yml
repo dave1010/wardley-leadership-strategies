@@ -24,7 +24,7 @@ jobs:
         id: ai
         uses: actions/ai-inference@v1
         with:
-          model: openai/gpt-5-nano
+          model: openai/gpt-4o-mini
           system-prompt: |
             You are a strict code reviewer. Return concise, actionable bullets.
             If nothing material: return "LGTM".
