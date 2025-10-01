@@ -75,4 +75,4 @@ Or run them in watch mode:
 npm run test:watch
 ```
 
-**Note:** CSS module imports are mocked during testing, so tests do not rely on actual styles.
+CSS module imports are mocked during testing, so tests do not rely on actual styles.
