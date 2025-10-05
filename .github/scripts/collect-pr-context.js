@@ -45,6 +45,6 @@ module.exports = async function collectPrContext({ github, context, core }) {
     `Commits:\n${commitSummaries || '(none listed)'}`,
   ].join('\n\n');
 
-  core.setOutput('diff', JSON.stringify(diff));
-  core.setOutput('context', JSON.stringify(contextDetails));
+  core.setOutput('diff', diff);
+  core.setOutput('context', contextDetails);
 };
