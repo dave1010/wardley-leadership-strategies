@@ -6,10 +6,18 @@ module.exports = async function collectPrContext({ github, context, core }) {
     per_page: 100,
   });
 
-  const diff = files
-    .map((file) => `# ${file.filename}\n${file.patch ?? ''}`)
-    .join('\n\n')
-    .slice(0, 30000);
+  const indent = (value) => {
+    if (!value) return '';
+    const prefix = '      ';
+    return value
+      .split('\n')
+      .map((line) => prefix + line)
+      .join('\n');
+  };
+
+  const diff = indent(
+    files.map((file) => `# ${file.filename}\n${file.patch ?? ''}`).join('\n\n'),
+  ).slice(0, 30000);
 
   const { data: pr } = await github.rest.pulls.get({
     owner: context.repo.owner,
@@ -46,5 +54,5 @@ module.exports = async function collectPrContext({ github, context, core }) {
   ].join('\n\n');
 
   core.setOutput('diff', diff);
-  core.setOutput('context', contextDetails);
+  core.setOutput('context', indent(contextDetails));
 };
