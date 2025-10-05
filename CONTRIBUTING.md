@@ -3,51 +3,6 @@
 - The site is built with Docusaurus.
 - Main files are in `./docs`
 
-## Blog
-
-The blog currently focuses on the **AI and Leadership** series. All posts live in `./blog`.
-
-### Files and Naming
-
-- Blog posts are single Markdown files in the root of `./blog`.
-- Name files using the publish date followed by a short slug, e.g. `2025-10-05-age-of-diffused-agency.md`.
-- Keep the slug in the filename aligned with the `slug` field in the front matter (see below).
-- Author metadata lives in `./blog/authors.yml`. Reuse existing author IDs; add new authors there first if needed.
-
-### Front Matter
-
-Each post starts with YAML front matter. Follow the structure already used across the series:
-
-```yaml
----
-title: The Age of Diffused Agency
-description: How AI-driven agency is shifting execution power to individuals and redefining leadership priorities.
-tags:
-  - ai-and-leadership
-  - ai
-  - leadership
-  - agency
-  - strategy
-slug: ai-and-leadership/age-of-diffused-agency
-authors:
-  - dave-hulbert
----
-```
-
-- `title` – Title case, matching the filename slug.
-- `description` – One sentence that also feeds the SEO meta description.
-- `tags` – Include `ai-and-leadership` plus 3-4 specific topical tags.
-- `slug` – Path relative to `/blog/`, using the format `ai-and-leadership/<post-slug>`.
-- `authors` – Array of author IDs from `blog/authors.yml`.
-
-### Content Structure
-
-- Start with a bold, single-sentence summary before the truncate marker.
-- Add `<!-- truncate -->` after the intro paragraph(s) so the listing page shows an excerpt.
-- Write in sections using Markdown headings (`##`, `###`) as needed. Mirror the tone and depth of existing posts—practical leadership guidance grounded in Wardley Mapping concepts.
-- Link to strategies or terms when helpful for context.
-- Keep paragraphs focused and tight; favour clarity over length.
-
 ## Strategies
 
 ### Files and Links
@@ -209,6 +164,18 @@ The `## 🧠 **Strategic Insights**` section of a strategy is where the big idea
 - Also if there's anything specific to the strategy that is not covered in the other sections.
 - Use `###` subsections and favour paragraphs over bullets for this section.
 - Each insight can be multiple paragraphs if it needs to dive deep or cover broad ideas.
+
+## Blog
+
+The blog currently focuses on the **AI and Leadership** series. All posts live in `./blog`.
+
+- Blog posts are single Markdown files in the root of `./blog`.
+- Name files using the publish date followed by a short slug, e.g. `2025-10-05-age-of-diffused-agency.md`.
+- Keep the slug in the filename aligned with the `slug` field in the front matter (see below).
+- Author metadata lives in `./blog/authors.yml`. Reuse existing author IDs; add new authors there first if needed.
+- Each post starts with YAML front matter. Follow the structure already used.
+- Add `<!-- truncate -->` after the intro paragraph(s) so the listing page shows an excerpt.
+- Link to other content when helpful for context.
 
 ## Terms
 
