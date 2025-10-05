@@ -8,10 +8,13 @@ tags:
   - wardley-mapping
   - governance
 slug: ai-and-leadership/continuous-map-governance
-date: 2024-05-03
+authors:
+  - dave-hulbert
 ---
 
 **AI-native leadership depends on maps that move as fast as the agents they command.** Traditional strategy cycles assumed that the landscape stayed still long enough for quarterly reviews. Wardley Mapping showed that components evolve, value chains shift, and doctrine must respond. In an era where autonomous agents execute in minutes, leaders must treat their maps as living systems, instrumented with telemetry, guardrails, and feedback loops that keep decisions aligned with reality.
+
+<!-- truncate -->
 
 ## From artefact to operating system
 

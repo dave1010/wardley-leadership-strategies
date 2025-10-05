@@ -8,12 +8,15 @@ tags:
   - agency
   - strategy
 slug: ai-and-leadership/age-of-diffused-agency
-date: 2024-05-01
+authors:
+  - dave-hulbert
 ---
 
 **Leadership is moving beyond the jagged frontier of what machines can do.** Artificial Intelligence is not yet Artificial General Intelligence, yet the boundary of machine capability continues to advance. The space of tasks that require human-only intervention shrinks each quarter as new language models pair with agentic tooling to run longer chains of execution with less supervision. Competence that once demanded firms, teams, or specialist expertise now sits within reach of motivated individuals, sometimes on a single high-end consumer GPU.
 
 Agency is diffusing. Execution power is no longer a privilege reserved for large organisations because it is being unbundled and placed directly in individual hands. With the right orchestration, anyone can behave like a chief executive who directs an army of digital staff. This is not the singularity, yet it is already a strategic revolution.
+
+<!-- truncate -->
 
 ## From Firms to Individuals
 

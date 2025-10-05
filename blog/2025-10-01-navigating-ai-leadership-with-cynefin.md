@@ -9,10 +9,13 @@ tags:
   - sensemaking
   - wardley-mapping
 slug: ai-and-leadership/navigating-ai-leadership-with-cynefin
-date: 2024-05-04
+authors:
+  - dave-hulbert
 ---
 
 **AI leadership needs Cynefin's sensemaking discipline to decide when to experiment, when to codify, and when to get out of the way.** Wardley Mapping explains how components evolve along the value chain, but leaders still have to choose the right play for the terrain in front of them. Cynefin complements Wardley Mapping by framing how decision-making should adapt when the landscape is obvious, complicated, complex, or chaotic—exactly the challenge AI agents introduce.
+
+<!-- truncate -->
 
 ## Why Cynefin matters for AI-era leadership
 

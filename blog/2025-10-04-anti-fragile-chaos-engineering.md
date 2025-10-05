@@ -8,7 +8,8 @@ tags:
   - antifragile
   - organisational-design
 slug: ai-and-leadership/anti-fragile-chaos-engineering
-date: 2024-05-06
+authors:
+  - dave-hulbert
 ---
 
 **Anti-fragile organisations do not merely survive shocks; they metabolise them into sharper judgement and faster adaptation.** Chaos engineering, born in distributed computing, now offers leadership a disciplined way to inject volatility across sociotechnical systems and build muscles that thrive under disorder. Applied well, it turns AI-augmented enterprises into learning organisms rather than brittle automation wrappers.
@@ -16,6 +17,8 @@ date: 2024-05-06
 ## From Resilience to Anti-Fragility in Wardley Terms
 
 Resilience seeks to snap back to an earlier state. Anti-fragility learns forward. On a Wardley Map this means shifting attention from preserving existing high-utility components to accelerating movement of evolving components into more industrialised forms while elevating human judgement and ethics to the focus of investment.
+
+<!-- truncate -->
 
 - **Value chain rebalancing:** As AI commoditises execution, leadership needs to pressure-test the higher-order decisions—purpose, policies, escalation paths—that remain artisanal. Injecting controlled disorder exposes which of those differentiating components lack codification or slack.
 - **Climate patterns of constant change:** Climatic forces such as "Everything Evolves" and "Competitors' actions will change the game" imply recurring stress. Chaos engineering embraces these as design constraints, running experiments that mirror inevitable shocks before the market delivers them.
