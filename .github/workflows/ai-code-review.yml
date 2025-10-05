@@ -21,7 +21,7 @@ jobs:
             await run({ github, context, core });
       - name: Review with a model
         id: ai
-        uses: actions/ai-inference@v1
+        uses: actions/ai-inference@v2
         with:
           prompt-file: ./.github/prompts/ai-code-review.prompt.yml
           input: |
