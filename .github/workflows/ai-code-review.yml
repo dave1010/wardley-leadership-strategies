@@ -9,71 +9,24 @@ jobs:
   review:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: Collect diff (patches)
         id: diff
         uses: actions/github-script@v8
         with:
           result-encoding: string
           script: |
-            const {data: files} = await github.rest.pulls.listFiles({
-              owner: context.repo.owner, repo: context.repo.repo,
-              pull_number: context.issue.number, per_page: 100
-            });
-
-            const diff = files
-              .map((file) => `# ${file.filename}\n${file.patch ?? ''}`)
-              .join('\n\n')
-              .slice(0, 30000);
-
-            const {data: pr} = await github.rest.pulls.get({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
-            });
-
-            const {data: commits} = await github.rest.pulls.listCommits({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              pull_number: context.issue.number,
-              per_page: 250,
-            });
-
-            const commitSummaries = commits
-              .slice(0, 20)
-              .map((commit) => `- ${commit.sha.slice(0, 7)} ${commit.commit.message.split('\n')[0]}`)
-              .join('\n');
-
-            const body = (pr.body ?? '').trim() || '(empty)';
-
-            const contextDetails = [
-              `Title: ${pr.title}`,
-              `Author: ${pr.user?.login ?? 'unknown'}`,
-              `Head: ${pr.head.label} (${pr.head.sha.slice(0, 7)})`,
-              `Base: ${pr.base.label} (${pr.base.sha.slice(0, 7)})`,
-              `Draft: ${pr.draft ? 'yes' : 'no'}`,
-              `URL: ${pr.html_url}`,
-              `Body:\n${body}`,
-              `Commits:\n${commitSummaries || '(none listed)'}`,
-            ].join('\n\n');
-
-            core.setOutput('diff', JSON.stringify(diff));
-            core.setOutput('context', JSON.stringify(contextDetails));
-
-            return 'ok';
+            const run = require('./.github/scripts/collect-pr-context.js');
+            await run({ github, context, core });
       - name: Review with a model
         id: ai
         uses: actions/ai-inference@v1
         with:
-          model: openai/gpt-4o-mini
-          system-prompt: |
-            You are a strict code reviewer. Return concise, actionable bullets.
-            If nothing material: return "LGTM".
-          prompt: |
-            PR context:
-            ${{ fromJson(steps.diff.outputs.context) }}
-
-            Diff:
-            ${{ fromJson(steps.diff.outputs.diff) }}
+          prompt-file: ./.github/prompts/ai-code-review.prompt.yml
+          input: |
+            context: ${{ fromJson(steps.diff.outputs.context) }}
+            diff: ${{ fromJson(steps.diff.outputs.diff) }}
       - name: Comment on PR
         uses: actions/github-script@v8
         with:
