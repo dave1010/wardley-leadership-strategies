@@ -1,7 +1,14 @@
 ---
 title: Everyone a CEO
 description: How AI-enabled agency lowers the cost of leadership and raises the premium on judgement and distribution.
-tags: [ai, leadership, agency, execution]
+tags:
+  - ai-and-leadership
+  - ai
+  - leadership
+  - agency
+  - execution
+slug: ai-and-leadership/everyone-a-ceo
+date: 2024-05-05
 ---
 
 **Artificial Intelligence is lowering the barriers to leadership and execution.** Where once it took capital, staff, and infrastructure to start and scale an initiative, today an individual with an agentic stack of models and tools can operate at a level that resembles a small firm. The essential resources of production, including knowledge, labour, and coordination, are increasingly commoditised and available to anyone who is motivated enough to use them.

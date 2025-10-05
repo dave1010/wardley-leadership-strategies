@@ -1,7 +1,14 @@
 ---
 title: The Age of Diffused Agency
 description: How AI-driven agency is shifting execution power to individuals and redefining leadership priorities.
-tags: [ai, leadership, agency, strategy]
+tags:
+  - ai-and-leadership
+  - ai
+  - leadership
+  - agency
+  - strategy
+slug: ai-and-leadership/age-of-diffused-agency
+date: 2024-05-01
 ---
 
 **Leadership is moving beyond the jagged frontier of what machines can do.** Artificial Intelligence is not yet Artificial General Intelligence, yet the boundary of machine capability continues to advance. The space of tasks that require human-only intervention shrinks each quarter as new language models pair with agentic tooling to run longer chains of execution with less supervision. Competence that once demanded firms, teams, or specialist expertise now sits within reach of motivated individuals, sometimes on a single high-end consumer GPU.
