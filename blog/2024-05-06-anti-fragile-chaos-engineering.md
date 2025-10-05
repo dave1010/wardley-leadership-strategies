@@ -1,7 +1,14 @@
 ---
 title: Anti-Fragile Leadership Through Organisational Chaos Engineering
 description: How leaders can engineer stressors across sociotechnical systems so their organisations benefit from volatility rather than collapse under it.
-tags: [ai, leadership, antifragile, organisational-design]
+tags:
+  - ai-and-leadership
+  - ai
+  - leadership
+  - antifragile
+  - organisational-design
+slug: ai-and-leadership/anti-fragile-chaos-engineering
+date: 2024-05-06
 ---
 
 **Anti-fragile organisations do not merely survive shocks; they metabolise them into sharper judgement and faster adaptation.** Chaos engineering, born in distributed computing, now offers leadership a disciplined way to inject volatility across sociotechnical systems and build muscles that thrive under disorder. Applied well, it turns AI-augmented enterprises into learning organisms rather than brittle automation wrappers.

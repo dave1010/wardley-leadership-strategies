@@ -1,7 +1,15 @@
 ---
 title: Autonomously Executed Strategy
 description: How leaders prepare doctrine, data, and guardrails so AI agents can deploy Wardley plays without waiting for human hands.
-tags: [ai, leadership, wardley-mapping, doctrine, automation]
+tags:
+  - ai-and-leadership
+  - ai
+  - leadership
+  - wardley-mapping
+  - doctrine
+  - automation
+slug: ai-and-leadership/autonomous-strategy-execution
+date: 2024-05-02
 ---
 
 **The next phase of map governance is letting the plays fire themselves.** Continuous map governance turned static Wardley Maps into living control rooms. The follow-on step is allowing autonomous agents to interpret those maps and launch strategic plays the moment signals cross their thresholds. This demands leadership that treats doctrine as runnable code, evolves guardrails faster than competitors evolve capabilities, and choreographs humans as the editors of intent rather than the operators of every move.

@@ -82,7 +82,15 @@ const config: Config = {
           editUrl:
             'https://github.com/dave1010/wardley-leadership-strategies/tree/main/',
         },
-        blog:false,
+        blog: {
+          routeBasePath: 'blog',
+          blogTitle: 'AI & Leadership',
+          blogDescription:
+            'Analysis of how AI reshapes leadership practice, doctrine, and Wardley Mapping strategy.',
+          showReadingTime: true,
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'AI & Leadership',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -122,7 +130,7 @@ const config: Config = {
             },
             {
               label: 'AI & Leadership',
-              to: '/ai-and-leadership',
+              to: '/blog',
             },
             {
               label: 'Books',
@@ -183,7 +191,7 @@ const config: Config = {
             },
             {
               label: 'AI & Leadership',
-              to: '/ai-and-leadership',
+              to: '/blog',
             },
             {
               label: 'Books',
