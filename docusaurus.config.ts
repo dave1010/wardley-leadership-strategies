@@ -121,6 +121,10 @@ const config: Config = {
               to: '/doctrines',
             },
             {
+              label: 'Strategy Guides',
+              to: '/strategy-guides',
+            },
+            {
               label: 'Climatic Patterns',
               to: '/climatic-patterns',
             },
@@ -185,6 +189,10 @@ const config: Config = {
         {
           title: 'Knowledge Base',
           items: [
+            {
+              label: 'Strategy Guides',
+              to: '/strategy-guides',
+            },
             {
               label: 'Terms',
               to: '/terms',
