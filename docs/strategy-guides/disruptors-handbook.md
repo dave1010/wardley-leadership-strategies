@@ -16,7 +16,7 @@ A Land Grab without ILC stalls quickly. Treat your initial offering as the "Inno
 
 ## 🧭 **Balance Speed with Legitimacy**
 
-Disruption that ignores governance burns trust. Map the regulatory landscape and identify the doctrines you need to uphold credibility: [Be Transparent](/doctrines/be-transparent), [Use Appropriate Methods](/doctrines/use-appropriate-methods), and [Think Small Teams](/doctrines/think-small-teams) to keep execution nimble. Engage with policymakers and industry bodies before incumbents frame the narrative. Offer voluntary compliance programs or third-party audits that demonstrate responsibility. This not only pre-empts defensive regulation but can turn regulators into allies who appreciate the resilience your model introduces.
+Disruption that ignores governance burns trust. Map the regulatory landscape and identify the disciplines you need to uphold credibility: invest in [Education](/strategies/user-perception/education) to keep your message clear, anchor execution with [Use a Common Language](/doctrines/use-a-common-language), and cultivate [Agility](/terms/agility) so teams stay responsive. Engage with policymakers and industry bodies before incumbents frame the narrative. Offer voluntary compliance programs or third-party audits that demonstrate responsibility. This not only pre-empts defensive regulation but can turn regulators into allies who appreciate the resilience your model introduces.
 
 ## 🛠️ **Operationalise the Playbook**
 
