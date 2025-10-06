@@ -151,6 +151,10 @@ const config: Config = {
               to: '/strategy-navigator',
             },
             {
+              label: 'Strategy Maturity Model',
+              to: '/tools/strategy-maturity-model',
+            },
+            {
               label: 'My Assessments',
               to: '/my-progress',
             },
