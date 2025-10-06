@@ -75,7 +75,7 @@ flowchart LR
         A[Producer] --> B[Intermediary / Partner]
         B --> C[Customer]
     end
-    A --> D[Direct channel<br/>(store, site, app)]
+    A --> D["Direct channel (store, site, app)"]
     D --> C
     D --> E[Data, experience & margin feedback]
     E --> A
