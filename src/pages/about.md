@@ -22,7 +22,7 @@ The site also includes an interactive [**🚦 Strategy Assessment Tool**](/about
 
 Use the interactive [**Strategy Navigator**](/strategy-navigator) to combine goals, evolution stages, and organisational pressures into a tailored shortlist of plays. Compare recommended strategies side by side to understand signals, first moves, and watch-outs before committing.
 
-To understand the broader organisational capabilities that enable those plays, explore the [**Strategy Maturity Model**](/about/strategy-maturity-model), which charts how teams progress from ad hoc experimentation to doctrine-led mastery.
+To understand the broader organisational capabilities that enable those plays, explore the [**Strategy Maturity Model**](/tools/strategy-maturity-model), which charts how teams progress from ad hoc experimentation to doctrine-led mastery.
 
 ## Explore Additional Resources
 
