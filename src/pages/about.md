@@ -24,6 +24,13 @@ Use the interactive [**Strategy Navigator**](/strategy-navigator) to combine goa
 
 To understand the broader organisational capabilities that enable those plays, explore the [**Strategy Maturity Model**](/about/strategy-maturity-model), which charts how teams progress from ad hoc experimentation to doctrine-led mastery.
 
+## Explore Additional Resources
+
+- **[My Assessments](/my-progress):** Track the strategies you've evaluated with the assessment tool, revisit past answers, and spot patterns in where your organisation is ready to move next.
+- **[AI & Leadership](/blog):** Dive into essays that translate Wardley Mapping principles for an age of automation—covering practical leadership responses to AI hype, adoption risks, and capability building.
+- **[Books](/books):** Browse curated reading lists that underpin the practices on this site, from mapping fundamentals to organisational change playbooks.
+- **[Strategy Guides](/strategy-guides):** Get step-by-step playbooks for common scenarios, starting with the [Introduction to Strategic Play](/strategy-guides/introduction-to-strategic-play) to orient new teams.
+
 Over time it has expanded with dedicated sections on [Climatic Patterns](/climatic-patterns) and [Doctrine](/doctrines). These provide additional context for why a strategy works, but the primary emphasis remains on the gameplays themselves.
 
 
