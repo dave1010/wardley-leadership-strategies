@@ -66,6 +66,26 @@ This strategy doesn't necessarily eliminate a competitor but restricts their gro
 
 By strategically controlling key aspects of the market, a business can limit a competitor's ability to grow or adapt. This can involve securing exclusive deals, establishing dominant standards, or creating patent thickets. The effect is to limit the competitor's options, forcing them into a constrained position.
 
+### Mapping the encirclement
+
+```mermaid
+flowchart TD
+    A[Map competitor avenues<br/>for adaptation] --> B{Which front?}
+    B -->|Product & market| C[Launch adjacent offers<br/>and saturate price points]
+    B -->|Partnerships| D[Secure exclusivity with suppliers,<br/>channels, data sources]
+    B -->|Talent & capability| E[Acquire key teams,<br/>tie talent into ecosystem]
+    B -->|Regulation & IP| F[Shape standards,<br/>file defensive patents]
+    C --> G[Narrow differentiation corridor]
+    D --> G
+    E --> G
+    F --> G
+    G --> H[Competitor options shrink]
+    H --> I[Monitor escape attempts<br/>and refresh the map]
+    I --> A
+```
+
+This view shows how multiple coordinated moves progressively reduce the viable moves available to a rival, making constant monitoring essential to keep the containment tight without overreaching.
+
 ## 🗺️ **Real-World Examples**
 
 - **Facebook "Circling" Snapchat:** Facebook copied Snapchat's core features across its apps after failing to acquire Snapchat. Instagram Stories, WhatsApp Status, and Facebook Stories effectively encircled Snapchat's niche. This limited Snapchat's growth by restricting its room to maneuver.

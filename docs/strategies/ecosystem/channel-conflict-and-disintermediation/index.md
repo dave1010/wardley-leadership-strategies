@@ -67,6 +67,24 @@ While it can be disruptive, creating channel conflict is a powerful way to:
 - **Accelerate Market Evolution:** A direct channel allows you to innovate and iterate on your product and messaging much faster than if you had to work through partners.
 - **Shift Power Dynamics:** It can be used to weaken the power of entrenched distributors or retailers, forcing them to accept more favorable terms.
 
+### Visualising the conflict you are creating
+
+```mermaid
+flowchart LR
+    subgraph Legacy Channel
+        A[Producer] --> B[Intermediary / Partner]
+        B --> C[Customer]
+    end
+    A --> D[Direct channel<br/>(store, site, app)]
+    D --> C
+    D --> E[Data, experience & margin feedback]
+    E --> A
+    B -.->|Resistance, demands, lobbying| A
+    A -->|Rebalanced incentives, selective access| B
+```
+
+The diagram highlights how launching a direct route introduces a new feedback loop with customers while simultaneously creating tension with incumbent intermediaries that leaders must proactively manage.
+
 ## 🗺️ **Real-World Examples**
 
 ### Apple's Retail Stores
