@@ -137,6 +137,29 @@ Pricing policies can have significant ethical implications. Predatory pricing (s
 5. **Implement and Communicate:** Roll out the new pricing and clearly communicate the value proposition to your customers.
 6. **Monitor and Adapt:** Continuously monitor the impact of your pricing on sales, profit, and market share. Be prepared to adjust your strategy in response to competitor actions and changing market conditions.
 
+### Visualising pricing policy choices
+
+```mermaid
+flowchart TD
+    A[Map demand, elasticity<br/>and cost data] --> B{Primary objective?}
+    B -->|Accelerate adoption| C[Lower prices<br/>Penetration or freemium]
+    B -->|Protect margins| D[Signal premium value]
+    B -->|Shape segments| E[Create tiered or modular offers]
+    B -->|Throttle usage| F[Introduce usage-based controls]
+    C --> G[Monitor volume & CAC impact]
+    D --> H[Bundle differentiators<br/>to justify price]
+    E --> I[Align packages to willingness to pay]
+    F --> J[Match demand to capacity constraints]
+    G --> K[Measure market share, CLV,<br/>competitor reactions]
+    H --> K
+    I --> K
+    J --> K
+    K --> L[Iterate experiments<br/>and refine price architecture]
+    L --> A
+```
+
+This flow illustrates how teams connect strategic intent to pricing levers and then loop outcomes back into the next iteration of pricing experiments.
+
 ## 📈 **Measuring Success**
 
 - **Market Share:** Has your pricing policy helped you gain or maintain market share?
