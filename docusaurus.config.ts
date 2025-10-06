@@ -151,12 +151,16 @@ const config: Config = {
               to: '/strategy-navigator',
             },
             {
-              label: 'Strategy Maturity Model',
-              to: '/tools/strategy-maturity-model',
+              label: 'Assessment Tool',
+              to: '/about/assessment-tool',
             },
             {
               label: 'My Assessments',
               to: '/my-progress',
+            },
+            {
+              label: 'Strategy Maturity Model',
+              to: '/tools/strategy-maturity-model',
             },
           ],
         },
