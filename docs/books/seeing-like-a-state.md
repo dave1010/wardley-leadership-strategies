@@ -1,3 +1,7 @@
+---
+isbn13: "9780300078152"
+---
+
 # Seeing Like a State
 
 James C. Scott's **Seeing Like a State** critiques high-modernist planning and the tendency of large institutions to impose simplified schemes on complex societies. Through historical case studies, Scott shows how top-down standardisation can erase local knowledge and provoke resistance.

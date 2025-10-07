@@ -1,3 +1,7 @@
+---
+isbn13: "9781999023003"
+---
+
 # Obviously Awesome
 
 April Dunford's **Obviously Awesome** provides a step-by-step positioning process for technology products. It guides teams through identifying competitive alternatives, isolating unique attributes, mapping true value, and defining customer segments that care most about that value.

@@ -1,3 +1,7 @@
+---
+isbn13: "9780684841489"
+---
+
 # Competitive Strategy
 
 Michael E. Porter's **Competitive Strategy: Techniques for Analyzing Industries and Competitors** (1980) introduced the Five Forces framework and generic strategies of cost leadership, differentiation, and focus. It equips leaders with analytical tools to evaluate industry structure, anticipate competitor moves, and understand how barriers to entry, supplier power, and substitutes shape profitability.

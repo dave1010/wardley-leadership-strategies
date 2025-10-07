@@ -1,3 +1,7 @@
+---
+isbn13: "9783319203997"
+---
+
 # Confessions of the Pricing Man
 
 In **Confessions of the Pricing Man**, pricing expert Hermann Simon shares stories and frameworks from decades of advising companies on price strategy. He explains value-based pricing, price differentiation, and the psychology behind willingness to pay, illustrating concepts with real client engagements.

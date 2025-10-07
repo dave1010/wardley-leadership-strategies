@@ -1,3 +1,7 @@
+---
+isbn13: "9781847942791"
+---
+
 # The Cold Start Problem
 
 Andrew Chen's **The Cold Start Problem** explains how to launch and scale network-effect businesses. Drawing on experiences from Uber and other tech companies, Chen describes the atomic networks that ignite growth, the roles of acquisition loops, engagement loops, and economics loops, and the tactics required to move from niche communities to mass-market platforms.

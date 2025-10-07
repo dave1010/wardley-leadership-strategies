@@ -1,3 +1,7 @@
+---
+isbn13: "9780809078813"
+---
+
 # Priceless: The Myth of Fair Value
 
 William Poundstone's **Priceless: The Myth of Fair Value (and How to Take Advantage of It)** explores behavioural pricing and why perceptions of fairness shape buying decisions. Drawing on experiments in psychology and behavioural economics, it demonstrates anchoring, decoy pricing, and other techniques that influence willingness to pay.

@@ -1,3 +1,7 @@
+---
+isbn13: "9781398605425"
+---
+
 # The Direct-to-Consumer Playbook
 
 Mike Stevens' **The Direct-to-Consumer Playbook** distils lessons from building and advising DTC brands. It covers positioning, digital acquisition, subscription economics, and the operational foundations needed to serve customers directly without intermediaries.

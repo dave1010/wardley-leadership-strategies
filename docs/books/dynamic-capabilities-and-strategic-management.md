@@ -1,3 +1,7 @@
+---
+isbn13: "9780199691906"
+---
+
 # Dynamic Capabilities and Strategic Management
 
 **Dynamic Capabilities and Strategic Management: Organizing for Innovation and Growth** by David J. Teece explores how firms sense opportunities, seize them, and reconfigure assets to stay competitive. Drawing on decades of research, Teece explains why advantage rests on organisational processes, knowledge integration, and the ability to realign resources as markets evolve.

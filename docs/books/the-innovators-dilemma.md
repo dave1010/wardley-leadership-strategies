@@ -1,3 +1,7 @@
+---
+isbn13: "9781633691780"
+---
+
 # The Innovator's Dilemma
 
 **The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail** is a book by Clayton M. Christensen.

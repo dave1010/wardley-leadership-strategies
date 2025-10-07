@@ -1,3 +1,7 @@
+---
+isbn13: "9780140439199"
+---
+
 # The Art of War
 
 **The Art of War** is an ancient Chinese military treatise attributed to Sun Tzu.

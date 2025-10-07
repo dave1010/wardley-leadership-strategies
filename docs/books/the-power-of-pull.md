@@ -1,3 +1,7 @@
+---
+isbn13: "9780465028764"
+---
+
 # The Power of Pull
 
 In **The Power of Pull**, John Hagel III, John Seely Brown, and Lang Davison argue that advantage comes from attracting resources, talent, and ideas when needed rather than owning them outright. They describe how digital networks enable organisations to sense opportunities, mobilise ecosystems, and accelerate learning through open flows of knowledge.

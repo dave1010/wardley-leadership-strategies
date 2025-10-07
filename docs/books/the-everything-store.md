@@ -1,3 +1,7 @@
+---
+isbn13: "9780316219280"
+---
+
 # The Everything Store
 
 Brad Stone's **The Everything Store: Jeff Bezos and the Age of Amazon** chronicles Amazon's rise from online bookstore to diversified platform. It details strategic choices around logistics, marketplace expansion, AWS, and the culture of relentless customer focus and frugality that underpinned growth.

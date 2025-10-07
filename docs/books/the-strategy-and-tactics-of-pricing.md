@@ -1,3 +1,7 @@
+---
+isbn13: "9781138737518"
+---
+
 # The Strategy and Tactics of Pricing
 
 **The Strategy and Tactics of Pricing** by Thomas T. Nagle, John Hogan, and Joseph Zale offers a structured approach to building and executing pricing strategies. It covers economic foundations, value-based pricing, segmentation, and the organisational processes required to align sales and product teams around price realisation.

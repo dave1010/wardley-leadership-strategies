@@ -1,3 +1,7 @@
+---
+isbn13: "9781529033847"
+---
+
 # Working Backwards
 
 **Working Backwards** by Colin Bryar and Bill Carr documents Amazon's leadership principles and product development mechanisms. It details practices like the PR/FAQ process, single-threaded leadership, and metrics-driven operational excellence that enable teams to start with customer outcomes and iterate toward launch.

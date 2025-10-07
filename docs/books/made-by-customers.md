@@ -1,3 +1,7 @@
+---
+isbn13: ""
+---
+
 # Made by Customers
 
 In **Made by Customers: The New Revolution in Creating and Marketing Products**, Stefan Thomke and Eric von Hippel explore how companies harness user innovation. The authors show how customer toolkits, lead-user programmes, and feedback loops let organisations co-design offerings that better meet emerging needs.

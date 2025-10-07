@@ -1,3 +1,7 @@
+---
+isbn13: "9781788160063"
+---
+
 # Trust Me, I'm Lying
 
 In **Trust Me, I'm Lying: Confessions of a Media Manipulator**, Ryan Holiday reveals how modern media incentives can be gamed. Drawing on his experience running marketing stunts, he explains how to seed stories in blogs, manufacture outrage, and exploit the viral news cycle.
