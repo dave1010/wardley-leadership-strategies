@@ -196,4 +196,3 @@ The core insight of co-creation is that value is not created by the company and 
 ## 📚 **Further Reading & References**
 
 - **[The Future of Competition: Co-Creating Unique Value with Customers](/books/the-future-of-competition)** by C.K. Prahalad and Venkat Ramaswamy. The book that popularized the concept of co-creation.
-- **[Made by Customers: The New Revolution in Creating and Marketing Products](/books/made-by-customers)** by Stefan Thomke and Eric von Hippel. Explores the power of user-led innovation.
