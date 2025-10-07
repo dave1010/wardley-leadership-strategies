@@ -36,7 +36,10 @@ export default function BookCard({
   summary,
   tags,
 }: BookCardProps): React.ReactElement {
-  const affiliateId = process.env.BOOKSHOP_AFFILIATE_ID;
+  const affiliateId =
+    typeof process !== 'undefined' && process.env?.BOOKSHOP_AFFILIATE_ID
+      ? process.env.BOOKSHOP_AFFILIATE_ID
+      : undefined;
   const authorList = normaliseList(authors);
   const tagList = normaliseList(tags);
   const summaryText = summary?.trim();
@@ -80,7 +83,7 @@ export default function BookCard({
           <a
             className={clsx('button', 'button--primary')}
             rel="nofollow sponsored"
-            href={bookshopUrl(isbn13, affiliateId ?? undefined)}
+            href={bookshopUrl(isbn13, affiliateId)}
           >
             Buy on Bookshop.org
           </a>
