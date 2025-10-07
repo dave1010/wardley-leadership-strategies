@@ -44,6 +44,7 @@ effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
+import BookRef from '@site/src/components/BookRef';
 
 **Scaling innovation by observing a platform's ecosystem, identifying successful third-party offerings, and then acquiring, replicating, or integrating them.**
 
@@ -203,5 +204,5 @@ At its best, harvesting is a symbiotic relationship. The ecosystem provides inno
 
 ## 📚 **Further Reading & References**
 
-- **[Platform Revolution](/books/platform-revolution)** by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.
+- <strong><BookRef isbn="9780393354355" /></strong> by Geoffrey G. Parker, Marshall W. Van Alstyne, and Sangeet Paul Choudary. A comprehensive guide to platform business models.
 - **[The Business of Platforms](/books/the-business-of-platforms)** by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie. Explores the strategies of platform companies.
