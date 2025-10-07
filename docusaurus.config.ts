@@ -291,7 +291,8 @@ const config: Config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     '@docusaurus/plugin-vercel-analytics',
-    storeSiteDataPlugin
+    storeSiteDataPlugin,
+    [require.resolve('./plugins/books-index'), {dir: 'docs/books'}],
   ],
 };
 
