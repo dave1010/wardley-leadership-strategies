@@ -49,15 +49,23 @@ module.exports = function booksIndexPlugin(context, options = {}) {
 
       return {books};
     },
-    async contentLoaded({content, setGlobalData, createData}) {
+    async contentLoaded({content, actions}) {
+      const {setGlobalData, createData} = actions;
       const {books} = content;
       const sortedBooks = [...books].sort((a, b) => a.title.localeCompare(b.title));
       const dataPath = await createData(
         'books-index.json',
         JSON.stringify(sortedBooks, null, 2),
       );
+      const dataPathRelative = path
+        .relative(context.generatedFilesDir, dataPath)
+        .replace(/\\/g, '/');
 
-      setGlobalData({dataPath, count: sortedBooks.length});
+      setGlobalData({
+        dataPath: dataPathRelative,
+        count: sortedBooks.length,
+        books: sortedBooks,
+      });
     },
   };
 };
