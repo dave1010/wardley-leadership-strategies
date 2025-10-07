@@ -1,3 +1,7 @@
+---
+isbn13: "9781119691297"
+---
+
 # Empowered
 
 **Empowered** (2020) by Marty Cagan and Chris Jones outlines how technology organisations build empowered product teams. It emphasises outcome-focused missions, autonomous squads, and product leadership that provides vision, coaching, and guardrails rather than feature roadmaps.

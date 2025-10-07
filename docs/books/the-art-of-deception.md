@@ -1,3 +1,7 @@
+---
+isbn13: "9780764542800"
+---
+
 # The Art of Deception
 
 **The Art of Deception** by Kevin D. Mitnick and William L. Simon chronicles social engineering attacks and the psychology behind them. Through case studies, it explains how attackers exploit trust, authority, and urgency to persuade people into revealing secrets or granting access to systems.

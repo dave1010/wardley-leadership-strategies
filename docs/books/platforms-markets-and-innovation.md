@@ -1,3 +1,7 @@
+---
+isbn13: "9781848447899"
+---
+
 # Platforms, Markets and Innovation
 
 **Platforms, Markets and Innovation** (2009) edited by Annabelle Gawer examines how platform leaders orchestrate ecosystems of complementors. The collection analyses case studies such as Intel, Microsoft, and mobile telecoms to explain how modular architectures, governance choices, and standards battles shape competitive outcomes.

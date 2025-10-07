@@ -1,3 +1,7 @@
+---
+isbn13: "9781250091895"
+---
+
 # Modern Monopolies
 
 In **Modern Monopolies**, Alex Moazed and Nicholas L. Johnson examine how platform businesses create and capture value. They explain the economics of multi-sided markets, network effects, and data-driven feedback loops that allow platform companies to outpace traditional linear businesses.

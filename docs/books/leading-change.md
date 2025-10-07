@@ -1,3 +1,7 @@
+---
+isbn13: "9781422186435"
+---
+
 # Leading Change
 
 In **Leading Change**, John P. Kotter presents an eight-step model for delivering successful organisational transformations. The book emphasises establishing urgency, forming guiding coalitions, crafting vision, communicating for buy-in, empowering action, generating wins, consolidating gains, and anchoring new approaches in culture.

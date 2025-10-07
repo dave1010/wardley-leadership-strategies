@@ -1,3 +1,7 @@
+---
+isbn13: "9780062896322"
+---
+
 # The Business of Platforms
 
 **The Business of Platforms: Strategy in the Age of Digital Competition, Innovation, and Power** (2019) by Michael A. Cusumano, Annabelle Gawer, and David B. Yoffie examines how platform companies compete, collaborate, and evolve.

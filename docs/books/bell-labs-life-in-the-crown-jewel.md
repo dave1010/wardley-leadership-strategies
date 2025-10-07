@@ -1,3 +1,7 @@
+---
+isbn13: "9780929306278"
+---
+
 # Bell Labs: Life in the Crown Jewel
 
 Narain Gehani's **Bell Labs: Life in the Crown Jewel** offers an insider's account of Bell Laboratories during its most productive decades. It recounts the culture, research programmes, and management systems that supported breakthroughs such as the transistor, information theory, and satellite communications.

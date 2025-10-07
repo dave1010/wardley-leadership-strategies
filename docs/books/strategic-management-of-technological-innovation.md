@@ -1,3 +1,7 @@
+---
+isbn13: "9781260087956"
+---
+
 # Strategic Management of Technological Innovation
 
 Melissa A. Schilling's **Strategic Management of Technological Innovation** provides a comprehensive framework for managing innovation portfolios. The text explores technology S-curves, dominant design emergence, innovation diffusion, and the organisational structures required to shepherd ideas from research through commercialisation.

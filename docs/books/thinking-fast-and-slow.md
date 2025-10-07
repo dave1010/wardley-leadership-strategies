@@ -1,3 +1,7 @@
+---
+isbn13: "9780141033570"
+---
+
 # Thinking, Fast and Slow
 
 **Thinking, Fast and Slow** (2011) by Daniel Kahneman synthesises behavioural economics research on how people make judgements under uncertainty. It introduces the dual-system model—fast, intuitive "System 1" thinking and slower, analytical "System 2" reasoning—and shows how cognitive shortcuts shape perception, probability assessments, and risk appetite.

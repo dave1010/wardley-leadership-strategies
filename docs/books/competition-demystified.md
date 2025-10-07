@@ -1,3 +1,7 @@
+---
+isbn13: "9781591841807"
+---
+
 # Competition Demystified
 
 **Competition Demystified** by Bruce C. Greenwald and Judd Kahn simplifies strategic analysis by focusing on competitive advantage and barriers to entry. The authors argue that most industries boil down to either localised monopolies or commodity competition, and they offer frameworks for identifying which applies to your situation.

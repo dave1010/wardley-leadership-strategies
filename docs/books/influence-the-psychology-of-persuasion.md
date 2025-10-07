@@ -1,3 +1,7 @@
+---
+isbn13: "9780062937650"
+---
+
 # Influence: The Psychology of Persuasion
 
 Robert B. Cialdini's **Influence: The Psychology of Persuasion** distils decades of social psychology research into six principles—reciprocity, commitment, social proof, authority, liking, and scarcity—that explain how people are persuaded. The book uses experiments and real-world stories to reveal how subtle cues shape behaviour.
