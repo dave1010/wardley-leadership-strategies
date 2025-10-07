@@ -44,8 +44,6 @@ effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-import BookRef from '@site/src/components/BookRef';
-
 **Scaling innovation by observing a platform's ecosystem, identifying successful third-party offerings, and then acquiring, replicating, or integrating them.**
 
 > *"Allowing others to develop upon your offerings and harvesting those that are successful. Techniques for ensuring harvesting creates positive signals rather than creating an environment others avoid."*
