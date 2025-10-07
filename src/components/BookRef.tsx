@@ -1,3 +1,7 @@
+/**
+ * Lightweight component that resolves a book ISBN against the books-index plugin
+ * data and renders a link to the corresponding book page.
+ */
 import React from 'react';
 import Link from '@docusaurus/Link';
 import {usePluginData} from '@docusaurus/useGlobalData';

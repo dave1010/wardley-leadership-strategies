@@ -1,3 +1,8 @@
+/**
+ * Docusaurus plugin that builds a site-wide index of books by reading front matter
+ * from markdown files in the configured books directory and exposing the data as
+ * global plugin metadata.
+ */
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
