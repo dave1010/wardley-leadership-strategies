@@ -15,27 +15,15 @@ interface BookSummary {
 interface BooksIndexData {
   dataPath: string;
   count: number;
+  books: BookSummary[];
 }
 
 export default function BookRef({isbn}: {isbn: string}) {
-  const {dataPath} = usePluginData('books-index') as BooksIndexData;
-  const [book, setBook] = React.useState<BookSummary | undefined>();
-
-  React.useEffect(() => {
-    let cancelled = false;
-
-    import(/* webpackChunkName: "books-index" */ `@generated/${dataPath}`).then((mod) => {
-      if (cancelled) {
-        return;
-      }
-      const books: BookSummary[] = mod.default ?? mod;
-      setBook(books.find((entry) => entry.isbn13 === isbn));
-    });
-
-    return () => {
-      cancelled = true;
-    };
-  }, [dataPath, isbn]);
+  const {books} = usePluginData('books-index') as BooksIndexData;
+  const book = React.useMemo(
+    () => books?.find((entry) => entry.isbn13 === isbn),
+    [books, isbn],
+  );
 
   if (!book) {
     return <>{isbn}</>;
