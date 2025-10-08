@@ -1,10 +1,10 @@
 ---
-title: "Focus on users"
-stage: "Stop Self-Destructive Behavior"
-category: "User Centricity"
+title: "Focus on user needs"
+stage: "Development"
+category: "Development"
 ---
 
-Focusing on users means grounding every strategic choice in a clear understanding of who the real users are, what outcomes they need, and how they experience the current value chain. Wardley Mapping reinforces this discipline by forcing leaders to articulate user needs as the anchor for every component on the map.
+Focusing on user needs means grounding every strategic choice in a clear understanding of who the real users are, what outcomes they need, and how they experience the current value chain. Wardley Mapping reinforces this discipline by forcing leaders to articulate user needs as the anchor for every component on the map.
 
 ## Why this doctrine matters
 
@@ -32,4 +32,4 @@ Focusing on users means grounding every strategic choice in a clear understandin
 - **What signals tell us the user's needs have changed?**
 - **Where are we forcing users to compensate for our organisational structure?**
 
-Keeping the doctrine visible ensures strategy conversations stay anchored in the people experiencing the service. That discipline protects teams from automating the wrong thing and keeps the OODA loop connected to real-world outcomes.
+Keeping the doctrine visible ensures strategy conversations stay anchored in the people experiencing the service. That discipline protects teams from automating the wrong thing and keeps delivery connected to real-world outcomes.

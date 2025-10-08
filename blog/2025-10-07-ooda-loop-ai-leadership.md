@@ -30,7 +30,7 @@ Treat observation as competitive counter-intelligence. If rivals compress their 
 
 Orientation is the loop’s hidden lever because it shapes what data even matters. Leaders must:
 
-1. **Update doctrine:** Refresh principles like [Use a Common Language](/doctrines/use-a-common-language) or [Focus on Users](/doctrines/focus-on-users) when AI agents change how work is described.
+1. **Update doctrine:** Refresh principles like [Use a Common Language](/doctrines/use-a-common-language) or [Focus on User Needs](/doctrines/focus-on-user-needs) when AI agents change how work is described.
 2. **Reframe maps:** Redraw Wardley Maps when components evolve or when data utilities shift ownership. Orientation should illuminate whether a capability is drifting toward commodity or differentiator status.
 3. **Stress-test assumptions:** Run red-team exercises where synthetic agents challenge governance rules or ethics policies. Doing so reveals blind spots before adversaries exploit them.
 
