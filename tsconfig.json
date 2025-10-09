@@ -6,5 +6,10 @@
     "types": ["node", "jest", "@testing-library/jest-dom"],
     "typeRoots": ["./node_modules/@types"]
   },
-  "exclude": [".docusaurus", "build"]
+  "exclude": [
+    ".docusaurus",
+    "build",
+    "**/*.test.ts",
+    "**/*.test.tsx"
+  ]
 }

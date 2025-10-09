@@ -1,5 +1,4 @@
 import { beforeEach, describe, it, jest } from '@jest/globals';
-import { expect } from '@site/src/test-utils/expect';
 import { render, screen, fireEvent } from '@testing-library/react';
 import SignalList, { calcScore } from './SignalList';
 import { TrafficLight } from './types';

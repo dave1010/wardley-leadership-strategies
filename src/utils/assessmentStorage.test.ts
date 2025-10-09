@@ -10,7 +10,6 @@ import {
 } from './assessmentStorage';
 import { AssessmentSummary, TrafficLight } from '@site/src/components/Assessment/types';
 import { beforeEach, describe, it } from '@jest/globals';
-import { expect } from '@site/src/test-utils/expect';
 
 describe('assessmentStorage', () => {
   const strategyId = '/strategies/example';
