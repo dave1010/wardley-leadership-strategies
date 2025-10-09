@@ -43,7 +43,7 @@ const ScoreBadge = ({label, score}: {label: string; score: number}) => (
   </div>
 );
 
-export default function MyProgressPage(): JSX.Element {
+export default function MyProgressPage(): React.ReactElement {
   const [summaries, setSummaries] = useState<AssessmentSummary[]>([]);
   const [storageReady, setStorageReady] = useState(false);
 

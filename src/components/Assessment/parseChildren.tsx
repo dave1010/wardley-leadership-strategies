@@ -1,40 +1,45 @@
-import { Children, ReactNode, isValidElement } from 'react';
+import { Children, ElementType, ReactElement, ReactNode, isValidElement } from 'react';
 
-export const extractStatements = (children: ReactNode, targetType: any): string[] => {
+type ElementWithChildren = ReactElement<{ children?: ReactNode }>;
+
+const toElementWithChildren = (child: ReactNode): ElementWithChildren | null =>
+  (isValidElement(child) ? (child as ElementWithChildren) : null);
+
+export const extractStatements = (children: ReactNode, targetType: ElementType): string[] => {
   const items: string[] = [];
   Children.forEach(children, child => {
     if (!child) return;
 
-    const isElement = isValidElement(child);
+    const element = toElementWithChildren(child);
+    const isElement = element !== null;
     // Lenient type check for testing: check name if direct equality fails
     const isCorrectType =
       isElement &&
-      (child.type === targetType ||
-        (typeof child.type === 'function' && typeof targetType === 'function' && (child.type as any).name === (targetType as any).name) ||
-        (typeof child.type === 'object' && (child.type as any).displayName === (targetType as any).displayName));
+      (element.type === targetType ||
+        (typeof element.type === 'function' && typeof targetType === 'function' && (element.type as any).name === (targetType as any).name) ||
+        (typeof element.type === 'object' && (element.type as any).displayName === (targetType as any).displayName));
 
     if (isCorrectType) {
-      const intermediateChildren = child.props.children;
-      const nestedChildren = Array.isArray(intermediateChildren) ? intermediateChildren : [intermediateChildren];
+      const nestedChildren = Children.toArray(element.props.children).map(toElementWithChildren).filter(Boolean) as ElementWithChildren[];
 
-      nestedChildren.filter(Boolean).forEach(c => {
-        if (isValidElement(c) && c.props && c.props.children !== undefined && c.props.children !== null) {
-          // Attempt to handle if c.props.children is the string itself or an array with the string
-          const grandChildren = c.props.children;
+      nestedChildren.forEach(nested => {
+        const grandChildren = nested.props.children;
+        if (grandChildren !== undefined && grandChildren !== null) {
           if (typeof grandChildren === 'string') {
             items.push(grandChildren);
-          } else if (Array.isArray(grandChildren) && grandChildren.length > 0 && typeof grandChildren[0] === 'string') {
-            // If it's an array, and the first item is a string, take it.
-            // This handles cases like <Wrapper>{['Text']}</Wrapper> or <Wrapper>{['Text', <OtherElement/>]}</Wrapper> (takes 'Text')
-            items.push(grandChildren[0]);
+          } else {
+            const firstString = Children.toArray(grandChildren).find(item => typeof item === 'string');
+            if (typeof firstString === 'string') {
+              items.push(firstString);
+            }
           }
           // This version does NOT attempt to recursively flatten or concatenate if grandChildren contains mixed elements/strings.
           // It specifically looks for a string or an array starting with a string.
         }
       });
-    } else if (isElement && child.props && child.props.children) {
+    } else if (isElement && element.props.children) {
       // Recursively search nested children for targetType components
-      items.push(...extractStatements(child.props.children, targetType));
+      items.push(...extractStatements(element.props.children, targetType));
     }
   });
   return items;

@@ -1,24 +1,26 @@
 import React from 'react';
+import type { ReactElement } from 'react';
 import clsx from 'clsx';
 import {
   filterDocCardListItems,
   useDocsSidebar,
 } from '@docusaurus/plugin-content-docs/client';
 import DocCard from '@theme/DocCard';
-import type {Props} from '@theme/DocCardList';
-import {PropSidebarItem, PropSidebarItemLink, PropSidebarItemCategory} from '@docusaurus/plugin-content-docs';
-import {useLocation} from '@docusaurus/router';
-import {isSamePath} from '@docusaurus/theme-common/internal';
-import StrategyDocCard from '@site/src/components/StrategyDocCard';
+import type { Props } from '@theme/DocCardList';
+import {
+  PropSidebarItem,
+  PropSidebarItemCategory,
+  PropSidebarItemLink,
+  type PropSidebar,
+  type PropSidebarBreadcrumbsItem,
+} from '@docusaurus/plugin-content-docs';
+import { useLocation } from '@docusaurus/router';
+import { isSamePath } from '@docusaurus/theme-common/internal';
 
+type ListableSidebarItem = PropSidebarItemCategory | PropSidebarItemLink;
 
-import type {
-    PropSidebar,
-    PropSidebarBreadcrumbsItem,
-  } from '@docusaurus/plugin-content-docs';
-
-function flattenSidebarItems(items: PropSidebarItem[], depth): PropSidebarItemLink[] {
-  return items.flatMap((item) => {
+function flattenSidebarItems(items: PropSidebarItem[], depth: number): ListableSidebarItem[] {
+  return items.flatMap(item => {
     if (item.type === 'category' && depth > 0) {
       return flattenSidebarItems(item.items, depth - 1);
     }
@@ -28,7 +30,7 @@ function flattenSidebarItems(items: PropSidebarItem[], depth): PropSidebarItemLi
 
     // if its a category but depth is 0, we pretend the category is a link
     if (item.type === 'category') {
-      return [item as PropSidebarItemLink];
+      return [item];
     }
     return []; // Shouldn't happen in Docusaurus sidebar, but safe default
   });
@@ -39,72 +41,73 @@ function flattenSidebarItems(items: PropSidebarItem[], depth): PropSidebarItemLi
  * Ordered from top to bottom
  */
 function getSidebarBreadcrumbs({
-    sidebarItems,
-    pathname,
-    onlyCategories = false,
-  }: {
-    sidebarItems: PropSidebar;
-    pathname: string;
-    onlyCategories?: boolean;
-  }): PropSidebarBreadcrumbsItem[] {
-    const breadcrumbs: PropSidebarBreadcrumbsItem[] = [];
-  
-    function extract(items: PropSidebarItem[]) {
-      for (const item of items) {
-        if (
-          (item.type === 'category' &&
-            (isSamePath(item.href, pathname) || extract(item.items))) ||
-          (item.type === 'link' && isSamePath(item.href, pathname))
-        ) {
-          const filtered = onlyCategories && item.type !== 'category';
-          if (!filtered) {
-            breadcrumbs.unshift(item);
-          }
-          return true;
+  sidebarItems,
+  pathname,
+  onlyCategories = false,
+}: {
+  sidebarItems: PropSidebar;
+  pathname: string;
+  onlyCategories?: boolean;
+}): PropSidebarBreadcrumbsItem[] {
+  const breadcrumbs: PropSidebarBreadcrumbsItem[] = [];
+
+  function extract(items: PropSidebarItem[]): boolean {
+    for (const item of items) {
+      if (
+        (item.type === 'category' &&
+          (isSamePath(item.href, pathname) || extract(item.items))) ||
+        (item.type === 'link' && isSamePath(item.href, pathname))
+      ) {
+        const filtered = onlyCategories && item.type !== 'category';
+        if (!filtered) {
+          breadcrumbs.unshift(item);
         }
+        return true;
       }
-  
-      return false;
     }
-  
-    extract(sidebarItems);
-  
-    return breadcrumbs;
+
+    return false;
   }
 
-function getAllSubPagesFromDeepestCategory(): PropSidebarItemLink[] {
-    const {pathname} = useLocation();
-    const sidebar = useDocsSidebar();
-    if (!sidebar) {
-      throw new Error('Unexpected: cant find current sidebar');
-    }
-  
-    const categoryBreadcrumbs = getSidebarBreadcrumbs({
-      sidebarItems: sidebar.items,
-      pathname,
-      onlyCategories: true,
-    });
-  
-    const deepestCategory = categoryBreadcrumbs.slice(-1)[0];
-    const targetItems = deepestCategory?.items ?? sidebar.items;
-    const depth = 1;
+  extract(sidebarItems);
 
-    const items = flattenSidebarItems(targetItems, depth);
+  return breadcrumbs;
+}
 
-    // sort by label
-    items.sort((a, b) => a.label.localeCompare(b.label));
-    return items
+function getAllSubPagesFromDeepestCategory(): ListableSidebarItem[] {
+  const { pathname } = useLocation();
+  const sidebar = useDocsSidebar();
+  if (!sidebar) {
+    throw new Error('Unexpected: cant find current sidebar');
   }
 
+  const categoryBreadcrumbs = getSidebarBreadcrumbs({
+    sidebarItems: sidebar.items,
+    pathname,
+    onlyCategories: true,
+  });
 
+  const deepestCategory = categoryBreadcrumbs.slice(-1)[0];
+  const targetItems =
+    deepestCategory && deepestCategory.type === 'category'
+      ? deepestCategory.items
+      : sidebar.items;
+  const depth = 1;
 
-function DocCardListForCurrentSidebarCategory({className}: Props) {
+  const items = flattenSidebarItems(targetItems, depth);
+
+  // sort by label
+  items.sort((a, b) => a.label.localeCompare(b.label));
+  return items;
+}
+
+function DocCardListForCurrentSidebarCategory({ className }: Props) {
   const items = getAllSubPagesFromDeepestCategory();
   return <FlattenedDocCardList items={items} className={className} />;
 }
 
-export default function FlattenedDocCardList(props: Props): JSX.Element {
-  const {items, className} = props;
+export default function FlattenedDocCardList(props: Props): ReactElement {
+  const { items, className } = props;
   if (!items) {
     return <DocCardListForCurrentSidebarCategory {...props} />;
   }

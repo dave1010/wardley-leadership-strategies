@@ -1,4 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react';
+import type { ReactNode } from 'react';
 import Results, { getLevelFromScore, summaryText } from './Results';
 import SignalList from './SignalList';
 import { extractStatements } from './parseChildren';
@@ -11,8 +12,12 @@ import {
 } from '@site/src/utils/assessmentStorage';
 import { TrafficLight } from './types';
 
-export const MapSignals = ({ children }) => <>{children}</>;
-export const Readiness = ({ children }) => <>{children}</>;
+type AssessmentSectionProps = {
+  children?: ReactNode;
+};
+
+export const MapSignals: React.FC<AssessmentSectionProps> = ({ children }) => <>{children}</>;
+export const Readiness: React.FC<AssessmentSectionProps> = ({ children }) => <>{children}</>;
 export { AssessmentToolAdvert };
 
 const useOptionalDoc = (): ReturnType<typeof useDoc> | null => {
