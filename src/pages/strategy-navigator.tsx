@@ -116,7 +116,7 @@ const comparisonRows: {label: string; render: (profile: StrategyProfile) => Reac
   },
 ];
 
-const StrategyNavigator = (): JSX.Element => {
+const StrategyNavigator = (): React.ReactElement => {
   const [selectedGoals, setSelectedGoals] = useState<string[]>([]);
   const [selectedStages, setSelectedStages] = useState<string[]>([]);
   const [selectedPressures, setSelectedPressures] = useState<string[]>([]);

@@ -1,7 +1,10 @@
 import React from 'react';
+import { beforeEach, describe, it, jest } from '@jest/globals';
+import { expect } from '@site/src/test-utils/expect';
 import { render, screen, act } from '@testing-library/react';
 import Assessment, { MapSignals, Readiness } from './index'; // Assuming MapSignals and Readiness are exported from here
 import { TrafficLight } from './types';
+import type { ComponentProps } from 'react';
 
 // --- Mocks ---
 // Mock './parseChildren' first
@@ -28,6 +31,11 @@ jest.mock('@site/src/utils/assessmentStorage', () => ({
 // Note: This import must come AFTER jest.mock
 const { extractStatements: _mockExtractStatementsUnsafe } = require('./parseChildren');
 const mockExtractStatements = _mockExtractStatementsUnsafe as jest.Mock;
+
+type SignalListComponent = typeof import('./SignalList').default;
+type ResultsComponent = typeof import('./Results').default;
+type SignalListProps = ComponentProps<SignalListComponent>;
+type ResultsProps = ComponentProps<ResultsComponent>;
 
 
 // Callbacks store needs to be defined outside and before the mock factories
@@ -83,6 +91,9 @@ import Results from './Results';     // This will be the mocked version's defaul
 
 // --- End Mocks ---
 
+const signalListMock = SignalList as jest.MockedFunction<SignalListComponent>;
+const resultsMock = Results as jest.MockedFunction<ResultsComponent>;
+
 describe('Assessment Component', () => {
   const strategyName = "Test Strategy";
   const mockMapItems = ['map item 1', 'map item 2'];
@@ -91,8 +102,8 @@ describe('Assessment Component', () => {
   beforeEach(() => {
     // Reset mocks before each test
     mockExtractStatements.mockReset();
-    (SignalList as jest.Mock).mockClear();
-    (Results as jest.Mock).mockClear();
+    signalListMock.mockClear();
+    resultsMock.mockClear();
     mockSignalListOnChangeCallbacks.map = undefined;
     mockSignalListOnChangeCallbacks.readiness = undefined;
 
@@ -143,7 +154,7 @@ describe('Assessment Component', () => {
     expect(mockExtractStatements).toHaveBeenCalledWith(expect.anything(), Readiness);
 
     // Check props passed to the first SignalList (Landscape)
-    const firstSignalListCallArgs = (SignalList as jest.Mock).mock.calls[0][0];
+    const firstSignalListCallArgs = signalListMock.mock.calls[0][0] as SignalListProps;
     expect(firstSignalListCallArgs.title).toBe("Landscape and Climate");
     expect(firstSignalListCallArgs.description).toBe("How well does the strategy fit your context?");
     expect(firstSignalListCallArgs.items).toEqual(mockMapItems);
@@ -161,7 +172,7 @@ describe('Assessment Component', () => {
     // );
 
     // Check props passed to the second SignalList (Readiness)
-    const secondSignalListCallArgs = (SignalList as jest.Mock).mock.calls[1][0];
+    const secondSignalListCallArgs = signalListMock.mock.calls[1][0] as SignalListProps;
     expect(secondSignalListCallArgs.title).toBe("Organisational Readiness (Doctrine)");
     expect(secondSignalListCallArgs.description).toBe("How capable is your organisation to execute the strategy?");
     expect(secondSignalListCallArgs.items).toEqual(mockReadinessItems);
@@ -188,7 +199,7 @@ describe('Assessment Component', () => {
       </Assessment>
     );
 
-    const resultsProps = (Results as jest.Mock).mock.calls[0][0];
+    const resultsProps = resultsMock.mock.calls[0][0] as ResultsProps;
     expect(resultsProps.mapScore).toBe(0);
     expect(resultsProps.readinessScore).toBe(0);
     // expect(Results).toHaveBeenCalledWith(
@@ -225,7 +236,7 @@ describe('Assessment Component', () => {
       });
 
       // Results mock should be called again with the new mapScore
-      const lastResultsCallArgs_mapUpdate = (Results as jest.Mock).mock.calls.slice(-1)[0][0];
+      const lastResultsCallArgs_mapUpdate = resultsMock.mock.calls.slice(-1)[0]?.[0] as ResultsProps | undefined;
       expect(lastResultsCallArgs_mapUpdate.mapScore).toBe(newMapScore);
       expect(lastResultsCallArgs_mapUpdate.readinessScore).toBe(0);
       // expect(Results).toHaveBeenLastCalledWith(
@@ -259,7 +270,7 @@ describe('Assessment Component', () => {
       });
 
       // Results mock should be called again with the new readinessScore
-      const lastResultsCallArgs_readinessUpdate = (Results as jest.Mock).mock.calls.slice(-1)[0][0];
+      const lastResultsCallArgs_readinessUpdate = resultsMock.mock.calls.slice(-1)[0]?.[0] as ResultsProps | undefined;
       expect(lastResultsCallArgs_readinessUpdate.mapScore).toBe(0);
       expect(lastResultsCallArgs_readinessUpdate.readinessScore).toBe(newReadinessScore);
       // expect(Results).toHaveBeenLastCalledWith(
@@ -294,7 +305,7 @@ describe('Assessment Component', () => {
         );
       });
       // Check intermediate update for map score
-      const resultsCallArgs_mapUpdate = (Results as jest.Mock).mock.calls.slice(-1)[0][0];
+      const resultsCallArgs_mapUpdate = resultsMock.mock.calls.slice(-1)[0]?.[0] as ResultsProps | undefined;
       expect(resultsCallArgs_mapUpdate.mapScore).toBe(newMapScore);
       expect(resultsCallArgs_mapUpdate.readinessScore).toBe(0);
       // expect(Results).toHaveBeenLastCalledWith(
@@ -311,7 +322,7 @@ describe('Assessment Component', () => {
         );
       });
       // Check final update for readiness score
-      const resultsCallArgs_bothUpdate = (Results as jest.Mock).mock.calls.slice(-1)[0][0];
+      const resultsCallArgs_bothUpdate = resultsMock.mock.calls.slice(-1)[0]?.[0] as ResultsProps | undefined;
       expect(resultsCallArgs_bothUpdate.mapScore).toBe(newMapScore);
       expect(resultsCallArgs_bothUpdate.readinessScore).toBe(newReadinessScore);
       // expect(Results).toHaveBeenLastCalledWith(
