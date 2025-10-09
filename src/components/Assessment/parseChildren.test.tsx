@@ -1,6 +1,5 @@
 import React, { ReactNode } from 'react';
 import { describe, it } from '@jest/globals';
-import { expect } from '@site/src/test-utils/expect';
 import { extractStatements } from './parseChildren';
 
 // Define simple React components for testing

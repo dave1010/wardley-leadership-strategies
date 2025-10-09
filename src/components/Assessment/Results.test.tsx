@@ -1,6 +1,5 @@
 import React from 'react';
 import { describe, it } from '@jest/globals';
-import { expect } from '@site/src/test-utils/expect';
 import { render, screen } from '@testing-library/react';
 import Results, { getLevelFromScore, summaryText, positionScore } from './Results';
 

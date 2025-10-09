@@ -1,6 +1,5 @@
 import React from 'react';
 import { beforeEach, describe, it, jest } from '@jest/globals';
-import { expect } from '@site/src/test-utils/expect';
 import { render, screen, act } from '@testing-library/react';
 import Assessment, { MapSignals, Readiness } from './index'; // Assuming MapSignals and Readiness are exported from here
 import { TrafficLight } from './types';
