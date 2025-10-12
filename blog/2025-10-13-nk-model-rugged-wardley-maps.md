@@ -28,9 +28,9 @@ Think of each component on your map as an NK gene whose fitness contribution dep
 
 This translation creates actionable heuristics:
 
-- **High K ≈ left side of the map.** Expect ruggedness, false peaks, and the need for exploratory gameplays such as pioneering or counter-positioning.
-- **Low K ≈ right side of the map.** Optimisation plays like reducing waste and automating work because each component's fitness contribution is isolated.
-- **Moving right requires lowering K.** Standardising interfaces, codifying doctrine, and investing in automation all reduce the coupling that keeps a component rugged.
+- **High K ≈ left side of the map.** Expect ruggedness, false peaks, and lean on exploratory gameplays such as [Experimentation](/strategies/attacking/experimentation/) or sensing plays like [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon/) to keep moving.
+- **Low K ≈ right side of the map.** Optimisation plays like [Last Man Standing](/strategies/markets/last-man-standing/) reward aggressive efficiency because each component's fitness contribution is isolated.
+- **Moving right requires lowering K.** Standardising interfaces through plays like [Open Approaches](/strategies/accelerators/open-approaches/) or structural efforts such as [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation/) reduces the coupling that keeps a component rugged.
 
 ## Shaping rugged landscapes with doctrine
 
