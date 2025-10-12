@@ -19,7 +19,7 @@ authors:
 
 ## Build a simulation-ready baseline map
 
-Start by codifying your current landscape in machine-readable form. Feed the model a structured description of user needs, value chains, evolutionary stages, and doctrine that you observe in your organisation. Pair this with public signals about competitors—earnings calls, hiring surges, patent filings, or ecosystem commitments. The model should not invent data; it should only recompose what you supply.
+Start by codifying your current landscape in the language LLMs handle best: concise, human-readable text. Write a narrative that names your users, the needs you meet, the value-chain steps involved, and where each component sits on the evolution axis. Annotate this story with doctrine you already apply and any inertia you feel. Pair the narrative with public signals about competitors—earnings calls, hiring surges, patent filings, or ecosystem commitments—so the model grounds its synthesis in evidence you trust. The model should not invent data; it should only recompose what you supply.
 
 Once the baseline is set, generate competitor variants by toggling one assumption at a time. For example, run scenarios where a hyperscaler partner decides to vertically integrate a component you currently treat as commodity. Another variant might assume a startup accelerates a custom platform toward product stage faster than expected. Each run yields an alternative map annotated with the competitor's likely doctrine choices—"Use appropriate methods", "Focus on high situational awareness", or "Challenge assumptions"—so you can see which plays they would favour.
 
@@ -45,9 +45,9 @@ Combine LLM output with red-team workshops. Let humans challenge the simulated m
 
 Set explicit decision cadences—weekly tactical sweeps and quarterly deep dives—so the simulations feed real choices. Automate archival of low-signal scenarios to avoid defending every hypothetical. Capture metrics: percentage of simulations that translate into doctrine updates, number of counterplays executed, and lead time gained when a predicted competitor move materialises.
 
-Two examples illustrate the payoff:
+Two hypothetical scenarios illustrate the payoff:
 
-1. **Energy storage race** – A utility used LLM simulations to map how battery suppliers might leap from custom integrations to commodity services. By spotting a repeated pattern—competitors betting on the climatic shift toward capacity marketplaces—they negotiated supplier exclusivity and launched a subscription grid-balancing offer before rivals moved.
-2. **Healthcare data platforms** – A hospital network simulated what would happen if a tech giant turned patient engagement tools into a commodity utility. The LLM highlighted a doctrine clash: the tech giant prioritised "Standardise and automate" while the hospital relied on bespoke workflows. The insight pushed leadership to modularise their platform, invest in open interfaces, and form a public-private data trust that raised switching costs.
+1. **Energy storage race** – Imagine a utility running LLM simulations to map how battery suppliers might leap from custom integrations to commodity services. By spotting a repeated pattern—competitors betting on the climatic shift toward capacity marketplaces—they could negotiate supplier exclusivity and launch a subscription grid-balancing offer before rivals moved.
+2. **Healthcare data platforms** – Picture a hospital network exploring what would happen if a tech giant turned patient engagement tools into a commodity utility. The LLM might highlight a doctrine clash: the tech giant prioritises "Standardise and automate" while the hospital relies on bespoke workflows. That insight would push leadership to modularise their platform, invest in open interfaces, and form a public-private data trust that raises switching costs.
 
 By treating LLMs as disciplined simulation partners rather than oracle storytellers, you can explore a broad space of competitor strategies, lock onto the few that matter, and respond with precision—without drowning the organisation in defensive thrash.
