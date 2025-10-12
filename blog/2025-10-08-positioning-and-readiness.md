@@ -25,7 +25,7 @@ Consider a legacy payments provider that still owns a regulated clearing license
 
 ## Sensing agents extend the map
 
-Traditional map reviews happen in workshops. That rhythm fails when landscapes twist weekly. Sensing agents fix the gap. They subscribe to telemetry from every component—usage, latency, supply risk, regulatory change—and update the map status automatically. Instead of debating stale diagrams, leadership debates the new signals: "Cloud costs on our differentiating AI training stack spiked 40%—is our position still defensible?" The map becomes a live nervous system rather than a quarterly artefact.
+Traditional map reviews happen in workshops. That rhythm fails when landscapes twist weekly. Sensing agents fix the gap. They subscribe to telemetry from every component—usage, latency, supply risk, regulatory change—and update the map status automatically. Instead of debating stale diagrams, leadership debates the new signals: "Cloud costs on our differentiating AI training stack spiked 40%—is our position still defensible?" The map becomes a live nervous system rather than a quarterly artefact, especially when you layer in the ambient hygiene described in [background AI for continual improvement](/blog/ai-and-leadership/background-ai-continual-improvement).
 
 An infrastructure team at a global retailer wired agents into their fulfilment map. When weather models and shipping telemetry signalled a corridor disruption, the agents reclassified the distribution hub from industrialised to constrained. Leaders respawned workflows within hours: they spun up micro-warehouses and rerouted stock before competitors noticed. Position shifted, the map highlighted it, and sensing agents translated it into action.
 
@@ -50,4 +50,4 @@ Positioning and readiness are no longer periodic strategy exercises; they are ev
 3. **Stress-test optionality** – Run scenario drills where agents simulate each play, revealing capability gaps or ethical traps before reality forces your hand.
 4. **Reward positional advantage** – Celebrate teams who improve the organisation's position, not just those who ship features.
 
-Leaders who combine positional clarity with agent-enabled readiness convert situational awareness into decisive action. Everyone looks smart when the organisation is already standing in the right place with plays primed. The real craft is making that position and readiness the default state.
+Leaders who combine positional clarity with agent-enabled readiness convert situational awareness into decisive action. Everyone looks smart when the organisation is already standing in the right place with plays primed. The real craft is making that position and readiness the default state—and running regular [LLM competitor simulations](/blog/ai-and-leadership/llm-competitor-map-simulations) so the optionality you hold maps to the moves rivals are most likely to make next.

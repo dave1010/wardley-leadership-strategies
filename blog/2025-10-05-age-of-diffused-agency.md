@@ -46,7 +46,7 @@ Oversight load threatens to swamp institutions. Contracts, compliance checks, an
 
 As the act of doing becomes commoditised, leadership shifts to the scarcities only humans can provide. Judgement is required to select the right problems and set the constraints that agents must respect. Taste determines what good looks like amid an overwhelming flood of output. Trust is cultivated by building resilient relationships, communities, and brands that withstand cheap imitation. Negotiation secures distribution, regulation, and access to scarce resources such as compute and differentiated data.
 
-Execution still matters, yet it is increasingly automated, orchestrated, and audited. Leaders operate as editors and conductors who curate leverage rather than as hands-on doers.
+Execution still matters, yet it is increasingly automated, orchestrated, and audited. Leaders operate as editors and conductors who curate leverage rather than as hands-on doers. That shift is why many organisations are investing in [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) stacks that let agents trigger plays directly from the map while pairing them with [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering) drills that keep human judgement sharp.
 
 ## Societal Shifts
 
@@ -54,6 +54,6 @@ Diffused agency reshapes more than firms. The economy benefits from productivity
 
 ## Leadership Beyond the Jagged Frontier
 
-Leadership in this environment is not about commanding labour but about curating leverage. Design agentic stacks as if they were teams, with clear responsibilities, playbooks, and escalation paths. Measure autonomy length, monitor copy latency, and track oversight costs to understand where intervention is essential.
+Leadership in this environment is not about commanding labour but about curating leverage. Design agentic stacks as if they were teams, with clear responsibilities, playbooks, and escalation paths. Measure autonomy length, monitor copy latency, and track oversight costs to understand where intervention is essential. When the diffused agency becomes overwhelming, revisit the governance patterns in [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) to keep intent aligned across the swarm.
 
 Invest in assets that compound over time such as data, distribution, and trust rather than chasing every new output. Anticipate governance drag as much as technical acceleration, because execution has moved rightward into commodity on the Wardley map. The new leverage sits in higher-order strategic choices: where to play, how to constrain, and when to intervene.

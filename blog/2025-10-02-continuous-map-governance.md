@@ -12,7 +12,7 @@ authors:
   - dave-hulbert
 ---
 
-**AI-native leadership depends on maps that move as fast as the agents they command.** Traditional strategy cycles assumed that the landscape stayed still long enough for quarterly reviews. Wardley Mapping showed that components evolve, value chains shift, and doctrine must respond. In an era where autonomous agents execute in minutes, leaders must treat their maps as living systems, instrumented with telemetry, guardrails, and feedback loops that keep decisions aligned with reality.
+**AI-native leadership depends on maps that move as fast as the agents they command.** Traditional strategy cycles assumed that the landscape stayed still long enough for quarterly reviews. Wardley Mapping showed that components evolve, value chains shift, and doctrine must respond. In an era where autonomous agents execute in minutes, leaders must treat their maps as living systems, instrumented with telemetry, guardrails, and feedback loops that keep decisions aligned with reality. Sensemaking frameworks such as [Cynefin](/blog/ai-and-leadership/navigating-ai-leadership-with-cynefin) only reach their potential when the underlying map reflects what the organisation is actually experiencing right now.
 
 <!-- truncate -->
 
@@ -44,4 +44,4 @@ Treat mapping literacy as a leadership competency. Train teams to annotate maps 
 
 ## Looking ahead
 
-As models become agents that negotiate, procure, and design autonomously, the map becomes the contract those agents must obey. Continuous map governance offers a leadership pattern that keeps human intent ahead of machine execution. The organisations that win will be those whose maps evolve at least as quickly as their capabilities.
+As models become agents that negotiate, procure, and design autonomously, the map becomes the contract those agents must obey. Continuous map governance offers a leadership pattern that keeps human intent ahead of machine execution. The organisations that win will be those whose maps evolve at least as quickly as their capabilities—and who are ready to let those maps drive [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) while staying nimble enough to spin their [OODA loops](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) faster than the competition.

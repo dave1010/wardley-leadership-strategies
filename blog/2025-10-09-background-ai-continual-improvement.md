@@ -13,7 +13,7 @@ authors:
   - dave-hulbert
 ---
 
-**The sharpest organisations let AI work in the background, continually raising internal quality while humans focus on intent and imagination.** Background agents monitor maps, refactor components, and tune processes so that Wardley plays fire from a better baseline every week. Rather than heroic transformation programmes, leaders deploy ambient intelligence that nudges the system toward higher maturity as a matter of routine.
+**The sharpest organisations let AI work in the background, continually raising internal quality while humans focus on intent and imagination.** Background agents monitor maps, refactor components, and tune processes so that Wardley plays fire from a better baseline every week. Rather than heroic transformation programmes, leaders deploy ambient intelligence that nudges the system toward higher maturity as a matter of routine. It is the maintenance layer that keeps [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) trustworthy and ensures the diffused agency described in [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering) drills does not descend into entropy.
 
 <!-- truncate -->
 
@@ -62,4 +62,4 @@ The result is a faster cycle with less drag. Each community inherits artefacts t
 - Handoffs between pioneers, settlers, and town planners require fewer manual cleanups.
 - Teams report higher confidence in the quality of shared platforms and practices.
 
-Ambient AI will not make strategy effortless, but it removes friction that used to consume entire quarters. When the background hum is tuned correctly, leaders earn the space to explore new plays while trusting that the operating system of the organisation is getting stronger on its own.
+Ambient AI will not make strategy effortless, but it removes friction that used to consume entire quarters. When the background hum is tuned correctly, leaders earn the space to explore new plays while trusting that the operating system of the organisation is getting stronger on its own. That creates the slack required to run sharper [OODA loops](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) and to hold more positional options from the [AI-era readiness playbook](/blog/ai-and-leadership/positioning-readiness).

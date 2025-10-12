@@ -24,7 +24,7 @@ Observation is not just dashboards. Leaders should fuse Wardley Maps, telemetry 
 - **Operational signals:** latency, error rates, drift metrics, and escalation logs from AI services.
 - **Human feedback:** frontline insight about where automation adds friction or relief.
 
-Treat observation as competitive counter-intelligence. If rivals compress their loops, instrument your own to spot their probes and rehearse rapid response scenarios.
+Treat observation as competitive counter-intelligence. If rivals compress their loops, instrument your own to spot their probes and rehearse rapid response scenarios. When the telemetry starts to lag, revisit the practices in [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) so the loop always pulls from a living landscape rather than a quarterly slide deck.
 
 ## Orient: rewrite mental models, not just reports
 
@@ -62,4 +62,4 @@ Applying OODA in AI leadership means running a meta-loop that inspects the loop 
 - **Audit alignment:** Ensure outcomes still align with user value and ethical commitments. Use independent review boards to inspect high-impact loops.
 - **Adapt doctrine:** When a practice repeatedly causes rework or harms trust, revise doctrine and push the change through orientation artefacts.
 
-Leaders who run OODA this way outpace rivals that confuse movement with learning. Observation provides richer intelligence, orientation reframes meaning, decisions travel as code, and actions reinforce trust. That is how AI-era leadership stays faster than autonomous competition while keeping human purpose in command.
+Leaders who run OODA this way outpace rivals that confuse movement with learning. Observation provides richer intelligence, orientation reframes meaning, decisions travel as code, and actions reinforce trust. Tie the loop into [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) when doctrine is mature, and let [background AI for continual improvement](/blog/ai-and-leadership/background-ai-continual-improvement) keep the baseline sharp so every loop spins a little faster than the last. That is how AI-era leadership stays faster than autonomous competition while keeping human purpose in command.
