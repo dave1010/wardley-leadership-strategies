@@ -49,7 +49,7 @@ Leaders can use the model as a diagnostic checklist when AI programmes stall:
 1. **Cybernetic stand-ups.** Extend daily stand-ups to include a quick VSM check: what did System 1 learn, how did System 2 smooth interactions, what resource constraints did System 3 surface, what signals did System 4 gather, and which principles did System 5 reaffirm?
 2. **Policy heartbeat reviews.** Every quarter, run a System 5 review that inspects doctrine against AI outcomes. Update principles, then push changes down recursively so each layer adjusts its guardrails.
 3. **System 4 simulation sprints.** Dedicate capacity for horizon scanning, using agent-based simulations to stress test new plays before committing investment. Feed the results back into [continuous map governance](/blog/ai-and-leadership/continuous-map-governance).
-4. **System 3* swarm audits.** Pair human auditors with AI tooling to deep-dive into anomalous signals. This keeps autonomous teams honest without stifling experimentation.
+4. **System 3 swarm audits.** Pair human auditors with AI tooling to deep-dive into anomalous signals. This keeps autonomous teams honest without stifling experimentation.
 
 ## Leading through cybernetic balance
 
