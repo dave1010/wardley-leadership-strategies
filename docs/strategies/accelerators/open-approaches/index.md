@@ -130,6 +130,7 @@ Balancing the benefits of openness (adoption, ecosystem, innovation) with the ri
 - Communication and transparency
 - Business model innovation
 - Risk management
+- Commons stewardship and the ability to translate Ostrom-inspired governance into contribution guidelines
 
 ### Ethical considerations
 
@@ -141,9 +142,10 @@ Leaders must ensure openness is genuine (not “open-washing”), respect contri
 2. Choose the right open model (source, standard, data, API)
 3. Remove proprietary barriers (licensing, access, documentation)
 4. Establish governance and community processes
-5. Communicate the value and invite participation
-6. Monitor, support, and evolve the open asset
-7. Capture value through complementary offerings
+5. Codify commons rules with the community: clarify boundaries, align incentives with local context, agree how monitoring works, and outline proportionate sanctions and conflict-resolution paths so the open asset remains trustworthy.
+6. Communicate the value and invite participation
+7. Monitor, support, and evolve the open asset
+8. Capture value through complementary offerings
 
 ## 📈 **Measuring Success**
 
@@ -191,6 +193,10 @@ Openness is not a *safe* play. It’s a signal to others. It invites counterplay
 
 For example, if your competitor is slower-moving or dependent on licensing, opening your stack could force them into a corner. But if they’re faster or better capitalised, they may simply build on what you’ve opened and outcompete you. That’s why open approaches must be paired with a clear value capture model above the open layer: services, analytics, integrations, brand, or trust.
 
+### Ostrom’s Principles as Operating System for Openness
+
+Open assets thrive when governed like shared commons. Define crisp participation boundaries and make sure rules fit local technical and cultural realities rather than copying another community’s bylaws. Invite contributors into rule-making so they own the outcomes, empower peer monitoring, and make sanctions graduated so mistakes become coaching moments instead of exile. Keep dispute resolution lightweight, secure recognition of the community’s autonomy from corporate or regulatory sponsors, and nest governance layers (working groups, foundations, alliances) as the ecosystem scales. Ostrom’s design principles turn abstract “good governance” into concrete rhythms that keep open initiatives legitimate and resilient.
+
 ## ❓ **Key Questions to Ask**
 
 - **Value:** What do we gain by making this open?
@@ -198,6 +204,7 @@ For example, if your competitor is slower-moving or dependent on licensing, open
 - **Monetisation:** What is our business model above the open layer?
 - **Community:** How will we attract and sustain contributors?
 - **Risk:** Are we prepared for competitors to benefit from our openness?
+- **Governance:** Have we co-created boundaries, monitoring, sanctions, and escalation paths that make the openness durable and fair for participants?
 
 ## 🔀 **Related Strategies**
 
