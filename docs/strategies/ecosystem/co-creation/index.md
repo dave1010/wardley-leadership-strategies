@@ -120,6 +120,7 @@ The core leadership challenge is to shift the organizational mindset from "we kn
 - **Facilitation:** The skill to guide the co-creation process and synthesize diverse inputs into a coherent vision.
 - **Openness:** A willingness to listen to and act on ideas from outside the organization.
 - **Strategic Clarity:** The ability to provide a clear strategic framework within which the co-creation can happen, preventing it from becoming a chaotic free-for-all.
+- **Commons Governance:** Designing participation rules, boundaries, and feedback loops with the community so they feel fair and locally relevant—mirroring Elinor Ostrom’s principles for stewarding shared resources.
 
 ### Ethical considerations
 
@@ -130,9 +131,10 @@ The main ethical consideration is fairness. If you are asking users to contribut
 1. **Identify Your Co-creators:** Find the most passionate and knowledgeable users in your community.
 2. **Choose Your Method:** Select a co-creation method that fits your context. This could range from online forums and idea submission platforms to in-person workshops and user advisory boards.
 3. **Provide a Framework:** Give your co-creators a clear brief and a set of constraints to work within. This ensures that their contributions are aligned with your strategic goals.
-4. **Facilitate the Process:** Actively manage the collaboration, provide feedback, and help the community to build on each other's ideas.
-5. **Evaluate and Integrate:** Establish a clear process for evaluating the co-created ideas and integrating the best ones into your product roadmap.
-6. **Recognize and Reward:** Publicly acknowledge the contributions of your co-creators and find appropriate ways to reward them for their efforts.
+4. **Establish Commons Governance:** Co-design contribution rules with representatives of the community—clarify who can join, how decisions get made, what monitoring looks like, and the graduated consequences for abuse. Keep conflict resolution low friction and ensure external stakeholders respect the community’s autonomy.
+5. **Facilitate the Process:** Actively manage the collaboration, provide feedback, and help the community to build on each other's ideas.
+6. **Evaluate and Integrate:** Establish a clear process for evaluating the co-created ideas and integrating the best ones into your product roadmap.
+7. **Recognize and Reward:** Publicly acknowledge the contributions of your co-creators and find appropriate ways to reward them for their efforts.
 
 ## 📈 **Measuring Success**
 
@@ -169,6 +171,10 @@ Co-creation breaks down the traditional "black box" model of product development
 
 The core insight of co-creation is that value is not created by the company and then delivered to the customer. Instead, value is co-created through the interaction between the company and the customer.
 
+### Co-creation as Commons Stewardship
+
+Successful co-creation programmes behave like well-managed commons. They define clear community and asset boundaries, adapt participation rules to local context, and let contributors co-create the rules they live under. Monitoring is transparent and often carried out by the community itself, with proportionate sanctions that protect trust instead of crushing experimentation. Provide accessible conflict-resolution channels so disagreements don’t fester, ensure external sponsors respect the community’s right to self-govern, and, as the initiative scales, nest governance layers (workgroups, councils, steering forums) so decisions stay close to the work. Ostrom’s design principles give leaders a checklist for sustaining energy, fairness, and resilience in a shared innovation space.
+
 ## ❓ **Key Questions to Ask**
 
 - **The Community:** Who are our most passionate users, and how can we engage them in our development process?
@@ -176,6 +182,7 @@ The core insight of co-creation is that value is not created by the company and 
 - **The Process:** How will we manage the flow of ideas and ensure that the best ones are implemented?
 - **The Value Exchange:** What is the value proposition for our co-creators? Why should they participate?
 - **The Control:** How much control are we willing to give up to our community?
+- **The Commons:** Have we clarified boundaries, decision rights, monitoring, and escalation paths so the community can steward the shared assets confidently?
 
 ## 🔀 **Related Strategies**
 
