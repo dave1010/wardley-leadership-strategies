@@ -16,8 +16,8 @@
     "typecheck": "tsc",
     "test": "jest",
     "test:watch": "jest --watch",
-    "lint:md": "markdownlint --dot 'docs/**/*.md'",
-    "lint:md:fix": "markdownlint --dot --fix 'docs/**/*.md'"
+    "lint:md": "markdownlint --dot 'docs/**/*.md' 'blog/**/*.md'",
+    "lint:md:fix": "markdownlint --dot --fix 'docs/**/*.md' 'blog/**/*.md'"
   },
   "dependencies": {
     "@docusaurus/core": "~3.9.1",
