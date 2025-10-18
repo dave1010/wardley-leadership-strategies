@@ -35,6 +35,7 @@ Strategies should aim to follow this format as closely as possible.
    - Start with a subsection `## What is <strategy name>?`, which should be a paragraph or 2 and could include a few bullet points if a list is helpful. Only link to other strategies here if it is helpful to understand where it sits, eg if it is a sub-strategy or very closely related.
    - A few other subsections, again, only covering high level information. Eg `## Why use <strategy name>?`, `## How to use <strategy name>?`, `## Types of <strategy name>`, `## What does <strategy name> achieve?`, `## Core principles of applying <strategy name>`, `## Strategic rationale of <strategy name>`, `## How does <strategy name> affect the landscape?` (could add a Wardley Map in here). Consider value proposition, purpose, objectives, fundamentals, effectiveness, etc.
    - There can be flexibility within this section, where it makes sense for the particular strategy.
+   - If the front matter includes `ethical_profile` add `<EthicalAlignment />` immediately before this heading.
 5. `## 🗺️ **Real-World Examples**`
    - 2 to 4 different examples, with a `###` heading each. Ideally specific but general if needed.
    - If there are no good examples then hypothetical examples are OK, but make it clear they're hypothetical.
@@ -74,6 +75,11 @@ The `authors` field is an array of author IDs, which must match the keys in `/da
 title: Cooperation
 description: Working with others, even competitors, to achieve a goal.
 tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
+ethical_profile:
+  approach: Win-Win Collaborative
+  intent: Ecosystem Stewardship
+  time_horizon: Long-term sustainability
+ethical_summary: Cooperation emphasises mutual value creation and transparency so every participant benefits without sacrificing long-term ecosystem health.
 authors: [dave-hulbert]
 stages:
   - Genesis
@@ -119,6 +125,8 @@ The Strategy Navigator metadata lives at the top level of the front matter. Keep
 - `quick_signals` – field signals that suggest the play might fit. Keep them specific and actionable.
 - `momentum_moves` – first actions to build momentum once the play is selected.
 - `watch_outs` – realistic risks or pitfalls to monitor.
+- `ethical_profile` – taxonomy with keys like `approach`, `intent`, `time_horizon` describing the ethical stance of the play.
+- `ethical_summary` – one or two sentences expanding on the ethical nuance readers should know.
 - `effort_level` – choose one of `Lean Experiment`, `Cross-Functional Initiative`, or `Enterprise Transformation`.
 - `time_horizon` – choose one of `Fast impact`, `Medium-term shaping`, or `Long-term positioning`.
 
