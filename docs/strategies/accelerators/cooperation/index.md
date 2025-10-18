@@ -2,7 +2,11 @@
 title: Cooperation
 description: Working with others, even competitors, to achieve a goal.
 tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
-ethical_alignment: Medium
+ethical_profile:
+  approach: Win-Win Collaborative
+  intent: Ecosystem Stewardship
+  time_horizon: Long-term sustainability
+ethical_summary: Cooperation emphasises mutual value creation and transparency so every participant benefits without sacrificing long-term ecosystem health.
 leadership_skills_needed: [Trust-Building, Negotiation, Strategic Thinking]
 related_strategies:
   - alliances
@@ -54,6 +58,8 @@ time_horizon: Medium-term shaping
 This strategy is about forming partnerships, joint ventures, or industry collaborations where mutual benefit can be found.
 
 <AssessmentToolAdvert strategyName="Cooperation" />
+
+<EthicalAlignment />
 
 ## 🤔 **Explanation**
 
