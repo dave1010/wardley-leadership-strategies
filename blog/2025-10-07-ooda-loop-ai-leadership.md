@@ -63,3 +63,8 @@ Applying OODA in AI leadership means running a meta-loop that inspects the loop 
 - **Adapt doctrine:** When a practice repeatedly causes rework or harms trust, revise doctrine and push the change through orientation artefacts.
 
 Leaders who run OODA this way outpace rivals that confuse movement with learning. Observation provides richer intelligence, orientation reframes meaning, decisions travel as code, and actions reinforce trust. Tie the loop into [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) when doctrine is mature, and let [background AI for continual improvement](/blog/ai-and-leadership/background-ai-continual-improvement) keep the baseline sharp so every loop spins a little faster than the last. That is how AI-era leadership stays faster than autonomous competition while keeping human purpose in command.
+
+## References
+
+- Boyd, J. R. (1987). *A discourse on winning and losing.* Air University Press. <https://apps.dtic.mil/sti/pdfs/ADA276541.pdf>
+- Osinga, F. P. B. (2006). *Science, strategy and war: The strategic theory of John Boyd.* Routledge. <https://www.routledge.com/Science-Strategy-and-War-The-Strategic-Theory-of-John-Boyd/Osinga/p/book/9780415459447>

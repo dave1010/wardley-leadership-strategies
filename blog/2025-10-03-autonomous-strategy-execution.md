@@ -80,3 +80,9 @@ Leaders should instrument metrics that reveal whether autonomous strategy execut
 ## The horizon ahead
 
 Once strategic plays can run themselves, competitive cycles compress even further. Organisations with weak doctrine or brittle data pipelines will drown in conflicting agent actions. Those who treat doctrine as a living API, cultivate teams who can debate machines, and maintain relentless transparency will turn autonomous execution into a flywheel. Leadership focus shifts from "Can we do this?" to "Should we let the system do this yet?"—a question answered not by intuition alone but by continuously evolving maps and the doctrine encoded within them. Pair autonomous execution with the steady hygiene of [background AI for continual improvement](/blog/ai-and-leadership/background-ai-continual-improvement) and you create a system where agents can act boldly because the underlying architecture keeps getting cleaner every week.
+
+## References
+
+- Cloud Native Computing Foundation. (2023). *Open Policy Agent.* <https://www.openpolicyagent.org/>
+- National Institute of Standards and Technology. (2023). *AI Risk Management Framework (AI RMF 1.0).* <https://doi.org/10.6028/NIST.AI.100-1>
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>

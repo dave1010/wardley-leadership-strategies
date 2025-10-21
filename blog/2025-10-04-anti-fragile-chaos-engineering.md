@@ -109,3 +109,9 @@ Leaders can gauge anti-fragile maturity through recurring assessments:
 2. **AI increases the stakes.** Automated execution amplifies both the blast radius of failure and the speed of recovery when lessons are captured. Anti-fragility requires integrated AI governance, not bolt-on controls.
 3. **Maps must evolve alongside muscles.** Each experiment should redraw Wardley Maps to reflect new component maturity levels and strategic options. Without cartographic updates, the organisation reverts to intuition.
 4. **Discomfort is the price of preparedness.** Volatility reveals whether doctrines like transparency, communication, and user focus survive stress. Celebrate the teams that surface painful truths; they are the anti-fragile core.
+
+## References
+
+- Basiri, H., Hochstein, L., Kosewski, L., Reynolds, J., & Rosenthal, C. (2016). Chaos engineering. *2016 IEEE International Conference on Software Maintenance and Evolution (ICSME)*, 9–12. <https://doi.org/10.1109/ICSME.2016.36>
+- Taleb, N. N. (2012). *Antifragile: Things that gain from disorder.* Random House. <https://www.penguinrandomhouse.com/books/215462/antifragile-by-nassim-nicholas-taleb/>
+- Weick, K. E., & Sutcliffe, K. M. (2015). *Managing the unexpected: Sustained performance in a complex world* (3rd ed.). Wiley. <https://www.wiley.com/en-us/Managing+the+Unexpected%3A+Sustained+Performance+in+a+Complex+World%2C+3rd+Edition-p-9781118862414>

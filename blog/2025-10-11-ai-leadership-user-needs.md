@@ -48,3 +48,9 @@ Blend these synthetic insights with your Wardley Map: sketch the evolutionary pa
 - **Keep humans in the loop.** Make user researchers and service designers the stewards of hypotheses; AI accelerates their craft but does not replace their judgment.
 
 Great leadership keeps the organisation obsessed with users even as AI accelerates analysis. By combining Wardley Mapping discipline with model-assisted discovery, you create a system that serves current expectations without losing the differentiating edge hidden inside unspoken needs.
+
+## References
+
+- User Needs Mapping. (2025, May 14). *Wants versus needs: A Wardley Mapping primer on user outcomes.* <https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/>
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>
+- Wei, W., Hao, C., & Wang, Z. (2025). User needs insights from UGC based on large language model. *Advanced Engineering Informatics, 65*, 103268. <https://doi.org/10.1016/j.aei.2025.103268>

@@ -51,3 +51,9 @@ Positioning and readiness are no longer periodic strategy exercises; they are ev
 4. **Reward positional advantage** – Celebrate teams who improve the organisation's position, not just those who ship features.
 
 Leaders who combine positional clarity with agent-enabled readiness convert situational awareness into decisive action. Everyone looks smart when the organisation is already standing in the right place with plays primed. The real craft is making that position and readiness the default state—and running regular [LLM competitor simulations](/blog/ai-and-leadership/llm-competitor-map-simulations) so the optionality you hold maps to the moves rivals are most likely to make next.
+
+## References
+
+- Courtney, H., Kirkland, J., & Viguerie, P. (1997). Strategy under uncertainty. *Harvard Business Review, 75*(6), 67–79. <https://hbr.org/1997/11/strategy-under-uncertainty>
+- Rumelt, R. (2011). *Good strategy/bad strategy: The difference and why it matters.* Crown Business. <https://www.penguinrandomhouse.com/books/309555/good-strategybad-strategy-by-richard-rumelt/>
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>
