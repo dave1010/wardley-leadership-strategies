@@ -52,3 +52,8 @@ Use these prompts to reinforce the double-loop:
 - **Practice:** How is the act of mapping reshaping the system we're observing—are we changing behaviours simply by drawing them?
 
 Double-loop learning does not make mapping slower; it keeps the practice honest. By continuously challenging the frame, leaders avoid turning Wardley Maps into dogma and keep them as living guides for manoeuvre.
+
+## References
+
+- Argyris, C. (1977). Double loop learning in organizations. *Harvard Business Review, 55*(5), 115–125. <https://hbr.org/1977/09/double-loop-learning-in-organizations>
+- Argyris, C., & Schön, D. A. (1996). *Organizational learning II: Theory, method, and practice.* Addison-Wesley. <https://mitpress.mit.edu/9780201629836/organizational-learning-ii/>

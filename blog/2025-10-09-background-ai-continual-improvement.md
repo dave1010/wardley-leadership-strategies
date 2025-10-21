@@ -63,3 +63,9 @@ The result is a faster cycle with less drag. Each community inherits artefacts t
 - Teams report higher confidence in the quality of shared platforms and practices.
 
 Ambient AI will not make strategy effortless, but it removes friction that used to consume entire quarters. When the background hum is tuned correctly, leaders earn the space to explore new plays while trusting that the operating system of the organisation is getting stronger on its own. That creates the slack required to run sharper [OODA loops](/terms/ooda-loop) (explored further in [OODA-driven leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop)) and to hold more positional options from the [AI-era readiness playbook](/blog/ai-and-leadership/positioning-readiness).
+
+## References
+
+- Chrissis, M. B., Konrad, M., & Shrum, S. (2011). *CMMI for development: Guidelines for process integration and product improvement* (3rd ed.). Addison-Wesley. <https://www.pearson.com/en-us/subject-catalog/p/cmmi-for-development-guidelines-for-process-integration-and-product-improvement/P200000005422>
+- Humble, J., Molesky, J., & O’Reilly, B. (2014). *Lean enterprise: How high performance organizations innovate at scale.* O’Reilly Media. <https://www.oreilly.com/library/view/lean-enterprise/9781492049497/>
+- Wardley, S. (2014). Pioneers, settlers and town planners. *Leading Edge Forum*. <https://blog.gardeviance.org/2014/07/pioneers-settlers-and-town-planners.html>

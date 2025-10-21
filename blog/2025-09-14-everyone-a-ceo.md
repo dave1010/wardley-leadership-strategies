@@ -23,3 +23,9 @@ This shift changes the locus of strategy. When execution is cheap and abundant, 
 The implications extend across value chains. As automation strips away intermediaries, industries flatten and competition becomes more fragmented. Individuals and small teams can deliver at scale, but in a landscape where anyone can produce, trust and provenance become the scarce bottlenecks. Advantage lies less in having the capability to produce and more in being recognised, believed, and distributed.
 
 AI does not make everyone into a CEO in the traditional sense. It does not grant leadership qualities, vision, or resilience. But it does mean that anyone with enough drive can assemble the tools and capabilities that once required an organisation. The essence of leadership in this age is not commanding labour but orchestrating leverage, with motivation and judgement now the critical constraints.
+
+## References
+
+- Noy, S., & Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. *Science, 381*(6654), 187–190. <https://doi.org/10.1126/science.adj5790>
+- McKinsey Global Institute. (2023). *The economic potential of generative AI: The next productivity frontier.* <https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier>
+- Stanford Institute for Human-Centered Artificial Intelligence. (2024). *AI Index Report 2024.* <https://aiindex.stanford.edu/report/>

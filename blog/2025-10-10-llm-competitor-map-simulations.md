@@ -51,3 +51,9 @@ Two hypothetical scenarios illustrate the payoff:
 2. **Healthcare data platforms** – Picture a hospital network exploring what would happen if a tech giant turned patient engagement tools into a commodity utility. The LLM might highlight a doctrine clash: the tech giant prioritises "Standardise and automate" while the hospital relies on bespoke workflows. That insight would push leadership to modularise their platform, invest in open interfaces, and form a public-private data trust that raises switching costs.
 
 By treating LLMs as disciplined simulation partners rather than oracle storytellers, you can explore a broad space of competitor strategies, lock onto the few that matter, and respond with precision—without drowning the organisation in defensive thrash. The practice reinforces the warning about the [collapse of differentiation](/blog/ai-and-leadership/collapse-of-differentiation) and feeds the rapid decision tempo outlined in [OODA-driven leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop), all rooted in the [OODA loop](/terms/ooda-loop).
+
+## References
+
+- Metropolis, N., & Ulam, S. (1949). The Monte Carlo method. *Journal of the American Statistical Association, 44*(247), 335–341. <https://doi.org/10.1080/01621459.1949.10483310>
+- Park, J. S., O’Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. *Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology*. <https://doi.org/10.48550/arXiv.2304.03442>
+- Rasal, S., & Hauer, E. J. (2024). Optimal decision making through scenario simulations using large language models. *arXiv*. <https://doi.org/10.48550/arXiv.2407.06486>

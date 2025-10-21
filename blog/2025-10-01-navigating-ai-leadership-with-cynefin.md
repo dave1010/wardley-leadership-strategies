@@ -49,3 +49,8 @@ Crises caused by unexpected model behaviour, security incidents, or runaway auto
 ## Strategic implications
 
 Cynefin plus Wardley Mapping reframes AI leadership as a dynamic practice: sense where a component sits, decide which domain playbook applies, and evolve doctrine as the system learns. Leaders who embrace both models build organisations that can scale clear-domain automation without losing the ability to explore complex terrain or respond to chaos. The result is an adaptive command structure that keeps human judgement ahead of machine speed. Pair this sensemaking posture with [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) so your data reflects reality, and with [OODA-driven leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) grounded in the [OODA loop](/terms/ooda-loop) so orientation translates into decisive action.
+
+## References
+
+- Snowden, D. J., & Boone, M. E. (2007). A leader’s framework for decision making. *Harvard Business Review, 85*(11), 68–76. <https://hbr.org/2007/11/a-leaders-framework-for-decision-making>
+- Snowden, D. J., & Kurtz, C. F. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462–483. <https://doi.org/10.1147/sj.423.0462>

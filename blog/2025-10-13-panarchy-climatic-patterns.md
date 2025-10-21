@@ -50,3 +50,8 @@ Use multi-map reviews to track three couplings:
 4. **Synchronise doctrine across scales.** Ensure teams managing slow assets understand how frontline experiments feed them, and vice versa. Climatic inevitabilities become strategic advantages when every level can articulate its adaptive cycle role.
 
 By layering Panarchy over Wardley climatic patterns, leaders transform inevitability into choreography. The river still flows, but the fleet now maneuvers with foresight—harvesting efficiency without becoming brittle, timing disruption without gambling blindly, and regenerating advantage as cycles turn.
+
+## References
+
+- Gunderson, L. H., & Holling, C. S. (Eds.). (2002). *Panarchy: Understanding transformations in human and natural systems.* Island Press. <https://islandpress.org/books/panarchy>
+- Holling, C. S. (2001). Understanding the complexity of economic, ecological, and social systems. *Ecosystems, 4*(5), 390–405. <https://doi.org/10.1007/s10021-001-0101-0>

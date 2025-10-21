@@ -82,3 +82,9 @@ The Black Swan Trap is an existential threat hidden behind a thin veneer of abst
 - **Choose your trap consciously.** Mitigation that merely hides variety invites a Black Swan, while unmanaged amplification invites organisational dulling.
 - **Build antifragile routines.** Treat chronic friction as training data by resourcing edge decision-makers, keeping slack, and learning from successful adaptations.
 - **Close the loop with doctrine and plays.** Reinforce doctrines such as ["Focus on user needs"](/doctrines/focus-on-user-needs) and ["Use a common language"](/doctrines/use-a-common-language) with practical experiments so the map evolves alongside reality.
+
+## References
+
+- Ashby, W. R. (1956). *An introduction to cybernetics.* Chapman & Hall. <http://pespmc1.vub.ac.be/books/IntroCyb.pdf>
+- Hollnagel, E. (2014). *Safety-I and Safety-II: The past and future of safety management.* Ashgate. <https://www.routledge.com/Safety-I-and-Safety-II-The-Past-and-Future-of-Safety-Management/Hollnagel/p/book/9781472423085>
+- International Organization for Standardization. (2018). *ISO 31000:2018 Risk management—Guidelines.* <https://www.iso.org/standard/65694.html>

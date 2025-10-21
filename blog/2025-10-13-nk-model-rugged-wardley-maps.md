@@ -55,3 +55,8 @@ Wardley Maps expose dependency chains. Overlaying NK thinking prompts fresh stra
 AI expansion accelerates both N and K. Teams stitch together models, data pipelines, orchestration layers, and compliance controls—each a potential coupling point. NK awareness helps leaders decide when to embrace ruggedness (e.g., experimenting with frontier models) and when to commoditise aggressively (e.g., adopting managed ML ops utilities). It also clarifies why pure optimisation mindsets fail: gradient descent logic collapses on rugged landscapes unless you invest in exploration, resilience, and doctrinal guardrails.
 
 Ultimately the NK model invites leaders to treat Wardley Maps as dynamic terrain. You're not just observing evolution—you are reshaping K through architectural choices, sourcing plays, and doctrine. The goal is intentional ruggedness: create differentiation where it matters, smooth everything else, and keep the organisation mobile enough to jump peaks when the landscape shifts under AI-driven change.
+
+## References
+
+- Kauffman, S. A. (1993). *The origins of order: Self-organization and selection in evolution.* Oxford University Press. <https://global.oup.com/academic/product/the-origins-of-order-9780195079517>
+- Levinthal, D. A. (1997). Adaptation on rugged landscapes. *Management Science, 43*(7), 934–950. <https://doi.org/10.1287/mnsc.43.7.934>

@@ -45,3 +45,9 @@ Treat mapping literacy as a leadership competency. Train teams to annotate maps 
 ## Looking ahead
 
 As models become agents that negotiate, procure, and design autonomously, the map becomes the contract those agents must obey. Continuous map governance offers a leadership pattern that keeps human intent ahead of machine execution. The organisations that win will be those whose maps evolve at least as quickly as their capabilities—and who are ready to let those maps drive [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) while staying nimble enough to spin their [OODA loops](/terms/ooda-loop) faster than the competition (see [OODA-driven leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) for a deeper dive).
+
+## References
+
+- Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The science of lean software and DevOps.* IT Revolution. <https://itrevolution.com/product/accelerate/>
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>
+- Wardley, S. (2014). Pioneers, settlers and town planners. *Leading Edge Forum*. <https://blog.gardeviance.org/2014/07/pioneers-settlers-and-town-planners.html>

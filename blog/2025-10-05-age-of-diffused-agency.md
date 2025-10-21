@@ -57,3 +57,9 @@ Diffused agency reshapes more than firms. The economy benefits from productivity
 Leadership in this environment is not about commanding labour but about curating leverage. Design agentic stacks as if they were teams, with clear responsibilities, playbooks, and escalation paths. Measure autonomy length, monitor copy latency, and track oversight costs to understand where intervention is essential. When the diffused agency becomes overwhelming, revisit the governance patterns in [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) to keep intent aligned across the swarm.
 
 Invest in assets that compound over time such as data, distribution, and trust rather than chasing every new output. Anticipate governance drag as much as technical acceleration, because execution has moved rightward into commodity on the Wardley map. The new leverage sits in higher-order strategic choices: where to play, how to constrain, and when to intervene.
+
+## References
+
+- Brynjolfsson, E., Raymond, L. R., & Rock, D. (2023). Generative AI at work. *National Bureau of Economic Research Working Paper No. 31161.* <https://www.nber.org/papers/w31161>
+- Goldfarb, A., Agrawal, A., & Gans, J. (2022). *Power and prediction: The disruptive economics of artificial intelligence.* Harvard Business Review Press. <https://store.hbr.org/product/power-and-prediction-the-disruptive-economics-of-artificial-intelligence/10449>
+- Stanford Institute for Human-Centered Artificial Intelligence. (2024). *AI Index Report 2024.* <https://aiindex.stanford.edu/report/>
