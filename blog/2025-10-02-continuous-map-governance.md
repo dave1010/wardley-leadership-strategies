@@ -48,6 +48,6 @@ As models become agents that negotiate, procure, and design autonomously, the ma
 
 ## References
 
-- Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The science of lean software and DevOps.* IT Revolution. <https://itrevolution.com/product/accelerate/>
-- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>
-- Wardley, S. (2014). Pioneers, settlers and town planners. *Leading Edge Forum*. <https://blog.gardeviance.org/2014/07/pioneers-settlers-and-town-planners.html>
+- Forsgren, N., Humble, J., & Kim, G. (2018). *Accelerate: The science of lean software and DevOps.* IT Revolution. [https://itrevolution.com/product/accelerate/](https://itrevolution.com/product/accelerate/)
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. [https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10](https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10)
+- Wardley, S. (2014). Pioneers, settlers and town planners. *Leading Edge Forum*. [https://blog.gardeviance.org/2014/07/pioneers-settlers-and-town-planners.html](https://blog.gardeviance.org/2014/07/pioneers-settlers-and-town-planners.html)

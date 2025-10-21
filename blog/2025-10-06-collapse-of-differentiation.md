@@ -67,6 +67,6 @@ AI makes software easy to build and hard to defend. Differentiation has not died
 
 ## References
 
-- Cusumano, M. A., Gawer, A., & Yoffie, D. B. (2019). *The business of platforms: Strategy in the age of digital competition, innovation, and power.* Harper Business. <https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie>
-- Peng, K., Fan, L., Huang, H., Chen, S., & Murphy, B. (2023). The impact of AI-assisted code completion tools on software development: A case study on GitHub Copilot. *arXiv*. <https://doi.org/10.48550/arXiv.2305.07983>
-- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>
+- Cusumano, M. A., Gawer, A., & Yoffie, D. B. (2019). *The business of platforms: Strategy in the age of digital competition, innovation, and power.* Harper Business. [https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie](https://www.harpercollins.com/products/the-business-of-platforms-michael-a-cusumanoannabelle-gawerdavid-b-yoffie)
+- Peng, K., Fan, L., Huang, H., Chen, S., & Murphy, B. (2023). The impact of AI-assisted code completion tools on software development: A case study on GitHub Copilot. *arXiv*. [https://doi.org/10.48550/arXiv.2305.07983](https://doi.org/10.48550/arXiv.2305.07983)
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. [https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10](https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10)

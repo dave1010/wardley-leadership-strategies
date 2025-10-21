@@ -53,5 +53,5 @@ By layering Panarchy over Wardley climatic patterns, leaders transform inevitabi
 
 ## References
 
-- Gunderson, L. H., & Holling, C. S. (Eds.). (2002). *Panarchy: Understanding transformations in human and natural systems.* Island Press. <https://islandpress.org/books/panarchy>
-- Holling, C. S. (2001). Understanding the complexity of economic, ecological, and social systems. *Ecosystems, 4*(5), 390–405. <https://doi.org/10.1007/s10021-001-0101-0>
+- Gunderson, L. H., & Holling, C. S. (Eds.). (2002). *Panarchy: Understanding transformations in human and natural systems.* Island Press. [https://islandpress.org/books/panarchy](https://islandpress.org/books/panarchy)
+- Holling, C. S. (2001). Understanding the complexity of economic, ecological, and social systems. *Ecosystems, 4*(5), 390–405. [https://doi.org/10.1007/s10021-001-0101-0](https://doi.org/10.1007/s10021-001-0101-0)

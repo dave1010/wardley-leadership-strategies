@@ -55,5 +55,5 @@ Double-loop learning does not make mapping slower; it keeps the practice honest.
 
 ## References
 
-- Argyris, C. (1977). Double loop learning in organizations. *Harvard Business Review, 55*(5), 115–125. <https://hbr.org/1977/09/double-loop-learning-in-organizations>
-- Argyris, C., & Schön, D. A. (1996). *Organizational learning II: Theory, method, and practice.* Addison-Wesley. <https://mitpress.mit.edu/9780201629836/organizational-learning-ii/>
+- Argyris, C. (1977). Double loop learning in organizations. *Harvard Business Review, 55*(5), 115–125. [https://hbr.org/1977/09/double-loop-learning-in-organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
+- Argyris, C., & Schön, D. A. (1996). *Organizational learning II: Theory, method, and practice.* Addison-Wesley. [https://mitpress.mit.edu/9780201629836/organizational-learning-ii/](https://mitpress.mit.edu/9780201629836/organizational-learning-ii/)
