@@ -26,6 +26,5 @@ AI does not make everyone into a CEO in the traditional sense. It does not grant
 
 ## References
 
-- Noy, S., & Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. *Science, 381*(6654), 187–190. [https://doi.org/10.1126/science.adj5790](https://doi.org/10.1126/science.adj5790)
 - McKinsey Global Institute. (2023). *The economic potential of generative AI: The next productivity frontier.* [https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier)
 - Stanford Institute for Human-Centered Artificial Intelligence. (2024). *AI Index Report 2024.* [https://aiindex.stanford.edu/report/](https://aiindex.stanford.edu/report/)

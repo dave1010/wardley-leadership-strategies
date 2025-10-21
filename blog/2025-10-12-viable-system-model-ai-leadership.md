@@ -64,4 +64,3 @@ AI makes cybernetic governance a necessity. Embrace the Viable System Model, and
 ## References
 
 - Beer, S. (1984). The viable system model: Its provenance, development, methodology and pathology. *Journal of the Operational Research Society, 35*(1), 7–25. [https://doi.org/10.1057/jors.1984.2](https://doi.org/10.1057/jors.1984.2)
-- Espejo, R., & Reyes, A. (2011). *Organizational systems: Managing complexity with the viable system model.* Springer. [https://link.springer.com/book/10.1007/978-3-642-16054-8](https://link.springer.com/book/10.1007/978-3-642-16054-8)
