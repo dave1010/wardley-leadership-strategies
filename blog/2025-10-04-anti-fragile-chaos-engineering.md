@@ -12,7 +12,7 @@ authors:
   - dave-hulbert
 ---
 
-**Anti-fragile organisations do not merely survive shocks; they metabolise them into sharper judgement and faster adaptation.** Chaos engineering, born in distributed computing, now offers leadership a disciplined way to inject volatility across sociotechnical systems and build muscles that thrive under disorder. Applied well, it turns AI-augmented enterprises into learning organisms rather than brittle automation wrappers. It is the counterweight to the empowerment described in [the age of diffused agency](/blog/ai-and-leadership/age-of-diffused-agency); when individuals wield autonomous leverage, leaders need rehearsed stressors that keep collective governance intact.
+**[Anti-fragile](/terms/anti-fragile) organisations—systems that become stronger under stress—do not merely survive shocks; they metabolise them into sharper judgement and faster adaptation.** Chaos engineering, born in distributed computing, now offers leadership a disciplined way to inject volatility across sociotechnical systems and build muscles that thrive under disorder. Applied well, it turns AI-augmented enterprises into learning organisms rather than brittle automation wrappers. It is the counterweight to the empowerment described in [the age of diffused agency](/blog/ai-and-leadership/age-of-diffused-agency); when individuals wield autonomous leverage, leaders need rehearsed stressors that keep collective governance intact.
 
 ## From Resilience to Anti-Fragility in Wardley Terms
 
@@ -91,7 +91,7 @@ Anti-fragility is not an excuse for reckless disruption. Watch for failure modes
 - **Weak Signal sensing:** Chaos experiments amplify the organisation's ability to notice weak signals by training teams to interpret ambiguous inputs without paralysis.
 - **Directed Investment:** Insights from stress tests identify which differentiating components merit accelerated funding versus which can be industrialised or outsourced.
 - **Counterplay readiness:** Practising narrative and supply shocks primes the organisation to confront competitor ambushes or regulatory pivots with rehearsed responses.
-- **Loop discipline:** Embed the findings from each drill into your [OODA leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) so observation and orientation reflect the new muscles you just built.
+- **Loop discipline:** Embed the findings from each drill into your [OODA loop](/terms/ooda-loop) practice (see [OODA leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop)) so observation and orientation reflect the new muscles you just built.
 
 ## Readiness Checklist
 

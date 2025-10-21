@@ -12,7 +12,7 @@ authors:
   - dave-hulbert
 ---
 
-**AI leaders who treat the OODA loop as a living command system gain an advantage over rivals that only iterate plans.** Too many teams equate Observe:Orient:Decide:Act with Plan.Do.Check.Act, yet the OODA loop is richer: orientation rewrites perception, decisions adjust doctrine, and actions feed new signals back into maps. The question that matters: **how can leaders apply the full OODA loop to stay ahead of autonomous competitors while keeping human values in charge?**
+**AI leaders who treat the [OODA loop](/terms/ooda-loop)—John Boyd’s cycle of Observe, Orient, Decide, Act—as a living command system gain an advantage over rivals that only iterate plans.** Too many teams equate Observe:Orient:Decide:Act with Plan.Do.Check.Act, yet the OODA loop is richer: orientation rewrites perception, decisions adjust doctrine, and actions feed new signals back into maps. The question that matters: **how can leaders apply the full OODA loop to stay ahead of autonomous competitors while keeping human values in charge?**
 
 <!-- truncate -->
 

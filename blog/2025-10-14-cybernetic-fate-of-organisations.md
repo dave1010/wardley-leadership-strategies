@@ -11,10 +11,10 @@ authors:
   - dave-hulbert
 ---
 
-Many leaders first encounter Wardley Mapping as a way to visualise competition, not as a lens for risk. This post bridges that gap by showing how the cybernetic Law of Requisite Variety (LRV) and Wardley Mapping illuminate the hidden trade-offs organisations make when they confront uncertainty.
+Many leaders first encounter Wardley Mapping as a way to visualise competition, not as a lens for risk. This post bridges that gap by showing how the cybernetic [Law of Requisite Variety](/terms/law-of-requisite-variety) (LRV)—the principle that a regulator must match the complexity of its environment—and Wardley Mapping illuminate the hidden trade-offs organisations make when they confront uncertainty.
 
 **Risk is not extinguished; it is conserved and reshaped by the strategic posture an organisation adopts toward complexity.**
-The LRV states that the variety (symbolised here as *V*) available to your regulator must be at least equal to the variety presented by disturbances: `V_R ≥ V_D`. Variety simply counts the number of different states each system can recognise and respond to. For an organisation operating in a volatile environment, the strategic decision is not whether to reduce risk, but how to transform the risk it cannot eliminate. This transformation is governed by a strategic choice of risk profile that pivots around the fundamental trade-off between the likelihood (*L*) and the impact (*I*) of failure, leading to two distinct cybernetic traps: the Black Swan Trap (variety attenuation) and the Dulling Trap (pathological variety amplification).
+The LRV states that the variety (symbolised here as *V*) available to your regulator must be at least equal to the variety presented by disturbances: `V_R ≥ V_D`. Variety simply counts the number of different states each system can recognise and respond to. For an organisation operating in a volatile environment, the strategic decision is not whether to reduce risk, but how to transform the risk it cannot eliminate. This transformation is governed by a strategic choice of risk profile that pivots around the fundamental trade-off between the likelihood (*L*) and the impact (*I*) of failure, leading to two distinct cybernetic traps: the [Black Swan](/terms/black-swan-event) Trap—variety attenuation that hides rare, catastrophic shocks—and the Dulling Trap (pathological variety amplification).
 
 <!-- truncate -->
 
@@ -48,7 +48,7 @@ This endemic friction—frequent alerts, process bottlenecks, minor failures, an
 
 ## Antifragility: The Safety-II Mandate
 
-Chronic, mild risk can be the pathway to antifragility—the ability to gain capacity from disorder—but only if the system’s design adheres to the Safety-II philosophy.
+Chronic, mild risk can be the pathway to [antifragility](/terms/anti-fragile)—the ability to gain capacity from disorder—but only if the system’s design adheres to the Safety-II philosophy.
 
 Safety-II is fundamentally a cybernetic perspective, shifting focus from "what caused the failure?" to "how did the system succeed most of the time?" In a high-variety environment, the high-likelihood minor events are not viewed as failures to be stamped out, but as successful local adaptations where the system managed to absorb a shock without catastrophic impact.
 

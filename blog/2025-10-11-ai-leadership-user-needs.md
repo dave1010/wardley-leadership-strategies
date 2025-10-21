@@ -19,7 +19,7 @@ authors:
 
 ## Anchor Wardley Maps on layered needs
 
-Wardley reminds us to map user needs before we map value chains. [User Needs Mapping](https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/) sharpens this discipline by distinguishing expressed wants, expected needs, and hypothesised needs. Expressed wants read like solution requests ("I want a mobile app"), expected needs are the hygiene capabilities users silently assume (secure login, reliable search), and hypothesised needs are the strategic bets that create differentiation. Leaders drift because the first two tiers are easy to quantify and backlog, while the third is hazy.
+Wardley reminds us to map user needs before we map value chains. The practice of [user needs mapping](/terms/user-needs-mapping) sharpens this discipline by distinguishing expressed wants, expected needs, and hypothesised needs (see [User Needs Mapping](https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/) for a deeper dive). Expressed wants read like solution requests ("I want a mobile app"), expected needs are the hygiene capabilities users silently assume (secure login, reliable search), and hypothesised needs are the strategic bets that create differentiation. Leaders drift because the first two tiers are easy to quantify and backlog, while the third is hazy.
 
 Use your map reviews to test balance across the tiers. For every initiative, ask: which layer are we serving, and what signals prove it? If the board report contains only expressed and expected metrics, you are funding predictability but starving discovery. Rotate metrics to include hypothesised-learning measures—time-to-run an experiment, number of latent needs validated, share of engineering capacity spent on discovery.
 
