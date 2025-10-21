@@ -51,6 +51,6 @@ Great leadership keeps the organisation obsessed with users even as AI accelerat
 
 ## References
 
-- User Needs Mapping. (2025, May 14). *Wants versus needs: A Wardley Mapping primer on user outcomes.* <https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/>
-- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>
-- Wei, W., Hao, C., & Wang, Z. (2025). User needs insights from UGC based on large language model. *Advanced Engineering Informatics, 65*, 103268. <https://doi.org/10.1016/j.aei.2025.103268>
+- User Needs Mapping. (2025, May 14). *Wants versus needs: A Wardley Mapping primer on user outcomes.* [https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/](https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/)
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. [https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10](https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10)
+- Wei, W., Hao, C., & Wang, Z. (2025). User needs insights from UGC based on large language model. *Advanced Engineering Informatics, 65*, 103268. [https://doi.org/10.1016/j.aei.2025.103268](https://doi.org/10.1016/j.aei.2025.103268)

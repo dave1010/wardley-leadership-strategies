@@ -52,5 +52,5 @@ Cynefin plus Wardley Mapping reframes AI leadership as a dynamic practice: sense
 
 ## References
 
-- Snowden, D. J., & Boone, M. E. (2007). A leader’s framework for decision making. *Harvard Business Review, 85*(11), 68–76. <https://hbr.org/2007/11/a-leaders-framework-for-decision-making>
-- Snowden, D. J., & Kurtz, C. F. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462–483. <https://doi.org/10.1147/sj.423.0462>
+- Snowden, D. J., & Boone, M. E. (2007). A leader’s framework for decision making. *Harvard Business Review, 85*(11), 68–76. [https://hbr.org/2007/11/a-leaders-framework-for-decision-making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
+- Snowden, D. J., & Kurtz, C. F. (2003). The new dynamics of strategy: Sense-making in a complex and complicated world. *IBM Systems Journal, 42*(3), 462–483. [https://doi.org/10.1147/sj.423.0462](https://doi.org/10.1147/sj.423.0462)

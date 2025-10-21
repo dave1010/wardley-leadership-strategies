@@ -58,5 +58,5 @@ Ultimately the NK model invites leaders to treat Wardley Maps as dynamic terrain
 
 ## References
 
-- Kauffman, S. A. (1993). *The origins of order: Self-organization and selection in evolution.* Oxford University Press. <https://global.oup.com/academic/product/the-origins-of-order-9780195079517>
-- Levinthal, D. A. (1997). Adaptation on rugged landscapes. *Management Science, 43*(7), 934–950. <https://doi.org/10.1287/mnsc.43.7.934>
+- Kauffman, S. A. (1993). *The origins of order: Self-organization and selection in evolution.* Oxford University Press. [https://global.oup.com/academic/product/the-origins-of-order-9780195079517](https://global.oup.com/academic/product/the-origins-of-order-9780195079517)
+- Levinthal, D. A. (1997). Adaptation on rugged landscapes. *Management Science, 43*(7), 934–950. [https://doi.org/10.1287/mnsc.43.7.934](https://doi.org/10.1287/mnsc.43.7.934)

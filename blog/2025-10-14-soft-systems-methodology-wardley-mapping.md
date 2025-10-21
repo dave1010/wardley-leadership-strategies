@@ -93,5 +93,5 @@ Leaders who master both tools can guide teams from confusion to coherent action:
 
 ## References
 
-- Checkland, P. (1981). *Systems thinking, systems practice.* Wiley. <https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471871066>
-- Checkland, P., & Poulter, J. (2006). *Soft systems methodology in action.* Wiley. <https://www.wiley.com/en-us/Soft+Systems+Methodology+in+Action-p-9780470036756>
+- Checkland, P. (1981). *Systems thinking, systems practice.* Wiley. [https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471871066](https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471871066)
+- Checkland, P., & Poulter, J. (2006). *Soft systems methodology in action.* Wiley. [https://www.wiley.com/en-us/Soft+Systems+Methodology+in+Action-p-9780470036756](https://www.wiley.com/en-us/Soft+Systems+Methodology+in+Action-p-9780470036756)

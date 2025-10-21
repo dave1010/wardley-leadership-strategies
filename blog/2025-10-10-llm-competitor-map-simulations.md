@@ -54,6 +54,6 @@ By treating LLMs as disciplined simulation partners rather than oracle storytell
 
 ## References
 
-- Metropolis, N., & Ulam, S. (1949). The Monte Carlo method. *Journal of the American Statistical Association, 44*(247), 335–341. <https://doi.org/10.1080/01621459.1949.10483310>
-- Park, J. S., O’Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. *Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology*. <https://doi.org/10.48550/arXiv.2304.03442>
-- Rasal, S., & Hauer, E. J. (2024). Optimal decision making through scenario simulations using large language models. *arXiv*. <https://doi.org/10.48550/arXiv.2407.06486>
+- Metropolis, N., & Ulam, S. (1949). The Monte Carlo method. *Journal of the American Statistical Association, 44*(247), 335–341. [https://doi.org/10.1080/01621459.1949.10483310](https://doi.org/10.1080/01621459.1949.10483310)
+- Park, J. S., O’Brien, J. C., Cai, C. J., Morris, M. R., Liang, P., & Bernstein, M. S. (2023). Generative agents: Interactive simulacra of human behavior. *Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology*. [https://doi.org/10.48550/arXiv.2304.03442](https://doi.org/10.48550/arXiv.2304.03442)
+- Rasal, S., & Hauer, E. J. (2024). Optimal decision making through scenario simulations using large language models. *arXiv*. [https://doi.org/10.48550/arXiv.2407.06486](https://doi.org/10.48550/arXiv.2407.06486)

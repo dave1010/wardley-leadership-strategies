@@ -83,6 +83,6 @@ Once strategic plays can run themselves, competitive cycles compress even furthe
 
 ## References
 
-- Cloud Native Computing Foundation. (2023). *Open Policy Agent.* <https://www.openpolicyagent.org/>
-- National Institute of Standards and Technology. (2023). *AI Risk Management Framework (AI RMF 1.0).* <https://doi.org/10.6028/NIST.AI.100-1>
-- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. <https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10>
+- Cloud Native Computing Foundation. (2023). *Open Policy Agent.* [https://www.openpolicyagent.org/](https://www.openpolicyagent.org/)
+- National Institute of Standards and Technology. (2023). *AI Risk Management Framework (AI RMF 1.0).* [https://doi.org/10.6028/NIST.AI.100-1](https://doi.org/10.6028/NIST.AI.100-1)
+- Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. [https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10](https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10)

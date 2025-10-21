@@ -66,5 +66,5 @@ Leaders who run OODA this way outpace rivals that confuse movement with learning
 
 ## References
 
-- Boyd, J. R. (1987). *A discourse on winning and losing.* Air University Press. <https://apps.dtic.mil/sti/pdfs/ADA276541.pdf>
-- Osinga, F. P. B. (2006). *Science, strategy and war: The strategic theory of John Boyd.* Routledge. <https://www.routledge.com/Science-Strategy-and-War-The-Strategic-Theory-of-John-Boyd/Osinga/p/book/9780415459447>
+- Boyd, J. R. (1987). *A discourse on winning and losing.* Air University Press. [https://apps.dtic.mil/sti/pdfs/ADA276541.pdf](https://apps.dtic.mil/sti/pdfs/ADA276541.pdf)
+- Osinga, F. P. B. (2006). *Science, strategy and war: The strategic theory of John Boyd.* Routledge. [https://www.routledge.com/Science-Strategy-and-War-The-Strategic-Theory-of-John-Boyd/Osinga/p/book/9780415459447](https://www.routledge.com/Science-Strategy-and-War-The-Strategic-Theory-of-John-Boyd/Osinga/p/book/9780415459447)

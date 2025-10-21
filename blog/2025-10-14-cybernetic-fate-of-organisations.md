@@ -85,6 +85,6 @@ The Black Swan Trap is an existential threat hidden behind a thin veneer of abst
 
 ## References
 
-- Ashby, W. R. (1956). *An introduction to cybernetics.* Chapman & Hall. <http://pespmc1.vub.ac.be/books/IntroCyb.pdf>
-- Hollnagel, E. (2014). *Safety-I and Safety-II: The past and future of safety management.* Ashgate. <https://www.routledge.com/Safety-I-and-Safety-II-The-Past-and-Future-of-Safety-Management/Hollnagel/p/book/9781472423085>
-- International Organization for Standardization. (2018). *ISO 31000:2018 Risk management—Guidelines.* <https://www.iso.org/standard/65694.html>
+- Ashby, W. R. (1956). *An introduction to cybernetics.* Chapman & Hall. [http://pespmc1.vub.ac.be/books/IntroCyb.pdf](http://pespmc1.vub.ac.be/books/IntroCyb.pdf)
+- Hollnagel, E. (2014). *Safety-I and Safety-II: The past and future of safety management.* Ashgate. [https://www.routledge.com/Safety-I-and-Safety-II-The-Past-and-Future-of-Safety-Management/Hollnagel/p/book/9781472423085](https://www.routledge.com/Safety-I-and-Safety-II-The-Past-and-Future-of-Safety-Management/Hollnagel/p/book/9781472423085)
+- International Organization for Standardization. (2018). *ISO 31000:2018 Risk management—Guidelines.* [https://www.iso.org/standard/65694.html](https://www.iso.org/standard/65694.html)
