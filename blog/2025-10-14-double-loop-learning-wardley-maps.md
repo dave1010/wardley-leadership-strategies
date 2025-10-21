@@ -11,7 +11,7 @@ authors:
   - dave-hulbert
 ---
 
-**Wardley Maps can seduce experienced teams into mistaking their artefacts for reality.** When the landscape is rendered crisply, leaders chase precision tweaks instead of questioning the frame. Double-loop learning—Chris Argyris and Donald Schön's discipline of interrogating governing assumptions—restores humility. It forces you to ask not only "Did we place components correctly?" but "Should we even be mapping it this way?"
+**Wardley Maps can seduce experienced teams into mistaking their artefacts for reality.** When the landscape is rendered crisply, leaders chase precision tweaks instead of questioning the frame. [Double-loop learning](/terms/double-loop-learning)—Chris Argyris and Donald Schön's discipline of interrogating governing assumptions—restores humility. It forces you to ask not only "Did we place components correctly?" but "Should we even be mapping it this way?"
 
 <!-- truncate -->
 

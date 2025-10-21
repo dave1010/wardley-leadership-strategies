@@ -12,7 +12,7 @@ authors:
   - dave-hulbert
 ---
 
-**Stafford Beer's Viable System Model (VSM) offers a cybernetic blueprint for leaders trying to orchestrate humans and AI agents without drowning in complexity.** The VSM breaks any adaptive organisation into five interacting systems that sense, coordinate, direct, and reinvent themselves. While Wardley Maps reveal evolutionary position, the VSM explains how to keep each component both autonomous and aligned. **Embedding the model inside AI-era governance exposes where automation should amplify judgement—and where humans must remain the damping function.**
+**Stafford Beer’s [Viable System Model](/terms/viable-system-model) (VSM)—a cybernetic blueprint for balancing autonomy and control—offers leaders a way to orchestrate humans and AI agents without drowning in complexity.** The VSM breaks any adaptive organisation into five interacting systems that sense, coordinate, direct, and reinvent themselves. While Wardley Maps reveal evolutionary position, the VSM explains how to keep each component both autonomous and aligned. **Embedding the model inside AI-era governance exposes where automation should amplify judgement—and where humans must remain the damping function.**
 
 <!-- truncate -->
 

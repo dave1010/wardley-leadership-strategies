@@ -46,7 +46,7 @@ Oversight load threatens to swamp institutions. Contracts, compliance checks, an
 
 As the act of doing becomes commoditised, leadership shifts to the scarcities only humans can provide. Judgement is required to select the right problems and set the constraints that agents must respect. Taste determines what good looks like amid an overwhelming flood of output. Trust is cultivated by building resilient relationships, communities, and brands that withstand cheap imitation. Negotiation secures distribution, regulation, and access to scarce resources such as compute and differentiated data.
 
-Execution still matters, yet it is increasingly automated, orchestrated, and audited. Leaders operate as editors and conductors who curate leverage rather than as hands-on doers. That shift is why many organisations are investing in [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) stacks that let agents trigger plays directly from the map while pairing them with [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering) drills that keep human judgement sharp.
+Execution still matters, yet it is increasingly automated, orchestrated, and audited. Leaders operate as editors and conductors who curate leverage rather than as hands-on doers. That shift is why many organisations are investing in [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) stacks that let agents trigger plays directly from the map while pairing them with [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering) drills that keep human judgement sharp by building [anti-fragile](/terms/anti-fragile) reflexes.
 
 ## Societal Shifts
 

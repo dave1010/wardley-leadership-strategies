@@ -13,7 +13,7 @@ authors:
   - dave-hulbert
 ---
 
-**Wardley Mapping tells us which way the river of evolution flows; Panarchy shows how each boat gains, loses, and renews its resilience along the way.** Pairing the two reveals why some organisations ride climatic currents toward new value while others sink under their own rigidity.
+**Wardley Mapping tells us which way the river of evolution flows; [Panarchy](/terms/panarchy)—the ecological model of nested adaptive cycles—shows how each boat gains, loses, and renews its resilience along the way.** Pairing the two reveals why some organisations ride climatic currents toward new value while others sink under their own rigidity.
 
 <!-- truncate -->
 

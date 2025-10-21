@@ -12,7 +12,7 @@ authors:
   - dave-hulbert
 ---
 
-**Pairing Soft Systems Methodology with Wardley Mapping gives leaders a disciplined way to explore messy situations, negotiate a shared worldview, and only then convert that clarity into the structure of a map.** SSM holds space for contested narratives and hidden assumptions, while Wardley Maps translate the agreed purpose into visible components, evolution, and gameplay. Together they form a loop: learn the situation, model purposeful change, map what must exist, then test doctrine and plays against reality.
+**Pairing [Soft Systems Methodology](/terms/soft-systems-methodology)—Peter Checkland’s approach for exploring messy situations through multiple worldviews—with Wardley Mapping gives leaders a disciplined way to explore messy situations, negotiate a shared worldview, and only then convert that clarity into the structure of a map.** SSM holds space for contested narratives and hidden assumptions, while Wardley Maps translate the agreed purpose into visible components, evolution, and gameplay. Together they form a loop: learn the situation, model purposeful change, map what must exist, then test doctrine and plays against reality.
 
 <!-- truncate -->
 
