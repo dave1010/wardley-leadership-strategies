@@ -61,5 +61,4 @@ Invest in assets that compound over time such as data, distribution, and trust r
 ## References
 
 - Brynjolfsson, E., Raymond, L. R., & Rock, D. (2023). Generative AI at work. *National Bureau of Economic Research Working Paper No. 31161.* [https://www.nber.org/papers/w31161](https://www.nber.org/papers/w31161)
-- Goldfarb, A., Agrawal, A., & Gans, J. (2022). *Power and prediction: The disruptive economics of artificial intelligence.* Harvard Business Review Press. [https://store.hbr.org/product/power-and-prediction-the-disruptive-economics-of-artificial-intelligence/10449](https://store.hbr.org/product/power-and-prediction-the-disruptive-economics-of-artificial-intelligence/10449)
 - Stanford Institute for Human-Centered Artificial Intelligence. (2024). *AI Index Report 2024.* [https://aiindex.stanford.edu/report/](https://aiindex.stanford.edu/report/)

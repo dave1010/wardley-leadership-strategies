@@ -90,8 +90,3 @@ After drafting the map, return to the SSM loop. Ask: Does the map honour the roo
 - **Combined cadence becomes strategic muscle:** Regularly alternating between SSM inquiry and mapping builds an organisational habit of sensemaking before gameplay, leading to more resilient strategies and a healthier culture of change.
 
 Leaders who master both tools can guide teams from confusion to coherent action: understanding the social system they are trying to change, visualising the landscape that change must traverse, and picking plays with confidence.
-
-## References
-
-- Checkland, P. (1981). *Systems thinking, systems practice.* Wiley. [https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471871066](https://www.wiley.com/en-us/Systems+Thinking%2C+Systems+Practice-p-9780471871066)
-- Checkland, P., & Poulter, J. (2006). *Soft systems methodology in action.* Wiley. [https://www.wiley.com/en-us/Soft+Systems+Methodology+in+Action-p-9780470036756](https://www.wiley.com/en-us/Soft+Systems+Methodology+in+Action-p-9780470036756)

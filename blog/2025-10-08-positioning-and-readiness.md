@@ -55,5 +55,4 @@ Leaders who combine positional clarity with agent-enabled readiness convert situ
 ## References
 
 - Courtney, H., Kirkland, J., & Viguerie, P. (1997). Strategy under uncertainty. *Harvard Business Review, 75*(6), 67–79. [https://hbr.org/1997/11/strategy-under-uncertainty](https://hbr.org/1997/11/strategy-under-uncertainty)
-- Rumelt, R. (2011). *Good strategy/bad strategy: The difference and why it matters.* Crown Business. [https://www.penguinrandomhouse.com/books/309555/good-strategybad-strategy-by-richard-rumelt/](https://www.penguinrandomhouse.com/books/309555/good-strategybad-strategy-by-richard-rumelt/)
 - Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. [https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10](https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10)
