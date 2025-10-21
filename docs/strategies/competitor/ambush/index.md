@@ -11,9 +11,12 @@ tags:
 - disruption
 - counter-attack
 ethical_profile:
-  approach: Win-Lose Shock
-  intent: Shock Disruption
-  time_horizon: Short-term exploitation
+  risk_level: high
+  stance: aggressive_competition
+  approach: surprise_attack
+  intent: destabilise_rival
+  time_horizon: short_term
+  sustainability: depleting
 ethical_summary: Ambush tactics intentionally prioritise your win over a rival's loss, so leaders must weigh the reputational and ecosystem fallout before striking.
 authors:
 - dave-hulbert

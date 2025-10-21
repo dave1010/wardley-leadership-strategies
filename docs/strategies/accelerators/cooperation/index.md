@@ -3,9 +3,12 @@ title: Cooperation
 description: Working with others, even competitors, to achieve a goal.
 tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
 ethical_profile:
-  approach: Win-Win Collaborative
-  intent: Ecosystem Stewardship
-  time_horizon: Long-term sustainability
+  risk_level: low
+  stance: ecosystem_positive
+  approach: partnership
+  intent: shared_resilience
+  time_horizon: long_term
+  sustainability: regenerative
 ethical_summary: Cooperation emphasises mutual value creation and transparency so every participant benefits without sacrificing long-term ecosystem health.
 leadership_skills_needed: [Trust-Building, Negotiation, Strategic Thinking]
 related_strategies:
