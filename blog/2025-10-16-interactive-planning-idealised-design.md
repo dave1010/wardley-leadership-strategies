@@ -12,7 +12,7 @@ authors:
   - dave-hulbert
 ---
 
-**Russell Ackoff's interactive planning and Wardley Mapping both ask leaders to design the future, not just forecast it; together they give teams the narrative, visual, and gameplay tools to make that future inevitable.** Idealised design sketches the destination, while maps expose the terrain we must cross and the moves that will get us there.
+**Russell Ackoff's [interactive planning](https://www.ida.liu.se/~steho87/und/htdd01/AckoffGuidetoIdealizedRedesign.pdf) and Wardley Mapping both ask leaders to design the future, not just forecast it; together they give teams the narrative, visual, and gameplay tools to make that future inevitable.** Idealised design sketches the destination, while maps expose the terrain we must cross and the moves that will get us there.
 
 <!-- truncate -->
 
@@ -65,3 +65,8 @@ To embed the practice:
 - **Measure learning velocity** – Track how fast components move along the evolution axis compared with expectations. Deviations become triggers for new interactive planning cycles.
 
 Wardley Mapping gives interactive planning its cartography; interactive planning gives Wardley Mapping its social contract. Together they help leadership design futures worth committing to—and then navigate the journey with confidence.
+
+## References
+
+- Ackoff, Russell L. “A Brief Guide to Interactive Planning and Idealized Design.” [Linköping University](https://www.ida.liu.se/~steho87/und/htdd01/AckoffGuidetoIdealizedRedesign.pdf).
+- Ackoff, Russell L.; Magidson, Jason; and Addison, Herbert J. *Idealized Design: Creating an Organization’s Future*. Prentice Hall, 2006.
