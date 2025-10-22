@@ -12,11 +12,13 @@ authors:
   - dave-hulbert
 ---
 
+In the last post, we explored the concept of [autonomously executed strategy](/blog/ai-and-leadership/autonomous-strategy-execution), where AI agents can trigger strategic plays directly from a living map. But how do we ensure that these autonomous systems are resilient and that the organisation can withstand the inevitable shocks and surprises of a complex world?
+
 **[Anti-fragile](/terms/anti-fragile) organisations—systems that become stronger under stress—do not merely survive shocks; they metabolise them into sharper judgement and faster adaptation.** Chaos engineering, born in distributed computing, now offers leadership a disciplined way to inject volatility across sociotechnical systems and build muscles that thrive under disorder. Applied well, it turns AI-augmented enterprises into learning organisms rather than brittle automation wrappers. It is the counterweight to the empowerment described in [the age of diffused agency](/blog/ai-and-leadership/age-of-diffused-agency); when individuals wield autonomous leverage, leaders need rehearsed stressors that keep collective governance intact.
 
 ## From Resilience to Anti-Fragility in Wardley Terms
 
-Resilience seeks to snap back to an earlier state. Anti-fragility learns forward. On a Wardley Map this means shifting attention from preserving existing high-utility components to accelerating movement of evolving components into more industrialised forms while elevating human judgement and ethics to the focus of investment.
+Resilience is about bouncing back to a previous state. Anti-fragility is about learning and getting stronger. On a Wardley Map, this means shifting focus from preserving existing high-utility components to accelerating the evolution of components into more industrialised forms. It also means elevating human judgement and ethics as the focus of investment.
 
 <!-- truncate -->
 
@@ -30,11 +32,11 @@ Chaos engineering in an organisational setting is not about breaking infrastruct
 
 ### 1. Choose the capability under examination
 
-Map the capability to its components: data pipelines, AI agents, compliance controls, decision authorities, customer touchpoints. Identify where automation sits versus where human discretion governs outcomes. Target the seams between them.
+Map the capability to its components, including data pipelines, AI agents, compliance controls, decision authorities, and customer touchpoints. Identify where automation is used versus where human discretion governs outcomes. Focus on the seams between them.
 
 ### 2. Formulate hypotheses about failure and learning
 
-The goal is dual: reveal fragilities *and* specify what improvement should look like. Example hypotheses:
+The goal is to both reveal fragilities and specify what improvement should look like. For example:
 
 - If we remove a key subject-matter expert from the escalation chain for a week, the policy team will clarify tacit rules into artefacts within two days.
 - If the model monitoring dashboard feeds conflicting signals, frontline teams will escalate to governance rather than bypassing controls.
@@ -42,7 +44,7 @@ The goal is dual: reveal fragilities *and* specify what improvement should look 
 
 ### 3. Inject controlled volatility
 
-Deploy perturbations that emulate real climatic pressures:
+Deploy disruptions that emulate real climatic pressures:
 
 - **Rotating constraints:** Temporarily withdraw a privileged AI tool, revoke a dataset, or ban a commonly used prompt library to examine how teams reconfigure workflows.
 - **Synthetic narrative attacks:** Seed contradictory memos, leaked "competitor" announcements, or regulator inquiries to evaluate interpretive capability and trust networks.
@@ -51,7 +53,7 @@ Deploy perturbations that emulate real climatic pressures:
 
 ### 4. Instrument for anti-fragile signals
 
-Traditional KPIs (uptime, error counts) are insufficient. Leaders should capture:
+Traditional KPIs like uptime and error counts are not enough. Leaders should also capture:
 
 - Time-to-learning: duration from perturbation to documented insight.
 - Policy codification rate: how rapidly tacit knowledge becomes explicit playbooks or automation.
@@ -60,25 +62,25 @@ Traditional KPIs (uptime, error counts) are insufficient. Leaders should capture
 
 ### 5. Close the loop deliberately
 
-Chaos experiments must culminate in tangible shifts—new doctrine, map updates, investment decisions. Without explicit follow-through, teams learn that disruption is performative rather than developmental.
+Chaos experiments must lead to tangible changes, such as new doctrine, map updates, or investment decisions. Without explicit follow-through, teams will learn that the disruption is just for show and not for real learning.
 
 ## Leadership Challenges and Enablers
 
-Chaos engineering rewires power structures. Leaders must cultivate environments where discomfort is safe and purpose-driven.
+Chaos engineering can rewire power structures. Leaders need to cultivate environments where discomfort is safe and purpose-driven.
 
-- **Psychological safety under stress:** Anti-fragility collapses if people fear blame. Establish clear rules of engagement, pre-commitment from executives, and after-action rituals focused on learning.
-- **Governance for experimentation:** Define guardrails around legal, ethical, and customer exposure. Set thresholds for when synthetic experiments must involve compliance, risk, or unions.
-- **AI literacy and humility:** Leaders should demand interpretability from AI components and be willing to suspend or tune them when experiments reveal bias or brittleness.
-- **Portfolio thinking:** Sequence experiments from low-stakes internal drills to market-facing rehearsals. Track compounded capability gains, not isolated wins.
+- **Psychological safety under stress:** Anti-fragility can't exist if people are afraid of being blamed. It's important to establish clear rules of engagement, get buy-in from executives, and have after-action reviews that are focused on learning.
+- **Governance for experimentation:** It's important to define guardrails around legal, ethical, and customer exposure. Set thresholds for when synthetic experiments need to involve compliance, risk, or unions.
+- **AI literacy and humility:** Leaders should demand that AI components are interpretable and be willing to suspend or tune them when experiments reveal bias or brittleness.
+- **Portfolio thinking:** Sequence experiments from low-stakes internal drills to market-facing rehearsals. Track the compounded gains in capability, not just isolated wins.
 
 ## When Chaos Engineering Backfires
 
-Anti-fragility is not an excuse for reckless disruption. Watch for failure modes:
+Anti-fragility is not an excuse for reckless disruption. Look out for these failure modes:
 
-- **Fatigue and cynicism:** Excessive or poorly explained experiments erode trust and degrade baseline performance.
-- **Data poisoning and hallucination loops:** Synthetic inputs can contaminate training data or normalise fictitious signals if not quarantined.
-- **Compliance breaches:** Simulated malfeasance may trigger real regulatory reporting obligations. Legal counsel should co-design edge-case drills.
-- **Shadow hierarchies:** If only elite teams run experiments, the organisation entrenches fragility elsewhere.
+- **Fatigue and cynicism:** Too many or poorly explained experiments can erode trust and degrade baseline performance.
+- **Data poisoning and hallucination loops:** If not quarantined, synthetic inputs can contaminate training data or normalise fictitious signals.
+- **Compliance breaches:** Simulated malfeasance can trigger real regulatory reporting obligations. Legal counsel should be involved in the design of edge-case drills.
+- **Shadow hierarchies:** If only elite teams are allowed to run experiments, the organisation will entrench fragility elsewhere.
 
 ## Organisational Case Sketches
 
@@ -105,10 +107,10 @@ Leaders can gauge anti-fragile maturity through recurring assessments:
 
 ## Strategic Insights
 
-1. **Chaos is a leadership capability, not an ops stunt.** Treating chaos engineering as an infrastructure novelty leaves human systems fragile. Executives must own the learning agenda.
-2. **AI increases the stakes.** Automated execution amplifies both the blast radius of failure and the speed of recovery when lessons are captured. Anti-fragility requires integrated AI governance, not bolt-on controls.
-3. **Maps must evolve alongside muscles.** Each experiment should redraw Wardley Maps to reflect new component maturity levels and strategic options. Without cartographic updates, the organisation reverts to intuition.
-4. **Discomfort is the price of preparedness.** Volatility reveals whether doctrines like transparency, communication, and user focus survive stress. Celebrate the teams that surface painful truths; they are the anti-fragile core.
+1. **Chaos is a leadership capability, not an ops stunt.** If you treat chaos engineering as a novelty for the infrastructure team, your human systems will remain fragile. Executives need to own the learning agenda.
+2. **AI increases the stakes.** Automated execution amplifies both the blast radius of failure and the speed of recovery when lessons are learned. Anti-fragility requires integrated AI governance, not bolt-on controls.
+3. **Maps must evolve alongside muscles.** Each experiment should result in a redrawing of the Wardley Map to reflect new component maturity levels and strategic options. Without these updates, the organisation will revert to intuition.
+4. **Discomfort is the price of preparedness.** Volatility reveals whether doctrines like transparency, communication, and user focus can survive under stress. Celebrate the teams that surface painful truths, as they are the core of an anti-fragile organisation.
 
 ## References
 
