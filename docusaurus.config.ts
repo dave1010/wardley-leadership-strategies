@@ -3,7 +3,6 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
-import storeSiteDataPlugin from './src/plugins/storeSiteData';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
@@ -305,7 +304,6 @@ const config: Config = {
   plugins: [
     require.resolve('docusaurus-lunr-search'),
     '@docusaurus/plugin-vercel-analytics',
-    storeSiteDataPlugin,
     [require.resolve('./plugins/books-index'), {dir: 'docs/books'}],
   ],
 };
