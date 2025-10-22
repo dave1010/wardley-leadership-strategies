@@ -12,7 +12,7 @@
 - Each strategy is in its own folder, eg `./docs/strategies/category-name/strategy-name`
 - Each strategy has an index.md file, which is the main entry point for the strategy, eg `./docs/strategies/foo/bar/index.md`
 - Markdown links to strategies are in the format `[Bar](/strategies/foo/bar)`
-- Read the file `./site-data/strategy-paths.txt` for a list of all strategies and their URLs. (These are all mounted on `/strategies`.)
+- Browse the folders in `./docs/strategies` to see every strategy category and slug. Routes map to `/strategies/<category>/<strategy>`.
 
 ### Strategy Content
 
@@ -128,7 +128,7 @@ After editing any of the Strategy Navigator metadata run `npm run generate:strat
 
 ### Tags
 
-- Read the file `./site-data/tags.txt` for a list of current tags.
+- Check existing strategy front matter in `./docs/strategies/**/index.md` to understand the current tag set.
 - Don't tag content with the strategy name, unless it is a parent or very generic strategy.
 
 ### Assessment Readiness Tool
@@ -183,7 +183,7 @@ The blog currently focuses on the **AI and Leadership** series. All posts live i
 - We're not trying to create a dictionary of all words or phrases.
 - Don't make terms pages for strategies.
 - Terms are in `./docs/terms/<term>.md`. eg `./docs/terms/critical-mass.md`.
-- Read the file `./site-data/terms.txt` for a list of all terms. These are mounted on `/terms`.
+- The Markdown files in `./docs/terms` are the authoritative list of terms, each mounted on `/terms`.
 - H1 heading title for the term, eg `# Critical Mass`
 - Empty line, then 1 or 2 sentences describing the term. This should be a simple definition, not a long explanation.
 - Link to a strategy only if it is *very* relevant
