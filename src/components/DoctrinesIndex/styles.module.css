@@ -1,0 +1,29 @@
+.groups {
+  display: grid;
+  gap: var(--ifm-spacing-vertical);
+}
+
+.group {
+  min-width: 0;
+}
+
+@media (min-width: 48rem) {
+  .groups {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+.groupTitle {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.listItem + .listItem {
+  margin-top: 0.25rem;
+}
