@@ -13,31 +13,33 @@ authors:
   - dave-hulbert
 ---
 
+In the previous post, we explored how AI is making it possible for [everyone to be a CEO](/blog/ai-and-leadership/everyone-a-ceo), by lowering the barriers to execution and putting powerful tools in the hands of individuals. This newfound agency creates a more dynamic and unpredictable landscape. To navigate this, leaders need new sense-making tools.
+
 **AI leadership needs Cynefin's sensemaking discipline to decide when to experiment, when to codify, and when to get out of the way.** Wardley Mapping explains how components evolve along the value chain, but leaders still have to choose the right play for the terrain in front of them. Cynefin complements Wardley Mapping by framing how decision-making should adapt when the landscape is obvious, complicated, complex, or chaotic—exactly the challenge AI agents introduce.
 
 <!-- truncate -->
 
 ## Why Cynefin matters for AI-era leadership
 
-AI collapses the time it takes for capabilities to evolve, pushing organisations through multiple Wardley evolutionary stages in a single planning cycle. Cynefin keeps leaders from defaulting to a single management style. It reminds them that automation does not erase complexity; it often creates more of it by connecting systems and actors that behave unpredictably. Bringing Cynefin to AI strategy equips leadership teams with language and guardrails for switching between doctrine, experimentation, and containment as the map shifts.
+AI collapses the time it takes for capabilities to evolve, pushing organisations through multiple Wardley evolutionary stages in a single planning cycle. Cynefin prevents leaders from defaulting to a single management style. It reminds them that automation doesn't erase complexity; it often creates more by connecting systems and actors in unpredictable ways. Using Cynefin in AI strategy gives leadership teams the language and guardrails to switch between doctrine, experimentation, and containment as the map shifts.
 
 ## Linking Cynefin domains to Wardley evolution
 
 ### Clear domain – codify and scale
 
-When a capability has matured into a commodity on the map, it usually lands in Cynefin's clear domain. Here leaders should codify best practice, embed doctrine in automation, and push the work into utilities or platform services. Metrics focus on reliability and cost. AI can run almost unsupervised provided ethical guardrails and monitoring are in place.
+When a capability has matured into a commodity on the map, it usually lands in Cynefin's clear domain. Here, leaders should codify best practices, embed doctrine in automation, and push the work into utilities or platform services. Metrics should focus on reliability and cost. AI can run almost unsupervised, provided ethical guardrails and monitoring are in place.
 
 ### Complicated domain – engineer for assurance
 
-Capabilities sitting in the product or transitional stages often belong in the complicated domain. They are knowable with enough expertise. Pair Wardley Maps with Cynefin to assign these components to Town Planners and specialist agents. Governance should emphasise peer review, simulation, and scenario planning so AI-driven decisions remain auditable.
+Capabilities in the product or transitional stages often belong in the complicated domain. They are knowable with enough expertise. Leaders can use Wardley Maps and Cynefin to assign these components to Town Planners and specialist agents. Governance should focus on peer review, simulation, and scenario planning to ensure that AI-driven decisions are auditable.
 
 ### Complex domain – probe with guardrails
 
-Genesis and custom-built components typically live in the complex domain where cause and effect emerge only after experimentation. Leaders should deploy Pioneers, establish safe-to-fail probes, and treat AI agents as hypothesis engines rather than production services. Success metrics emphasise learning velocity, not output volume. Link insights back onto the map so Settlers know when to stabilise discoveries.
+Genesis and custom-built components typically live in the complex domain, where cause and effect are only clear in hindsight. Here, leaders should deploy Pioneers, establish safe-to-fail probes, and treat AI agents as hypothesis engines rather than production services. Success metrics should focus on the speed of learning, not the volume of output. The insights gained should be linked back to the map so that Settlers know when to stabilise the discoveries.
 
 ### Chaotic domain – stabilise then sense
 
-Crises caused by unexpected model behaviour, security incidents, or runaway automation drag components into chaos. The first task is containment: freeze automated actions, assemble cross-functional response teams, and re-establish a minimum viable map of the affected value chain. Only once stability returns should leaders decide whether the component belongs back in complex exploration or complicated engineering.
+Crises caused by unexpected model behaviour, security incidents, or runaway automation can drag components into chaos. The first task is to contain the situation: freeze automated actions, assemble a cross-functional response team, and re-establish a minimum viable map of the affected value chain. Only when stability returns should leaders decide whether the component belongs in the complex or complicated domain.
 
 ## Practical leadership moves
 
@@ -48,7 +50,7 @@ Crises caused by unexpected model behaviour, security incidents, or runaway auto
 
 ## Strategic implications
 
-Cynefin plus Wardley Mapping reframes AI leadership as a dynamic practice: sense where a component sits, decide which domain playbook applies, and evolve doctrine as the system learns. Leaders who embrace both models build organisations that can scale clear-domain automation without losing the ability to explore complex terrain or respond to chaos. The result is an adaptive command structure that keeps human judgement ahead of machine speed. Pair this sensemaking posture with [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) so your data reflects reality, and with [OODA-driven leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) grounded in the [OODA loop](/terms/ooda-loop) so orientation translates into decisive action.
+Using Cynefin with Wardley Mapping reframes AI leadership as a dynamic practice. It's about sensing where a component sits, deciding which domain playbook to apply, and evolving doctrine as the system learns. Leaders who embrace both models can build organisations that scale automation in the clear domain, while still being able to explore the complex domain and respond to chaos. The result is an adaptive command structure that keeps human judgement ahead of machine speed. This sense-making posture should be paired with [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) to ensure that data reflects reality, and with [OODA-driven leadership cycles](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) to translate orientation into decisive action.
 
 ## References
 
