@@ -4,32 +4,32 @@ stage: "Becoming More Context Aware"
 category: "Governance"
 ---
 
-When Wardley urges leaders to "Be pragmatic", he is cautioning against ideology. No doctrine, sourcing model, or delivery method fits every component on the map. Pragmatism means meeting the landscape where it is—sweating existing assets, sequencing change sensibly, and making trade-offs that keep momentum without abandoning the destination.
+When Wardley urges leaders to "Be pragmatic", he is warning against fetishising purity over outcomes. There will always be an edge case worth polishing or a bespoke component that looks tempting to build, yet users rarely benefit from the reinvention. Pragmatism means sweating existing assets, using what already works, and reserving precious capacity for the change that truly shifts the map.
 
 ## Why this doctrine matters
 
-- **Context beats purity.** Pragmatic choices respect regulatory, technical, or cultural constraints while still nudging the system toward the target state.
-- **Compromise builds allies.** Allowing limited exceptions or transitional paths reduces resistance from teams who must keep today’s services running.
-- **Realism protects credibility.** Leaders who acknowledge constraints are trusted more than those who promise transformations disconnected from reality.
+- **Outcomes over elegance.** Delivering what users need matters more than polishing an internal ideal. If an off-the-shelf component meets the need, take it and move on.
+- **Challenge bespoke cravings.** Every departure from proven components should be justified. Building the perfect tyre rarely helps a taxi service reach more riders.
+- **Balance today and tomorrow.** Pragmatism makes room to maintain legacy estates while plotting how they evolve, acknowledging that a single rigid approach invites inertia.
 
 ## Practices to embed
 
-1. **Map transition states explicitly.** Show how components evolve over time, including interim interfaces or hybrid sourcing that keep services stable.
-2. **Differentiate policies from principles.** Decide which doctrines are non-negotiable (e.g., focus on user needs) and where local tailoring is acceptable.
-3. **Maintain a legacy stewardship plan.** Document how existing systems will be maintained, modernised, or retired so operational teams are not left exposed.
-4. **Use data to revisit compromises.** Set review points where exceptions expire unless evidence proves they still make sense.
+1. **Map the “good enough” path.** Highlight where existing services, COTS products, or shared platforms already meet needs so teams can reuse instead of rebuild.
+2. **Record exception triggers.** When a team proposes a custom build, capture the evidence and expiry date for that decision so it must be reconfirmed later.
+3. **Plan how to sweat assets.** Make explicit how long legacy systems will be supported, the safeguards around them, and the signals that allow retirement.
+4. **Protect pragmatism culturally.** Celebrate teams that choose simplicity over reinvention; make it acceptable to say “the colour of the cat doesn’t matter as long as it catches mice.”
 
 ## Watch for anti-patterns
 
-- Enforcing a one-size-fits-all approach that ignores the evolution stage of components.
-- Confusing pragmatism with indecision, allowing every team to claim special circumstances indefinitely.
-- Hiding behind constraints instead of experimenting with incremental change.
+- Treating every component as a special snowflake and recreating what the market already provides.
+- Allowing temporary exceptions to drift into permanent entropy because no one revisits the decision.
+- Using “pragmatic” as cover for avoiding the hard work of evolving the estate in manageable slices.
 
 ## Questions to ask
 
-- **Which constraints are truly hard, and which are habits we can test?**
-- **How will we keep today’s services reliable while we modernise?**
-- **What signals tell us a temporary workaround has outlived its usefulness?**
-- **Where do we need leadership air cover to make pragmatic trade-offs transparent?**
+- **What user outcome are we protecting by bending this rule, and is there a simpler route?**
+- **Where can we reuse existing capabilities instead of crafting new ones?**
+- **How will we maintain the current estate while funding the next evolution?**
+- **Which temporary workarounds need an owner and a review date?**
 
-Pragmatism is not surrender; it is disciplined realism. By blending doctrine with situational judgement, organisations can make steady progress without breaking the systems people rely on.
+Pragmatism is disciplined realism: keep the mission in sight, question departures from proven components, and move the map with the tools you already have before chasing shiny alternatives.

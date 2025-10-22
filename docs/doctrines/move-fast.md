@@ -4,7 +4,7 @@ stage: "Becoming More Context Aware"
 category: "Delivery"
 ---
 
-Wardley treats "Move fast" as an antidote to organisational inertia. Once a compelling direction is set, the first 100 days determine whether entrenched habits or vested interests derail change. Moving fast means shortening feedback loops, pushing decisions to empowered teams, and demonstrating value before resistance can regroup.
+Wardley treats "Move fast" as an antidote to organisational inertia. Once a compelling direction is set, the first 100 days determine whether entrenched habits or vested interests derail change. It echoes the maxim that "an imperfect plan executed today is better than a perfect plan executed tomorrow," so leaders must shorten feedback loops, push decisions to empowered teams, and demonstrate value before resistance can regroup.
 
 ## Why this doctrine matters
 
