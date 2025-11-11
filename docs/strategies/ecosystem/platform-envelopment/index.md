@@ -71,7 +71,7 @@ Platform Envelopment leads to:
 * A **horizontal expansion** of the platform's value chain (e.g., WeChat adding payment, gaming, and ride-hailing).
 * A **vertical integration** (e.g., Amazon Retail directly competing with third-party sellers on its Marketplace).
 
-This involves adding new components (e.g., payment gateways, gaming modules, or even physical assets like gas stations for Didi) or more deeply integrating existing ones into the platform's core offering. The platform aims to satisfy a broader spectrum of user needs directly, often by increasing the visibility and accessibility of previously external or disparate capabilities by bundling them into a unified, seamless user experience (e.g., bundling Uber Eats into the main Uber app). This can move previously 'invisible' or 'low visibility' capabilities higher on the Y-axis.
+This involves adding new components (e.g., payment gateways, gaming modules, or even physical assets like platform-operated gas stations) or more deeply integrating existing ones into the platform's core offering. The platform aims to satisfy a broader spectrum of user needs directly, often by increasing the visibility and accessibility of previously external or disparate capabilities by bundling them into a unified, seamless user experience (e.g., bundling Uber Eats into the main Uber app). This can move previously 'invisible' or 'low visibility' capabilities higher on the Y-axis.
 
 This gameplay fundamentally alters the competitive landscape. By bundling functionalities or absorbing user services, the platform forecloses competitor access to a shared user base, effectively shifting competitive dynamics and potentially commoditizing services previously offered by independent third parties.
 
@@ -95,9 +95,9 @@ Microsoft historically bundled Internet Explorer with its Windows operating syst
 
 Google produces Pixel phones, competing directly with other Android device manufacturers. Additionally, Google offers numerous applications (e.g., Google Maps, Gmail, Google Drive) that compete with third-party apps available on its own Google Play Store.
 
-### Didi Chuxing's Vertical Integration
+### 滴滴出行 (Dīdī Chūxíng) Vertical Integration
 
-Didi Chuxing, a ride-hailing platform, expanded vertically by investing in assets like gas stations and auto repair shops to service the vehicles used by its drivers. This absorption of related services aims to control more of the value chain.
+滴滴出行 (Dīdī Chūxíng), a ride-hailing platform, expanded vertically by investing in assets like gas stations and auto repair shops to service the vehicles used by its drivers. This absorption of related services aims to control more of the value chain.
 
 ### Tujia's Hybrid Model
 

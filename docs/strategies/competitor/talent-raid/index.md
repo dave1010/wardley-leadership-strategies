@@ -126,7 +126,7 @@ The core leadership challenge is balancing tactical stealth with strategic workf
 
 ## 📋 **How to Execute**
 
-### Covert Approach
+### Stealth Approach
 
 - Use recruiters to discreetly approach target individuals.
 - Gauge their interest and reasons for potentially leaving their current employer.

@@ -44,7 +44,7 @@ time_horizon: Fast impact
 
 
 :::note
-**Circling and Probing** isn't explicitly mentioned in Wardley's [On 61 differnt forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+**Circling and Probing** isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
 :::
 
 **Testing the waters in a competitor’s territory through small-scale incursions.**
