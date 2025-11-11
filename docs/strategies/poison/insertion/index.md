@@ -39,7 +39,7 @@ effort_level: Cross-Functional Initiative
 time_horizon: Medium-term shaping
 ---
 
-**Embedding agents or narratives to covertly steer competitors into suboptimal strategic decisions.**
+**Embedding agents or narratives to stealthily steer competitors into suboptimal strategic decisions.**
 
 > *"Either through talent or misdirection, encouraging false moves in a competitor."*
 >
@@ -83,7 +83,7 @@ You contract analysts to publish optimistic forecasts about a competitor’s nas
     <li>There is opacity in their governance or community structures.</li>
   </MapSignals>
   <Readiness>
-    <li>We have access to channels for covert influence (hires, media, partnerships).</li>
+    <li>We have access to channels for quiet influence (hires, media, partnerships).</li>
     <li>We can maintain plausible deniability to avoid detection.</li>
     <li>We can monitor the competitor’s internal decisions indirectly.</li>
     <li>We understand regulatory and ethical boundaries of influence operations.</li>
@@ -106,18 +106,18 @@ You contract analysts to publish optimistic forecasts about a competitor’s nas
 
 ### Core challenge
 
-Maintaining covert operations while measuring impact and avoiding detection or blowback.
+Maintaining clandestine operations while measuring impact and avoiding detection or blowback.
 
 ### Key leadership skills required
 
-- Covert operations planning
+- Stealth operations planning
 - Narrative and media management
 - Intelligence gathering
 - Risk and crisis management
 
 ### Ethical considerations
 
-Covert influence can breach trust and legal boundaries. Leaders must assess long-term brand and regulatory impacts.
+Stealth influence can breach trust and legal boundaries. Leaders must assess long-term brand and regulatory impacts.
 
 ## 📋 **How to Execute**
 
@@ -218,4 +218,4 @@ Insertion is rarely a standalone play. Its effectiveness is often amplified when
 ## 📚 **Further Reading & References**
 
 - Cialdini, R. — [*Influence: The Psychology of Persuasion*](/books/influence-the-psychology-of-persuasion) — foundational concepts of behavioral influence.
-- Mitnick, K. — [*The Art of Deception*](/books/the-art-of-deception) — case studies on social engineering and covert operations.
+- Mitnick, K. — [*The Art of Deception*](/books/the-art-of-deception) — case studies on social engineering and clandestine operations.

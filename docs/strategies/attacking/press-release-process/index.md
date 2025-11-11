@@ -48,7 +48,7 @@ time_horizon: Fast impact
 **Use Amazon’s “working backwards” method as a strategic tool to clarify user needs and accelerate industrialisation of evolved components.**
 
 :::note
-**Press Release Process** isn't explicitly mentioned in Wardley's [On 61 differnt forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
+**Press Release Process** isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
 :::
 
 ## 🤔 **Explanation**

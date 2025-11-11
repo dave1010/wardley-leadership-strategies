@@ -81,7 +81,7 @@ The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perce
 
 ## 🚦 **When to Use / When to Avoid**
 
-<Assessment strategyName="Artifical Competition">
+<Assessment strategyName="Artificial Competition">
   <MapSignals>
     <li>We dominate a market or segment where regulatory or public scrutiny over monopoly risk is increasing.</li>
     <li>There is a lack of credible competitors in our space, leaving us exposed or unchallenged.</li>
@@ -105,7 +105,7 @@ The consumer electronics retailers **MediaMarkt and Saturn** in Europe are perce
 
 - You hold significant market share and face monopoly concerns.
 - You anticipate customer demand for alternative approaches.
-- You aim to pre-empt new entrants by controlling the competitive narrative.
+- You aim to preempt new entrants by controlling the competitive narrative.
 
 ### Avoid when
 

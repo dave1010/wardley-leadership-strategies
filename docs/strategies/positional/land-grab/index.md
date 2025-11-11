@@ -57,7 +57,7 @@ Seizing territory before it is obviously valuable is an exercise in foresight an
 
 Land Grab is a high-conviction strategy to stake a claim in nascent market spaces before competitors recognise their value. It draws a line on the map between an evolving user need and the bottleneck components that will govern adoption. Typical plays include securing scarce resources, building initial infrastructure, or defining the interfaces that become unavoidable standards once demand accelerates.
 
-On a map, a Land Grab shows up as one organisation pushing foundational components rightwards at pace—laying fibre before internet usage scales, locking down rights-of-way before logistics demand arrives, or open-sourcing APIs that become default integration points. The intent is to pre-emptively own or influence the inevitable pathways of value.
+On a map, a Land Grab shows up as one organisation pushing foundational components rightwards at pace—laying fibre before internet usage scales, locking down rights-of-way before logistics demand arrives, or open-sourcing APIs that become default integration points. The intent is to preemptively own or influence the inevitable pathways of value.
 
 Key characteristics include:
 
@@ -120,7 +120,7 @@ A cloud provider invests heavily in a new geographic region’s data centres, su
 
 ### Use when
 
-You have clear evidence from maps or user research that demand will swing sharply once a critical constraint is removed, and you can pre-empt that constraint before competitors mobilise. Use it when establishing the infrastructure, policy framework, or developer ecosystem will lock in switching costs and create leverage for later plays such as [First Mover](/strategies/positional/first-mover) or [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects).
+You have clear evidence from maps or user research that demand will swing sharply once a critical constraint is removed, and you can preempt that constraint before competitors mobilise. Use it when establishing the infrastructure, policy framework, or developer ecosystem will lock in switching costs and create leverage for later plays such as [First Mover](/strategies/positional/first-mover) or [Exploiting Network Effects](/strategies/accelerators/exploiting-network-effects).
 
 ### Avoid when
 
