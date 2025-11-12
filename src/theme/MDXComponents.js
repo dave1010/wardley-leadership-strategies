@@ -5,6 +5,7 @@ import Assessment, {
   AssessmentToolAdvert,
 } from '@site/src/components/Assessment';
 import BookRef from '@site/src/components/BookRef';
+import EthicalAlignment from '@site/src/components/EthicalAlignment';
 
 export default {
   ...MDXComponents,
@@ -13,5 +14,6 @@ export default {
   Readiness,
   AssessmentToolAdvert,
   BookRef,
+  EthicalAlignment,
 };
 
