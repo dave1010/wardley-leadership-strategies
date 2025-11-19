@@ -164,13 +164,13 @@ Developing a major product in secret is risky. It cuts the team off from valuabl
 
 It's important to distinguish Tech Drops from [Ambush](/strategies/competitor/ambush). While both involve surprise, their intent and nature differ:
 
-| Feature          | Tech Drop                                                                 | Ambush                                                                                                |
+| Feature | Tech Drop | Ambush |
 | ---------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Primary Intent** | To proactively *create* a new market/paradigm.                            | To reactively *negate* a specific competitor's advantage.                                               |
-| **Trigger**        | Internal vision, opportunity-driven.                                      | Competitor action, threat, or impending success.                                                      |
-| **Nature of "Drop"** | New, significant technological innovation.                                | Strategic repositioning/weaponization of existing (or adapted) assets (e.g., pricing, access, open-sourcing). |
-| **Target**         | The broader market and customer expectations.                               | A specific competitor's strategy, roadmap, or business model.                                           |
-| **Surprise From**  | The novelty/scale of the innovation itself.                               | The timing and nature of the counter-attack.                                                           |
+| **Primary Intent** | To proactively *create* a new market/paradigm. | To reactively *negate* a specific competitor's advantage. |
+| **Trigger** | Internal vision, opportunity-driven. | Competitor action, threat, or impending success. |
+| **Nature of "Drop"** | New, significant technological innovation. | Strategic repositioning/weaponization of existing (or adapted) assets (e.g., pricing, access, open-sourcing). |
+| **Target** | The broader market and customer expectations. | A specific competitor's strategy, roadmap, or business model. |
+| **Surprise From** | The novelty/scale of the innovation itself. | The timing and nature of the counter-attack. |
 
 ## ❓ **Key Questions to Ask**
 
