@@ -16,7 +16,7 @@ authors:
 
 This series explores how leaders can navigate this new landscape. We'll draw on a few key frameworks to make sense of the shifts, which we'll introduce here and explore in more detail in later posts.
 
-### A quick guide to key concepts
+## A quick guide to key concepts
 
 - The **Cynefin framework** is a sense-making tool that helps leaders understand the kind of situation they are in, so they can make better decisions. It identifies five different domains—Clear, Complicated, Complex, Chaotic, and Confused—each requiring a different leadership style.
 - **Agency** refers to the capacity of an individual or system to act independently and make its own choices. In this series, we'll explore how AI is diffusing agency, giving individuals the power to execute tasks that once required entire organisations.
