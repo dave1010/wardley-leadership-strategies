@@ -94,15 +94,15 @@ Value Chain Disaggregation and Re-aggregation is a highly disruptive, complex, a
 
 While both strategies involve breaking down existing structures, their intent, scale, and outcomes are different:
 
-| Feature                | Refactoring                                                                 | Value Chain Disaggregation / Re-aggregation                                                   |
-|------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| **Primary Intent**     | Salvage value, reduce internal toxicity, gradual clean-up of a legacy       | Strategic transformation to unlock new models, roles, and market opportunities                |
-| **Scale of Change**    | Incremental, internal, reversible                                            | Radical, structural, industry-facing                                                           |
-| **Scope**              | Internal systems, teams, tech stacks                                         | Entire value chains, sometimes across industries                                               |
-| **Analogy**            | Code refactor                                                                | System re-architecture                                                                         |
-| **Typical Driver**     | Internal pain or decay                                                       | External pressure or opportunity                                                               |
-| **Output**             | Leaner, more focused legacy system or components reused internally           | New business models, external repositioning, new ecosystems                                    |
-| **Map Impact**         | Some re-linking, movement of components, internal value realisation          | Major map redraw: new components, new dependencies, exposure to new actors                     |
+| Feature | Refactoring | Value Chain Disaggregation / Re-aggregation |
+| ------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| **Primary Intent** | Salvage value, reduce internal toxicity, gradual clean-up of a legacy | Strategic transformation to unlock new models, roles, and market opportunities |
+| **Scale of Change** | Incremental, internal, reversible | Radical, structural, industry-facing |
+| **Scope** | Internal systems, teams, tech stacks | Entire value chains, sometimes across industries |
+| **Analogy** | Code refactor | System re-architecture |
+| **Typical Driver** | Internal pain or decay | External pressure or opportunity |
+| **Output** | Leaner, more focused legacy system or components reused internally | New business models, external repositioning, new ecosystems |
+| **Map Impact** | Some re-linking, movement of components, internal value realisation | Major map redraw: new components, new dependencies, exposure to new actors |
 
 ## 🗺️ **Real-World Examples**
 

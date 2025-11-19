@@ -197,13 +197,13 @@ Ambush strategies are critically dependent on high-quality, timely intelligence.
 
 It's crucial to distinguish an Ambush from a [Tech Drop](/strategies/competitor/tech-drops). While both involve surprise, their strategic intent and nature are fundamentally different:
 
-| Feature            | Tech Drop                                                                | Ambush                                                                                                 |
+| Feature | Tech Drop | Ambush |
 | ------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| **Primary Intent** | To proactively *create* a new market or paradigm.                        | To reactively *negate* a specific competitor's advantage.                                                |
-| **Trigger**        | Internal vision, opportunity-driven.                                     | A specific competitor action, threat, or impending success.                                            |
-| **Nature of "Drop"** | A new, significant technological innovation.                             | Strategic repositioning or "weaponization" of existing (or adapted) assets (e.g., pricing, bundling, open-sourcing). |
-| **Target**         | The broader market and customer expectations.                              | A specific competitor's strategy, roadmap, or business model.                                          |
-| **Surprise From**  | The novelty and scale of the innovation itself.                            | The timing and nature of the counter-attack.                                                           |
+| **Primary Intent** | To proactively *create* a new market or paradigm. | To reactively *negate* a specific competitor's advantage. |
+| **Trigger** | Internal vision, opportunity-driven. | A specific competitor action, threat, or impending success. |
+| **Nature of "Drop"** | A new, significant technological innovation. | Strategic repositioning or "weaponization" of existing (or adapted) assets (e.g., pricing, bundling, open-sourcing). |
+| **Target** | The broader market and customer expectations. | A specific competitor's strategy, roadmap, or business model. |
+| **Surprise From** | The novelty and scale of the innovation itself. | The timing and nature of the counter-attack. |
 
 In essence, a Tech Drop is about creating the future, while an Ambush is about disrupting a competitor's attempt to own that future.
 
