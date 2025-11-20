@@ -10,6 +10,14 @@ tags:
 - market-play
 - disruption
 - counter-attack
+ethical_profile:
+  risk_level: high
+  stance: aggressive_competition
+  approach: surprise_attack
+  intent: destabilise_rival
+  time_horizon: short_term
+  sustainability: depleting
+ethical_summary: Ambush tactics intentionally prioritise your win over a rival's loss, so leaders must weigh the reputational and ecosystem fallout before striking.
 authors:
 - dave-hulbert
 stages:
@@ -49,6 +57,8 @@ time_horizon: Fast impact
 :::note
 **Ambush** isn't explicitly mentioned in Wardley's [On 61 different forms of gameplay](https://blog.gardeviance.org/2015/05/on-61-different-forms-of-gameplay.html).
 :::
+
+<EthicalAlignment />
 
 ## 🤔 **Explanation**
 

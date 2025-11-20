@@ -35,6 +35,7 @@ Strategies should aim to follow this format as closely as possible.
    - Start with a subsection `## What is <strategy name>?`, which should be a paragraph or 2 and could include a few bullet points if a list is helpful. Only link to other strategies here if it is helpful to understand where it sits, eg if it is a sub-strategy or very closely related.
    - A few other subsections, again, only covering high level information. Eg `## Why use <strategy name>?`, `## How to use <strategy name>?`, `## Types of <strategy name>`, `## What does <strategy name> achieve?`, `## Core principles of applying <strategy name>`, `## Strategic rationale of <strategy name>`, `## How does <strategy name> affect the landscape?` (could add a Wardley Map in here). Consider value proposition, purpose, objectives, fundamentals, effectiveness, etc.
    - There can be flexibility within this section, where it makes sense for the particular strategy.
+   - If the front matter includes `ethical_profile` add `<EthicalAlignment />` immediately before this heading.
 5. `## 🗺️ **Real-World Examples**`
    - 2 to 4 different examples, with a `###` heading each. Ideally specific but general if needed.
    - If there are no good examples then hypothetical examples are OK, but make it clear they're hypothetical.
@@ -74,6 +75,14 @@ The `authors` field is an array of author IDs, which must match the keys in `/da
 title: Cooperation
 description: Working with others, even competitors, to achieve a goal.
 tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
+ethical_profile:
+  risk_level: low
+  stance: ecosystem_positive
+  approach: partnership
+  intent: shared_resilience
+  time_horizon: long_term
+  sustainability: regenerative
+ethical_summary: Cooperation emphasises mutual value creation and transparency so every participant benefits without sacrificing long-term ecosystem health.
 authors: [dave-hulbert]
 stages:
   - Genesis
@@ -119,6 +128,16 @@ The Strategy Navigator metadata lives at the top level of the front matter. Keep
 - `quick_signals` – field signals that suggest the play might fit. Keep them specific and actionable.
 - `momentum_moves` – first actions to build momentum once the play is selected.
 - `watch_outs` – realistic risks or pitfalls to monitor.
+- `ethical_profile` – structured taxonomy describing the play's ethical posture. Include:
+  - `risk_level` (**required**) – choose `low`, `moderate`, or `high`; this drives the red/amber/green banner.
+  - `stance` – slug for the overall posture (e.g. `ecosystem_positive`, `leverage_seeking`, `incumbent_defensive`, `aggressive_competition`).
+  - `approach` – slug for the primary ethical tactic (e.g. `partnership`, `platform_orchestration`, `moat_reinforcement`, `surprise_attack`).
+  - `intent` – slug for the desired outcome (e.g. `shared_resilience`, `dominance_through_scale`, `preserve_advantage`, `destabilise_rival`).
+  - `time_horizon` – slug for the ethical time frame (`short_term`, `medium_term`, `long_term`).
+  - `sustainability` – slug for durability of impact (`regenerative`, `situational`, `depleting`).
+  - Add extra slugged keys if the play needs more nuance, but reuse existing values wherever possible.
+  Use `snake_case`/`kebab-case` slugs so we can group strategies later; the site auto-formats them for readers.
+- `ethical_summary` – one or two sentences expanding on the ethical nuance readers should know.
 - `effort_level` – choose one of `Lean Experiment`, `Cross-Functional Initiative`, or `Enterprise Transformation`.
 - `time_horizon` – choose one of `Fast impact`, `Medium-term shaping`, or `Long-term positioning`.
 
