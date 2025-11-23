@@ -14,7 +14,7 @@ authors:
   - dave-hulbert
 ---
 
-Continuous map governance gave us living Wardley Maps tied to telemetry. The next leap is **turning doctrine into code so agents can execute plays safely, surface exceptions fast, and keep governance adaptive instead of static**. This post outlines how to codify Wardley and Cynefin guidance into machine-enforced guardrails using policy-as-code, feature flags, and control planes—while keeping humans as arbiters of judgement.
+Continuous map governance gave us living Wardley Maps tied to telemetry. The next leap is **turning doctrine into code so agents can execute plays safely, surface exceptions fast, and keep governance adaptive instead of static**. This post outlines how we might be able to codify Wardley and Cynefin guidance into machine-enforced guardrails using policy-as-code, feature flags, and control planes—while keeping humans as arbiters of judgement.
 
 <!-- truncate -->
 
@@ -26,9 +26,9 @@ Continuous map governance gave us living Wardley Maps tied to telemetry. The nex
 
 ## Translate maps and playbooks into rules the stack understands
 
-1. **Identify doctrine clauses** – Pull explicit Wardley doctrines (e.g., "shift to utility when evolution hits commodity") and Cynefin signposts (e.g., "probe-sense-respond in complex contexts") into a canonical catalogue.
+1. **Identify doctrine clauses** – Pull explicit Wardley doctrines (e.g., "remove duplication") and Cynefin signposts (e.g., "probe-sense-respond in complex contexts") into a canonical catalogue.
 2. **Bind clauses to map components** – Annotate map nodes with metadata: evolutionary stage, dependency risk, user needs, regulatory class, reversibility. Store in versioned config (e.g., GitOps repo) or a control-plane CRD.
-3. **Express intent as policy** – Use Open Policy Agent (OPA), Cedar, or Kyverno to encode when a play is permissible, required, or forbidden. Examples: "If component stage=Product and latency > SLO for 3 weeks, allow auto-switch to managed utility"; "If component class=Sensitive and environment=ChaosTest, block agent actions".
+3. **Express intent as policy** – Use Open Policy Agent (OPA) to encode when a play is permissible, required, or forbidden. Examples: "If component stage=Product and latency > SLO for 3 weeks, allow auto-switch to managed utility"; "If component class=Sensitive and environment=ChaosTest, block agent actions".
 4. **Expose flags for bounded autonomy** – Wrap risky moves in feature flags via OpenFeature/LaunchDarkly so agents can act within narrow blast radiuses. Flags carry owner, expiry, and rollback semantics.
 5. **Instrument for evidence** – Tie policies to OpenTelemetry traces and map IDs. Every agent action emits decision context, doctrine clause ID, and map version so auditors can replay reasoning.
 
