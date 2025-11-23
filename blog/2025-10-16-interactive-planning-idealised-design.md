@@ -16,6 +16,8 @@ In our last post, we explored how [Soft Systems Methodology can help us make sen
 
 **Russell Ackoff's [interactive planning](https://www.ida.liu.se/~steho87/und/htdd01/AckoffGuidetoIdealizedRedesign.pdf) and Wardley Mapping both ask leaders to design the future, not just forecast it. Together, they give teams the narrative, visual, and strategic tools to make that future a reality.** Idealised design sketches the destination, while maps expose the terrain we must cross and the moves that will get us there.
 
+![Interactive planning and Wardley Mapping flow](./interactive-planning.jpg)
+
 <!-- truncate -->
 
 ## Interactive Planning Reframes How We Plan
