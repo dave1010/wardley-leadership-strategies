@@ -16,6 +16,12 @@ In the last post, we discussed [the age of diffused agency](/blog/ai-and-leaders
 
 **AI is compressing the evolution of software so quickly that differentiation evaporates before leadership teams can mobilise around it.** Wardley Mapping reminds us that [everything evolves](/climatic-patterns/everything-evolves), yet AI also accelerates the very mechanisms of evolution—communication, automation, recombination—so the curve itself steepens.
 
+### How this post fits the series
+
+- Builds on [the age of diffused agency](/blog/ai-and-leadership/age-of-diffused-agency) by explaining why agency without positioning discipline collapses into sameness.
+- Sets up [positioning readiness](/blog/ai-and-leadership/positioning-readiness-ai-age) as the defensive posture against rapid commoditisation.
+- Connects to [LLM-driven competitor simulations](/blog/ai-and-leadership/llm-driven-competitor-simulations) that rehearse responses to collapsing differentiation.
+
 <!-- truncate -->
 
 ## 1. Mapping the acceleration

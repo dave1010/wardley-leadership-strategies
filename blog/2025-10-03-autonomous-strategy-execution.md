@@ -17,6 +17,12 @@ In the previous post, we discussed the importance of [continuous map governance]
 
 **The next phase of map governance is letting the plays fire themselves.** [Continuous map governance](/blog/ai-and-leadership/continuous-map-governance) turned static Wardley Maps into living control rooms. The follow-on step is allowing autonomous agents to interpret those maps and launch strategic plays the moment signals cross their thresholds. This demands leadership that treats doctrine as runnable code, evolves guardrails faster than competitors evolve capabilities, and choreographs humans as the editors of intent rather than the operators of every move.
 
+### How this post fits the series
+
+- Turns governance into action, showing what happens when telemetry and doctrine become executable.
+- Points ahead to [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering), which deliberately stresses these autonomous plays.
+- Sets expectations for later operating-model pieces such as [autonomy gradient maps](/blog/ai-and-leadership/autonomy-gradient-maps) that choreograph who acts versus who supervises.
+
 <!-- truncate -->
 
 ## From playbook to executable doctrine

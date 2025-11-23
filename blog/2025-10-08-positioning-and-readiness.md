@@ -17,6 +17,12 @@ In the last post, we explored how the [OODA loop](/blog/ai-and-leadership/winnin
 
 **Great positioning makes average plays look brilliant; poor positioning turns brilliant minds into passengers.** Wardley Maps expose that truth better than any dashboard. When you see the landscape clearly you stop judging teams on charisma and start judging them on the quality of their starting position, their ability to sense change, and the readiness of their next move.
 
+### How this post fits the series
+
+- Follows [collapse of differentiation](/blog/ai-and-leadership/collapse-of-differentiation) by explaining how to hold an edge when features are easily cloned.
+- Offers the practical positioning moves that keep [OODA loops](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) and [autonomous execution](/blog/ai-and-leadership/autonomous-strategy-execution) meaningful.
+- Sets up [LLM-driven competitor simulations](/blog/ai-and-leadership/llm-driven-competitor-simulations) as rehearsal tools for the positions you choose.
+
 <!-- truncate -->
 
 ## Position beats brilliance
