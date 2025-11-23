@@ -15,6 +15,8 @@ authors:
 
 AI is compounding faster than governance. Leaders need a tool that lets them accelerate delegation without drifting into risk. **Autonomy Gradient Maps** extend Wardley Maps with explicit bands of delegated authority, showing how much control a component should have at each stage of evolution. The gradient creates an operational contract between human teams and AI agents: what they may decide, what they must escalate, and how that posture should change as the landscape shifts.
 
+This model sits alongside the other AI-era operating patterns on this site. Where **[Cybernetic AI Leadership with the Viable System Model](/blog/ai-and-leadership/cybernetic-ai-leadership-with-the-viable-system-model)** wires recursive governance, Autonomy Gradient Maps provide the map-level annotations that tell each System 1–5 node how much freedom to grant. They also complement **[Background AI for Relentless Improvement](/blog/ai-and-leadership/background-ai-for-relentless-improvement)** by declaring where background agents can act without approval, and **[Autonomously Executed Strategy](/blog/ai-and-leadership/autonomous-strategy-execution)** by defining the evidence gates that convert intent into safe machine-led execution.
+
 <!-- truncate -->
 
 ## Why autonomy gradients now
