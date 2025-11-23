@@ -16,6 +16,8 @@ In our last post, we explored how [double-loop learning keeps Wardley Maps hones
 
 **Pairing [Soft Systems Methodology](/terms/soft-systems-methodology) (SSM)—Peter Checkland’s approach for exploring messy situations through multiple worldviews—with Wardley Mapping gives leaders a disciplined way to explore these situations, negotiate a shared worldview, and only then convert that clarity into the structure of a map.** SSM makes space for conflicting narratives and hidden assumptions, while Wardley Maps translate an agreed purpose into visible components, evolution, and strategic plays. Together, they form a loop: learn the situation, model a purposeful change, map what needs to exist, and then test your strategy against reality.
 
+![Soft Systems Methodology paired with Wardley Mapping](./soft-systems-methodology.jpg)
+
 <!-- truncate -->
 
 ## Why Bring SSM into Wardley Mapping?
