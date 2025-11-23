@@ -20,7 +20,7 @@ Wardley Doctrine already warns us to **Use Appropriate Methods**—avoid one-siz
 
 - **AI multiplies frames.** Product, legal, ethics, and safety teams see the same AI capability through different models. Meta-rational leaders can hold these models together without forcing premature convergence.
 - **Wardley Maps can ossify.** Maps are situational, not sacred. Meta-rationality keeps leaders from mistaking a neat map for the territory.
-- **Doctrine is context-sensitive.** Principles like [Use Appropriate Methods](/doctrines/use-appropriate-methods) and [Think Small](/doctrines/think-small) are invitations to pick the right play for the landscape, not to apply a fixed ritual.
+- **Doctrine is context-sensitive.** Principles like [Use Appropriate Methods](/doctrines/use-appropriate-methods) and [Think Small Teams](/doctrines/think-small-teams) are invitations to pick the right play for the landscape, not to apply a fixed ritual.
 
 ## A meta-rational stack for mappers
 
@@ -33,7 +33,7 @@ Wardley Doctrine already warns us to **Use Appropriate Methods**—avoid one-siz
 ## Applying the latticework to doctrine
 
 - **Use Appropriate Methods → Frame checks.** In cadence reviews, ask: *Which model dominated our last decision? What would change if we applied a different frame?* Rotate the dominant model based on signals, not habit.
-- **Optimise Flow → Tempo-aware switching.** Use [OODA loops](/blog/ai-and-leadership/ooda-loop-ai-leadership) to decide when to tighten or loosen control on AI components, while Wardley Maps show which components can safely accelerate.
+- **Optimise Flow → Tempo-aware switching.** Use [OODA loops](/blog/ai-and-leadership/winning-ai-leadership-cycles-with-the-ooda-loop) to decide when to tighten or loosen control on AI components, while Wardley Maps show which components can safely accelerate.
 - **Be Transparent → Annotated maps.** Record which models shaped each strategic play. Transparency makes it easier to revisit assumptions when signals shift.
 - **Design for Evolution → Model sunsets.** As components commoditise, retire bespoke models and move to simpler governance. Genesis work may need rich narrative models; utilities can rely on checklists.
 
