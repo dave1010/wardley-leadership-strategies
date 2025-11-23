@@ -53,8 +53,6 @@ Chapman’s meta-rationality stresses knowing when a model no longer fits. If a 
 
 ## Leadership moves
 
-**Mini case: frame conflicts in AI alignment.** When Anthropic shaped Constitutional AI, the team had to hold three views at once: an evolutionary map (where are the capabilities maturing?), an ethical frame (what constraints should guide the model?), and a regulatory lens (what will governments demand?). Optimising for only one frame would have produced a brittle solution; meta-rational practice was the glue between them.
-
 - **Teach model pluralism.** Run short sessions where teams map the same landscape through different frames. Highlight how each reveals different failure modes.
 - **Attach models to risks.** When declaring a risk, specify the model that surfaces it (e.g., VSM highlights missing recursion; Cynefin spots premature standardisation). This keeps risk debates concrete.
 - **Use AI to broker frames.** Fine-tuned agents can summarise how each model interprets new signals—drift, regulation, user behaviour—and propose frame shifts before humans polarise.
