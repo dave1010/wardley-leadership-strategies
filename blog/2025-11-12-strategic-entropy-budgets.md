@@ -1,6 +1,6 @@
 ---
-title: Strategic Entropy Budgets: Designing for Controlled Disorder in High-K Systems
-description: Allocate explicit entropy budgets on Wardley Maps to manage NK ruggedness, focus exploration, and cap coordination cost and rework through governance levers.
+title: "Strategic Entropy Budgets: Designing for Controlled Disorder in High-K Systems"
+description: "Allocate explicit entropy budgets on Wardley Maps to manage NK ruggedness, focus exploration, and cap coordination cost and rework through governance levers."
 tags:
   - wardley-mapping
   - strategy
