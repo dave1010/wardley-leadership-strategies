@@ -17,11 +17,11 @@ In the last post, we explored how [background AI can drive relentless improvemen
 
 **Competitors rarely share their Wardley Maps, but language models can synthesize likely alternatives so you can prepare without guessing blindly.** Treating large language models as hypothesis engines lets leaders surface combinations of doctrine, climatic patterns, and intent that rival teams could pursue. The trick is to design the prompts like Monte Carlo simulations—generate many maps, prune bias, and focus your attention on the handful of plays that would genuinely disrupt your landscape.
 
-### How this post fits the series
+## How this post fits the series
 
 - Extends [positioning readiness](/blog/ai-and-leadership/positioning-readiness) with rehearsal tools rather than relying on intuition.
 - Feeds back into [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) by generating scenarios the governance stack must monitor.
-- Connects to [NK-model rugged landscapes](/blog/wardley-mapping/rugged-landscapes-and-wardley-maps) for readers who want deeper complexity science behind the simulations.
+- Connects to [NK-model rugged landscapes](/blog/complexity/nk-model-rugged-wardley-maps) for readers who want deeper complexity science behind the simulations.
 
 <!-- truncate -->
 

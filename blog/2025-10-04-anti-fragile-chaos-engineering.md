@@ -16,10 +16,10 @@ In the last post, we explored the concept of [autonomously executed strategy](/b
 
 **[Anti-fragile](/terms/anti-fragile) organisations—systems that become stronger under stress—do not merely survive shocks; they metabolise them into sharper judgement and faster adaptation.** Chaos engineering, born in distributed computing, now offers leadership a disciplined way to inject volatility across sociotechnical systems and build muscles that thrive under disorder. Applied well, it turns AI-augmented enterprises into learning organisms rather than brittle automation wrappers. It is the counterweight to the empowerment described in [the age of diffused agency](/blog/ai-and-leadership/age-of-diffused-agency); when individuals wield autonomous leverage, leaders need rehearsed stressors that keep collective governance intact.
 
-### How this post fits the series
+## How this post fits the series
 
 - Pressure-tests the autonomous plays described previously, ensuring execution gains don't introduce brittleness.
-- Prepares readers for [positioning and readiness](/blog/ai-and-leadership/positioning-readiness-ai-age), where stress-tested systems choose where to stand and how to move.
+- Prepares readers for [positioning and readiness](/blog/ai-and-leadership/positioning-readiness), where stress-tested systems choose where to stand and how to move.
 - Reinforces the cultural themes of [age of diffused agency](/blog/ai-and-leadership/age-of-diffused-agency) by showing how guardrails protect empowered teams.
 
 ## From Resilience to Anti-Fragility in Wardley Terms

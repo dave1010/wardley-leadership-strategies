@@ -17,7 +17,7 @@ In the previous post, we explored how AI is making it possible for [everyone to 
 
 **AI leadership needs Cynefin's sensemaking discipline to decide when to experiment, when to codify, and when to get out of the way.** Wardley Mapping explains how components evolve along the value chain, but leaders still have to choose the right play for the terrain in front of them. Cynefin complements Wardley Mapping by framing how decision-making should adapt when the landscape is obvious, complicated, complex, or chaotic—exactly the challenge AI agents introduce.
 
-### How this post fits the series
+## How this post fits the series
 
 - Anchors the series in a shared sensemaking language after the opening essay on AI-enabled agency.
 - Sets up the need for [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) so Cynefin decisions rest on live data instead of static diagrams.

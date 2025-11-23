@@ -17,7 +17,7 @@ In our last post, we discussed the importance of [positioning and readiness](/bl
 
 **The sharpest organisations let AI work in the background, continually raising internal quality while humans focus on intent and imagination.** Background agents monitor maps, refactor components, and tune processes so that Wardley plays fire from a better baseline every week. Rather than heroic transformation programmes, leaders deploy ambient intelligence that nudges the system toward higher maturity as a matter of routine. It is the maintenance layer that keeps [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) trustworthy and ensures the diffused agency described in [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering) drills does not descend into entropy.
 
-### How this post fits the series
+## How this post fits the series
 
 - Shows how readiness and OODA cadence become sustainable through ambient automation.
 - Complements [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) by feeding the map with live improvements rather than quarterly rewrites.

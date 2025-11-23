@@ -15,7 +15,7 @@ In our last post, we explored the [cybernetic fate of organisations](/blog/ai-an
 
 **Wardley Maps can fool experienced teams into mistaking the map for the territory.** When the landscape is drawn clearly, leaders can get caught up in making small tweaks instead of questioning the entire frame. This is where [Double-loop learning](/terms/double-loop-learning)—a concept from Chris Argyris and Donald Schön about questioning our underlying assumptions—brings back a dose of humility. It forces you to ask not only, "Did we place the components correctly?" but also, "Are we even mapping the right thing?"
 
-### How this post fits the series
+## How this post fits the series
 
 - Provides the reflective mechanism that prevents the AI leadership playbook from ossifying into dogma.
 - Keeps [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) honest by challenging the inputs and the plays, not just the telemetry.
