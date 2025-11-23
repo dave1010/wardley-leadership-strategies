@@ -17,6 +17,12 @@ In our previous post, we explored how to use [LLM-driven competitor simulations]
 
 **Leaders default to visible requirements, yet competitive advantage emerges when you stretch beyond the backlog to hypothesise the needs users can’t articulate.** Wardley Mapping, and its user needs-focused cousin, remind us that "what people ask for" is only the top layer. AI now gives us leverage to work the deeper layers without guesswork.
 
+## How this post fits the series
+
+- Grounds the flashy simulations and autonomy work in user reality, ensuring the playbook remains anchored on needs.
+- Complements [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) by keeping the inputs to the map fresh and evidence-based.
+- Sets up [double-loop learning](/blog/ai-and-leadership/double-loop-learning-keeps-wardley-maps-honest) by emphasising the need to revisit assumptions as needs change.
+
 <!-- truncate -->
 
 ## Anchor Wardley Maps on layered needs

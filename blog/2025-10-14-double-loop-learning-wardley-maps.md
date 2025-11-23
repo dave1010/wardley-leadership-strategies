@@ -19,6 +19,12 @@ In our last post, we explored the [cybernetic fate of organisations](/blog/ai-an
 
 <!-- truncate -->
 
+## How this post fits the series
+
+- Provides the reflective mechanism that prevents the AI leadership playbook from ossifying into dogma.
+- Keeps [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) honest by challenging the inputs and the plays, not just the telemetry.
+- Reinforces [AI-accelerated user needs](/blog/ai-and-leadership/ai-accelerated-user-needs) by ensuring that research updates mental models, not just the backlog.
+
 ## The Precision Trap of Wardley Mapping
 
 The strength of Wardley Mapping is its shared visual language of value chains, user needs, and evolution. But this clarity hides a trap: a component's position on a map can look like a fact, even when the team has just guessed based on limited data. Over time, a map can cement a particular worldview. Reviews start to focus on polishing the details of the map rather than challenging whether it still accurately describes the landscape. Without a deliberate effort to counter this, the practice can slide into 'single-loop learning'—simply optimising tactics within a frame that no one questions.

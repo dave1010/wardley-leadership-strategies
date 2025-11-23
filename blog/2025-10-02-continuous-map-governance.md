@@ -16,6 +16,12 @@ In our last post, we explored how to use the [Cynefin framework to navigate the 
 
 **AI-native leadership depends on maps that move as fast as the agents they command.** Traditional strategy cycles assumed that the landscape stayed still long enough for quarterly reviews. Wardley Mapping showed that components evolve, value chains shift, and doctrine must respond. In an era where autonomous agents execute in minutes, leaders must treat their maps as living systems, instrumented with telemetry, guardrails, and feedback loops that keep decisions aligned with reality. Sensemaking frameworks such as [Cynefin](/blog/ai-and-leadership/navigating-ai-leadership-with-cynefin) only reach their potential when the underlying map reflects what the organisation is actually experiencing right now.
 
+## How this post fits the series
+
+- Translates the Cynefin sensemaking layer into an operational discipline: living maps with telemetry.
+- Bridges to [autonomous strategy execution](/blog/ai-and-leadership/autonomous-strategy-execution) by insisting that doctrine becomes data-driven policy, not slideware.
+- Provides the governance spine for later posts on [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering) and [background AI](/blog/ai-and-leadership/background-ai-continual-improvement), which stress-test those guardrails.
+
 <!-- truncate -->
 
 ## From artefact to operating system

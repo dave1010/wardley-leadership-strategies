@@ -18,6 +18,12 @@ In our previous post, we explored how [anti-fragile chaos engineering](/blog/ai-
 
 Agency is diffusing. Execution power is no longer a privilege reserved for large organisations because it is being unbundled and placed directly in individual hands. With the right orchestration, anyone can behave like a chief executive who directs an army of digital staff. This is not the singularity, yet it is already a strategic revolution.
 
+## How this post fits the series
+
+- Resets the cultural context after discussing stress-tested autonomy, showing why agency abundance changes power dynamics.
+- Provides the rationale for introducing [autonomy gradients](/blog/ai-and-leadership/autonomy-gradient-maps) so leaders can choreograph decision rights as capability diffuses.
+- Reinforces the need for [double-loop learning](/blog/ai-and-leadership/double-loop-learning-keeps-wardley-maps-honest) to keep assumptions honest when individuals can act without waiting for hierarchy.
+
 <!-- truncate -->
 
 ## From Firms to Individuals

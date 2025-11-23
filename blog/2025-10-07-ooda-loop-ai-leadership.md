@@ -16,6 +16,12 @@ In our last post, we examined [the collapse of differentiation](/blog/ai-and-lea
 
 **AI leaders who treat the [OODA loop](/terms/ooda-loop)—John Boyd’s cycle of Observe, Orient, Decide, Act—as a living command system gain an advantage over rivals that only iterate plans.** Too many teams equate Observe:Orient:Decide:Act with Plan.Do.Check.Act, yet the OODA loop is richer: orientation rewrites perception, decisions adjust doctrine, and actions feed new signals back into maps. The question that matters: **how can leaders apply the full OODA loop to stay ahead of autonomous competitors while keeping human values in charge?**
 
+## How this post fits the series
+
+- Provides the tempo layer that complements [continuous map governance](/blog/ai-and-leadership/continuous-map-governance).
+- Offers a leadership cadence for stress-tested autonomy from [anti-fragile chaos engineering](/blog/ai-and-leadership/anti-fragile-chaos-engineering).
+- Links to [background AI for relentless improvement](/blog/ai-and-leadership/background-ai-continual-improvement), which automates much of the observation and action while orientation remains a human responsibility.
+
 <!-- truncate -->
 
 ## Observe: instrument the landscape faster than the opposition

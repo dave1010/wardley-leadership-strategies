@@ -14,7 +14,7 @@ authors:
 
 **Artificial Intelligence is lowering the barriers to leadership and execution.** Starting and scaling an initiative once required significant capital, staff, and infrastructure. Today, a single person with a set of AI models and tools can operate like a small company. The essential resources of production—knowledge, labour, and coordination—are becoming commodities, available to anyone with the drive to use them.
 
-This series explores how leaders can navigate this new landscape. We'll draw on a few key frameworks to make sense of the shifts, which we'll introduce here and explore in more detail in later posts.
+This series explores how leaders can navigate this new landscape. It follows a deliberate path: we start with the collapse of execution costs, then layer in sensemaking, governance, and autonomous doctrine. Each post is designed to stand alone, but together they form a playbook for building AI-native organisations. We'll introduce the core frameworks here and then return to them in later articles as we add more nuance.
 
 ## A quick guide to key concepts
 

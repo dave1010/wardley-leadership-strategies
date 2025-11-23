@@ -39,12 +39,12 @@ Autonomy gradients also resolve a common leadership tension: how to keep pace wi
 
 A single left-to-right gradient hides the tension between efficiency and consistency. Commodities are stable enough to automate, yet many are also brand-defining or regulated. Make autonomy two-dimensional: evolution stage and consequence severity. Then pick the band at the intersection:
 
-| Evolution | Low Consequence | High Consequence |
-|-----------|----------------|------------------|
-| Genesis | Bounded (policy-constrained) | Guarded (human-in-loop) |
-| Custom | Delegated (agent-led + telemetry) | Bounded |
-| Product | Delegated | Bounded |
-| Commodity | Utility (fully autonomous) | Delegated or Bounded |
+|Evolution|Low Consequence|High Consequence|
+|---|---|---|
+|Genesis|Bounded (policy-constrained)|Guarded (human-in-loop)|
+|Custom|Delegated (agent-led + telemetry)|Bounded|
+|Product|Delegated|Bounded|
+|Commodity|Utility (fully autonomous)|Delegated or Bounded|
 
 Examples: payment processing (commodity, high consequence) stays bounded with human-led fraud overrides, while static content delivery (commodity, low consequence) can be fully autonomous with exception alerts. Novel AI experiences (Genesis) remain guarded regardless of consequence to prevent premature delegation.
 
