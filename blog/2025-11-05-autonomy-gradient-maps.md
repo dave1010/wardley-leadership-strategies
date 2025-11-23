@@ -15,7 +15,7 @@ authors:
 
 AI is compounding faster than governance. Leaders need a tool that lets them accelerate delegation without drifting into risk. **Autonomy Gradient Maps** extend Wardley Maps with explicit bands of delegated authority, showing how much control a component should have at each stage of evolution. The gradient creates an operational contract between human teams and AI agents: what they may decide, what they must escalate, and how that posture should change as the landscape shifts.
 
-This model sits alongside the other AI-era operating patterns on this site. Where **[Cybernetic AI Leadership with the Viable System Model](/blog/ai-and-leadership/cybernetic-ai-leadership-with-the-viable-system-model)** wires recursive governance, Autonomy Gradient Maps provide the map-level annotations that tell each System 1–5 node how much freedom to grant. They also complement **[Background AI for Continual Improvement](/blog/ai-and-leadership/background-ai-continual-improvement)** by declaring where background agents can act without approval, and **[Autonomously Executed Strategy](/blog/ai-and-leadership/autonomous-strategy-execution)** by defining the evidence gates that convert intent into safe machine-led execution.
+This model sits alongside the other AI-era operating patterns on this site. Where **[Cybernetic AI Leadership with the Viable System Model](/blog/ai-and-leadership/cybernetic-ai-leadership-with-the-viable-system-model)** wires recursive governance, Autonomy Gradient Maps provide the map-level annotations that tell each System 1–5 node how much freedom to grant. They also complement **[Background AI for Continual Improvement](/blog/ai-and-leadership/background-ai-continual-improvement)** by declaring where background agents can act without approval, and **[Autonomously Executed Strategy](/blog/ai-and-leadership/autonomous-strategy-execution)** by defining the evidence gates that convert intent into safe machine-led execution. Together they form a choreography: recursive cybernetic loops, background AI improving the organism, and autonomy bands deciding how boldly the system acts.
 
 <!-- truncate -->
 
@@ -29,9 +29,22 @@ Autonomy gradients also resolve a common leadership tension: how to keep pace wi
 
 1. **Map the value chain.** Build or refresh the Wardley Map for the user need. Ensure components are placed on the evolution axis.
 2. **Define autonomy bands.** Create four bands for decision rights: *guarded* (human-in-loop), *bounded* (policy-constrained agent), *delegated* (agent-led with telemetry), and *utility* (autonomous with exception alerts).
-3. **Overlay the bands on evolution.** Draw the gradient so that Genesis leans heavily to guarded, Custom-Built to bounded, Product to delegated, and Commodity/Utility to utility. The gradient is not fixed; components can move against the default if risk, regulation, or ethics demand it.
+3. **Overlay the bands on evolution and consequence.** Draw the default gradient so that Genesis leans heavily to guarded, Custom-Built to bounded, Product to delegated, and Commodity/Utility to utility. Then modulate by consequence severity: low-consequence commodities can sit in utility; high-consequence commodities can stay bounded or delegated to keep human accountability. The gradient is not fixed; components can move against the default if risk, regulation, or ethics demand it.
 4. **Attach evidence gates.** For each component, specify the evidence required to shift bands: test coverage, red-team reports, model cards, scenario simulations, or third-party attestation. AI can automatically generate and verify much of this evidence.
 5. **Instrument decision corridors.** Use policy engines and guardrail services to enforce the current band. Telemetry should emit "approaching band boundary" signals when confidence or observability drops.
+
+## Resolving the commodity autonomy tension
+
+A single left-to-right gradient hides the tension between efficiency and consistency. Commodities are stable enough to automate, yet many are also brand-defining or regulated. Make autonomy two-dimensional: evolution stage and consequence severity. Then pick the band at the intersection:
+
+| Evolution | Low Consequence | High Consequence |
+|-----------|----------------|------------------|
+| Genesis | Bounded (policy-constrained) | Guarded (human-in-loop) |
+| Custom | Delegated (agent-led + telemetry) | Bounded |
+| Product | Delegated | Bounded |
+| Commodity | Utility (fully autonomous) | Delegated or Bounded |
+
+Examples: payment processing (commodity, high consequence) stays bounded with human-led fraud overrides, while static content delivery (commodity, low consequence) can be fully autonomous with exception alerts. Novel AI experiences (Genesis) remain guarded regardless of consequence to prevent premature delegation.
 
 ## Applying the gradient
 
