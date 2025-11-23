@@ -16,6 +16,8 @@ In our previous post, we explored how [Panarchy and adaptive cycles](/blog/strat
 Many leaders see Wardley Mapping as a tool for visualising competition, not as a lens for understanding risk. This post bridges that gap. It shows how the cybernetic [Law of Requisite Variety](/terms/law-of-requisite-variety) (LRV)—the idea that a control system must be as complex as the environment it’s trying to manage—and Wardley Mapping can reveal the hidden trade-offs organisations make when dealing with uncertainty.
 
 **Risk isn't eliminated; it's conserved and reshaped by the strategic choices an organisation makes about complexity.**
+
+![Cybernetic Law of Requisite Variety applied to mapping](./cybernetic-law-of-requisite-variety.jpg)
 The LRV states that the variety (*V*) of your control system must be at least equal to the variety of disturbances from the environment: `V_R ≥ V_D`. 'Variety' is just a way of counting the number of different states a system can be in. For an organisation in a volatile market, the real decision isn't about reducing risk, but about transforming the risk it can't get rid of. This transformation depends on a choice of risk profile, which boils down to a trade-off between the likelihood (*L*) and the impact (*I*) of failure. This leads to two cybernetic traps: the [Black Swan](/terms/black-swan-event) Trap, where hiding from complexity leads to rare, catastrophic shocks, and the Dulling Trap, a result of amplifying complexity in a pathological way.
 
 <!-- truncate -->
