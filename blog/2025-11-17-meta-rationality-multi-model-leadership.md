@@ -1,5 +1,5 @@
 ---
-title: The Multi-Model Mind: Meta-Rationality for Wardley Leaders
+title: "The Multi-Model Mind: Meta-Rationality for Wardley Leaders"
 description: Pairing Wardley's "Use Appropriate Methods" doctrine with meta-rationality and Munger's latticework to keep AI strategy from hardening into dogma.
 tags:
   - ai-and-leadership
