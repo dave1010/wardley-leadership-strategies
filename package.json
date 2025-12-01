@@ -29,7 +29,7 @@
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
     "fast-glob": "^3.3.3",
-    "lucide-react": "^0.554.0",
+    "lucide-react": "^0.555.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
@@ -48,7 +48,7 @@
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^14.6.1",
     "@types/jest": "^30.0.0",
-    "@types/react": "^19.2.6",
+    "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "babel-jest": "^30.2.0",
     "gray-matter": "^4.0.3",
@@ -57,7 +57,7 @@
     "jest-environment-jsdom": "^30.2.0",
     "markdownlint-cli": "^0.46.0",
     "typescript": "~5.9.3",
-    "yaml": "^2.8.1"
+    "yaml": "^2.8.2"
   },
   "browserslist": {
     "production": [
