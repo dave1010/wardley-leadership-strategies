@@ -16,6 +16,8 @@ Every executive asks the same question in different words: *how long can we let 
 
 <!-- truncate -->
 
+![Agent half lives](2025-12-14-agent-productive-half-life.jpg)
+
 ## Why the half-life matters now (and how it’s measured)
 
 AI agents have moved from narrow tools to broad collaborators. They draft policies, sequence experiments, and orchestrate workflows. But capability without a measure of sustainable autonomy is just bravado. METR’s horizon results give a capability ceiling—a rough answer to “how long can a model go before success drops below 50%?”—that doubles every few months in some domains and shifts across fields. Benchmarks like OSWorld and RealWebAssist surface where that ceiling collapses under GUI ambiguity or evolving instructions. Half-life turns this research into an operational metric: how many minutes, hours, or days before drift, ambiguity, or error accumulation demands a person in the loop.
