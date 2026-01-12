@@ -2,6 +2,14 @@
 title: Raising Barriers to Entry
 description: A defensive strategy of increasing the complexity and scope of a product or service to make it more difficult for new competitors to enter the market.
 tags: [defensive, barriers-to-entry, competition, incumbents, market-expectations, complexity, bundling]
+ethical_profile:
+  risk_level: moderate
+  stance: incumbent_defensive
+  approach: moat_reinforcement
+  intent: preserve_advantage
+  time_horizon: medium_term
+  sustainability: situational
+ethical_summary: Raising barriers protects incumbents by raising rivals' costs, so stewardship demands investing in customer value rather than simply starving the market of choice.
 authors: [dave-hulbert]
 stages:
   - Product
@@ -38,6 +46,8 @@ time_horizon: Medium-term shaping
 > *"Increasing expectations within a market for a range of user needs to be met in order to prevent others entering the market."*
 >
 > - Simon Wardley
+
+<EthicalAlignment />
 
 ## 🤔 **Explanation**
 
