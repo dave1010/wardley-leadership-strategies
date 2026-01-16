@@ -1,6 +1,6 @@
 ---
 title: "Beyond Data: Where Are the Real Moats in the AI Era?"
-description: In an era of commoditised AI, where do durable competitive advantages truly lie? Hint: it's not just about data.
+description: "In an era of commoditised AI, where do durable competitive advantages truly lie? Hint: it's not just about data."
 tags:
   - ai-and-leadership
   - ai
