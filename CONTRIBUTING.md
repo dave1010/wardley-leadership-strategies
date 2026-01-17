@@ -189,6 +189,13 @@ The blog currently focuses on the **AI and Leadership** series. All posts live i
 - Link to a strategy only if it is *very* relevant
 - Link to other terms only if it is *very* relevant: `[Foo](/terms/foo)`
 
+## Leadership Skills
+
+- Leadership skills are in `./docs/leadership-skills/<skill>.md` and mounted on `/leadership-skills/<skill>`.
+- Each skill page should have a single H1 title (eg `# Strategic Sensemaking`) followed by 1-2 short paragraphs describing the capability.
+- The `## 🎯 **Leadership**` section of every strategy should include a `### Key leadership skills required` (or similar) subsection.
+- Every bullet in the leadership skills subsection must link to the relevant leadership skill page, e.g. `- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Brief reason it matters.`
+
 ## Books
 
 - Books capture sources that are referenced by strategies or terms. Focus on works that are cited multiple times or provide foundational context.

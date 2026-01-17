@@ -138,6 +138,10 @@ const config: Config = {
               to: '/strategy-guides',
             },
             {
+              label: 'Leadership Skills',
+              to: '/leadership-skills',
+            },
+            {
               label: 'Climatic Patterns',
               to: '/climatic-patterns',
             },
@@ -213,6 +217,10 @@ const config: Config = {
             {
               label: 'Strategy Guides',
               to: '/strategy-guides',
+            },
+            {
+              label: 'Leadership Skills',
+              to: '/leadership-skills',
             },
             {
               label: 'Terms',

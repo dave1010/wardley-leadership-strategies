@@ -145,10 +145,10 @@ Balancing public objectives with private strategic goals, maintaining agility wh
 
 ### Key leadership skills
 
-- Political acumen and stakeholder management  
-- Strategic framing and narrative building  
-- Compliance oversight and governance  
-- Coalition building across public and private sectors
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Navigate policy environments and government stakeholders.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Frame industrial policy efforts in a shared national or societal narrative.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Build compliance, reporting, and oversight structures that sustain trust.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Coordinate public, private, and civic partners around a common agenda.
 
 ### Ethical considerations
 

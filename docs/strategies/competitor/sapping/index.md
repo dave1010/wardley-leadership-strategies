@@ -110,7 +110,11 @@ The core challenge in leading a sapping strategy is to maintain coordination and
 
 ### Leadership Skills Required
 
-Coordination, resource management, prioritization, delegation, and maintaining morale are essential leadership skills for a sapping strategy. Leaders must prioritize objectives, delegate effectively, and communicate the overarching intent of the campaign. They must also prepare for counter-attacks and ensure their teams have the necessary support to avoid burnout.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Coordinate multi-front campaigns with clear priorities and operational rigor.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Decide when to intensify, pause, or abandon fronts as conditions shift.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Keep teams aligned on intent while sustaining momentum through setbacks.
+- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — Maintain morale, delegate effectively, and avoid burnout during prolonged campaigns.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Anticipate counter-attacks and ensure the organization can absorb retaliation.
 
 ## 📋 **How to Execute**
 
