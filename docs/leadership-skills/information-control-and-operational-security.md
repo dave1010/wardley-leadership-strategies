@@ -15,3 +15,7 @@ It prevents competitors from pre-empting aggressive strategies.
 - Limit plan visibility to those who need to execute.
 - Use operational checklists to prevent accidental leaks.
 - Plan disclosure timing alongside launch execution.
+
+## 📚 **Related books**
+
+- [The Art of Deception](/books/the-art-of-deception)

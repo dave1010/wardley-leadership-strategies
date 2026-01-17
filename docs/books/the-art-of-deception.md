@@ -11,3 +11,4 @@ The authors provide defensive practices—policy design, awareness training, ver
 ## Referenced in
 
 - [Insertion](/strategies/poison/insertion)
+- [Information control and operational security](/leadership-skills/information-control-and-operational-security)

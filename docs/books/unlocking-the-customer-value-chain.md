@@ -11,3 +11,4 @@ The book provides a framework for mapping customer activities, spotting where va
 ## Referenced in
 
 - [Channel Conflict and Disintermediation](/strategies/ecosystem/channel-conflict-and-disintermediation)
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking)

@@ -15,3 +15,7 @@ It keeps execution coherent when a strategy spans multiple interests.
 - Map stakeholder motivations and anticipate points of resistance.
 - Translate strategy into each stakeholder's success metrics.
 - Create feedback loops that keep alignment alive over time.
+
+## 📚 **Related books**
+
+- [Influence: The Psychology of Persuasion](/books/influence-the-psychology-of-persuasion)

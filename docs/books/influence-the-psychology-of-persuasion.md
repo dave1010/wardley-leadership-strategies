@@ -11,3 +11,4 @@ Cialdini also offers defensive guidance on recognising manipulative tactics and 
 ## Referenced in
 
 - [Insertion](/strategies/poison/insertion)
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence)

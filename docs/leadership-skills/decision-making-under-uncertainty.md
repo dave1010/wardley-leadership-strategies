@@ -15,3 +15,8 @@ It balances speed with discipline so the organisation acts before the window clo
 - Define decision thresholds and pre-agreed triggers before pressure hits.
 - Use small probes to reduce uncertainty before larger commitments.
 - Document reversible versus irreversible decisions and act accordingly.
+
+## 📚 **Related books**
+
+- [Thinking in Bets](/books/thinking-in-bets)
+- [Thinking, Fast and Slow](/books/thinking-fast-and-slow)

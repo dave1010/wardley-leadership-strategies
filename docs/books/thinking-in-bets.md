@@ -11,3 +11,4 @@ The book provides techniques for constructing scenarios, updating beliefs as new
 ## Referenced in
 
 - [Ambush](/strategies/competitor/ambush)
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty)

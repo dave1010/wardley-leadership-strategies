@@ -11,3 +11,4 @@ The book offers practical playbooks for solving early liquidity challenges, desi
 ## Referenced in
 
 - [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)
+- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects)

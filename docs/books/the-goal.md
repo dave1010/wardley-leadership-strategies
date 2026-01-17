@@ -11,3 +11,4 @@ The book popularised concepts such as the five focusing steps and drum-buffer-ro
 ## Referenced in
 
 - [Exploiting Constraint](/strategies/decelerators/exploiting-constraint)
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking)

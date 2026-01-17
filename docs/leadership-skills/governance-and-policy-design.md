@@ -15,3 +15,7 @@ It ensures ecosystems, platforms, and shared assets remain fair and predictable.
 - Clarify who decides what, and how disputes are resolved.
 - Use lightweight governance early, then add structure as scale grows.
 - Regularly review policies to avoid unintended lock-in or bias.
+
+## 📚 **Related books**
+
+- [Seeing Like a State](/books/seeing-like-a-state)

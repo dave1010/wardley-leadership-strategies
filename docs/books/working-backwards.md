@@ -11,3 +11,4 @@ The book combines anecdotes from Amazon's growth with guidance on how to adopt t
 ## Referenced in
 
 - [Press Release Process](/strategies/attacking/press-release-process)
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership)
