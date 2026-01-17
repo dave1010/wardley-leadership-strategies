@@ -174,12 +174,12 @@ The core challenge is **managing the immense complexity and uncertainty** inhere
 
 ### Key leadership skills required
 
-- **Visionary Thinking:** Ability to see new possibilities and articulate a compelling future state.
-- **Strategic Partnership Development:** Skill in forging and managing alliances and collaborations.
-- **Change Leadership:** Capacity to inspire and guide the organization through radical transformation.
-- **Systems Thinking:** Understanding how different parts of the value chain interact and how changes in one area will impact others.
-- **Risk Management:** Ability to identify and mitigate the significant risks associated with value chain restructuring.
-- **Decisiveness:** Making tough choices about what to keep, what to discard, and how to reconfigure.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Ability to see new possibilities and articulate a compelling future state.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — Skill in forging and managing alliances and collaborations.
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — Capacity to inspire and guide the organization through radical transformation.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — Understanding how different parts of the value chain interact and how changes in one area will impact others.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Ability to identify and mitigate the significant risks associated with value chain restructuring.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Making tough choices about what to keep, what to discard, and how to reconfigure.
 
 ### Ethical Considerations
 

@@ -114,12 +114,12 @@ The core challenge in an Ambush strategy is maintaining the discipline of waitin
 
 ### Key leadership skills required
 
-* **Deep Competitor Insight:** Ability to anticipate competitor moves and identify critical vulnerabilities.
-* **Strategic Patience:** Resisting the urge to act prematurely; waiting for the optimal trigger.
-* **Decisiveness and Speed:** Executing the Ambush quickly and forcefully once the moment is right.
-* **Risk Tolerance:** Willingness to undertake aggressive actions that may provoke strong reactions.
-* **Information Control:** Ensuring the planned Ambush remains confidential until execution.
-* **Adaptability:** Being prepared to adjust the Ambush based on last-minute changes in the competitive landscape.
+* [Competitive intelligence](/leadership-skills/competitive-intelligence) — Ability to anticipate competitor moves and identify critical vulnerabilities.
+* [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — Resisting the urge to act prematurely; waiting for the optimal trigger.
+* [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Executing the Ambush quickly and forcefully once the moment is right.
+* [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Willingness to undertake aggressive actions that may provoke strong reactions.
+* [Information control and operational security](/leadership-skills/information-control-and-operational-security) — Ensuring the planned Ambush remains confidential until execution.
+* [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Being prepared to adjust the Ambush based on last-minute changes in the competitive landscape.
 
 ### Ethical considerations
 

@@ -115,7 +115,10 @@ The core challenge is balancing the need for deception with the need to maintain
 
 ### Key leadership skills required
 
-Calculated deception, strategic communication, disciplined execution, and an understanding of competitors' intelligence-gathering habits.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Calculated deception.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — strategic communication.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — disciplined execution.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — and an understanding of competitors' intelligence-gathering habits.
 
 ## 📋 **How to Execute**
 

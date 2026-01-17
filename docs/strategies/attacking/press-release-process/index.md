@@ -155,9 +155,9 @@ Leaders should ensure that the press release remains a living document, guiding 
 
 ### Key leadership skills required
 
-- Vision alignment.
-- Customer-centric thinking.
-- Communication and storytelling.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Vision alignment.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Customer-centric thinking.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication and storytelling.
 
 ### Ethical considerations
 

@@ -112,11 +112,11 @@ Balancing openness to drive adoption with enough control to keep the standard al
 
 ### Key leadership skills required
 
-- Coalition building and negotiation
-- Regulatory awareness and lobbying
-- Technical governance and ecosystem management
-- Clear communication and marketing
-- Long-term commitment to maintenance
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Coalition building and negotiation.
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Regulatory awareness and lobbying.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Technical governance and ecosystem management.
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — Clear communication and marketing.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Long-term commitment to maintenance.
 
 ### Ethical considerations
 

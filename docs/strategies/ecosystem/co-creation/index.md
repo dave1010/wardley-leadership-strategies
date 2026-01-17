@@ -116,11 +116,11 @@ The core leadership challenge is to shift the organizational mindset from "we kn
 
 ### Key leadership skills required
 
-- **Community Building:** The ability to foster and nurture a vibrant, collaborative community.
-- **Facilitation:** The skill to guide the co-creation process and synthesize diverse inputs into a coherent vision.
-- **Openness:** A willingness to listen to and act on ideas from outside the organization.
-- **Strategic Clarity:** The ability to provide a clear strategic framework within which the co-creation can happen, preventing it from becoming a chaotic free-for-all.
-- **Commons Governance:** Designing participation rules, boundaries, and feedback loops with the community so they feel fair and locally relevant—mirroring Elinor Ostrom’s principles for stewarding shared resources.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — The ability to foster and nurture a vibrant, collaborative community.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — The skill to guide the co-creation process and synthesize diverse inputs into a coherent vision.
+- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — A willingness to listen to and act on ideas from outside the organization.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The ability to provide a clear strategic framework within which the co-creation can happen, preventing it from becoming a chaotic free-for-all.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Designing participation rules, boundaries, and feedback loops with the community so they feel fair and locally relevant—mirroring Elinor Ostrom’s principles for stewarding shared resources.
 
 ### Ethical considerations
 

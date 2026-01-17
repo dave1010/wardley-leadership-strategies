@@ -115,11 +115,11 @@ The core leadership challenge in creating artificial needs is to innovate and ge
 
 ### Key leadership skills required
 
-- **Ethical Foresight:** Anticipating and mitigating the potential negative consequences of creating new "needs."
-- **Market Intuition & Research:** Deeply understanding latent consumer desires, societal trends, and psychological triggers.
-- **Brand Storytelling & Persuasion:** Crafting compelling narratives that resonate with consumers and associate the product/service with a desired identity or outcome.
-- **Innovation Management:** Driving product or service development that genuinely delivers on the promise of the newly created need.
-- **Long-term Vision:** Focusing on sustainable value creation rather than short-lived fads.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Anticipating and mitigating the potential negative consequences of creating new "needs.".
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Deeply understanding latent consumer desires, societal trends, and psychological triggers.
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — Crafting compelling narratives that resonate with consumers and associate the product/service with a desired identity or outcome.
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — Driving product or service development that genuinely delivers on the promise of the newly created need.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Focusing on sustainable value creation rather than short-lived fads.
 
 ### Ethical considerations
 

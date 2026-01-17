@@ -143,11 +143,11 @@ Committing to a bold, focused bet in the face of uncertainty, and sustaining sup
 
 ### Key leadership skills required
 
-- Strategic vision and situational awareness
-- Risk management and scenario planning
-- Stakeholder alignment and communication
-- Resource allocation and protection
-- Fostering a culture of learning and resilience
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic vision and situational awareness.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management and scenario planning.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Stakeholder alignment and communication.
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — Resource allocation and protection.
+- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — Fostering a culture of learning and resilience.
 
 ### Ethical considerations
 

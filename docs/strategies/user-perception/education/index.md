@@ -112,11 +112,11 @@ The core challenge for leadership in employing an education strategy is committi
 
 ### Key leadership skills required
 
-- Patience and long-term vision
-- Commitment to transparency
-- Communication prowess
-- Curriculum development oversight
-- Thought leadership
+- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — Patience and long-term vision.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Commitment to transparency.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication prowess.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Curriculum development oversight.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Thought leadership.
 
 ### Ethical considerations
 

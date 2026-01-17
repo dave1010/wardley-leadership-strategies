@@ -118,10 +118,10 @@ The core leadership challenge is to navigate the significant ethical and reputat
 
 ### Key leadership skills required
 
-- **Political Acumen:** A deep understanding of the political process and how to influence it.
-- **Ethical Judgment:** A strong moral compass to navigate the grey areas of lobbying and regulatory influence.
-- **Strategic Communication:** The ability to frame your arguments in a way that is persuasive to both policymakers and the public.
-- **Risk Management:** The skill to assess and mitigate the potential for legal and reputational backlash.
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — A deep understanding of the political process and how to influence it.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — A strong moral compass to navigate the grey areas of lobbying and regulatory influence.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The ability to frame your arguments in a way that is persuasive to both policymakers and the public.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — The skill to assess and mitigate the potential for legal and reputational backlash.
 
 ### Ethical considerations
 

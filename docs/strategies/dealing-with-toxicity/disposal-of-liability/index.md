@@ -168,10 +168,10 @@ employees and customers may be attached to.
 
 ### Key leadership skills required
 
-- Decisive stakeholder management
-- Clear communication and storytelling
-- Risk assessment and mitigation
-- Change management and negotiation
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Decisive stakeholder management.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Clear communication and storytelling.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk assessment and mitigation.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Change management and negotiation.
 
 ### Ethical considerations
 

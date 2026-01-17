@@ -139,11 +139,11 @@ Leaders must shape the narrative and build coalitions, often in a complex and po
 
 ### Key leadership skills required
 
-- Political and regulatory acumen
-- Stakeholder management and coalition building
-- Strategic foresight and scenario planning
-- Communication and narrative framing
-- Ethical judgement and risk management
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Political and regulatory acumen.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Stakeholder management and coalition building.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic foresight and scenario planning.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication and narrative framing.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Ethical judgement and risk management.
 
 ### Ethical considerations
 

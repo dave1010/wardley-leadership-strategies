@@ -125,12 +125,12 @@ Balancing the benefits of openness (adoption, ecosystem, innovation) with the ri
 
 ### Key leadership skills required
 
-- Strategic ecosystem thinking
-- Community building and governance
-- Communication and transparency
-- Business model innovation
-- Risk management
-- Commons stewardship and the ability to translate Ostrom-inspired governance into contribution guidelines
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — Strategic ecosystem thinking.
+- [Standardization and open strategy](/leadership-skills/standardization-and-open-strategy) — Community building and governance.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication and transparency.
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — Business model innovation.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Commons stewardship and the ability to translate Ostrom-inspired governance into contribution guidelines.
 
 ### Ethical considerations
 

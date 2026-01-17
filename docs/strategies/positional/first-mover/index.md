@@ -118,10 +118,10 @@ Committing significant resources early while managing the high degree of uncerta
 
 ### Key leadership skills required
 
-- Visionary mapping and market foresight.
-- Risk tolerance and investment discipline.
-- Ecosystem engagement and partnership building.
-- Operational scaling and execution management.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Visionary mapping and market foresight.
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — Risk tolerance and investment discipline.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — Ecosystem engagement and partnership building.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Operational scaling and execution management.
 
 ### Ethical considerations
 

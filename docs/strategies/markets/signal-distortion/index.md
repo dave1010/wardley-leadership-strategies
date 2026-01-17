@@ -118,10 +118,10 @@ The central leadership challenge is to navigate the significant ethical grey are
 
 ### Key leadership skills required
 
-- **Ethical Judgment:** A strong moral compass is essential to avoid crossing lines that could lead to legal or reputational disaster.
-- **Strategic Communication:** The ability to craft and control narratives is at the heart of this strategy.
-- **Risk Management:** A deep understanding of the potential consequences and the ability to mitigate them.
-- **Market Psychology:** An intuitive grasp of how competitors, customers, and the wider market will interpret and react to signals.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — A strong moral compass is essential to avoid crossing lines that could lead to legal or reputational disaster.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The ability to craft and control narratives is at the heart of this strategy.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — A deep understanding of the potential consequences and the ability to mitigate them.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — An intuitive grasp of how competitors, customers, and the wider market will interpret and react to signals.
 
 ### Ethical considerations
 

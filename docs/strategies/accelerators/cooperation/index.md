@@ -181,7 +181,9 @@ A leader must **balance control and openness**. Cooperation can accelerate innov
 
 ### Key leadership skills required
 
-fostering trust, managing alliances, setting governance rules
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — fostering trust.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — managing alliances.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — setting governance rules.
 
 ### Ethical considerations
 

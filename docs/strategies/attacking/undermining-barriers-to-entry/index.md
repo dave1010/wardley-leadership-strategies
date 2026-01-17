@@ -119,9 +119,9 @@ The core leadership challenge is to have the courage to make a bold, disruptive 
 
 ### Key leadership skills required
 
-- **Disruptive Thinking:** The ability to see how an incumbent's strength can be turned into a weakness.
-- **Boldness and Risk-Taking:** The courage to take on a powerful, entrenched competitor.
-- **Ecosystem Thinking:** The capacity to see how lowering a barrier will benefit a whole ecosystem of players, not just your own company.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The ability to see how an incumbent's strength can be turned into a weakness.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — The courage to take on a powerful, entrenched competitor.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — The capacity to see how lowering a barrier will benefit a whole ecosystem of players, not just your own company.
 
 ### Ethical considerations
 

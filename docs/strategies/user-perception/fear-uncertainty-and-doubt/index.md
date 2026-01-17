@@ -113,11 +113,11 @@ Navigating the ethical terrain and managing the risks of reputational damage and
 
 ### Key leadership skills required
 
-- Ethical judgment: discerning the line between highlighting genuine risks and spreading misleading information.
-- Competitive analysis: identifying vulnerabilities or understanding FUD tactics used by rivals.
-- Risk assessment & management: evaluating the potential for FUD to backfire.
-- Crisis communication: responding if FUD tactics are exposed or if targeted by FUD.
-- Strategic communication: crafting subtle messages or credibly refuting FUD.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Ethical judgment: discerning the line between highlighting genuine risks and spreading misleading information.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — Competitive analysis: identifying vulnerabilities or understanding FUD tactics used by rivals.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk assessment & management: evaluating the potential for FUD to backfire.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Crisis communication: responding if FUD tactics are exposed or if targeted by FUD.
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — Strategic communication: crafting subtle messages or credibly refuting FUD.
 
 ### Ethical considerations
 

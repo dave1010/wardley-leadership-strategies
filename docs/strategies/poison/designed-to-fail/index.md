@@ -115,10 +115,10 @@ Leadership tension: Playing dirty without eroding trust or morale. This tactic r
 
 ### Key leadership skills required
 
-- Cold strategic judgment
-- Reputational risk calibration
-- Legal/PR coordination
-- Fast-response governance
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Cold strategic judgment.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Reputational risk calibration.
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Legal/PR coordination.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Fast-response governance.
 
 ### Ethical considerations
 

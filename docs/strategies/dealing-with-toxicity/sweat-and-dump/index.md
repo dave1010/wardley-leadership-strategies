@@ -112,11 +112,11 @@ Transitioning control and capex liability without eroding customer trust or bran
 
 ### Key leadership skills required
 
-- Partner selection and negotiation (emphasizing capex responsibility)
-- Contract and risk management (clear delineation of investment obligations)
-- Change management and stakeholder communication (internal and external)
-- Quality and performance oversight
-- Strategic foresight to plan the "dump" and new system integration
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — Partner selection and negotiation (emphasizing capex responsibility).
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Contract and risk management (clear delineation of investment obligations).
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Change management and stakeholder communication (internal and external).
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Quality and performance oversight.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — Strategic foresight to plan the "dump" and new system integration.
 
 ### Ethical considerations
 

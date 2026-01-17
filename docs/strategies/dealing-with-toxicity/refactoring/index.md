@@ -100,11 +100,11 @@ The primary leadership challenge is **managing the transition sensitively and de
 
 ### Key leadership skills required
 
-- **Change Management:** Guiding teams through restructuring and role changes.
-- **Strategic Assessment:** Accurately identifying which parts of the legacy asset are valuable and which are truly toxic.
-- **Communication:** Clearly articulating the 'why' behind the refactoring and managing expectations.
-- **Resource Allocation:** Deciding how to reinvest salvaged components (people, tech).
-- **Empathy:** Understanding the impact on employees tied to the legacy system.
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — Guiding teams through restructuring and role changes.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Accurately identifying which parts of the legacy asset are valuable and which are truly toxic.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Clearly articulating the 'why' behind the refactoring and managing expectations.
+- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — Deciding how to reinvest salvaged components (people, tech).
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — Understanding the impact on employees tied to the legacy system.
 
 ## 📋 **How to Execute**
 

@@ -156,10 +156,10 @@ The core leadership challenge is to master the delicate balance of the ILC cycle
 
 ### Key leadership skills required
 
-- **Platform Thinking:** The ability to see the business as a platform that enables others, not just a provider of products.
-- **Systems Thinking:** The capacity to understand the complex feedback loops between the platform and the ecosystem.
-- **Decisiveness:** The ability to act quickly and decisively to commoditize a winning pattern.
-- **Ecosystem Governance:** The wisdom to know when to intervene and when to let the ecosystem flourish on its own.
+- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects) — The ability to see the business as a platform that enables others, not just a provider of products.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — The capacity to understand the complex feedback loops between the platform and the ecosystem.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The ability to act quickly and decisively to commoditize a winning pattern.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — The wisdom to know when to intervene and when to let the ecosystem flourish on its own.
 
 ### Ethical considerations
 

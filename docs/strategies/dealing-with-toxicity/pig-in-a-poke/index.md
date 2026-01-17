@@ -110,10 +110,10 @@ Convincing buyers of future value while suppressing or downplaying evidence of d
 
 ### Key leadership skills required
 
-- Narrative construction and persuasive communication
-- Strategic timing and market insight
-- Risk tolerance and ethical boundary navigation
-- Legal and compliance awareness
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Narrative construction and persuasive communication.
+- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — Strategic timing and market insight.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Risk tolerance and ethical boundary navigation.
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Legal and compliance awareness.
 
 ### Ethical considerations
 

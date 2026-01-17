@@ -132,7 +132,9 @@ To pursue this strategy, leadership must think holistically and "surround" the c
 
 ### Key leadership skills required
 
-proactive, preemptive, highly strategic
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — proactive.
+- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — preemptive.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — highly strategic.
 
 ## 📋 **How to Execute**
 

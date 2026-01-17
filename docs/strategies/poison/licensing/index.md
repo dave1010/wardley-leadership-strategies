@@ -115,10 +115,10 @@ Crafting license terms that effectively deter competitors without alienating leg
 
 ### Key leadership skills required
 
-- Legal strategy and IP management
-- Negotiation and contract drafting
-- Ecosystem engagement
-- Risk and compliance oversight
+- [IP and legal strategy](/leadership-skills/ip-and-legal-strategy) — Legal strategy and IP management.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Negotiation and contract drafting.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — Ecosystem engagement.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — Risk and compliance oversight.
 
 ### Ethical considerations
 

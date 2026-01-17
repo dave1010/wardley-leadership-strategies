@@ -113,9 +113,9 @@ The core leadership challenge is deciding when to innovate and when to imitate. 
 
 ### Key leadership skills required
 
-- **Market Awareness:** A keen sense of the competitive landscape and the ability to quickly identify emerging threats and opportunities.
-- **Decisiveness and Agility:** The ability to make a quick decision to copy a feature and to mobilize the organization to execute it rapidly.
-- **Brand Management:** The skill to manage the narrative around the co-opted feature to minimize reputational damage.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — A keen sense of the competitive landscape and the ability to quickly identify emerging threats and opportunities.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The ability to make a quick decision to copy a feature and to mobilize the organization to execute it rapidly.
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — The skill to manage the narrative around the co-opted feature to minimize reputational damage.
 
 ### Ethical considerations
 

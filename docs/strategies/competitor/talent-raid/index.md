@@ -118,11 +118,11 @@ The core leadership challenge is balancing tactical stealth with strategic workf
 
 ### Key leadership skills required
 
-- Strategic human resources planning
-- Tactical execution
-- Risk management
-- Ethical decision-making
-- Change management
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic human resources planning.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Tactical execution.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Ethical decision-making.
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — Change management.
 
 ## 📋 **How to Execute**
 

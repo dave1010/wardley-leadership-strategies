@@ -104,11 +104,11 @@ The core challenge in implementing a bundling strategy lies in identifying compl
 
 ### Key leadership skills required
 
-- **Strategic Vision:** Ability to see how different products/services can be combined to create new value propositions and achieve broader market goals.
-- **Customer Empathy:** Understanding customer needs and perceptions to ensure bundles are attractive and not seen as exploitative.
-- **Market Analysis:** Accurately assessing competitive responses and market dynamics to ensure the bundle is well-positioned.
-- **Cross-functional Collaboration:** Effectively working with product, marketing, and sales teams to develop and launch successful bundles.
-- **Ethical Judgement:** Navigating the fine line between persuasive bundling and anti-competitive or coercive practices.
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — Ability to see how different products/services can be combined to create new value propositions and achieve broader market goals.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Understanding customer needs and perceptions to ensure bundles are attractive and not seen as exploitative.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — Accurately assessing competitive responses and market dynamics to ensure the bundle is well-positioned.
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — Effectively working with product, marketing, and sales teams to develop and launch successful bundles.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Navigating the fine line between persuasive bundling and anti-competitive or coercive practices.
 
 ### Ethical considerations
 

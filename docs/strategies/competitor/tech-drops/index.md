@@ -89,11 +89,11 @@ The core challenge is managing the high-stakes trade-off between secrecy and spe
 
 ### Key leadership skills required
 
-- **Vision and Courage:** The ability to bet on a secret, non-consensus idea.
-- **Operational Readiness:** Ensuring all parts of the organization are prepared for a sudden launch.
-- **Information Security:** Maintaining strict secrecy to preserve the element of surprise.
-- **Strategic Timing:** Knowing the perfect moment to reveal the innovation for maximum impact.
-- **Narrative Control:** The skill to shape the story around the launch to define the market in your terms.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The ability to bet on a secret, non-consensus idea.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Ensuring all parts of the organization are prepared for a sudden launch.
+- [Information control and operational security](/leadership-skills/information-control-and-operational-security) — Maintaining strict secrecy to preserve the element of surprise.
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — Knowing the perfect moment to reveal the innovation for maximum impact.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The skill to shape the story around the launch to define the market in your terms.
 
 ### Ethical considerations
 

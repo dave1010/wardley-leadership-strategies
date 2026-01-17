@@ -117,10 +117,10 @@ Balancing timing and risk: entering when the path is clear enough to succeed, ye
 
 ### Key leadership skills required
 
-- Strategic timing and market sensing.
-- Operational excellence and process optimisation.
-- Competitive analysis and learning culture.
-- Cross-functional coordination for rapid execution.
+- [Timing and strategic patience](/leadership-skills/timing-and-strategic-patience) — Strategic timing and market sensing.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Operational excellence and process optimisation.
+- [Experimentation and learning](/leadership-skills/experimentation-and-learning) — Competitive analysis and learning culture.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Cross-functional coordination for rapid execution.
 
 ### Ethical considerations
 

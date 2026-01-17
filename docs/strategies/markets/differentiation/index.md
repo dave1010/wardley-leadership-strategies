@@ -108,10 +108,10 @@ The core leadership challenge is to maintain a relentless focus on the user and 
 
 ### Key leadership skills required
 
-- **Empathy:** The ability to deeply understand the user's world and their problems.
-- **Vision:** The capacity to see how a new technology or approach can solve a user's problem in a novel way.
-- **Courage:** The willingness to invest in unproven ideas and challenge the status quo.
-- **Storytelling:** The ability to articulate the value of the differentiation to both internal and external audiences.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — The ability to deeply understand the user's world and their problems.
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — The capacity to see how a new technology or approach can solve a user's problem in a novel way.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The willingness to invest in unproven ideas and challenge the status quo.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The ability to articulate the value of the differentiation to both internal and external audiences.
 
 ### Ethical considerations
 
