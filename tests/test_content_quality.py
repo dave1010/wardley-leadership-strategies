@@ -1,6 +1,14 @@
 import pytest
 import re
-from test_utils import Strategy, get_strategy_files, get_section_content, extract_links_from_content
+import os
+import glob
+from test_utils import (
+    Strategy,
+    get_strategy_files,
+    get_section_content,
+    extract_links_from_content,
+    normalize_path,
+)
 
 # Based on CONTRIBUTING.md
 EXPECTED_H2_HEADINGS = [
@@ -110,3 +118,77 @@ def test_related_strategy_links_are_explained(strategies):
 
     assert not unexplained_links_found, \
         "Found unexplained links in 'Related Strategies' sections:\n" + "\n".join(unexplained_links_found)
+
+def get_leadership_skills_links() -> set[str]:
+    leadership_skills_dir = os.path.join('docs', 'leadership-skills')
+    markdown_files = glob.glob(os.path.join(leadership_skills_dir, '*.md'))
+    links = {normalize_path('/leadership-skills')}
+    for filepath in markdown_files:
+        slug = os.path.splitext(os.path.basename(filepath))[0]
+        if slug == 'index':
+            continue
+        links.add(normalize_path(f"/leadership-skills/{slug}"))
+    return links
+
+def extract_leadership_skills_section(content: str) -> str | None:
+    leadership_section = get_section_content(content, "## 🎯 **Leadership**")
+    if not leadership_section:
+        return None
+
+    section_lines = leadership_section.splitlines()
+    start_index = None
+    for index, line in enumerate(section_lines):
+        if line.startswith("### ") and "leadership skills" in line.lower():
+            start_index = index + 1
+            break
+
+    if start_index is None:
+        return None
+
+    collected_lines = []
+    for line in section_lines[start_index:]:
+        if line.startswith("### ") or line.startswith("## "):
+            break
+        collected_lines.append(line)
+
+    return "\n".join(collected_lines).strip()
+
+def test_leadership_skills_are_linked(strategies):
+    missing_links = []
+    leadership_skill_links = get_leadership_skills_links()
+
+    for strategy in strategies:
+        leadership_skills = extract_leadership_skills_section(strategy.content)
+        if not leadership_skills:
+            missing_links.append(
+                f"Strategy '{strategy.slug}' is missing a leadership skills section."
+            )
+            continue
+
+        bullet_lines = [
+            line for line in leadership_skills.splitlines()
+            if line.strip().startswith(('- ', '* '))
+        ]
+
+        if not bullet_lines:
+            missing_links.append(
+                f"Strategy '{strategy.slug}' has no bullet list in the leadership skills section."
+            )
+            continue
+
+        for line in bullet_lines:
+            links = extract_links_from_content(line, "/leadership-skills")
+            if not links:
+                missing_links.append(
+                    f"Strategy '{strategy.slug}' has a leadership skill without a link: '{line.strip()}'."
+                )
+                continue
+
+            invalid_links = sorted(link for link in links if link not in leadership_skill_links)
+            if invalid_links:
+                missing_links.append(
+                    f"Strategy '{strategy.slug}' links to unknown leadership skills: {', '.join(invalid_links)}."
+                )
+
+    assert not missing_links, \
+        "Leadership skills must link to leadership skills pages:\n" + "\n".join(missing_links)
