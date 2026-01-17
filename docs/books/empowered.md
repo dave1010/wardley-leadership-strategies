@@ -11,3 +11,4 @@ The authors cover hiring, career paths, discovery practices, and the partnership
 ## Referenced in
 
 - [Experimentation](/strategies/attacking/experimentation)
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership)

@@ -14,3 +14,4 @@ The book explains key concepts such as network effects, governance rules, and pr
 - [Two-Factor Markets](/strategies/ecosystem/two-factor-markets)
 - [Market Enablement](/strategies/accelerators/market-enablement)
 - [Value Chain Disaggregation and Re-aggregation](/strategies/dealing-with-toxicity/value-chain-disaggregation-and-re-aggregation)
+- [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects)

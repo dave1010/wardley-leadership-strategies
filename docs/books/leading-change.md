@@ -11,3 +11,4 @@ Kotter draws on corporate case studies to show why change programmes stall when 
 ## Referenced in
 
 - [Managing Inertia](/strategies/defensive/managing-inertia)
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation)

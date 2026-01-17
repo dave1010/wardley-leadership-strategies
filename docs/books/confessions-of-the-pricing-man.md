@@ -11,3 +11,4 @@ Simon emphasises the organisational discipline required to implement pricing dec
 ## Referenced in
 
 - [Pricing Policy](/strategies/markets/pricing-policy)
+- [Pricing strategy](/leadership-skills/pricing-strategy)

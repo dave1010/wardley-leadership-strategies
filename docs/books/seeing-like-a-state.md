@@ -11,3 +11,4 @@ The book highlights the importance of legibility, incentives, and the messy real
 ## Referenced in
 
 - [Co-opting](/strategies/ecosystem/co-opting)
+- [Governance and policy design](/leadership-skills/governance-and-policy-design)

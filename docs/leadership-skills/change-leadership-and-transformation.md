@@ -15,3 +15,8 @@ It keeps momentum while reducing fatigue and resistance.
 - Create a clear change narrative and milestones.
 - Equip leaders to model the new behaviours early.
 - Plan for capability gaps and transition support.
+
+## 📚 **Related books**
+
+- [Leading Change](/books/leading-change)
+- [Who Says Elephants Can't Dance?](/books/who-says-elephants-cant-dance)

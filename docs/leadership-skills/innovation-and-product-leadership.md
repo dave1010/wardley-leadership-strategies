@@ -15,3 +15,8 @@ It keeps strategies rooted in user outcomes rather than defensive positioning al
 - Invest in discovery and rapid prototyping cycles.
 - Balance incremental improvements with disruptive experiments.
 - Align product decisions with the evolving value chain.
+
+## 📚 **Related books**
+
+- [Empowered](/books/empowered)
+- [Working Backwards](/books/working-backwards)

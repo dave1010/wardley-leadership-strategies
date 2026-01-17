@@ -11,3 +11,4 @@ Gerstner highlights the importance of confronting reality, aligning incentives, 
 ## Referenced in
 
 - [Managing Inertia](/strategies/defensive/managing-inertia)
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation)

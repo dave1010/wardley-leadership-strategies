@@ -11,3 +11,4 @@ The book emphasises practical tools such as price waterfalls, willingness-to-pay
 ## Referenced in
 
 - [Bundling](/strategies/user-perception/bundling)
+- [Pricing strategy](/leadership-skills/pricing-strategy)

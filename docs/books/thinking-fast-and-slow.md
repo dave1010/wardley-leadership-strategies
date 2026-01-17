@@ -11,3 +11,4 @@ Kahneman outlines biases such as anchoring, availability, and loss aversion, exp
 ## Referenced in
 
 - [Weak Signal (Horizon)](/strategies/positional/weak-signal-horizon)
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty)
