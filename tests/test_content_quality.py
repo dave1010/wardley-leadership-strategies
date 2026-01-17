@@ -122,7 +122,7 @@ def test_related_strategy_links_are_explained(strategies):
 def get_leadership_skills_links() -> set[str]:
     leadership_skills_dir = os.path.join('docs', 'leadership-skills')
     markdown_files = glob.glob(os.path.join(leadership_skills_dir, '*.md'))
-    links = {normalize_path('/leadership-skills')}
+    links: set[str] = set()
     for filepath in markdown_files:
         slug = os.path.splitext(os.path.basename(filepath))[0]
         if slug == 'index':
@@ -181,6 +181,12 @@ def test_leadership_skills_are_linked(strategies):
             if not links:
                 missing_links.append(
                     f"Strategy '{strategy.slug}' has a leadership skill without a link: '{line.strip()}'."
+                )
+                continue
+
+            if normalize_path("/leadership-skills") in links:
+                missing_links.append(
+                    f"Strategy '{strategy.slug}' links to the leadership skills index instead of a skill page: '{line.strip()}'."
                 )
                 continue
 
