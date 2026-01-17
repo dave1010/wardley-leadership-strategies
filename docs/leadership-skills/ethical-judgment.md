@@ -1,3 +1,7 @@
+---
+tags: [ethics, integrity, governance, accountability]
+---
+
 # Ethical judgment
 
 The discipline of weighing the moral and societal consequences of strategic moves, not just the competitive gain.

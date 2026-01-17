@@ -1,3 +1,7 @@
+---
+tags: [standards, openness, interoperability, commons]
+---
+
 # Standardization and open strategy
 
 The ability to use open approaches, standards, or shared infrastructure to accelerate adoption.

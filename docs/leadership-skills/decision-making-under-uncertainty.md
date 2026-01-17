@@ -1,3 +1,7 @@
+---
+tags: [decision-making, uncertainty, risk, judgment]
+---
+
 # Decision-making under uncertainty
 
 The ability to make timely commitments despite incomplete information and ambiguous signals.

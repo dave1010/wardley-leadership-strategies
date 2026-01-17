@@ -1,3 +1,7 @@
+---
+tags: [conflict, diplomacy, mediation, relationships]
+---
+
 # Conflict management and diplomacy
 
 The skill of navigating tension between partners, competitors, or internal teams without destroying trust.

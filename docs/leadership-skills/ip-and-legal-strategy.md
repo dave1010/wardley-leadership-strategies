@@ -1,3 +1,7 @@
+---
+tags: [ip, legal, protection, contracts]
+---
+
 # IP and legal strategy
 
 The capability to use intellectual property, contracts, and legal levers to protect advantage.

@@ -1,3 +1,7 @@
+---
+tags: [innovation, product, roadmap, differentiation]
+---
+
 # Innovation and product leadership
 
 The ability to create or evolve offerings that deliver differentiated value in shifting markets.

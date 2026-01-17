@@ -1,3 +1,7 @@
+---
+tags: [platforms, network-effects, ecosystems, scale]
+---
+
 # Platform strategy and network effects
 
 The skill of designing, scaling, and defending platforms where value grows with participation.

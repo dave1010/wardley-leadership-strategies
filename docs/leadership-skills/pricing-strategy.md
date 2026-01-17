@@ -1,3 +1,7 @@
+---
+tags: [pricing, monetization, value, positioning]
+---
+
 # Pricing strategy
 
 The ability to set prices and packaging that shape demand, signal value, and manage competitive dynamics.

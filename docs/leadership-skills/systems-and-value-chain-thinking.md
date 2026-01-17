@@ -1,3 +1,7 @@
+---
+tags: [systems-thinking, value-chain, dependencies, architecture]
+---
+
 # Systems and value chain thinking
 
 The skill of seeing how components, dependencies, and incentives interact across the wider landscape.

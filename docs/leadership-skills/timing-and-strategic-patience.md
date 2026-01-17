@@ -1,3 +1,7 @@
+---
+tags: [timing, patience, sequencing, cadence]
+---
+
 # Timing and strategic patience
 
 The discipline to wait for the right moment while preparing to move quickly once conditions align.

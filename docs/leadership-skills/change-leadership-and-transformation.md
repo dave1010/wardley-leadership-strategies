@@ -1,3 +1,7 @@
+---
+tags: [change, transformation, adoption, leadership]
+---
+
 # Change leadership and transformation
 
 The ability to guide organisations through restructures, new operating models, or shifts in strategy.

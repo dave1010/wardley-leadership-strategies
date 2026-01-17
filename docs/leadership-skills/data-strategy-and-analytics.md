@@ -1,3 +1,7 @@
+---
+tags: [data, analytics, measurement, insights]
+---
+
 # Data strategy and analytics
 
 The ability to treat data as a strategic asset and use analytics to steer decisions.

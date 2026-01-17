@@ -1,3 +1,7 @@
+---
+tags: [execution, operations, efficiency, delivery]
+---
+
 # Execution discipline and operational excellence
 
 The capability to deliver consistently, reduce waste, and translate plans into reliable outcomes.

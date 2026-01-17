@@ -1,3 +1,7 @@
+---
+tags: [risk, resilience, mitigation, continuity]
+---
+
 # Risk management and resilience
 
 The capability to anticipate downside scenarios, build mitigations, and keep the organisation steady under stress.

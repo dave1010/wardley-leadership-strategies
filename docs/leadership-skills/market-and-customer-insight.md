@@ -1,3 +1,7 @@
+---
+tags: [customers, market-research, insight, needs]
+---
+
 # Market and customer insight
 
 A deep understanding of user needs, willingness to pay, and adoption dynamics across segments.

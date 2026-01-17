@@ -1,3 +1,7 @@
+---
+tags: [communication, storytelling, alignment, narrative]
+---
+
 # Strategic communication and storytelling
 
 The ability to explain intent, trade-offs, and value in a way that aligns teams, partners, and markets.

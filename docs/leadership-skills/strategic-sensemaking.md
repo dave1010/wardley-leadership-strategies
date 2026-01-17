@@ -1,3 +1,7 @@
+---
+tags: [sensemaking, mapping, situational-awareness, strategic-analysis]
+---
+
 # Strategic sensemaking
 
 The discipline of reading the landscape, interpreting weak signals, and building a coherent view of where a strategy should move next.

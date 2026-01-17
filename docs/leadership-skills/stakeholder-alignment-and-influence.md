@@ -1,3 +1,7 @@
+---
+tags: [stakeholders, influence, alignment, buy-in]
+---
+
 # Stakeholder alignment and influence
 
 The skill of securing commitment across executives, teams, partners, and regulators with differing incentives.
