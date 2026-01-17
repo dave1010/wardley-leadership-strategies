@@ -144,11 +144,11 @@ Leaders must balance the pursuit of structural advantage with the risk of stifli
 
 ### Key leadership skills required
 
-- Political and regulatory acumen
-- Stakeholder management and coalition building
-- Strategic foresight and scenario planning
-- Ethical judgement and risk management
-- Communication and narrative framing
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Political and regulatory acumen.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Stakeholder management and coalition building.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic foresight and scenario planning.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Ethical judgement and risk management.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication and narrative framing.
 
 ### Ethical considerations
 

@@ -119,10 +119,10 @@ The primary challenge for leaders is to balance the short-term pressure for reve
 
 ### Key leadership skills required
 
-- **Analytical Skills:** The ability to understand complex market dynamics, cost structures, and customer data.
-- **Strategic Thinking:** The capacity to see pricing not just as a number, but as a tool for shaping the future of the market.
-- **Courage:** The willingness to make bold pricing decisions that may be unpopular in the short term.
-- **Communication:** The ability to articulate the strategic rationale for the pricing policy to all stakeholders.
+- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — The ability to understand complex market dynamics, cost structures, and customer data.
+- [Pricing strategy](/leadership-skills/pricing-strategy) — The capacity to see pricing not just as a number, but as a tool for shaping the future of the market.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The willingness to make bold pricing decisions that may be unpopular in the short term.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The ability to articulate the strategic rationale for the pricing policy to all stakeholders.
 
 ### Ethical considerations
 

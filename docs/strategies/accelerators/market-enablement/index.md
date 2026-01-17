@@ -120,13 +120,13 @@ The core challenge for leadership in market enablement is to successfully foster
 
 ### Key leadership skills required
 
-- **Ecosystem Thinking:** Ability to see beyond the organization and understand the dynamics of the entire market and value network.
-- **Strategic Influencing:** Skill in persuading other organizations, developers, and stakeholders to adopt standards or participate in the ecosystem without direct control.
-- **Long-Term Vision:** Capacity to foresee the benefits of a larger, enabled market and commit to strategies that may not yield immediate returns.
-- **Risk Management:** Competence in identifying and mitigating risks, such as enabling overly strong competitors or failing to capture value.
-- **Communication:** Clearly articulating the vision and benefits of market enablement to internal and external stakeholders.
-- **Partnership Development:** Ability to forge and manage alliances or less formal collaborations that support market growth.
-- **Patience and Persistence:** Understanding that market enablement can be a slow process requiring sustained effort.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — Ability to see beyond the organization and understand the dynamics of the entire market and value network.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Skill in persuading other organizations, developers, and stakeholders to adopt standards or participate in the ecosystem without direct control.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Capacity to foresee the benefits of a larger, enabled market and commit to strategies that may not yield immediate returns.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Competence in identifying and mitigating risks, such as enabling overly strong competitors or failing to capture value.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Clearly articulating the vision and benefits of market enablement to internal and external stakeholders.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — Ability to forge and manage alliances or less formal collaborations that support market growth.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Understanding that market enablement can be a slow process requiring sustained effort.
 
 ### Ethical considerations
 

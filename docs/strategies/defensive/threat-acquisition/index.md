@@ -116,10 +116,10 @@ The core challenge for leaders is to accurately identify genuine threats and act
 
 ### Key leadership skills required
 
-- **Strategic Foresight:** The ability to anticipate market trends and identify potential threats before they become critical.
-- **Financial Acumen:** The skill to accurately value a target company and structure a favorable deal.
-- **Negotiation:** The ability to secure the best possible terms for the acquisition.
-- **Integration Management:** The capability to successfully merge the acquired company's people, processes, and technology.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — The ability to anticipate market trends and identify potential threats before they become critical.
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — The skill to accurately value a target company and structure a favorable deal.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — The ability to secure the best possible terms for the acquisition.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — The capability to successfully merge the acquired company's people, processes, and technology.
 
 ### Ethical considerations
 

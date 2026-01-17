@@ -110,10 +110,10 @@ Maintaining clandestine operations while measuring impact and avoiding detection
 
 ### Key leadership skills required
 
-- Stealth operations planning
-- Narrative and media management
-- Intelligence gathering
-- Risk and crisis management
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Stealth operations planning.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Narrative and media management.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — Intelligence gathering.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk and crisis management.
 
 ### Ethical considerations
 

@@ -124,10 +124,10 @@ The central challenge is maintaining a delicate balance. Leaders must navigate t
 
 ### Key leadership skills required
 
-- **Diplomacy and Negotiation:** Managing relationships with competing partners.
-- **Strategic Foresight:** Understanding the long-term implications of market shifts.
-- **Resource Allocation:** Effectively distributing resources between competing initiatives.
-- **Risk Management:** Balancing the risks and rewards of a neutral stance.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Managing relationships with competing partners.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Understanding the long-term implications of market shifts.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Effectively distributing resources between competing initiatives.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Balancing the risks and rewards of a neutral stance.
 
 ### Ethical considerations
 

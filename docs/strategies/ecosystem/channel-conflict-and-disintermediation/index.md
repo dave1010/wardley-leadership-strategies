@@ -138,10 +138,10 @@ The core leadership challenge is managing the fallout. This strategy will inevit
 
 ### Key leadership skills required
 
-- **Conflict Tolerance:** The ability to stay the course in the face of intense pressure and criticism from partners.
-- **Strategic Communication:** The skill to craft and deliver a clear narrative that explains the rationale for the change to all stakeholders.
-- **Change Management:** The ability to manage the internal and external transition to a new channel model.
-- **Decisiveness:** The willingness to make a bold, potentially risky move and see it through.
+- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy) — The ability to stay the course in the face of intense pressure and criticism from partners.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The skill to craft and deliver a clear narrative that explains the rationale for the change to all stakeholders.
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — The ability to manage the internal and external transition to a new channel model.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The willingness to make a bold, potentially risky move and see it through.
 
 ### Ethical considerations
 

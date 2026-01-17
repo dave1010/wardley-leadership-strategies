@@ -122,11 +122,11 @@ Maintaining the gravitational pull requires constant investment, cultural stewar
 
 ### Key leadership skills required
 
-- Vision-setting and narrative control
-- Talent attraction and retention
-- Ecosystem building and partnership management
-- Cultural stewardship and adaptability
-- Strategic investment and resource allocation
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Vision-setting and narrative control.
+- [Talent development and team building](/leadership-skills/talent-development-and-team-building) — Talent attraction and retention.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — Ecosystem building and partnership management.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — Cultural stewardship and adaptability.
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — Strategic investment and resource allocation.
 
 ### Ethical considerations
 

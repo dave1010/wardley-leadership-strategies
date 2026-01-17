@@ -124,10 +124,10 @@ Balancing the strategic use of IPR to slow competitors with maintaining a positi
 
 ### Key leadership skills required
 
-- Legal and regulatory acumen
-- Strategic portfolio management
-- Negotiation and conflict resolution
-- R&D coordination and foresight
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Legal and regulatory acumen.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic portfolio management.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Negotiation and conflict resolution.
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — R&D coordination and foresight.
 
 ### Ethical considerations
 

@@ -144,11 +144,11 @@ The core challenge for leadership is balancing aggressive expansion and market c
 
 ### Key leadership skills required
 
-* **Ecosystem Thinking:** Understanding the complex relationships between the platform, its users, and third-party developers.
-* **Strategic Foresight:** Identifying adjacent markets or functionalities ripe for envelopment.
-* **Risk Management:** Assessing and mitigating antitrust risks and potential backlash from partners.
-* **Integration Management:** Effectively incorporating new services and technologies into the existing platform.
-* **Communication:** Clearly articulating the rationale for envelopment to internal teams, users, and the market.
+* [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — Understanding the complex relationships between the platform, its users, and third-party developers.
+* [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Identifying adjacent markets or functionalities ripe for envelopment.
+* [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Assessing and mitigating antitrust risks and potential backlash from partners.
+* [Platform strategy and network effects](/leadership-skills/platform-strategy-and-network-effects) — Effectively incorporating new services and technologies into the existing platform.
+* [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Clearly articulating the rationale for envelopment to internal teams, users, and the market.
 
 ### Ethical considerations
 

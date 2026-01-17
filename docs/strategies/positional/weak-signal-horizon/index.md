@@ -113,10 +113,10 @@ Distinguishing meaningful early signals from noise and orchestrating strategic r
 
 ### Key leadership skills required
 
-- Strategic sensing and contextual analysis.
-- Pattern recognition and synthesis.
-- Decision-making under uncertainty.
-- Cross-domain collaboration and communication.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic sensing and contextual analysis.
+- [Data strategy and analytics](/leadership-skills/data-strategy-and-analytics) — Pattern recognition and synthesis.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Decision-making under uncertainty.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Cross-domain collaboration and communication.
 
 ### Ethical considerations
 

@@ -120,9 +120,9 @@ Balancing the illusion of competition while maintaining operational efficiency a
 
 ### Key leadership skills required
 
-- Strategic foresight to manage dual entities effectively.
-- Risk management to mitigate exposure risks.
-- Communication skills to maintain plausible independence.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic foresight to manage dual entities effectively.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management to mitigate exposure risks.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication skills to maintain plausible independence.
 
 ### Ethical considerations
 

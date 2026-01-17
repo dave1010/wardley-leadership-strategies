@@ -158,13 +158,13 @@ The primary leadership challenge in executing a Fool's Mate is twofold:
 
 ### Key leadership skills required
 
-- **Deep Situational Awareness:** The ability to thoroughly understand complex market dynamics, value chains, and competitor psychology to spot hidden vulnerabilities.
-- **Strategic Foresight:** Anticipating the cascading effects of the move and the opponent's likely (mal)adaptations.
-- **Courage & Risk Tolerance:** Committing to a high-stakes, aggressive maneuver that may have significant, unpredictable outcomes.
-- **Decisiveness:** Making bold decisions quickly, often with incomplete information.
-- **Speed in Execution:** Driving the organization to act with urgency and precision.
-- **Subtlety & Misdirection:** Skill in masking intentions and preparing the move without alerting the target.
-- **Adaptability:** Being prepared to manage the new market landscape created after the Fool's Mate is delivered.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — The ability to thoroughly understand complex market dynamics, value chains, and competitor psychology to spot hidden vulnerabilities.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — Anticipating the cascading effects of the move and the opponent's likely (mal)adaptations.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Committing to a high-stakes, aggressive maneuver that may have significant, unpredictable outcomes.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Making bold decisions quickly, often with incomplete information.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — Driving the organization to act with urgency and precision.
+- [Information control and operational security](/leadership-skills/information-control-and-operational-security) — Skill in masking intentions and preparing the move without alerting the target.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Being prepared to manage the new market landscape created after the Fool's Mate is delivered.
 
 ### Ethical considerations
 

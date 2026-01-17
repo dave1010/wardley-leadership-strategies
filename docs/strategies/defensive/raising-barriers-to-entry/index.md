@@ -101,9 +101,9 @@ The core leadership challenge is managing the increased complexity that this str
 
 ### Key leadership skills required
 
-- **Portfolio Management:** The ability to manage a complex portfolio of products and make strategic decisions about what to build, buy, or partner.
-- **Integration:** The skill to ensure that the different parts of the bundle work together seamlessly.
-- **Strategic Focus:** The discipline to avoid "feature creep" and only add components to the bundle that genuinely increase the barrier to entry.
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — The ability to manage a complex portfolio of products and make strategic decisions about what to build, buy, or partner.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — The skill to ensure that the different parts of the bundle work together seamlessly.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — The discipline to avoid "feature creep" and only add components to the bundle that genuinely increase the barrier to entry.
 
 ### Ethical considerations
 

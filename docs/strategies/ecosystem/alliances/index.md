@@ -126,11 +126,11 @@ Balancing coordination and speed across multiple organisations with differing go
 
 ### Key leadership skills required
 
-- cross-boundary collaboration
-- strategic alignment
-- governance design
-- trust-building
-- ecosystem thinking
+- [Partnership and alliance management](/leadership-skills/partnership-and-alliance-management) — cross-boundary collaboration.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — strategic alignment.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — governance design.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — trust-building.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — ecosystem thinking.
 
 ## 📋 **How to Execute**
 

@@ -104,9 +104,9 @@ Leading a fragmentation strategy requires strategic thinking and a deep understa
 
 ### Key leadership skills required
 
-- Forming alliances and co-opting partners who benefit from a divided market.
-- Articulating a clear vision of how fragmenting the competitor's market will ultimately benefit the company.
-- Managing stakeholder expectations regarding short-term revenue trade-offs for long-term strategic positioning.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Forming alliances and co-opting partners who benefit from a divided market.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — Articulating a clear vision of how fragmenting the competitor's market will ultimately benefit the company.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Managing stakeholder expectations regarding short-term revenue trade-offs for long-term strategic positioning.
 
 ### Ethical considerations
 

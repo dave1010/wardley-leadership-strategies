@@ -117,10 +117,10 @@ The most significant leadership challenge is managing the relationship with the 
 
 ### Key leadership skills required
 
-- **Ecosystem Management:** The ability to nurture and grow a healthy community of third-party developers.
-- **Strategic Sensing:** The skill to identify the most promising innovations within a noisy ecosystem.
-- **Diplomacy:** The ability to manage the fallout from a harvesting decision and maintain trust with the community.
-- **Platform Vision:** A clear understanding of what should be part of the core platform and what should be left to the ecosystem.
+- [Community and ecosystem stewardship](/leadership-skills/community-and-ecosystem-stewardship) — The ability to nurture and grow a healthy community of third-party developers.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The skill to identify the most promising innovations within a noisy ecosystem.
+- [Conflict management and diplomacy](/leadership-skills/conflict-management-and-diplomacy) — The ability to manage the fallout from a harvesting decision and maintain trust with the community.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — A clear understanding of what should be part of the core platform and what should be left to the ecosystem.
 
 ### Ethical considerations
 

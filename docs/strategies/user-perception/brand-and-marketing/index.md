@@ -129,9 +129,9 @@ Balancing brand messaging with product quality and innovation.
 
 ### Key leadership skills required
 
-- Deep understanding of target audience.
-- Strategic messaging and positioning.
-- Crisis management for potential backlash.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Deep understanding of target audience.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Strategic messaging and positioning.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Crisis management for potential backlash.
 
 ### Ethical considerations
 

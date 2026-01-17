@@ -112,10 +112,10 @@ The core leadership challenge is to create a sense of urgency for change, even w
 
 ### Key leadership skills required
 
-- **Visionary Leadership:** The ability to articulate a clear and compelling vision for the future that makes the pain of change worthwhile.
-- **Change Management:** The skill to design and execute a structured process for managing the transition.
-- **Empathy and Communication:** The ability to understand and address the fears and concerns of employees who are resistant to change.
-- **Resilience:** The fortitude to stay the course through the inevitable setbacks and resistance that come with any major change effort.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The ability to articulate a clear and compelling vision for the future that makes the pain of change worthwhile.
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — The skill to design and execute a structured process for managing the transition.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — The ability to understand and address the fears and concerns of employees who are resistant to change.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — The fortitude to stay the course through the inevitable setbacks and resistance that come with any major change effort.
 
 ### Ethical considerations
 

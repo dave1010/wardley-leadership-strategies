@@ -119,10 +119,10 @@ The core leadership challenge is to distinguish between wise, strategic procrast
 
 ### Key leadership skills required
 
-- **Patience and Discipline:** The ability to wait for the right moment and not be swayed by short-term market noise.
-- **Analytical Skill:** The capacity to accurately assess the maturity of a market and identify the optimal entry point.
-- **Decisiveness:** The willingness to commit fully and rapidly once the decision to enter has been made.
-- **Strategic Communication:** The skill to justify a seemingly passive strategy to internal and external stakeholders.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — The ability to wait for the right moment and not be swayed by short-term market noise.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — The capacity to accurately assess the maturity of a market and identify the optimal entry point.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — The willingness to commit fully and rapidly once the decision to enter has been made.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The skill to justify a seemingly passive strategy to internal and external stakeholders.
 
 ### Ethical considerations
 

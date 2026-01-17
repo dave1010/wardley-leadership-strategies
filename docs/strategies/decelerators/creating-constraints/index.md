@@ -115,11 +115,11 @@ Balancing the strategic advantage of creating constraints against legal, ethical
 
 ### Key leadership skills required
 
-- Strategic foresight
-- Negotiation and influence
-- Legal and regulatory expertise
-- Risk management and ethical judgment
-- Cross-functional stakeholder alignment
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic foresight.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Negotiation and influence.
+- [Regulatory and political acumen](/leadership-skills/regulatory-and-political-acumen) — Legal and regulatory expertise.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Risk management and ethical judgment.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Cross-functional stakeholder alignment.
 
 ### Ethical considerations
 

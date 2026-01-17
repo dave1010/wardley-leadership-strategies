@@ -121,10 +121,10 @@ The core leadership challenge is managing the immense ethical and legal risks of
 
 ### Key leadership skills required
 
-- **Risk Management:** The ability to assess and mitigate the significant legal, reputational, and competitive risks.
-- **Aggressiveness:** A willingness to play hardball and engage in direct, often confrontational, competition.
-- **Strategic Vision:** A clear understanding of how to leverage the extensions to achieve market dominance.
-- **Lobbying and Public Relations:** The skill to manage the narrative and influence regulators and the public.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — The ability to assess and mitigate the significant legal, reputational, and competitive risks.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — A willingness to play hardball and engage in direct, often confrontational, competition.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — A clear understanding of how to leverage the extensions to achieve market dominance.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — The skill to manage the narrative and influence regulators and the public.
 
 ### Ethical considerations
 

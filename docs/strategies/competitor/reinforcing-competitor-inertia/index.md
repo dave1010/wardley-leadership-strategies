@@ -117,7 +117,9 @@ The core challenge for leadership is to accurately identify and exploit a compet
 
 ### Key leadership skills required
 
-Strategic observation, adaptability, and the ability to anticipate competitor responses.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic observation.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — adaptability.
+- [Competitive intelligence](/leadership-skills/competitive-intelligence) — and the ability to anticipate competitor responses.
 
 ## 📋 **How to Execute**
 

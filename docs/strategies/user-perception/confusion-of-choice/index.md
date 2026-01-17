@@ -117,11 +117,11 @@ The primary leadership challenge is to strategically introduce complexity or a m
 
 ### Key leadership skills required
 
-- Ethical judgment: discerning the line between strategic ambiguity and harmful customer deception.
-- Product portfolio management: managing a diverse range of products or service tiers.
-- Market segmentation savvy: understanding customer segments' tolerance for complexity.
-- Communication strategy: simplifying choices where beneficial, maintaining strategic complexity elsewhere.
-- Risk assessment: evaluating potential backlash, brand damage, or opportunities for "simplifier" competitors.
+- [Ethical judgment](/leadership-skills/ethical-judgment) — Ethical judgment: discerning the line between strategic ambiguity and harmful customer deception.
+- [Innovation and product leadership](/leadership-skills/innovation-and-product-leadership) — Product portfolio management: managing a diverse range of products or service tiers.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — Market segmentation savvy: understanding customer segments' tolerance for complexity.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communication strategy: simplifying choices where beneficial, maintaining strategic complexity elsewhere.
+- [Brand and reputation management](/leadership-skills/brand-and-reputation-management) — Risk assessment: evaluating potential backlash, brand damage, or opportunities for "simplifier" competitors.
 
 ### Ethical considerations
 

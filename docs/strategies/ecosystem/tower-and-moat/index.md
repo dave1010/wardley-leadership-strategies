@@ -123,10 +123,10 @@ The core leadership challenge is making a massive, long-term bet on a future tha
 
 ### Key leadership skills required
 
-- **Visionary Thinking:** The ability to see the future landscape and identify the critical components to own.
-- **Strategic Patience:** The discipline to invest for the long term and not be swayed by short-term pressures.
-- **Capital Allocation:** The skill to make large, risky investments with a clear strategic rationale.
-- **Ecosystem Governance:** The ability to build and manage a large ecosystem of partners and developers.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The ability to see the future landscape and identify the critical components to own.
+- [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — The discipline to invest for the long term and not be swayed by short-term pressures.
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — The skill to make large, risky investments with a clear strategic rationale.
+- [Governance and policy design](/leadership-skills/governance-and-policy-design) — The ability to build and manage a large ecosystem of partners and developers.
 
 ### Ethical considerations
 

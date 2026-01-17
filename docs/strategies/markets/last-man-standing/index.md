@@ -115,10 +115,10 @@ The core leadership challenge is maintaining organizational morale and disciplin
 
 ### Key leadership skills required
 
-* **Operational Excellence:** A deep understanding of how to optimize processes and drive out costs.
-* **Financial Discipline:** The ability to manage cash flow and maintain financial stability during a period of low profitability.
-* **Long-Term Vision:** The capacity to stay focused on the ultimate prize, even when the daily reality is bleak.
-* **Resilience:** The personal and organizational fortitude to withstand a brutal competitive environment.
+* [Execution discipline and operational excellence](/leadership-skills/execution-discipline-and-operational-excellence) — A deep understanding of how to optimize processes and drive out costs.
+* [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — The ability to manage cash flow and maintain financial stability during a period of low profitability.
+* [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The capacity to stay focused on the ultimate prize, even when the daily reality is bleak.
+* [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — The personal and organizational fortitude to withstand a brutal competitive environment.
 
 ### Ethical considerations
 

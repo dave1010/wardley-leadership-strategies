@@ -142,10 +142,10 @@ Creating room for risk‑taking while ensuring valuable ideas are adopted.
 
 ### Key leadership skills required
 
-- Fostering curiosity and psychological safety
-- Protecting experimental teams and budgets
-- Judging which experiments to scale or stop
-- Communicating lessons across the organisation
+- [Change leadership and transformation](/leadership-skills/change-leadership-and-transformation) — Fostering curiosity and psychological safety.
+- [Financial acumen and capital allocation](/leadership-skills/financial-acumen-and-capital-allocation) — Protecting experimental teams and budgets.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Judging which experiments to scale or stop.
+- [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Communicating lessons across the organisation.
 
 ### Ethical considerations
 

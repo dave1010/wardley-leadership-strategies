@@ -123,10 +123,10 @@ Leaders must balance a **curious, data-driven mindset** with a tolerance for amb
 
 ### Key leadership skills required
 
-* Strategic thinking
-* Adaptability
-* Risk management
-* Clear communication
+* [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — Strategic thinking.
+* [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Adaptability.
+* [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management.
+* [Strategic communication and storytelling](/leadership-skills/strategic-communication-and-storytelling) — Clear communication.
 
 ### Ethical considerations
 

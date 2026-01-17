@@ -117,10 +117,10 @@ The core leadership challenge is to see the business not as a standalone entity,
 
 ### Key leadership skills required
 
-- **Systems Thinking:** The ability to see the entire value chain and understand the interplay of forces within it.
-- **Negotiation and Influence:** The skill to use leverage effectively to achieve favorable outcomes.
-- **Long-Range Planning:** The capacity to make investments and strategic moves that may take years to come to fruition.
-- **Game Theory:** An intuitive understanding of how other players in the market will react to your moves.
+- [Systems and value chain thinking](/leadership-skills/systems-and-value-chain-thinking) — The ability to see the entire value chain and understand the interplay of forces within it.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — The skill to use leverage effectively to achieve favorable outcomes.
+- [Strategic sensemaking](/leadership-skills/strategic-sensemaking) — The capacity to make investments and strategic moves that may take years to come to fruition.
+- [Market and customer insight](/leadership-skills/market-and-customer-insight) — An intuitive understanding of how other players in the market will react to your moves.
 
 ### Ethical considerations
 

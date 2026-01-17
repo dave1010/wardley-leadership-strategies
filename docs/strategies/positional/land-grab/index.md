@@ -134,10 +134,10 @@ Committing significant resources in unproven domains while shaping perception, p
 
 ### Key leadership skills required
 
-- Bold vision and strategic foresight to interpret weak signals and place large bets confidently.
-- Risk management and resource prioritisation to keep core operations healthy during the build-out.
-- Stakeholder engagement, including communities, regulators, and complementors, to anchor legitimacy.
-- Negotiation and alliance-building to secure exclusivity without provoking destructive backlash.
+- [Decision-making under uncertainty](/leadership-skills/decision-making-under-uncertainty) — Bold vision and strategic foresight to interpret weak signals and place large bets confidently.
+- [Risk management and resilience](/leadership-skills/risk-management-and-resilience) — Risk management and resource prioritisation to keep core operations healthy during the build-out.
+- [Stakeholder alignment and influence](/leadership-skills/stakeholder-alignment-and-influence) — Stakeholder engagement, including communities, regulators, and complementors, to anchor legitimacy.
+- [Negotiation and deal-making](/leadership-skills/negotiation-and-deal-making) — Negotiation and alliance-building to secure exclusivity without provoking destructive backlash.
 
 ### Operating cadence
 
