@@ -1,3 +1,7 @@
+---
+tags: [competition, intelligence, market-signals, rivals]
+---
+
 # Competitive intelligence
 
 The ability to track competitors, infer intent, and anticipate moves without relying on speculation.

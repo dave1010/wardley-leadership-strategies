@@ -1,3 +1,7 @@
+---
+tags: [partnerships, alliances, collaboration, ecosystems]
+---
+
 # Partnership and alliance management
 
 The discipline of building, coordinating, and sustaining multi-party relationships over time.

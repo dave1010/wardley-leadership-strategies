@@ -1,3 +1,7 @@
+---
+tags: [incentives, game-theory, behavior, alignment]
+---
+
 # Incentive design and game theory
 
 The skill of shaping incentives so others behave in ways that reinforce your strategy.

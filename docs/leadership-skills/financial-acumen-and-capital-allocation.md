@@ -1,3 +1,7 @@
+---
+tags: [finance, capital-allocation, investment, portfolio]
+---
+
 # Financial acumen and capital allocation
 
 The ability to balance investment, cash flow, and risk to sustain strategic moves.

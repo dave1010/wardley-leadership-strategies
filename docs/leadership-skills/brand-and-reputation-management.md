@@ -1,3 +1,7 @@
+---
+tags: [brand, reputation, trust, perception]
+---
+
 # Brand and reputation management
 
 The skill of shaping perception and protecting trust during aggressive or disruptive moves.

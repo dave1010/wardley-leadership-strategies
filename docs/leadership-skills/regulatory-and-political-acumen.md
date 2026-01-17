@@ -1,3 +1,7 @@
+---
+tags: [regulation, policy, government, advocacy]
+---
+
 # Regulatory and political acumen
 
 The ability to navigate policy environments, anticipate regulatory shifts, and engage decision-makers responsibly.

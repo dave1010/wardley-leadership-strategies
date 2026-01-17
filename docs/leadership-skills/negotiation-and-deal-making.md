@@ -1,3 +1,7 @@
+---
+tags: [negotiation, deals, agreements, leverage]
+---
+
 # Negotiation and deal-making
 
 The ability to structure agreements that protect strategic intent while delivering mutual value.

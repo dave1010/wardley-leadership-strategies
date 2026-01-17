@@ -1,3 +1,7 @@
+---
+tags: [security, information-control, confidentiality, risk]
+---
+
 # Information control and operational security
 
 The ability to protect sensitive plans, timing, or data from leakage and counter-moves.

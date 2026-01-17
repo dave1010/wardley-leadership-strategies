@@ -1,3 +1,7 @@
+---
+tags: [governance, policy, compliance, decision-rights]
+---
+
 # Governance and policy design
 
 The capability to define rules, standards, and decision rights that keep complex initiatives coherent.

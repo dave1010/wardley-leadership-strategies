@@ -1,3 +1,7 @@
+---
+tags: [experimentation, learning, iteration, discovery]
+---
+
 # Experimentation and learning
 
 The habit of running small, fast tests to validate assumptions and adapt direction.

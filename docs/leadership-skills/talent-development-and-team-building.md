@@ -1,3 +1,7 @@
+---
+tags: [talent, teams, coaching, culture]
+---
+
 # Talent development and team building
 
 The capability to attract, retain, and grow people who can execute ambitious strategies.
