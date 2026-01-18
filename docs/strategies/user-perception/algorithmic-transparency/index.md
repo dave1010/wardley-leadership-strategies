@@ -181,7 +181,7 @@ Full transparency is not always viable. Mature teams design tiers: user-level ra
 - [Brand & Marketing](/strategies/user-perception/brand-and-marketing) - Reinforces the trust narrative that transparency enables.
 - [Lobbying](/strategies/user-perception/lobbying) - Shapes the regulatory expectations that define transparency requirements.
 - [Open Approaches](/strategies/accelerators/open-approaches) - Applies transparency through open standards and collaboration.
-- [Standardisation](/strategies/defensive/standardisation) - Establishes shared disclosure formats and audit practices.
+- [Standards Game](/strategies/markets/standards-game) - Establishes shared disclosure formats and audit practices.
 
 ## ⛅ **Relevant Climatic Patterns**
 
