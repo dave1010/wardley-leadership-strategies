@@ -1920,5 +1920,94 @@ export const strategyProfiles: StrategyProfile[] = [
     ],
     effortLevel: 'Cross-Functional Initiative',
     timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Community Governance and Co-Ownership',
+    slug: '/strategies/ecosystem/community-governance-co-ownership',
+    summary:
+      'Share decision rights and asset ownership with ecosystem members to deepen commitment and stickiness.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Build ecosystem leverage', 'Accelerate adoption', 'Secure long-term investment'],
+    pressures: ['Ecosystem fragmentation', 'Trust deficit with partners', 'Platform risks losing legitimacy'],
+    leadershipFocus: ['Governance stewardship', 'Incentive design and fairness', 'Long-term ecosystem health'],
+    quickSignals: [
+      'Partners contribute critical modules but hesitate to deepen investment.',
+      'The ecosystem needs a neutral home to sustain shared infrastructure.',
+      'You rely on shared standards, shared IP, or joint funding to scale.',
+    ],
+    momentumMoves: [
+      'Identify which assets require shared governance versus proprietary control.',
+      'Draft a lightweight charter covering voting rights, dispute resolution, and IP stewardship.',
+      'Stand up an interim council with clear accountability and time-boxed decisions.',
+    ],
+    watchOuts: [
+      'Governance becomes symbolic while control remains centralized.',
+      'Ownership structures create legal or tax complexity that deters participation.',
+      'Decision-making slows to the point that the ecosystem loses momentum.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Carbon & ESG Arbitrage',
+    slug: '/strategies/markets/carbon-esg-arbitrage',
+    summary:
+      'Using carbon pricing gaps, incentives, and supply-chain transparency to outmaneuver competitors.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Outcompete peers', 'Reduce compliance friction', 'Unlock preferential demand'],
+    pressures: [
+      'Regulatory change is accelerating',
+      'Procurement requires verified emissions data',
+      'Carbon costs vary across regions',
+    ],
+    leadershipFocus: ['Regulatory readiness', 'Value chain visibility', 'Incentive orchestration'],
+    quickSignals: [
+      'Major customers are adding carbon disclosure and low-carbon sourcing clauses to contracts.',
+      'Carbon pricing differences or tax credits make certain geographies structurally cheaper.',
+      'Regulators are tightening disclosure timelines faster than competitors can respond.',
+    ],
+    momentumMoves: [
+      'Map where carbon costs, credits, and subsidies shift the true unit economics.',
+      'Build auditable supply-chain emissions data to meet procurement thresholds.',
+      'Re-price offers or reroute sourcing to capture the most favorable regulatory lane.',
+    ],
+    watchOuts: [
+      'Overstating ESG claims without evidence invites enforcement and reputational damage.',
+      'Procurement teams reject bids when emissions data is incomplete or unverifiable.',
+      'Savings vanish if incentives expire or carbon rules converge.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
+  },
+  {
+    title: 'Data Sovereignty & Localization',
+    slug: '/strategies/markets/data-sovereignty-localization',
+    summary:
+      'Turning data residency and jurisdictional compliance into a trust and market access advantage.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Protect market access', 'Build trust', 'Shape the market'],
+    pressures: [
+      'Regulatory changes create uncertainty about data handling.',
+      'Customers demand local processing and residency guarantees.',
+      'Cross-border data transfers increase legal or reputational risk.',
+    ],
+    leadershipFocus: ['Jurisdictional strategy', 'Compliance design', 'Risk management and resilience'],
+    quickSignals: [
+      'Enterprise buyers are asking for country-specific data residency clauses.',
+      'Public sector or regulated industries treat localization as a procurement gate.',
+      'Competitors are launching regional clouds or sovereign offerings.',
+    ],
+    momentumMoves: [
+      'Map data flows, dependencies, and jurisdictions to expose compliance gaps.',
+      'Design localized processing and storage patterns for high-risk data.',
+      'Build a compliance narrative that ties residency to user trust and resilience.',
+    ],
+    watchOuts: [
+      'Treating localization as a purely legal checkbox without operational readiness.',
+      'Underestimating the cost of running parallel regional stacks.',
+      'Overpromising sovereignty while relying on foreign dependencies.',
+    ],
+    effortLevel: 'Enterprise Transformation',
+    timeHorizon: 'Medium-term shaping',
   }
 ];
