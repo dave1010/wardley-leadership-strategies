@@ -124,6 +124,48 @@ export default function HomepageFeatures(): ReactNode {
             </div>
           </div>
         </div>
+
+        <div className="card shadow--md padding--lg margin-top--lg">
+          <div className="row">
+            <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
+              <h2 className="margin-bottom--sm">Strategy Guides</h2>
+              <p className="margin-bottom--sm" style={{ fontSize: '1.15rem' }}>
+                Step-by-step playbooks that help teams move from map to action. Start with the{' '}
+                <a href="/strategy-guides/introduction-to-strategic-play">Introduction to Strategic Play</a> guide, then explore more
+                scenario-driven walkthroughs.
+              </p>
+              <ul className="margin-bottom--sm">
+                <li>Use structured prompts to align teams on the next move.</li>
+                <li>Capture signals, risks, and fast feedback loops as you play.</li>
+                <li>Share a common vocabulary for strategic decisions.</li>
+              </ul>
+              <div className={styles.buttonGroup}>
+                <a className="button button--primary" href="/strategy-guides">
+                  Explore Strategy Guides
+                </a>
+                <a className="button button--secondary" href="/strategy-guides/introduction-to-strategic-play">
+                  Read the Intro Guide
+                </a>
+              </div>
+            </div>
+            <div className={clsx('col col--4')}>
+              <BrowserFrame>
+                <div className={styles.guidesPreview}>
+                  <span className={styles.guidesBadge}>New series</span>
+                  <h3>Strategic Play</h3>
+                  <p>
+                    A guided walkthrough to build shared intent, pick a gameplay, and define the first experiment.
+                  </p>
+                  <div className={styles.guidesChecklist}>
+                    <span>Map signal check</span>
+                    <span>Gameplay selection</span>
+                    <span>First move planning</span>
+                  </div>
+                </div>
+              </BrowserFrame>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div>
