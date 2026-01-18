@@ -1889,5 +1889,36 @@ export const strategyProfiles: StrategyProfile[] = [
     ],
     effortLevel: 'Cross-Functional Initiative',
     timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Data Sovereignty & Localization',
+    slug: '/strategies/markets/data-sovereignty-localization',
+    summary:
+      'Turning data residency and jurisdictional compliance into a trust and market access advantage.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Protect market access', 'Build trust', 'Shape the market'],
+    pressures: [
+      'Regulatory changes create uncertainty about data handling.',
+      'Customers demand local processing and residency guarantees.',
+      'Cross-border data transfers increase legal or reputational risk.',
+    ],
+    leadershipFocus: ['Jurisdictional strategy', 'Compliance design', 'Risk management and resilience'],
+    quickSignals: [
+      'Enterprise buyers are asking for country-specific data residency clauses.',
+      'Public sector or regulated industries treat localization as a procurement gate.',
+      'Competitors are launching regional clouds or sovereign offerings.',
+    ],
+    momentumMoves: [
+      'Map data flows, dependencies, and jurisdictions to expose compliance gaps.',
+      'Design localized processing and storage patterns for high-risk data.',
+      'Build a compliance narrative that ties residency to user trust and resilience.',
+    ],
+    watchOuts: [
+      'Treating localization as a purely legal checkbox without operational readiness.',
+      'Underestimating the cost of running parallel regional stacks.',
+      'Overpromising sovereignty while relying on foreign dependencies.',
+    ],
+    effortLevel: 'Enterprise Transformation',
+    timeHorizon: 'Medium-term shaping',
   }
 ];
