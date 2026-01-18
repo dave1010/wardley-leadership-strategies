@@ -16,6 +16,12 @@ It is essential when reshaping value chains, exploiting bottlenecks, or coordina
 - Look for second-order impacts before changing a critical component.
 - Review how shifting one node affects partners, suppliers, and users.
 
+## 📰 **Related blog posts**
+
+- [Cybernetic AI Leadership with the Viable System Model](/blog/ai-and-leadership/cybernetic-ai-leadership-with-the-viable-system-model) — Frames system viability across distributed operations.
+- [Soft Systems Methodology for Wardley Mapping](/blog/practice/soft-systems-methodology-for-wardley-mapping) — Offers techniques for surfacing system structure and assumptions.
+- [Panarchy and Wardley Climatic Patterns](/blog/strategy/panarchy-and-wardley-climatic-patterns) — Connects system cycles to map evolution dynamics.
+
 ## 📚 **Related books**
 
 - [The Goal](/books/the-goal)
