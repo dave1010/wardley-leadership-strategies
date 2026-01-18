@@ -1889,5 +1889,36 @@ export const strategyProfiles: StrategyProfile[] = [
     ],
     effortLevel: 'Cross-Functional Initiative',
     timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Carbon & ESG Arbitrage',
+    slug: '/strategies/markets/carbon-esg-arbitrage',
+    summary:
+      'Using carbon pricing gaps, incentives, and supply-chain transparency to outmaneuver competitors.',
+    stages: ['Product', 'Commodity/Utility'],
+    goals: ['Outcompete peers', 'Reduce compliance friction', 'Unlock preferential demand'],
+    pressures: [
+      'Regulatory change is accelerating',
+      'Procurement requires verified emissions data',
+      'Carbon costs vary across regions',
+    ],
+    leadershipFocus: ['Regulatory readiness', 'Value chain visibility', 'Incentive orchestration'],
+    quickSignals: [
+      'Major customers are adding carbon disclosure and low-carbon sourcing clauses to contracts.',
+      'Carbon pricing differences or tax credits make certain geographies structurally cheaper.',
+      'Regulators are tightening disclosure timelines faster than competitors can respond.',
+    ],
+    momentumMoves: [
+      'Map where carbon costs, credits, and subsidies shift the true unit economics.',
+      'Build auditable supply-chain emissions data to meet procurement thresholds.',
+      'Re-price offers or reroute sourcing to capture the most favorable regulatory lane.',
+    ],
+    watchOuts: [
+      'Overstating ESG claims without evidence invites enforcement and reputational damage.',
+      'Procurement teams reject bids when emissions data is incomplete or unverifiable.',
+      'Savings vanish if incentives expire or carbon rules converge.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
   }
 ];
