@@ -203,7 +203,7 @@ Governance quality becomes a differentiator. Clear decision rights, transparent 
 
 ## 📚 **Further Reading & References**
 
-- [Governing the Commons](https://www.cambridge.org/core/books/governing-the-commons/7D2B3B8D0A0B7F8E25C4C5C8F3E936CF) - Elinor Ostrom’s work on collective governance and stewardship.
+- [Governing the Commons](https://www.cambridge.org/9780521405997) - Elinor Ostrom’s work on collective governance and stewardship.
 - [The Cathedral and the Bazaar](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) - classic framing of community-led governance models.
-- [Linux Foundation Governance Model](https://www.linuxfoundation.org/about/governance) - overview of foundation-based stewardship.
-- [CNCF Governance](https://www.cncf.io/about/governance/) - examples of member councils and technical oversight.
+- [Understanding Open Governance Networks](https://www.linuxfoundation.org/blog/blog/understanding-open-governance-networks) - overview of foundation-based governance in open ecosystems.
+- [CNCF Governance](https://contribute.cncf.io/community/governance/) - examples of member councils and technical oversight.
