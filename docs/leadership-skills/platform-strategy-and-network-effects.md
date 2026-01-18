@@ -16,6 +16,11 @@ It helps leaders balance multi-sided incentives and avoid ecosystem collapse.
 - Use pricing or subsidies to ignite network effects early.
 - Monitor disintermediation risks and platform envelopment threats.
 
+## 📰 **Related blog posts**
+
+- [Uncovering the Real Moats in AI](/blog/ai-and-leadership/uncovering-the-real-moats-in-ai) — Breaks down defensibility when platforms commoditise.
+- [Collapse of Differentiation](/blog/ai-and-leadership/collapse-of-differentiation) — Signals when network advantages start to decay.
+
 ## 📚 **Related books**
 
 - [Platform Revolution](/books/platform-revolution)
