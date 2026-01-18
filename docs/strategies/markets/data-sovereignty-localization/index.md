@@ -194,4 +194,4 @@ Regulatory constraints can pull data away from centralized hubs into regional cl
 - [EU Data Act](https://digital-strategy.ec.europa.eu/en/policies/data-act) – Emerging requirements for data access and portability across jurisdictions.
 - [US CLOUD Act](https://www.congress.gov/bill/115th-congress/house-bill/4943) – Illustrates extraterritorial data access concerns.
 - [ISO/IEC 27001](https://www.iso.org/isoiec-27001-information-security.html) – Security standard often referenced in localization and sovereignty attestations.
-- [OECD Data Free Flow with Trust](https://www.oecd.org/en/topics/sub-issues/data-free-flow-with-trust.html) – Policy framing for balancing cross-border data flows with trust.
+- [OECD Data Free Flow with Trust](https://www.oecd.org/en/about/programmes/data-free-flow-with-trust.html) – Policy framing for balancing cross-border data flows with trust.
