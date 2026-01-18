@@ -1889,5 +1889,36 @@ export const strategyProfiles: StrategyProfile[] = [
     ],
     effortLevel: 'Cross-Functional Initiative',
     timeHorizon: 'Long-term positioning',
+  },
+  {
+    title: 'Algorithmic Transparency',
+    slug: '/strategies/user-perception/algorithmic-transparency',
+    summary:
+      'Making algorithmic decisions understandable and auditable to build trust and satisfy oversight.',
+    stages: ['Custom-Built', 'Product'],
+    goals: ['Build trust', 'Reduce regulatory exposure', 'Accelerate adoption'],
+    pressures: [
+      'Regulatory scrutiny of automated decisions',
+      'High-stakes outcomes that require explainability',
+      'Buyers demand evidence of model safety and fairness',
+    ],
+    leadershipFocus: ['Ethical judgment', 'Governance and policy design', 'Strategic communication and storytelling'],
+    quickSignals: [
+      'Procurement or regulators require audit trails, model cards, or explainability artefacts.',
+      'Users appeal or contest automated outcomes at rising rates.',
+      'Media or stakeholder scrutiny focuses on opaque decision-making.',
+    ],
+    momentumMoves: [
+      'Map the highest-impact decisions and define the minimum explainability needed for each.',
+      'Publish a transparent decision dossier (model cards, data lineage, evaluation metrics).',
+      'Establish a cross-functional review board for algorithmic changes.',
+    ],
+    watchOuts: [
+      'Sharing transparency artefacts without controls, leading to gaming or security risks.',
+      'Overloading users with technical detail instead of actionable explanations.',
+      'Treating compliance checklists as a substitute for genuine accountability.',
+    ],
+    effortLevel: 'Cross-Functional Initiative',
+    timeHorizon: 'Medium-term shaping',
   }
 ];
