@@ -27,7 +27,7 @@ In our previous post, we explored how to use [LLM-driven competitor simulations]
 
 ## Anchor Wardley Maps on layered needs
 
-Wardley reminds us to map user needs before we map value chains. The practice of [user needs mapping](/terms/user-needs-mapping) sharpens this discipline by distinguishing between expressed wants, expected needs, and hypothesised needs (see [User Needs Mapping](https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/) for a deeper dive). Expressed wants are like solution requests ("I want a mobile app"), expected needs are the basic capabilities that users assume (secure login, reliable search), and hypothesised needs are the strategic bets that create differentiation. Leaders can drift because the first two tiers are easy to quantify and put in a backlog, while the third is hazy.
+Wardley reminds us to map user needs before we map value chains. The practice of [user needs mapping](/terms/user-needs-mapping) sharpens this discipline by distinguishing between expressed wants, expected needs, and hypothesised needs (see Rich Allen’s [User Needs Mapping](/books/user-needs-mapping) <BookRef isbn="9798290256436" /> and [User Needs Mapping](https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/) for a deeper dive). Expressed wants are like solution requests ("I want a mobile app"), expected needs are the basic capabilities that users assume (secure login, reliable search), and hypothesised needs are the strategic bets that create differentiation. Leaders can drift because the first two tiers are easy to quantify and put in a backlog, while the third is hazy.
 
 Use your map reviews to test the balance across the tiers. For every initiative, ask yourself: which layer are we serving, and what signals prove it? If the board report only contains metrics for expressed and expected needs, you are funding predictability but starving discovery. Rotate your metrics to include measures of hypothesised learning, such as the time it takes to run an experiment, the number of latent needs validated, and the share of engineering capacity that is spent on discovery.
 
@@ -59,6 +59,7 @@ Great leadership keeps the organisation obsessed with users even as AI accelerat
 
 ## References
 
+- Allen, R. (2025). *User Needs Mapping.* <BookRef isbn="9798290256436" />.
 - User Needs Mapping. (2025, May 14). *Wants versus needs: A Wardley Mapping primer on user outcomes.* [https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/](https://userneedsmapping.com/articles/2025-05-14-wants-versus-needs/)
 - Wardley, S. (2016). *Wardley maps.* Leading Edge Forum. [https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10](https://medium.com/wardleymaps/wardley-maps-chapter-1-32108b74ef10)
 - Wei, W., Hao, C., & Wang, Z. (2025). User needs insights from UGC based on large language model. *Advanced Engineering Informatics, 65*, 103268. [https://doi.org/10.1016/j.aei.2025.103268](https://doi.org/10.1016/j.aei.2025.103268)
