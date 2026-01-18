@@ -4,7 +4,7 @@ stage: "Development"
 category: "Development"
 ---
 
-Focusing on user needs means grounding every strategic choice in a clear understanding of who the real users are, what outcomes they need, and how they experience the current value chain. Wardley Mapping reinforces this discipline by forcing leaders to articulate user needs as the anchor for every component on the map.
+Focusing on user needs means grounding every strategic choice in a clear understanding of who the real users are, what outcomes they need, and how they experience the current value chain. Wardley Mapping reinforces this discipline by forcing leaders to articulate user needs as the anchor for every component on the map. For a structured approach to capturing and layering those needs, see Rich Allen’s [User Needs Mapping](/books/user-needs-mapping) (<BookRef isbn="9798290256436" />).
 
 ## Why this doctrine matters
 
