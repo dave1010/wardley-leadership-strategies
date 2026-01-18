@@ -6,6 +6,7 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import FeaturedStrategies from '@site/src/components/FeaturedStrategies';
 import HomepageClimaticPatterns from '@site/src/components/HomepageClimaticPatterns';
+import HomepageLeadershipSkills from '@site/src/components/HomepageLeadershipSkills';
 import HomepageLatestBlogPosts from '@site/src/components/HomepageLatestBlogPosts';
 import Heading from '@theme/Heading';
 
@@ -53,6 +54,7 @@ export default function Home(): ReactNode {
         <HomepageFeatures />
         <FeaturedStrategies />
         <HomepageClimaticPatterns />
+        <HomepageLeadershipSkills />
         <HomepageLatestBlogPosts />
       </main>
     </Layout>
