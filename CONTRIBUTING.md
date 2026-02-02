@@ -65,14 +65,14 @@ Strategies should aim to follow this format as closely as possible.
 
 ### Front Matter
 
-Strategies have a front matter section at the top of the file, which is a YAML object. The front matter looks like this. If there are additional fields for some strategies then leave them in.
+Strategies have a front matter section at the top of the file, which is a YAML object. Quote `title` and `description` values if they include `:` (or other YAML specials) to avoid parsing errors. The front matter looks like this. If there are additional fields for some strategies then leave them in.
 
 The `authors` field is an array of author IDs, which must match the keys in `/data/authors/authors.json`. Don't specify an author in the YAML if it's not in the JSON. The author YAML can always be added later if needed.
 
 ```yaml
 ---
-title: Cooperation
-description: Working with others, even competitors, to achieve a goal.
+title: "Cooperation"
+description: "Working with others, even competitors, to achieve a goal."
 tags: [cooperation, accelerators, collaboration, partnerships, standards, alliances, ecosystem, mutual benefit]
 authors: [dave-hulbert]
 stages:
