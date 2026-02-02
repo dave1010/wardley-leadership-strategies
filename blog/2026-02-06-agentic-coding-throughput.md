@@ -1,6 +1,6 @@
 ---
 title: "Agentic Coding Is an Organisational Design Problem"
-description: Treat agentic coding like hiring dozens of fast juniors: the real constraints are task readiness, verification, and safe delivery.
+description: "Treat agentic coding like hiring dozens of fast juniors: the real constraints are task readiness, verification, and safe delivery."
 tags:
   - ai-and-leadership
   - ai
