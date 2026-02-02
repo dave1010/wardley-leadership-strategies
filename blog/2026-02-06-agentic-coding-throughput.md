@@ -1,6 +1,6 @@
 ---
 title: "Agentic Coding Is an Organisational Design Problem"
-description: "Treat agentic coding like hiring dozens of fast juniors: the real constraints are task readiness, verification, and safe delivery."
+description: "Agentic coding raises throughput; the real constraints are task readiness, verification, and safe delivery."
 tags:
   - ai-and-leadership
   - ai
@@ -13,53 +13,31 @@ authors:
   - dave-hulbert
 ---
 
-Agentic coding feels like hiring 10–50 extremely fast juniors overnight. They type and search instantly, they confidently hallucinate when underspecified, they will not protect you from ambiguity, and you can reset them cheaply. The leverage is real, yet the constraint sits in organisational design. Decision rights, task shaping, interfaces, verification, and risk controls are what determine whether the acceleration is safe or chaotic.
+Agentic coding gives you sudden access to expertise at machine speed. It can draft a migration plan, wire a feature flag, or sketch a data pipeline in seconds. That is the upside. The harder truth is that its weaknesses are uneven and often subtle, so the work must be shaped and verified by humans who understand the system.
 
 <!-- truncate -->
 
-## A question worth answering
+Speed therefore depends on organisational design. Decision rights, task shaping, interfaces, verification, and risk controls decide whether the acceleration compounds or collapses into rework. That idea lines up with earlier pieces on [continuous map governance](/blog/ai-and-leadership/continuous-map-governance) and [executable doctrine](/blog/ai-and-leadership/executable-doctrine), which frame speed as a property of the system, not a property of the model.
 
-The question is simple: why do some teams go faster with agents while others drown in rework? The thesis is equally direct. Teams that treat agents as throughput multipliers must redesign the system around specification, verification, and safe delivery, because those are the real choke points once code generation is abundant.
+Throughput is the minimum of spec, build, verify, deploy, and observe. Agents flood the build stage with output. The constraint moves to spec quality and verification capacity, and runtime feedback becomes the referee that settles disputes. A team that can absorb many small, low‑risk changes with confidence will out‑ship one that simply generates more code.
 
-## The throughput model that explains the bottleneck
+Consider task readiness first. Work must be shovel‑ready because ambiguity multiplies thrash. A clear PRD with acceptance criteria, edge cases, and non‑goals keeps the agent from inventing requirements. Stable interfaces and explicit system boundaries tell it where change is safe. Short ADRs still help when a decision needs a record, yet the PRD is the workhorse when you want precise outcomes.
 
-A helpful mental model is throughput = min(spec, build, verify, deploy, observe). Agents flood the build stage with output. That shift pushes the bottleneck toward spec quality and verification, with runtime feedback and InfoSec acting as hard boundaries. If you want a single sentence to carry forward, it is this: you need a codebase and process that can accept many small, low‑risk changes with high confidence.
+Verification is the real rate limiter. Agent output is cheap; validation is expensive. High‑signal tests, deterministic builds, and explicit ownership of invariants determine how many changes you can trust each day. If tests are weak, you accumulate merge debt and spend tomorrow undoing today’s speed. This is where property‑based tests catch tricky logic, golden tests freeze output formats, and selective mutation testing measures test strength instead of assuming it.
 
-## Task readiness and decomposition decide whether speed compounds
+The runtime loop matters just as much. Faster releases without observability are fast fires. Logs, traces, and metrics should answer a concrete question: did the change improve the user outcome we expected? Canaries deserve more than a name. A useful canary starts with a small slice of production traffic—perhaps one region or 1% of users—paired with explicit SLIs, then widens automatically only if error rates and latency stay within budget. If they do not, the system rolls back without debate.
 
-Agents perform best when work is already shovel‑ready, because ambiguity amplifies thrash. A well‑maintained backlog of small, independently mergeable slices keeps the work moving. Clear definitions of done, stable interfaces, and explicit system boundaries reduce rework because the agent is not forced to infer where change is safe. The practical enablers here are boring and powerful: short ADRs, RFC templates, examples‑as‑specs, and a bias toward thin vertical slices that deliver end‑to‑end value instead of component‑level epics.
+Delivery architecture decides whether parallel work is safe. Feature flags with ownership and expiry dates let you separate deploy from release, and they provide kill switches when something drifts. Modular boundaries reduce collision, even when the modules are imperfect. Long‑lived branches, by contrast, turn speed into conflict resolution. Small, frequent merges are the only way to keep agent throughput from overwhelming the integration surface.
 
-## Verification capacity becomes the real rate limiter
+Communication has to be explicit because agents treat ambiguity as permission. Concrete examples, input/output pairs, and stated constraints prevent silent misinterpretation. A shared vocabulary and a single source of truth per subsystem keep teams aligned. Short context packs—relevant files, architectural notes, and known pitfalls—save time because they replace guesswork with reference material.
 
-Agent output is cheap while review and validation are expensive, which means the limiting factor is how many changes a team can confidently validate per day. High‑signal automated tests, deterministic environments, and explicit ownership of invariants are the backbone of this capacity. Weak tests create merge debt: progress that looks real until it has to be unpicked. That is why property‑based tests, golden tests for output formats, selective mutation testing, and review checklists focused on invariants matter more than style debates when agents are in the loop.
+Governance and InfoSec set the outer boundary. Approved tools, clear data‑handling rules, and an audit trail of prompts, diffs, and approvals make acceleration defensible. Blanket bans push usage underground and increase risk. Tiered policies, safe sandbox repositories, synthetic datasets, and centralised logging offer a practical path that balances speed and control.
 
-## Feedback loops keep acceleration safe in production
+Human capability is the scarce skill. The leverage comes from framing problems, decomposing work, writing crisp acceptance tests, reviewing quickly, and knowing when to stop the agent and take over. Prompting helps, yet orchestration is the differentiator. Teams that improve fastest write playbooks for when to use agents, how to spec work, and how to review at speed, often pairing an orchestrator with a verifier for risk‑heavy changes.
 
-Shipping faster without observability is a fast path to firefighting. The system has to answer whether a change did what you expected, and it must do so quickly. Tracing, logging, and metrics only matter when they connect to user outcomes, and alerts must be quiet enough to preserve trust. Post‑deploy verification through canaries, synthetics, and shadow traffic is the difference between learning quickly and learning late, because runtime is where plausible code meets reality.
+Developer experience sets the tempo. Fast tier‑1 checks, reproducible environments, and caching allow many small changes to flow. Split pipelines keep lint, type checks, and unit tests fast while heavier integration suites run on a cadence proportional to risk. If CI takes tens of minutes, agent throughput becomes a queueing problem instead of a speed advantage.
 
-## Delivery architecture sets the limits of parallel work
-
-Swarming only works when the codebase tolerates concurrency. Feature flags with clear ownership and expiry give you controlled blast radius. Modular boundaries, even imperfect ones, reduce collision. A merge strategy that avoids long‑lived branches keeps the integration cost low enough to benefit from parallelism. Without these traits, the gains are spent on conflict resolution and coordination overhead.
-
-## Requirements must be explicit to survive agent interpretation
-
-Outsourcing only works with crisp interfaces, and agents amplify the cost of ambiguity. Concrete examples, edge cases, and non‑goals belong in the spec alongside explicit constraints for security, performance, and backward compatibility. A shared vocabulary and a single source of truth per subsystem help prevent drift. The most reliable pattern is spec by executable example, backed by a small context pack of relevant files, architectural notes, and known pitfalls.
-
-## Governance and InfoSec decide what is possible at all
-
-Policy sets the outer boundary of agentic work. Approved tools, clear data‑handling rules, and an audit trail of prompts, diffs, and approvals are table stakes. Blanket bans push usage underground and increase risk, so tiered policies, safe sandbox repos, synthetic data, and centralised logging are the practical alternatives. These controls make acceleration defensible instead of accidental.
-
-## Human capability is the scarce skill
-
-The new leverage comes from orchestration: problem framing, decomposition, crisp acceptance tests, rapid review, and knowing when to stop the agent and take over. Prompting helps, yet the decisive skills are taste and verification discipline. Teams that succeed teach playbooks for when to use agents, how to spec work, and how to review at speed, often pairing one person who orchestrates with another who verifies and risk‑checks.
-
-## Developer experience sets the tempo
-
-Even with perfect specs, slow CI collapses the benefit. Fast tier‑1 checks, reproducible local environments, and caching allow many small changes to move safely. Split pipelines keep lint, type checks, and unit tests fast while heavier integration runs on a cadence proportional to risk. Without this, queues build and agent throughput becomes irrelevant.
-
-## What I would prioritise first
-
-Start with test strength and runtime safety because they determine how much agent output you can trust. Then shape the backlog into small, explicit slices with examples. Next, reduce CI latency to minutes, wire observability into every meaningful change, establish approved tooling and data boundaries, and train the team in orchestration and review.
+Start with test strength and runtime safety because they determine how much output you can trust. Then shape the backlog into small, explicit slices with examples. Reduce CI latency to minutes, wire observability into every meaningful change, establish approved tooling and data boundaries, and train the team in orchestration and review.
 
 ## Quick self‑audit
 
