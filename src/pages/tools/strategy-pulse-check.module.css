@@ -1,0 +1,133 @@
+.hero {
+  background: linear-gradient(135deg, #1b2a4e, #284184);
+  color: #fff;
+  padding: 3rem 0;
+}
+
+.heroContent {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.heroTitle {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.heroSubtitle {
+  font-size: 1.1rem;
+  max-width: 720px;
+}
+
+.section {
+  margin: 2.5rem 0;
+}
+
+.card {
+  background: var(--ifm-card-background-color);
+  border-radius: 16px;
+  box-shadow: var(--ifm-global-shadow-lw);
+  padding: 1.75rem;
+  height: 100%;
+}
+
+.sliderRow {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.sliderHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-weight: 600;
+}
+
+.sliderValue {
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+.sliderInput {
+  width: 100%;
+}
+
+.insightPill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  background: rgba(70, 113, 255, 0.12);
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+}
+
+.snapshotForm {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.snapshotRow {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.snapshotList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.snapshotItem {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 12px;
+  padding: 0.85rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.snapshotMeta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.snapshotActions {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.snapshotDetails {
+  font-size: 0.95rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+.recommendationList {
+  padding-left: 1.25rem;
+  margin: 0.75rem 0 0;
+}
+
+.note {
+  font-size: 0.95rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+@media (max-width: 996px) {
+  .heroTitle {
+    font-size: 2rem;
+  }
+}

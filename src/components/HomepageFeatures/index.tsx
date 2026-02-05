@@ -128,6 +128,43 @@ export default function HomepageFeatures(): ReactNode {
         <div className="card shadow--md padding--lg margin-top--lg">
           <div className="row">
             <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
+              <h2 className="margin-bottom--sm">New: Strategy Pulse Check</h2>
+              <p className="margin-bottom--sm" style={{ fontSize: '1.15rem' }}>
+                Keep your leadership rhythm sharp with a lightweight, repeatable pulse check. Track turbulence,
+                competitive pressure, execution readiness, and alignment—then save snapshots to spot trend shifts.
+              </p>
+              <ul className="margin-bottom--sm">
+                <li>Run a 5-minute check-in after every map review.</li>
+                <li>Capture snapshots to build a living strategic timeline.</li>
+                <li>Get instant recommendations on pacing your next move.</li>
+              </ul>
+              <a className="button button--secondary" href="/tools/strategy-pulse-check">
+                Start a Pulse Check
+              </a>
+            </div>
+            <div className={clsx('col col--4')}>
+              <BrowserFrame>
+                <div className={styles.pulsePreview}>
+                  <span className={styles.pulseBadge}>Pulse</span>
+                  <div className={styles.pulseScore}>
+                    <span>Average</span>
+                    <strong>3.8</strong>
+                  </div>
+                  <div className={styles.pulseBars}>
+                    <span>Turbulence</span>
+                    <span>Competitive</span>
+                    <span>Readiness</span>
+                    <span>Alignment</span>
+                  </div>
+                </div>
+              </BrowserFrame>
+            </div>
+          </div>
+        </div>
+
+        <div className="card shadow--md padding--lg margin-top--lg">
+          <div className="row">
+            <div className={clsx('col col--8', 'margin-bottom--md', styles.reverseOnMobile)}>
               <h2 className="margin-bottom--sm">Strategy Guides</h2>
               <p className="margin-bottom--sm" style={{ fontSize: '1.15rem' }}>
                 Step-by-step playbooks that help teams move from map to action. Start with the{' '}

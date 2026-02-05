@@ -167,6 +167,10 @@ const config: Config = {
               to: '/strategy-navigator',
             },
             {
+              label: 'Strategy Pulse Check',
+              to: '/tools/strategy-pulse-check',
+            },
+            {
               label: 'Assessment Tool',
               to: '/about/assessment-tool',
             },
@@ -245,6 +249,10 @@ const config: Config = {
             {
               label: 'Strategy Navigator',
               to: '/strategy-navigator',
+            },
+            {
+              label: 'Strategy Pulse Check',
+              to: '/tools/strategy-pulse-check',
             },
             {
               label: 'My Assessments',
