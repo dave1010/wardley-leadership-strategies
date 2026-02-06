@@ -24,6 +24,12 @@
 
 .section {
   margin: 2.5rem 0;
+  position: relative;
+  clear: both;
+}
+
+.section + .section {
+  margin-top: 3.5rem;
 }
 
 .card {
