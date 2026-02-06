@@ -17,11 +17,44 @@ type PulseSnapshot = {
   alignment: number;
 };
 
-const metricDescriptions = {
+type MetricKey = 'turbulence' | 'competitivePressure' | 'executionReadiness' | 'alignment';
+
+const metricDescriptions: Record<MetricKey, string> = {
   turbulence: 'How fast the landscape is shifting and how noisy the signals feel.',
   competitivePressure: 'How intense the competitive moves are right now.',
   executionReadiness: 'Your ability to execute the next move quickly and confidently.',
   alignment: 'How aligned leadership and teams are on the current map and priorities.',
+};
+
+const levelDescriptions: Record<MetricKey, Record<number, string>> = {
+  turbulence: {
+    1: 'Stable: the landscape is calm and changes are incremental.',
+    2: 'Mild drift: a few signals are emerging but priorities feel steady.',
+    3: 'Active: changes are noticeable and require monthly attention.',
+    4: 'Volatile: signals shift weekly and assumptions expire quickly.',
+    5: 'Chaotic: constant disruption forces rapid experimentation.',
+  },
+  competitivePressure: {
+    1: 'Quiet: competitors are largely steady or focused elsewhere.',
+    2: 'Watchful: a few probes appear but moves are contained.',
+    3: 'Engaged: competitive moves are frequent and visible.',
+    4: 'Aggressive: rivals are making bold plays or pricing swings.',
+    5: 'All-out: win-lose battles are accelerating every week.',
+  },
+  executionReadiness: {
+    1: 'Unprepared: delivery is blocked or missing core capability.',
+    2: 'Fragile: limited bandwidth and shaky execution confidence.',
+    3: 'Capable: teams can deliver with focus and clear trade-offs.',
+    4: 'Ready: resources and muscle memory are in place for fast moves.',
+    5: 'Peak: execution is sharp, repeatable, and fast-moving.',
+  },
+  alignment: {
+    1: 'Fractured: leadership is split on the map and priorities.',
+    2: 'Patchy: partial alignment but key teams are drifting.',
+    3: 'Shared: most leaders agree on priorities and intent.',
+    4: 'Unified: a common map narrative drives consistent action.',
+    5: 'Locked in: alignment is deep and decisions are frictionless.',
+  },
 };
 
 const toScoreLabel = (score: number): string => {
@@ -62,6 +95,25 @@ const formatDate = (value: string): string =>
     timeStyle: 'short',
   });
 
+const isNumberInRange = (value: unknown): value is number =>
+  typeof value === 'number' && Number.isFinite(value) && value >= 1 && value <= 5;
+
+const isValidSnapshot = (value: unknown): value is PulseSnapshot => {
+  if (!value || typeof value !== 'object') {
+    return false;
+  }
+  const snapshot = value as PulseSnapshot;
+  return (
+    typeof snapshot.id === 'string' &&
+    typeof snapshot.label === 'string' &&
+    typeof snapshot.timestamp === 'string' &&
+    isNumberInRange(snapshot.turbulence) &&
+    isNumberInRange(snapshot.competitivePressure) &&
+    isNumberInRange(snapshot.executionReadiness) &&
+    isNumberInRange(snapshot.alignment)
+  );
+};
+
 export default function StrategyPulseCheck(): ReactNode {
   const [turbulence, setTurbulence] = useState(3);
   const [competitivePressure, setCompetitivePressure] = useState(3);
@@ -76,8 +128,13 @@ export default function StrategyPulseCheck(): ReactNode {
       return;
     }
     try {
-      const parsed = JSON.parse(stored) as PulseSnapshot[];
-      setSnapshots(parsed);
+      const parsed = JSON.parse(stored);
+      if (!Array.isArray(parsed)) {
+        setSnapshots([]);
+        return;
+      }
+      const validSnapshots = parsed.filter(isValidSnapshot);
+      setSnapshots(validSnapshots);
     } catch {
       setSnapshots([]);
     }
@@ -176,6 +233,7 @@ export default function StrategyPulseCheck(): ReactNode {
                     onChange={(event) => setTurbulence(Number(event.target.value))}
                   />
                   <span className={styles.note}>{metricDescriptions.turbulence}</span>
+                  <span className={styles.levelHint}>{levelDescriptions.turbulence[turbulence]}</span>
                 </div>
 
                 <div className={styles.sliderRow}>
@@ -192,6 +250,9 @@ export default function StrategyPulseCheck(): ReactNode {
                     onChange={(event) => setCompetitivePressure(Number(event.target.value))}
                   />
                   <span className={styles.note}>{metricDescriptions.competitivePressure}</span>
+                  <span className={styles.levelHint}>
+                    {levelDescriptions.competitivePressure[competitivePressure]}
+                  </span>
                 </div>
 
                 <div className={styles.sliderRow}>
@@ -208,6 +269,9 @@ export default function StrategyPulseCheck(): ReactNode {
                     onChange={(event) => setExecutionReadiness(Number(event.target.value))}
                   />
                   <span className={styles.note}>{metricDescriptions.executionReadiness}</span>
+                  <span className={styles.levelHint}>
+                    {levelDescriptions.executionReadiness[executionReadiness]}
+                  </span>
                 </div>
 
                 <div className={styles.sliderRow}>
@@ -224,6 +288,7 @@ export default function StrategyPulseCheck(): ReactNode {
                     onChange={(event) => setAlignment(Number(event.target.value))}
                   />
                   <span className={styles.note}>{metricDescriptions.alignment}</span>
+                  <span className={styles.levelHint}>{levelDescriptions.alignment[alignment]}</span>
                 </div>
               </div>
             </div>
@@ -258,13 +323,17 @@ export default function StrategyPulseCheck(): ReactNode {
                 </p>
                 <div className={styles.snapshotForm}>
                   <input
-                    className="input input--lg"
+                    className={clsx('input input--lg', styles.snapshotInput)}
                     type="text"
                     placeholder="Label (e.g. Q3 map review)"
                     value={label}
                     onChange={(event) => setLabel(event.target.value)}
                   />
-                  <button className="button button--primary" type="button" onClick={handleSave}>
+                  <button
+                    className={clsx('button button--primary', styles.snapshotButton)}
+                    type="button"
+                    onClick={handleSave}
+                  >
                     Save snapshot
                   </button>
                 </div>
