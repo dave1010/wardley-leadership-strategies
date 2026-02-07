@@ -315,7 +315,13 @@ export default function StrategyPulseCheck(): ReactNode {
                   ))}
                 </ul>
               </div>
+            </div>
+          </div>
+        </section>
 
+        <section className={styles.section}>
+          <div className="row">
+            <div className="col col--12">
               <div className={styles.card}>
                 <Heading as="h2">Save this check-in</Heading>
                 <p className={styles.note}>
