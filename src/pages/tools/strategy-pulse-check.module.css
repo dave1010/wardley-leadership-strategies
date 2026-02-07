@@ -24,8 +24,7 @@
 
 .section {
   margin: 2.5rem 0;
-  position: relative;
-  clear: both;
+  display: flow-root;
 }
 
 .section + .section {

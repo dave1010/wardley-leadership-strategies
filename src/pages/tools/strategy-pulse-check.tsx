@@ -343,46 +343,50 @@ export default function StrategyPulseCheck(): ReactNode {
         </section>
 
         <section className={styles.section}>
-          <div className={styles.card}>
-            <Heading as="h2">Recent snapshots</Heading>
-            {snapshots.length === 0 ? (
-              <p className={styles.note}>
-                No snapshots yet. Save your first pulse check-in to start tracking trends.
-              </p>
-            ) : (
-              <ul className={styles.snapshotList}>
-                {snapshots.map((snapshot) => (
-                  <li key={snapshot.id} className={styles.snapshotItem}>
-                    <div className={styles.snapshotMeta}>
-                      <div>
-                        <strong>{snapshot.label}</strong>
-                        <div className={styles.note}>{formatDate(snapshot.timestamp)}</div>
-                      </div>
-                      <div className={styles.snapshotActions}>
-                        <button
-                          className="button button--secondary button--sm"
-                          type="button"
-                          onClick={() => handleLoad(snapshot)}
-                        >
-                          Load
-                        </button>
-                        <button
-                          className="button button--outline button--secondary button--sm"
-                          type="button"
-                          onClick={() => handleDelete(snapshot.id)}
-                        >
-                          Delete
-                        </button>
-                      </div>
-                    </div>
-                    <div className={styles.snapshotDetails}>
-                      Turbulence {snapshot.turbulence} · Competitive pressure {snapshot.competitivePressure} ·
-                      Execution readiness {snapshot.executionReadiness} · Alignment {snapshot.alignment}
-                    </div>
-                  </li>
-                ))}
-              </ul>
-            )}
+          <div className="row">
+            <div className="col col--12">
+              <div className={styles.card}>
+                <Heading as="h2">Recent snapshots</Heading>
+                {snapshots.length === 0 ? (
+                  <p className={styles.note}>
+                    No snapshots yet. Save your first pulse check-in to start tracking trends.
+                  </p>
+                ) : (
+                  <ul className={styles.snapshotList}>
+                    {snapshots.map((snapshot) => (
+                      <li key={snapshot.id} className={styles.snapshotItem}>
+                        <div className={styles.snapshotMeta}>
+                          <div>
+                            <strong>{snapshot.label}</strong>
+                            <div className={styles.note}>{formatDate(snapshot.timestamp)}</div>
+                          </div>
+                          <div className={styles.snapshotActions}>
+                            <button
+                              className="button button--secondary button--sm"
+                              type="button"
+                              onClick={() => handleLoad(snapshot)}
+                            >
+                              Load
+                            </button>
+                            <button
+                              className="button button--outline button--secondary button--sm"
+                              type="button"
+                              onClick={() => handleDelete(snapshot.id)}
+                            >
+                              Delete
+                            </button>
+                          </div>
+                        </div>
+                        <div className={styles.snapshotDetails}>
+                          Turbulence {snapshot.turbulence} · Competitive pressure {snapshot.competitivePressure} ·
+                          Execution readiness {snapshot.executionReadiness} · Alignment {snapshot.alignment}
+                        </div>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            </div>
           </div>
         </section>
       </main>
