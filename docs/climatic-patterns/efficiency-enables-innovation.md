@@ -10,6 +10,26 @@ From electricity grids to cloud computing, each wave of industrialisation has sp
 
 Efficiency enables innovation: AI and automation commoditises execution, freeing human capacity for higher-order judgement and invention.
 
+## 🗺️ **Wardley Map Example**
+
+```mermaid
+wardley-beta
+title Efficiency Enables Innovation
+
+anchor User [0.95, 0.80]
+component New Decision Support Product [0.78, 0.18] (build)
+component API Composition Layer [0.60, 0.66] (build)
+component Commodity AI Inference [0.38, 0.84] (buy)
+component Utility Cloud Infrastructure [0.20, 0.94] (market)
+
+User -> New Decision Support Product
+New Decision Support Product -> API Composition Layer
+API Composition Layer -> Commodity AI Inference
+Commodity AI Inference -> Utility Cloud Infrastructure
+
+evolve API Composition Layer 0.78
+```
+
 ## 🔀 Related Strategies
 
 - [Open Approaches](/strategies/accelerators/open-approaches) – trigger: once a component becomes efficient, opening it up can drive further innovation.
