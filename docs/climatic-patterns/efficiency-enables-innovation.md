@@ -17,7 +17,7 @@ wardley-beta
 title Efficiency Enables Innovation
 
 anchor User [0.95, 0.80]
-component New Decision Support Product [0.78, 0.50] (build)
+component New Decision Support Product [0.78, 0.18] (build)
 component API Composition Layer [0.60, 0.66] (build)
 component Commodity AI Inference [0.38, 0.84] (buy)
 component Utility Cloud Infrastructure [0.20, 0.94] (market)

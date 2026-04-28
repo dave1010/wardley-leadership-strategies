@@ -16,7 +16,7 @@ title Competitors Change the Game
 
 anchor User [0.95, 0.84]
 component Our Offer [0.76, 0.56] (build)
-component Competitor Utility Platform [0.62, 0.88] (market)
+component Competitor Utility Platform [0.62, 0.88] (market) label [24, -14]
 component Shared Data Sources [0.40, 0.78] (buy)
 
 User -> Our Offer
@@ -24,7 +24,6 @@ Our Offer -> Competitor Utility Platform
 Our Offer -> Shared Data Sources
 
 evolve Competitor Utility Platform 0.96
-note "Competitor industrialisation shifts cost and speed expectations." [0.62, 0.66]
 ```
 
 ## 🔀 Related Strategies
