@@ -1,3 +1,8 @@
+---
+name: mermaid-wardley-maps
+description: Reference guide for creating Wardley Maps with Mermaid wardley-beta syntax, coordinates, and components.
+---
+
 # Wardley Maps (v11.14.0+)
 
 From https://mermaid.ai/open-source/syntax/wardley.html
