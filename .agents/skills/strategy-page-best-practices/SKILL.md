@@ -1,3 +1,8 @@
+---
+name: strategy-page-best-practices
+description: Best-practice guidance for writing high-quality strategy pages with Wardley context, actionability, and cross-strategy interplay.
+---
+
 # Strategy Page Content Best Practices
 
 ## What Great Looks Like

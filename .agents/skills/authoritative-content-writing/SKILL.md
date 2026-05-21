@@ -1,3 +1,8 @@
+---
+name: authoritative-content-writing
+description: Guidance on writing authoritative content using five foundational pillars: insight, depth, breadth, simplicity, and relevance.
+---
+
 # The Foundational Pillars of Authority
 
 Authoritative content is not about being accurate or well-written. It possesses a distinct set of characteristics that collectively create a superior user experience and signal deep expertise. There are five foundational pillars that define truly authoritative content.

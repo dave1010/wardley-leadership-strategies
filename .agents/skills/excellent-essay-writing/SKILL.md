@@ -1,3 +1,8 @@
+---
+name: excellent-essay-writing
+description: Playbook for structuring and revising excellent essays from question framing through thesis, argument, evidence, and layered revision.
+---
+
 # Excellent Essay Writing Playbook
 
 Great essays feel inevitable. They guide the reader from a compelling question to a decisive answer, balancing rigour with readability. Use this playbook to structure your process and pressure-test the final draft.
