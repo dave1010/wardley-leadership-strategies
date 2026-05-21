@@ -123,3 +123,332 @@ Business -> Service
 ### Decorators
 
 #### Inertia
+
+Mark components resistant to change:
+
+```mermaid-example
+wardley-beta
+title Inertia
+
+component Legacy System [0.45, 0.40] (inertia)
+component New Platform [0.65, 0.45]
+
+Legacy System -> New Platform
+```
+
+#### Source Strategy
+
+Indicate build/buy/outsource decisions:
+
+- `(build)` - Triangle symbol
+- `(buy)` - Diamond symbol
+- `(outsource)` - Square symbol
+- `(market)` - Circle symbol
+
+```mermaid-example
+wardley-beta
+title Sourcing Strategy
+
+anchor Customer [0.80, 0.95]
+component Custom App [0.45, 0.85] (build)
+component Off-the-shelf Tool [0.85, 0.65] (buy)
+component Managed Service [0.60, 0.40] (outsource)
+component Cloud Platform [0.95, 0.25] (market)
+
+Customer -> Custom App
+Custom App -> Off-the-shelf Tool
+Custom App -> Managed Service
+Off-the-shelf Tool -> Cloud Platform
+```
+
+### Links and Dependencies
+
+```mermaid
+A -> B              # Basic dependency
+A -> B; label       # With annotation
+A +> B              # Flow (with arrow marker)
+A +< B              # Reverse flow
+A +<> B             # Bi-directional flow
+A +'text'> B        # Labeled flow
+```
+
+Example:
+
+```mermaid-example
+wardley-beta
+title Link Types
+
+component User [0.90, 0.95]
+component App [0.75, 0.75]
+component API [0.60, 0.60]
+component Cache [0.65, 0.45]
+component Database [0.15, 0.80]
+
+User -> App
+App +> API
+API -> Database
+API +<> Cache
+Cache +'backup'> Database
+```
+
+### Evolution and Movement
+
+#### Evolution Arrows
+
+Show component evolution with red dashed arrows:
+
+```mermaid-example
+wardley-beta
+title Evolution
+
+component Database [0.40, 0.50]
+component API [0.55, 0.60]
+
+Database -> API
+
+evolve Database 0.75
+evolve API 0.80
+```
+
+#### Trend Indicators
+
+Show predicted future position:
+
+```mermaid
+Component -.- (x, y)
+```
+
+Note: Trends use standard (x, y) order, not [visibility, evolution]!
+
+### Pipelines
+
+Pipeline components share visibility and only vary by evolution:
+
+```mermaid-example
+wardley-beta
+title Pipeline Evolution
+
+component Database [0.40, 0.60]
+
+pipeline Database {
+  component "File System" [0.25]
+  component "SQL DB" [0.50]
+  component "NoSQL" [0.70]
+  component "Cloud DB" [0.85]
+}
+```
+
+### Custom Evolution Stages
+
+Define custom axis labels:
+
+```mermaid-example
+wardley-beta
+title Custom Stages
+
+evolution Unmodelled -> Divergent -> Convergent -> Modelled
+
+component Raw Data [0.15, 0.20]
+component Analysis [0.45, 0.50]
+component Reports [0.75, 0.70]
+```
+
+#### Dual Labels
+
+```mermaid-example
+wardley-beta
+title Dual Label Stages
+
+evolution Genesis / Concept -> Custom / Emerging -> Product / Converging -> Commodity / Accepted
+
+component Novel Idea [0.05, 0.20]
+component Custom Solution [0.35, 0.50]
+component Product [0.65, 0.70]
+component Utility [0.95, 0.90]
+```
+
+#### Custom Stage Widths
+
+Specify custom boundary widths using `@` notation:
+
+```mermaid-example
+wardley-beta
+title Custom Widths
+
+evolution Genesis@0.2 -> Custom@0.4 -> Product@0.75 -> Commodity@1.0
+
+component Novel [0.75, 0.15]
+component Bespoke [0.70, 0.35]
+component Product [0.65, 0.65]
+component Utility [0.60, 0.90]
+```
+
+### Annotations and Notes
+
+#### Notes
+
+Add contextual notes at specific coordinates:
+
+```
+note "text" [visibility, evolution]
+```
+
+> **Note**: Text must be enclosed in quotes.
+
+```mermaid-example
+wardley-beta
+title Notes
+
+component API [0.60, 0.70]
+component Database [0.40, 0.50]
+
+API -> Database
+
+note "Critical decision point" [0.65, 0.55]
+note "High risk area" [0.40, 0.35]
+```
+
+#### Numbered Annotations
+
+Create numbered references with optional annotation box:
+
+```
+annotations [x, y]              # Optional: position for annotation numbers
+annotation number,[x, y] "text"
+```
+
+> **Note**: Annotation text must be enclosed in quotes.
+
+```mermaid-example
+wardley-beta
+title Annotations
+
+component API [0.60, 0.70]
+component Cache [0.50, 0.55]
+component Database [0.40, 0.40]
+
+API -> Cache
+Cache -> Database
+
+annotations [0.10, 0.90]
+annotation 1,[0.60, 0.65] "Critical component"
+annotation 2,[0.50, 0.50] "Performance layer"
+annotation 3,[0.40, 0.35] "Data persistence"
+```
+
+### Visual Elements
+
+#### Accelerators and Deaccelerators
+
+Forces affecting evolution:
+
+```mermaid-example
+wardley-beta
+title Forces
+
+component Legacy [0.20, 0.85]
+component Modern [0.55, 0.60]
+component AI [0.70, 0.35]
+
+Legacy -> Modern
+Modern -> AI
+
+accelerator "AI Adoption" [0.55, 0.25]
+deaccelerator "Legacy Constraints" [0.15, 0.75]
+```
+
+## Advanced Features
+
+### Label Positioning
+
+Fine-tune label placement:
+
+```mermaid
+component Name [visibility, evolution] label [offsetX, offsetY]
+```
+
+Negative X moves left, positive X moves right.
+Negative Y moves up, positive Y moves down.
+
+### Custom Canvas Size
+
+```mermaid
+wardley-beta
+title Custom Size
+size [800, 1000]
+```
+
+## Complete Example
+
+```mermaid-example
+wardley-beta
+title Software Platform Strategy
+size [1100, 800]
+
+evolution Genesis@0.25 -> Custom@0.5 -> Product@0.75 -> Commodity@1.0
+
+anchor Customer [0.90, 0.95]
+
+component "Mobile App" [0.80, 0.85] (build)
+component "Web App" [0.75, 0.80] (build) label [-60, 10]
+component "API Gateway" [0.70, 0.65] (buy)
+component "Auth Service" [0.60, 0.55] (outsource)
+component "Database" [0.50, 0.45] (buy) (inertia)
+component "Cloud Platform" [0.30, 0.95] (market)
+
+Customer -> "Mobile App"
+Customer -> "Web App"
+"Mobile App" -> "API Gateway"
+"Web App" -> "API Gateway"
+"API Gateway" -> "Auth Service"
+"API Gateway" -> "Database"
+"Database" -> "Cloud Platform"
+
+evolve "API Gateway" 0.85
+evolve "Database" 0.75
+
+accelerator "Cloud Native" [0.20, 0.85]
+deaccelerator "Legacy Data" [0.45, 0.35]
+
+annotations [0.10, 0.20]
+annotation 1,[0.78, 0.82] "User touchpoints"
+annotation 2,[0.70, 0.60] "Integration layer"
+annotation 3,[0.50, 0.40] "Data persistence"
+
+note "Build mobile-first experience" [0.85, 0.90]
+note "Migrate to cloud-native database" [0.60, 0.50]
+```
+
+## Configuration
+
+Wardley Maps support Mermaid's theme system. Use standard Mermaid configuration to customize appearance.
+
+## Resources
+
+- [Wardley Mapping Book](https://medium.com/wardleymaps) by Simon Wardley
+- [OnlineWardleyMaps](https://onlinewardleymaps.com/) - Interactive mapping tool
+- [Wardley Maps Community](https://community.wardleymaps.com/)
+- [Learn Wardley Mapping](https://learnwardleymapping.com/)
+
+## Syntax Summary
+
+| Element    | Syntax                              | Example                             |
+| ---------- | ----------------------------------- | ----------------------------------- |
+| Diagram    | `wardley-beta`                      | `wardley-beta`                      |
+| Title      | `title Text`                        | `title My Map`                      |
+| Size       | `size [width, height]`              | `size [1100, 800]`                  |
+| Component  | `component Name [vis, evo]`         | `component API [0.6, 0.7]`          |
+| Anchor     | `anchor Name [vis, evo]`            | `anchor User [0.9, 0.95]`           |
+| Link       | `A -> B`                            | `API -> Database`                   |
+| Flow       | `A +> B`                            | `User +> API`                       |
+| Evolve     | `evolve Name targetEvo`             | `evolve API 0.85`                   |
+| Note       | `note "Text" [vis, evo]`            | `note "Key insight" [0.4, 0.5]`     |
+| Annotation | `annotation N,[x,y] "Text"`         | `annotation 1,[0.5,0.5] "Critical"` |
+| Inertia    | `(inertia)`                         | `component DB [0.4, 0.6] (inertia)` |
+| Strategy   | `(build\|buy\|outsource\|market)`   | `component API [0.6, 0.7] (buy)`    |
+| Pipeline   | `pipeline Parent { ... }`           | See pipeline example above          |
+| Evolution  | `evolution Stage1 -> Stage2 -> ...` | See evolution examples above        |
+
+## Limitations
+
+- Handdrawn/rough mode (`look: handDrawn`) is not currently supported for Wardley Maps. The diagram uses a custom D3 renderer rather than the shared shape system.
