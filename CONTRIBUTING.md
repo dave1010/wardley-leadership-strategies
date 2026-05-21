@@ -157,7 +157,7 @@ or at least generic skills that make it clear where they are applied in relation
 
 ### Strategic Insights
 
-The `## 🧠 **Strategic Insights**` section of a strategy is where the big ideas live. It's critical that these are well thought out, expert insights that are related to the specific strategy. Not just a vague idea or summary. These should add significant depth to the page. They can even expand the strategy beyond its confines a bit, whether that's more practical business thoughts, mental models, philosophy (don't get carried away!), left field techniques or practices, etc. See [notes/authoritative-content-writing.md](./notes/authoritative-content-writing.md) for additional guidance on writing with authority, [notes/strategy-page-best-practices.md](./notes/strategy-page-best-practices.md) for examples of what high-quality strategy content covers, and [notes/excellent-essay-writing.md](./notes/excellent-essay-writing.md) for a step-by-step playbook on crafting persuasive essays.
+The `## 🧠 **Strategic Insights**` section of a strategy is where the big ideas live. It's critical that these are well thought out, expert insights that are related to the specific strategy. Not just a vague idea or summary. These should add significant depth to the page. They can even expand the strategy beyond its confines a bit, whether that's more practical business thoughts, mental models, philosophy (don't get carried away!), left field techniques or practices, etc. See [notes/authoritative-content-writing.md](./.agents/skills/authoritative-content-writing/SKILL.md) for additional guidance on writing with authority, [notes/strategy-page-best-practices.md](./.agents/skills/strategy-page-best-practices/SKILL.md) for examples of what high-quality strategy content covers, and [notes/excellent-essay-writing.md](./.agents/skills/excellent-essay-writing/SKILL.md) for a step-by-step playbook on crafting persuasive essays.
 
 - Only put relevant insights here, not generic ones.
 - Consider evolution stages, counterplay, value chains, users, markets, leverage, higher order thinking, wider goals, etc.
@@ -210,7 +210,7 @@ The blog currently focuses on the **AI and Leadership** series. All posts live i
 
 - A mix of paragraphs and bullet points, tending towards paragraphs.
 - Bold and italic for emphasis is OK but don't overuse.
-- See [notes/authoritative-content-writing.md](./notes/authoritative-content-writing.md) for advice on writing with authority.
+- See [notes/authoritative-content-writing.md](./.agents/skills/authoritative-content-writing/SKILL.md) for advice on writing with authority.
 
 Remember that there are 60+ strategies. Consider whether content is applicable to *all*, *many*, *few* or just *one* strategy. Most content in a stragegy should be relevant to *only* that strategy. There might be some content that is relevant to a few strategies, but it should be the exception rather than the rule. If content applies to many or all strategies, it should be in the main site content, not in a specific strategy. Also consider that strategies are related: sub strategies, counterplay, etc. If content is relevant to a sub-strategy or counterplay, it should be in the sub-strategy or counterplay, not in the main strategy (which links and provides a summary).
 
