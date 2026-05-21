@@ -12,15 +12,15 @@ authors:
   - dave-hulbert
 ---
 
-Your AI safety team wants to pause deployment. Your product team sees only competitive risk. The map shows the component is custom-built and evolving fast. Which model wins? If you choose just one, you’ve already lost. Wardley Doctrine already warns us to **Use Appropriate Methods**—avoid one-size-fits-all approaches to delivery, governance, or even mapping itself. That doctrine is a gateway into **meta-rationality**: the ability to notice when a formal method has hit its limits and to fluidly swap in different lenses without abandoning rigour. Charlie Munger called it a *"latticework of models"*; David Chapman calls it *meta-rationality*—the pragmatism of choosing and combining frames instead of worshipping one.
+Your AI safety team wants to pause deployment. Your product team sees competitive risk in waiting. The map shows a component that is custom-built and changing quickly. Which model should lead the decision? Usually, not just one. Wardley Doctrine already points in this direction with **Use Appropriate Methods**: avoid one fixed approach to delivery, governance, or mapping. This is where **meta-rationality** becomes useful. It is the habit of noticing when a method no longer fits and switching lenses without dropping discipline. Charlie Munger called this a *"latticework of models."* David Chapman describes it as *meta-rationality*: combine frames when reality refuses to fit one frame neatly.
 
 <!-- truncate -->
 
 ## Why meta-rationality matters now
 
-- **AI multiplies frames.** Product, legal, ethics, and safety teams see the same AI capability through different models. Meta-rational leaders can hold these models together without forcing premature convergence.
-- **Wardley Maps can ossify.** Maps are situational, not sacred. Meta-rationality keeps leaders from mistaking a neat map for the territory.
-- **Doctrine is context-sensitive.** Principles like [Use Appropriate Methods](/doctrines/use-appropriate-methods) and [Think Small Teams](/doctrines/think-small-teams) are invitations to pick the right play for the landscape, not to apply a fixed ritual.
+- **AI multiplies frames.** Product, legal, ethics, and safety teams often interpret the same capability differently. Meta-rational leadership keeps those views in play long enough to make a better call.
+- **Wardley Maps can ossify.** Maps are situational, not sacred. Meta-rational practice helps leaders avoid treating a clean map as final truth.
+- **Doctrine is context-sensitive.** Principles like [Use Appropriate Methods](/doctrines/use-appropriate-methods) and [Think Small Teams](/doctrines/think-small-teams) ask teams to pick methods for the current landscape, not repeat a ritual from last quarter.
 
 ## A meta-rational stack for mappers
 
@@ -55,7 +55,7 @@ Chapman’s meta-rationality stresses knowing when a model no longer fits. If a 
 
 - **Teach model pluralism.** Run short sessions where teams map the same landscape through different frames. Highlight how each reveals different failure modes.
 - **Attach models to risks.** When declaring a risk, specify the model that surfaces it (e.g., VSM highlights missing recursion; Cynefin spots premature standardisation). This keeps risk debates concrete.
-- **Use AI to broker frames.** Fine-tuned agents can summarise how each model interprets new signals—drift, regulation, user behaviour—and propose frame shifts before humans polarise.
+- **Use AI to broker frames.** Fine-tuned agents can summarise how each model interprets new signals, such as drift, regulation, and user behaviour, then suggest a frame shift before teams harden into camps.
 - **Measure meta-skill, not model count.** Track how often teams switch frames when evidence demands it, not how many frameworks they can name.
 
 ## What goes wrong when you worship the map
