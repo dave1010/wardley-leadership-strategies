@@ -12,7 +12,7 @@ const config: Config = {
   favicon: 'img/knight-cropped.jpg',
 
   future: {
-    experimental_faster: {
+    faster: {
       rspackBundler: process.env.DISABLE_FASTER_BUILD !== 'true',
       rspackPersistentCache: process.env.DISABLE_FASTER_BUILD !== 'true',
       ssgWorkerThreads: process.env.DISABLE_FASTER_BUILD !== 'true',
